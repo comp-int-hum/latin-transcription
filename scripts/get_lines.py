@@ -7,11 +7,11 @@ import matplotlib.pyplot as plt
 import scipy.interpolate
 import re
 import pdb
+import argparse
 
-DIRNAME = "data/"
+
 
 def get_line_spacing(baselines):
-    #print(baselines)
     center_x = np.median([(l.T[0][0] + l.T[0][-1])/2 for l in baselines])
     
     center_ys = []
@@ -35,13 +35,13 @@ def subtract_bkd(image):
     new_image = np.copy(image) / smoothed_bkd * np.median(smoothed_bkd)
     return new_image
 
-def extract_line_image(image_filename, output_filename, baseline, spacing, scaled_height=128, pad=10):
+def extract_line_image(image_filename, output_filename, baseline, spacing, dir, scaled_height=128, pad=10):
     baseline = np.unique(baseline, axis=0) #remove repeat points
     lower_spacing = int(round(0.23 * spacing))
     upper_spacing = int(round(0.77 * spacing))
     height = lower_spacing + upper_spacing
     
-    image = cv2.imread(DIRNAME + image_filename, 0)
+    image = cv2.imread(dir + image_filename, 0)
     xs, ys = baseline.T
     
     #Vertical pad everything to make the math easier
@@ -67,7 +67,7 @@ def extract_line_image(image_filename, output_filename, baseline, spacing, scale
     result = cv2.resize(rectified, (scaled_width, scaled_height), cv2.INTER_CUBIC)
     result = (np.median(result) - result) / (np.percentile(result, 90) - np.percentile(result, 10))
     
-    cv2.imwrite(DIRNAME + output_filename, 255 * (result - result.min()) / (result.max() - result.min()))
+    cv2.imwrite(dir + output_filename, 255 * (result - result.min()) / (result.max() - result.min()))
         
     if np.random.randint(100) == 0:
         plt.figure()
@@ -75,29 +75,42 @@ def extract_line_image(image_filename, output_filename, baseline, spacing, scale
         
     np.save(output_filename.replace(".png", ".npy"), result)
 
-for filename in glob.glob(DIRNAME + "*.xml"):
-    print("no filename")
-    baselines = []
-    tree = ET.parse(filename)
-    root = tree.getroot()
-    ns = {"ns": get_namespace(tree.getroot())}
-    ET.register_namespace('', ns['ns'])
 
-    image_filename = root.find('ns:Page', ns).get('imageFilename')
-    print(image_filename)
-    #First iteration: calculate average line spacing
-    for text_region in root.findall('.//ns:TextRegion', ns):
-        for lineno, text_line in enumerate(text_region.findall('.//ns:TextLine', ns)):
-            baseline = text_line.find('ns:Baseline', ns).get('points')
-            baselines.append(np.array([p.split(",") for p in baseline.split(" ")], dtype=int))
-        
-    med_spacing = get_line_spacing(baselines)
-    print(med_spacing)
-    #Second iteration: update bounding boxes
-    for text_region in root.findall('.//ns:TextRegion', ns):
-        for lineno, text_line in enumerate(text_region.findall('.//ns:TextLine', ns)):
-            baseline = text_line.find('ns:Baseline', ns).get('points')          
-            line_im_filename = "line_{}_{}".format(lineno, image_filename)
-            line_im_filename, _ = os.path.splitext(line_im_filename)
-            line_im_filename += ".png"
-            extract_line_image(image_filename, line_im_filename, baselines[lineno], med_spacing)
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description='Extract lines from PAGE XML')
+    parser.add_argument('--input_dir', type=str, help='Directory containing PAGE XML files')
+    parser.add_argument('--output_dir', type=str, help='Output directory')
+    args = parser.parse_args()
+
+    DIRNAME = args.input_dir + "/"
+    #check that output_dir exists
+    if not os.path.exists(args.output_dir):
+        os.makedirs(args.output_dir)
+
+
+    for filename in glob.glob(DIRNAME + "*.xml"):
+        baselines = []
+        tree = ET.parse(filename)
+        root = tree.getroot()
+        ns = {"ns": get_namespace(tree.getroot())}
+        ET.register_namespace('', ns['ns'])
+
+        image_filename = root.find('ns:Page', ns).get('imageFilename')
+        print(image_filename)
+        #First iteration: calculate average line spacing
+        for text_region in root.findall('.//ns:TextRegion', ns):
+            for lineno, text_line in enumerate(text_region.findall('.//ns:TextLine', ns)):
+                baseline = text_line.find('ns:Baseline', ns).get('points')
+                baselines.append(np.array([p.split(",") for p in baseline.split(" ")], dtype=int))
+            
+        med_spacing = get_line_spacing(baselines)
+        print(med_spacing)
+        #Second iteration: update bounding boxes
+        for text_region in root.findall('.//ns:TextRegion', ns):
+            for lineno, text_line in enumerate(text_region.findall('.//ns:TextLine', ns)):
+                baseline = text_line.find('ns:Baseline', ns).get('points')   
+
+                line_im_filename = "{}/line_{}_{}".format(args.output_dir, lineno, image_filename)
+                line_im_filename, _ = os.path.splitext(line_im_filename)
+                line_im_filename += ".png"
+                extract_line_image(image_filename, line_im_filename, baselines[lineno], med_spacing, DIRNAME)

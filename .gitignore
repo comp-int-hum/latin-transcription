@@ -1,6 +1,11 @@
 *~
+.venv
 local
 work
 *pyc
 #*
 *#
+source
+.sconsign.dblite
+lightning_logs
+__pycache__/

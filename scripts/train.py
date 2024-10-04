@@ -21,8 +21,19 @@ import os.path
 import hashlib
 from kraken.lib.vgsl import TorchVGSLModel
 from torchvision.models import resnet18
+import argparse
+import logging
 
 if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--input_dir", type=str, default="source")
+    parser.add_argument("--lines_dir", type=str, default="output")
+    parser.add_argument("--checkpoint_dir", type=str, default="checkpoints")
+    parser.add_argument("--max_epochs", type=int, default=1)
+    parser.add_argument("--output", type=str, default="model.pkl")
+    args = parser.parse_args()
+
+    logging.basicConfig(level=logging.INFO)
     
     all_chars = " -.ABCDEFGHIJKLMNOPQRSTUVWXYabcdefghijklmnopqrstuvwxyz¶"
     
@@ -57,8 +68,7 @@ if __name__ == '__main__':
 
         
             #print(glob.glob("./data/*.xml"))
-            for filename in sorted(glob.glob(dirname + "/*.xml")):
-            
+            for filename in sorted(glob.glob(f"{dirname}/" + "*.xml")):
                 tree = ET.parse(filename)
                 ns = {"ns": self.get_namespace(tree.getroot())}
                 ET.register_namespace('', ns['ns'])
@@ -69,7 +79,7 @@ if __name__ == '__main__':
                 #First iteration: calculate average line spacing
                 for text_region in root.findall('.//ns:TextRegion', ns):
                     for lineno, text_line in enumerate(text_region.findall('.//ns:TextLine', ns)):                    
-                        line_im_filename = "line_{}_{}".format(lineno, image_filename)
+                        line_im_filename = "{}/line_{}_{}".format(args.lines_dir,lineno, image_filename)
                         line_im_filename, _ = os.path.splitext(line_im_filename)
                         line_im_filename += ".png"
                         
@@ -121,7 +131,7 @@ if __name__ == '__main__':
 
     #train_dataset = LineImageDataset("data/", char_to_num, num_to_char, data_type="train", transform=train_transform)
     #val_dataset = LineImageDataset("data/", char_to_num, num_to_char, data_type="val", transform=val_transform)
-    dataset = LineImageDataset("data/", char_to_num, num_to_char, data_type="all", transform=val_transform)
+    dataset = LineImageDataset(args.input_dir, char_to_num, num_to_char, data_type="all", transform=val_transform)
     #train_dataset, val_dataset = torch.utils.data.random_split(dataset, [train_size, val_size])
 
     train_size = int(0.9 * len(dataset))
@@ -129,8 +139,8 @@ if __name__ == '__main__':
 
     train_indices, val_indices = torch.utils.data.random_split(range(len(dataset)), [train_size, val_size])
 
-    train_dataset = LineImageDataset("data", char_to_num, num_to_char, data_type="all", transform=train_transform)
-    val_dataset = LineImageDataset("data", char_to_num, num_to_char, data_type="all", transform=val_transform)
+    train_dataset = LineImageDataset(args.input_dir, char_to_num, num_to_char, data_type="all", transform=train_transform)
+    val_dataset = LineImageDataset(args.input_dir, char_to_num, num_to_char, data_type="all", transform=val_transform)
 
     train_dataset = torch.utils.data.Subset(train_dataset, train_indices)
     val_dataset = torch.utils.data.Subset(val_dataset, val_indices)
@@ -332,21 +342,19 @@ if __name__ == '__main__':
     #plt.imshow(val_dataset[0]["image"], cmap="gray")
     #plt.imshow(val_dataset[0][0], cmap="gray")
 
-    train_loader = utils.data.DataLoader(train_dataset, num_workers=0)
-    valid_loader = utils.data.DataLoader(val_dataset, num_workers=0)
+    train_loader = utils.data.DataLoader(train_dataset, num_workers=4)
+    valid_loader = utils.data.DataLoader(val_dataset, num_workers=4)
 
 
     checkpoint_callback = ModelCheckpoint(
-        monitor="val_word_acc", mode="max", dirpath="./", filename="ocr"
+        monitor="val_word_acc", mode="max", dirpath=args.checkpoint_dir, filename="ocr"
     )
 
-    trainer = L.Trainer(accumulate_grad_batches=1, max_epochs=1, enable_progress_bar=True, callbacks=[checkpoint_callback])
+    trainer = L.Trainer(accumulate_grad_batches=1, max_epochs=args.max_epochs, enable_progress_bar=True, callbacks=[checkpoint_callback], devices=[1])
 
     trainer.fit(transcriber, train_loader, valid_loader)
     
-    #saved_model = GarmentClassifier()
-    #saved_model.load_state_dict(torch.load("./"))
-    
-
-
     trainer.validate(ckpt_path="best", dataloaders=valid_loader)
+
+    # save the model
+    torch.save(net.state_dict(), args.output)

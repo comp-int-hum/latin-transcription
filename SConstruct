@@ -10,7 +10,7 @@ vars.AddVariables(
     ("SOURCE_DIR", "", "source"),
     ("PROCESSED_DIR", "", "work/processed_data"),
     ("CHECKPOINT_DIR", "", "work/checkpoints"),
-    ("MAX_EPOCHS", "", "15")
+    ("MAX_EPOCHS", "", "100")
 )
 
 env = Environment(

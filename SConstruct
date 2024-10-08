@@ -10,10 +10,10 @@ vars.AddVariables(
     ("SOURCE_DIR", "", "source"),
     ("PROCESSED_DIR", "", "work/processed_data"),
     ("CHECKPOINT_DIR", "", "work/checkpoints"),
-    ("ERROR_ANALYSIS_DIR", "", "work/error_analysis"),
-    ("MAX_EPOCHS", "", "100")
-    ("RANDOM_SEED", "", "40")
-    ("TRAIN_PROPORTION", "", "0.9")
+    ("MODEL_RESULTS_DIR", "", "work/results"),
+    ("MAX_EPOCHS", "", "100"),
+    ("RANDOM_SEED", "", "40"),
+    ("TRAIN_PROPORTION", "", "0.9"),
     ("GPU_DEVICES", "", [0]) # GPU device number
 )
 
@@ -38,8 +38,8 @@ env = Environment(
             "--train_proportion ${TRAIN_PROPORTION} "
             "--devices ${DEVICES}"
         ),
-        "ExtractErrors" : Builder(
-            action="python scripts/extract_errors.py "
+        "ApplyModel" : Builder(
+            action="python scripts/apply_model.py "
             "--input_dir ${SOURCES[0]} "
             "--lines_dir ${SOURCES[1]} "
             "--model ${SOURCES[2]} "
@@ -62,8 +62,8 @@ model = env.TrainModel(
     [Dir(env['SOURCE_DIR']), lines_data],
 )
 
-evaluation = env.EvaluateModel(
-    [Dir(env['ERROR_ANALYSIS_DIR'])],
+evaluation = env.ApplyModel(
+    [Dir(env['MODEL_RESULTS_DIR'])],
     [Dir(env['SOURCE_DIR']), lines_data, model],
 )
 

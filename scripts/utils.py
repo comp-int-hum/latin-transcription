@@ -1,29 +1,17 @@
 import difflib
-import pickle
-import matplotlib.pyplot as plt
 from termcolor import colored
-from torch import optim, nn, utils, Tensor
-from torchvision.transforms import ToTensor
 import pytorch_lightning as L
-from pytorch_lightning.callbacks import ModelCheckpoint
-from pytorch_lightning import loggers as pl_loggers
 import torch
-import pdb
-import copy
 import re
 import numpy as np
 from torchmetrics.text import CharErrorRate, WordErrorRate
-import torchvision.transforms as transforms
-from torchvision.io import read_image, ImageReadMode
 from torch.utils.data import Dataset
 import xml.etree.ElementTree as ET
 import glob
 import os.path
 import hashlib
-from kraken.lib.vgsl import TorchVGSLModel
-from torchvision.models import resnet18
-import argparse
-import logging
+from torch import optim, nn
+from tqdm import tqdm
 
 all_chars = " -.ABCDEFGHIJKLMNOPQRSTUVWXYabcdefghijklmnopqrstuvwxyz¶"
 char_to_num = {char: idx + 1 for idx, char in enumerate(all_chars)}
@@ -40,9 +28,8 @@ class LineImageDataset(Dataset):
         m = re.match('\{.*\}', element.tag)
         return m.group(0)[1:-1] if m else ''    
 
-    def __init__(self, dirname, lines_dir, char_to_num, num_to_char, data_type, transform=None):
-        self.transform = transform      
-        self.lines_fir = lines_dir 
+    def __init__(self, dirname, lines_dir, char_to_num, num_to_char, data_type, transform=None, return_filenames=False):
+        self.transform = transform       
         self.char_to_num = char_to_num
         self.num_to_char = num_to_char
         self.data_type = data_type
@@ -51,27 +38,29 @@ class LineImageDataset(Dataset):
         self.labels = []
         self.num_labels = []
 
+        self.return_filenames = return_filenames
     
-        for filename in sorted(glob.glob(f"{dirname}/" + "*.xml")):
+        #Iterate over all lines of all XML files
+        for filename in tqdm(sorted(glob.glob(f"{dirname}/" + "*.xml"))):
             tree = ET.parse(filename)
             ns = {"ns": self.get_namespace(tree.getroot())}
             ET.register_namespace('', ns['ns'])
             root = tree.getroot()
 
             image_filename = root.find('ns:Page', ns).get('imageFilename')
-            print(image_filename)
-
+ 
+            #First iteration: calculate average line spacing
             for text_region in root.findall('.//ns:TextRegion', ns):
                 for lineno, text_line in enumerate(text_region.findall('.//ns:TextLine', ns)):                    
-                    line_im_filename = "{}/line_{}_{}".format(self.lines_dir,lineno, image_filename)
+                    line_im_filename = "{}/line_{}_{}".format(lines_dir,lineno, image_filename)
                     line_im_filename, _ = os.path.splitext(line_im_filename)
-                    line_im_filename += ".png"
+                    line_im_filename += ".npy"
                     
                     if data_type != "all" and self.classify(line_im_filename) != data_type:
                         continue
                         
-                    self.line_image_filenames.append(line_im_filename)
-                    self.line_images.append(torch.tensor(np.load(line_im_filename.replace(".png", ".npy")), dtype=torch.float32).unsqueeze(0))
+                    self.line_image_filenames.append(line_im_filename)  
+                    self.line_images.append(torch.tensor(np.load(line_im_filename), dtype=torch.float32).unsqueeze(0))
                     text = text_line.find('.//ns:TextEquiv', ns).find('.//ns:Unicode', ns).text
                     text = text.strip()
                     text = text.replace(",", ".")
@@ -90,10 +79,10 @@ class LineImageDataset(Dataset):
 
     def __getitem__(self, idx):                
         image = self.line_images[idx]
-    
         if self.transform is not None:
             image = self.transform(image)
-    
+        if self.return_filenames:
+            return {"image": image, "target": self.num_labels[idx], "text": self.labels[idx], "filename": self.line_image_filenames[idx]}
         return {"image": image, "target": self.num_labels[idx], "text": self.labels[idx]}
 
 

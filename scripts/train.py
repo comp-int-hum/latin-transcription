@@ -1,29 +1,11 @@
-import pickle
-import matplotlib.pyplot as plt
-from torch import optim, nn, utils, Tensor
-from torchvision.transforms import ToTensor
 import pytorch_lightning as L
 from pytorch_lightning.callbacks import ModelCheckpoint
-from pytorch_lightning import loggers as pl_loggers
 import torch
-torch.manual_seed(40)
-import pdb
-import copy
-import re
 import numpy as np
-from torchmetrics.text import CharErrorRate, WordErrorRate
 import torchvision.transforms as transforms
-from torchvision.io import read_image, ImageReadMode
-from torch.utils.data import Dataset
-import xml.etree.ElementTree as ET
-import glob
-import os.path
-import hashlib
-from kraken.lib.vgsl import TorchVGSLModel
-from torchvision.models import resnet18
 import argparse
 import logging
-from utils import LineImageDataset, MyNN, LatinTranscriber
+import utils
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -32,10 +14,31 @@ if __name__ == '__main__':
     parser.add_argument("--checkpoint_dir", type=str, default="checkpoints")
     parser.add_argument("--max_epochs", type=int, default=1)
     parser.add_argument("--output", type=str, default="model.pkl")
+    parser.add_argument("--random_seed", type=int, default=42)
+    parser.add_argument("--train_proportion", type=float, default=0.9)
+    parser.add_argument("--gpu_devices", nargs="+", default=[0])
     args = parser.parse_args()
 
-    logging.basicConfig(level=logging.INFO)
-    
+    logger_name = args.output_dir + ".log"
+    pl_logger = logging.getLogger('pytorch_lightning')
+    pl_logger.setLevel(logging.INFO)
+    pl_logger.addHandler(logging.FileHandler(logger_name))
+
+
+    np.random.seed(args.random_seed)
+    torch.manual_seed(args.random_seed)
+
+    if not torch.cuda.is_available():
+        raise ValueError("CUDA not available. Exiting.")
+    else:
+        for device_idx in args.gpu_devices:
+            device = torch.device(f"cuda:{device_idx}")
+            free_mem, total_mem = torch.cuda.mem_get_info(device)
+            used_MB = (total_mem - free_mem)/1024**2
+            if used_MB > 500:
+                raise ValueError(f"Device {device_idx} is not empty. Exiting.")
+
+
     all_chars = " -.ABCDEFGHIJKLMNOPQRSTUVWXYabcdefghijklmnopqrstuvwxyz¶"
     
     char_to_num = {}
@@ -60,55 +63,38 @@ if __name__ == '__main__':
             transforms.Normalize(0.15, 0.38)
         ])
 
-    #train_dataset = LineImageDataset("data/", char_to_num, num_to_char, data_type="train", transform=train_transform)
-    #val_dataset = LineImageDataset("data/", char_to_num, num_to_char, data_type="val", transform=val_transform)
-    dataset = LineImageDataset(args.input_dir, args.lines_dir, char_to_num, num_to_char, data_type="all", transform=val_transform)
-    #train_dataset, val_dataset = torch.utils.data.random_split(dataset, [train_size, val_size])
+    dataset = utils.LineImageDataset(args.input_dir, args.lines_dir, char_to_num, num_to_char, data_type="all", transform=val_transform)
+ 
+    dataset = utils.LineImageDataset(
+        dirname=args.input_dir,
+        lines_dir=args.lines_dir,
+        char_to_num=char_to_num,
+        num_to_char=num_to_char,
+        data_type="all",
+        transform=val_transform
+    )
 
-    train_size = int(0.9 * len(dataset))
+    train_size = int(args.train_proportion * len(dataset))
     val_size = len(dataset) - train_size
 
-    train_indices, val_indices = torch.utils.data.random_split(range(len(dataset)), [train_size, val_size])
+    train_dataset, val_dataset = torch.utils.data.random_split(dataset, [train_size, val_size])
 
-    train_dataset = LineImageDataset(args.input_dir, args.lines_dir, char_to_num, num_to_char, data_type="all", transform=train_transform)
-    val_dataset = LineImageDataset(args.input_dir, args.lines_dir, char_to_num, num_to_char, data_type="all", transform=val_transform)
+    net = utils.MyNN()
 
-    train_dataset = torch.utils.data.Subset(train_dataset, train_indices)
-    val_dataset = torch.utils.data.Subset(val_dataset, val_indices)
-    print(len(train_dataset))
-    #plt.imshow(torch.tensor(np.load("line_0_JUST1-734m5d.npy")))
-    #idx = 10
-    #print(val_dataset[idx]["image"][0].mean(), val_dataset[idx]["image"][0].std())
-    #plt.figure(figsize=(16,6))
-    #plt.imshow(train_dataset[idx]["image"][0], cmap="gray")
+    transcriber = utils.LatinTranscriber(net, num_to_char)
 
-
-    all_chars = " -.ABCDEFGHIJKLMNOPQRSTUVWXYabcdefghijklmnopqrstuvwxyz¶"
-
-    net = MyNN()
-
-    transcriber = LatinTranscriber(net, num_to_char)
-
-
-    #plt.figure(figsize=(16,6))
-    #idx = 10
-    #print(torch.min(val_dataset[1]["image"]), torch.max(val_dataset[1]["image"]))
-    #plt.imshow(val_dataset[0]["image"], cmap="gray")
-    #plt.imshow(val_dataset[0][0], cmap="gray")
-
-    train_loader = utils.data.DataLoader(train_dataset, num_workers=4)
-    valid_loader = utils.data.DataLoader(val_dataset, num_workers=4)
+    train_loader = torch.utils.data.DataLoader(train_dataset, num_workers=4)
+    valid_loader = torch.utils.data.DataLoader(val_dataset, num_workers=4)
 
 
     checkpoint_callback = ModelCheckpoint(
         monitor="val_word_acc", mode="max", dirpath=args.checkpoint_dir, filename="ocr"
     )
 
-    trainer = L.Trainer(accumulate_grad_batches=1, max_epochs=args.max_epochs, enable_progress_bar=True, callbacks=[checkpoint_callback], devices=[1])
+    trainer = L.Trainer(accumulate_grad_batches=1, max_epochs=args.max_epochs, enable_progress_bar=True, callbacks=[checkpoint_callback], devices=args.gpu_devices)
 
     trainer.fit(transcriber, train_loader, valid_loader)
     
     trainer.validate(ckpt_path="best", dataloaders=valid_loader)
 
-    # save the model
     torch.save(net.state_dict(), args.output)

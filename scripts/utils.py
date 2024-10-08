@@ -1,12 +1,13 @@
+import difflib
 import pickle
 import matplotlib.pyplot as plt
+from termcolor import colored
 from torch import optim, nn, utils, Tensor
 from torchvision.transforms import ToTensor
 import pytorch_lightning as L
 from pytorch_lightning.callbacks import ModelCheckpoint
 from pytorch_lightning import loggers as pl_loggers
 import torch
-torch.manual_seed(40)
 import pdb
 import copy
 import re
@@ -49,11 +50,8 @@ class LineImageDataset(Dataset):
         self.line_image_filenames = []
         self.labels = []
         self.num_labels = []
-    
-        #Iterate over all lines of all XML files
 
     
-        #print(glob.glob("./data/*.xml"))
         for filename in sorted(glob.glob(f"{dirname}/" + "*.xml")):
             tree = ET.parse(filename)
             ns = {"ns": self.get_namespace(tree.getroot())}
@@ -62,7 +60,7 @@ class LineImageDataset(Dataset):
 
             image_filename = root.find('ns:Page', ns).get('imageFilename')
             print(image_filename)
-            #First iteration: calculate average line spacing
+
             for text_region in root.findall('.//ns:TextRegion', ns):
                 for lineno, text_line in enumerate(text_region.findall('.//ns:TextLine', ns)):                    
                     line_im_filename = "{}/line_{}_{}".format(self.lines_dir,lineno, image_filename)
@@ -73,7 +71,6 @@ class LineImageDataset(Dataset):
                         continue
                         
                     self.line_image_filenames.append(line_im_filename)
-                    #self.line_images.append(read_image(line_im_filename, ImageReadMode.GRAY))   
                     self.line_images.append(torch.tensor(np.load(line_im_filename.replace(".png", ".npy")), dtype=torch.float32).unsqueeze(0))
                     text = text_line.find('.//ns:TextEquiv', ns).find('.//ns:Unicode', ns).text
                     text = text.strip()
@@ -98,8 +95,6 @@ class LineImageDataset(Dataset):
             image = self.transform(image)
     
         return {"image": image, "target": self.num_labels[idx], "text": self.labels[idx]}
-
-
 
 
 class MyNN(nn.Module):
@@ -153,7 +148,7 @@ class MyNN(nn.Module):
 
 
 class LatinTranscriber(L.LightningModule):
-        def __init__(self, net, codec_l2c):
+        def __init__(self, net, codec_l2c, ):
             super().__init__()
             self.codec_l2c = codec_l2c
             self.cer_calc = CharErrorRate()
@@ -247,3 +242,42 @@ class LatinTranscriber(L.LightningModule):
             }
 
 
+
+
+def highlight_differences(pred, truth, level='char'):
+    if level == 'char':
+        seqm = difflib.SequenceMatcher(None, truth, pred)
+        output = []
+        for opcode, a0, a1, b0, b1 in seqm.get_opcodes():
+            if opcode == 'equal':
+                output.append(truth[a0:a1])
+            elif opcode == 'insert':
+                inserted_text = pred[b0:b1]
+                output.append(colored(inserted_text, 'green', attrs=['bold', 'underline']))
+            elif opcode == 'delete':
+                deleted_text = truth[a0:a1]
+                output.append(colored(deleted_text, 'red', attrs=['bold', 'underline']))
+            elif opcode == 'replace':
+                replaced_text = pred[b0:b1]
+                output.append(colored(replaced_text, 'yellow', attrs=['bold', 'underline']))
+        return ''.join(output)
+    elif level == 'word':
+        truth_words = truth.split()
+        pred_words = pred.split()
+        seqm = difflib.SequenceMatcher(None, truth_words, pred_words)
+        output = []
+        for opcode, a0, a1, b0, b1 in seqm.get_opcodes():
+            if opcode == 'equal':
+                output.extend(truth_words[a0:a1])
+            elif opcode == 'insert':
+                inserted_words = ' '.join(pred_words[b0:b1])
+                output.append(colored(inserted_words, 'green', attrs=['bold', 'underline']))
+            elif opcode == 'delete':
+                deleted_words = ' '.join(truth_words[a0:a1])
+                output.append(colored(deleted_words, 'red', attrs=['bold', 'underline']))
+            elif opcode == 'replace':
+                replaced_words = ' '.join(pred_words[b0:b1])
+                output.append(colored(replaced_words, 'yellow', attrs=['bold', 'underline']))
+        return ' '.join(output)
+    else:
+        raise ValueError("Invalid level: choose 'char' or 'word'")

@@ -28,6 +28,10 @@ if __name__ == "__main__":
     logging.basicConfig(filename=logger_name, level=logging.INFO)
     logger = logging.getLogger(__name__)
 
+    os.makedirs(args.output_dir, exist_ok=True)
+    os.makedirs(os.path.join(args.output_dir, "val"), exist_ok=True)
+    os.makedirs(os.path.join(args.output_dir, "train"), exist_ok=True)
+
     np.random.seed(args.random_seed)
     torch.manual_seed(args.random_seed)
 
@@ -88,6 +92,7 @@ if __name__ == "__main__":
     for split_name, split_loader in splits.items():
         with torch.no_grad():
             for batch_idx, batch in enumerate(tqdm(split_loader)):
+
                 images = batch['image'].to(device)
                 targets = batch['target']
                 texts = batch['text']
@@ -106,11 +111,13 @@ if __name__ == "__main__":
                     prev_char = idx
 
                 truth = texts[0]
+                filename = filename[0]
 
-                json_filename = filename.split('.')[0] + '.json'
+                json_filename = filename.split('/')[-1]
+                json_filename = json_filename.split('.')[0] + ".json"
                 # join output dir with a dir that has the split name
                 json_filename = os.path.join(args.output_dir, split_name, json_filename)
-                with open(json_filename, 'w') as f:
+                with open(json_filename, 'w+') as f:
                     json.dump({
                         "filename": filename,
                         "truth": truth,

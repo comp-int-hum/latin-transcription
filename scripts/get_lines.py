@@ -109,8 +109,8 @@ if __name__ == "__main__":
         for text_region in root.findall('.//ns:TextRegion', ns):
             for lineno, text_line in enumerate(text_region.findall('.//ns:TextLine', ns)):
                 baseline = text_line.find('ns:Baseline', ns).get('points')   
-
-                line_im_filename = "{}/line_{}_{}".format(args.output_dir, lineno, image_filename)
+                image_filename_new = image_filename.split('.')[0]
+                line_im_filename = "{}/{}_line_{}".format(args.output_dir, image_filename_new, lineno)
                 line_im_filename, _ = os.path.splitext(line_im_filename)
                 line_im_filename += ".png"
                 extract_line_image(image_filename, line_im_filename, baselines[lineno], med_spacing, DIRNAME)

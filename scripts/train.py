@@ -4,7 +4,6 @@ import torch
 import numpy as np
 import torchvision.transforms as transforms
 import argparse
-import logging
 import utils
 
 if __name__ == '__main__':
@@ -16,13 +15,8 @@ if __name__ == '__main__':
     parser.add_argument("--output", type=str, default="model.pkl")
     parser.add_argument("--random_seed", type=int, default=42)
     parser.add_argument("--train_proportion", type=float, default=0.9)
-    parser.add_argument("--gpu_devices", nargs="+", default=[0])
+    parser.add_argument("--gpu_devices", type=int, nargs="+", default=[0])
     args = parser.parse_args()
-
-    logger_name = args.output_dir + ".log"
-    pl_logger = logging.getLogger('pytorch_lightning')
-    pl_logger.setLevel(logging.INFO)
-    pl_logger.addHandler(logging.FileHandler(logger_name))
 
 
     np.random.seed(args.random_seed)
@@ -35,8 +29,8 @@ if __name__ == '__main__':
             device = torch.device(f"cuda:{device_idx}")
             free_mem, total_mem = torch.cuda.mem_get_info(device)
             used_MB = (total_mem - free_mem)/1024**2
-            if used_MB > 500:
-                raise ValueError(f"Device {device_idx} is not empty. Exiting.")
+            if used_MB > 3000:
+                raise ValueError(f"Device {device_idx} is not empty, it is {used_MB} MB. Exiting.")
 
 
     all_chars = " -.ABCDEFGHIJKLMNOPQRSTUVWXYabcdefghijklmnopqrstuvwxyz¶"

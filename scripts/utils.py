@@ -51,8 +51,9 @@ class LineImageDataset(Dataset):
  
             #First iteration: calculate average line spacing
             for text_region in root.findall('.//ns:TextRegion', ns):
-                for lineno, text_line in enumerate(text_region.findall('.//ns:TextLine', ns)):                    
-                    line_im_filename = "{}/line_{}_{}".format(lines_dir,lineno, image_filename)
+                for lineno, text_line in enumerate(text_region.findall('.//ns:TextLine', ns)):      
+                    new_image_filename = image_filename.split('.')[0]              
+                    line_im_filename = "{}/{}_line_{}".format(lines_dir, new_image_filename, lineno)
                     line_im_filename, _ = os.path.splitext(line_im_filename)
                     line_im_filename += ".npy"
                     

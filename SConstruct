@@ -9,10 +9,10 @@ vars.AddVariables(
     ("PROCESSED_DIR", "", "work/processed_data"),
     ("CHECKPOINT_DIR", "", "work/checkpoints"),
     ("MODEL_RESULTS_DIR", "", "work/results"),
-    ("MAX_EPOCHS", "", 10),
+    ("MAX_EPOCHS", "", 100),
     ("RANDOM_SEED", "", 40),
     ("TRAIN_PROPORTION", "", 0.9),
-    ("GPU_DEVICES", "", [0, 1]) # GPU device number
+    ("GPU_DEVICES", "", [1]) # GPU device number
 )
 
 env = Environment(

@@ -3,10 +3,9 @@ import numpy as np
 import glob
 import cv2
 import os.path
-import matplotlib.pyplot as plt
 import scipy.interpolate
 import re
-import pdb
+from tqdm import tqdm
 import argparse
 
 
@@ -23,7 +22,6 @@ def get_line_spacing(baselines):
     return int(round(med_spacing))
 
 def get_namespace(element):
-    #rint(element.tag)
     m = re.match('\{.*\}', element.tag)
     return m.group(0)[1:-1] if m else ''    
 
@@ -68,11 +66,7 @@ def extract_line_image(image_filename, output_filename, baseline, spacing, dir, 
     result = (np.median(result) - result) / (np.percentile(result, 90) - np.percentile(result, 10))
     
     cv2.imwrite(dir + output_filename, 255 * (result - result.min()) / (result.max() - result.min()))
-        
-    if np.random.randint(100) == 0:
-        plt.figure()
-        plt.imshow(result)
-        
+    
     np.save(output_filename.replace(".png", ".npy"), result)
 
 
@@ -88,7 +82,7 @@ if __name__ == "__main__":
         os.makedirs(args.output_dir)
 
 
-    for filename in glob.glob(DIRNAME + "*.xml"):
+    for filename in tqdm(glob.glob(DIRNAME + "*.xml")):
         baselines = []
         tree = ET.parse(filename)
         root = tree.getroot()
@@ -96,7 +90,6 @@ if __name__ == "__main__":
         ET.register_namespace('', ns['ns'])
 
         image_filename = root.find('ns:Page', ns).get('imageFilename')
-        print(image_filename)
         #First iteration: calculate average line spacing
         for text_region in root.findall('.//ns:TextRegion', ns):
             for lineno, text_line in enumerate(text_region.findall('.//ns:TextLine', ns)):
@@ -104,7 +97,6 @@ if __name__ == "__main__":
                 baselines.append(np.array([p.split(",") for p in baseline.split(" ")], dtype=int))
             
         med_spacing = get_line_spacing(baselines)
-        print(med_spacing)
         #Second iteration: update bounding boxes
         for text_region in root.findall('.//ns:TextRegion', ns):
             for lineno, text_line in enumerate(text_region.findall('.//ns:TextLine', ns)):

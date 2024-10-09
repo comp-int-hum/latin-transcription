@@ -12,7 +12,8 @@ vars.AddVariables(
     ("MAX_EPOCHS", "", 100),
     ("RANDOM_SEED", "", 40),
     ("TRAIN_PROPORTION", "", 0.9),
-    ("GPU_DEVICES", "", [1]) # GPU device number
+    ("GPU_DEVICES", "", [1]), # GPU device number
+    ("MODEL_ERRORS_DIR", "", "work/errors")
 )
 
 env = Environment(
@@ -53,6 +54,12 @@ env = Environment(
             "--output ${TARGET} "
         ),
 
+        "ExtractErrors" : Builder(
+            action="python scripts/extract_errors.py "
+            "--input_dir ${SOURCE} "
+            "--output_dir ${TARGET} "
+        ),
+
     }
 )
 
@@ -81,6 +88,16 @@ val_report = env.GenerateReport(
 
 train_report = env.GenerateReport(
     "${MODEL_RESULTS_DIR}/train_report.json",
+    train_results,
+)
+
+errors_val = env.ExtractErrors(
+    "${MODEL_ERRORS_DIR}/val",
+    val_results,
+)
+
+errors_train = env.ExtractErrors(
+    "${MODEL_ERRORS_DIR}/train",
     train_results,
 )
 

@@ -1,8 +1,6 @@
 import os
 import os.path
 from steamroller import Environment
-from os import path
-from glob import glob
 
 
 vars = Variables("custom.py")
@@ -49,8 +47,8 @@ env = Environment(
             "--gpu_devices ${GPU_DEVICES}"
         ),
 
-        "EvaluateResults" : Builder(
-            action="python scripts/evaluate_results.py "
+        "GenerateReport" : Builder(
+            action="python scripts/generate_report.py "
             "--input_dir ${SOURCE} "
             "--output ${TARGET} "
         ),
@@ -68,7 +66,7 @@ model = env.TrainModel(
     [Dir(env['SOURCE_DIR']), lines_data],
 )
 
-# Note - steamroller does not support creating dir nodes automatically
+# Note - steamroller does not yet support creating dir nodes automatically
 evaluation = env.ApplyModel(
     [Dir(env['MODEL_RESULTS_DIR']+ "/val"), Dir(env['MODEL_RESULTS_DIR']+ "/train")],
     [Dir(env['SOURCE_DIR']), lines_data, model],
@@ -76,13 +74,13 @@ evaluation = env.ApplyModel(
 
 val_results, train_results = evaluation
 
-val_report = env.EvaluateResults(
-    "${MODEL_RESULTS_DIR}/val_results.txt",
+val_report = env.GenerateReport(
+    "${MODEL_RESULTS_DIR}/val_report.json",
     val_results,
 )
 
-train_report = env.EvaluateResults(
-    "${MODEL_RESULTS_DIR}/train_results.txt",
+train_report = env.GenerateReport(
+    "${MODEL_RESULTS_DIR}/train_report.json",
     train_results,
 )
 

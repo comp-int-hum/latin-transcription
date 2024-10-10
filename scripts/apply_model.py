@@ -24,10 +24,6 @@ if __name__ == "__main__":
     parser.add_argument("--gpu_devices", nargs="+", default=[0])
     args = parser.parse_args()
 
-    logger_name = args.output_dir + ".log"
-    logging.basicConfig(filename=logger_name, level=logging.INFO)
-    logger = logging.getLogger(__name__)
-
     os.makedirs(args.output_dir, exist_ok=True)
     os.makedirs(os.path.join(args.output_dir, "val"), exist_ok=True)
     os.makedirs(os.path.join(args.output_dir, "train"), exist_ok=True)

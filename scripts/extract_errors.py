@@ -25,6 +25,7 @@ if __name__ == "__main__":
     for result in tqdm(results):
         if result['prediction'] != result['truth']:
             filename = os.path.basename(result['filename'])
+            filename = filename.replace('.npy', '.json')
             with open(os.path.join(args.output_dir, filename), 'w') as f:
                 json.dump(result, f)
 

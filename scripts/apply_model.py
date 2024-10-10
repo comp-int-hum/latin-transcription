@@ -1,17 +1,16 @@
 import argparse
-from termcolor import colored
 import torch
 from torch.utils.data import DataLoader
 from torchvision.transforms import transforms
 import numpy as np
-import matplotlib.pyplot as plt
-from torchmetrics import CharErrorRate, WordErrorRate
-import logging
-from utils import LineImageDataset, MyNN, highlight_differences
+from utils import LineImageDataset, MyNN
 from tqdm import tqdm
 import json
 import os
 
+# Apply model:
+# Allies the model to the validation and training data
+# save the resulting predictions in --output_dir
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -76,7 +75,7 @@ if __name__ == "__main__":
     model.load_state_dict(torch.load(args.model))
     model.eval()
 
-    # only one device needed
+    # only one device is needed
     device = torch.device(f"cuda:{args.gpu_devices[0]}")
     model.to(device)
 
@@ -111,7 +110,6 @@ if __name__ == "__main__":
 
                 json_filename = filename.split('/')[-1]
                 json_filename = json_filename.split('.')[0] + ".json"
-                # join output dir with a dir that has the split name
                 json_filename = os.path.join(args.output_dir, split_name, json_filename)
                 with open(json_filename, 'w+') as f:
                     json.dump({

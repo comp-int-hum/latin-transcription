@@ -2,8 +2,10 @@ import argparse
 from tqdm import tqdm
 import json
 import os
-from torchmetrics.text import CharErrorRate, WordErrorRate
 
+
+# Extract errors:
+# Copies results which have errors in the model prediction to the error directory
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -18,9 +20,6 @@ if __name__ == "__main__":
         with open(os.path.join(args.input_dir, filename), 'r') as f:
             data = json.load(f)
             results.append(data)
-
-    cer = CharErrorRate()
-    wer = WordErrorRate()
 
     for result in tqdm(results):
         if result['prediction'] != result['truth']:

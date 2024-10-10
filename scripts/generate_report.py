@@ -5,6 +5,9 @@ import os
 from torchmetrics.text import CharErrorRate, WordErrorRate
 
 
+# Generate report:
+# Generates a report of the character error rate and word error rate
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--input_dir", type=str, required=True)

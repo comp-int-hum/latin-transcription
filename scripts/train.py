@@ -5,6 +5,8 @@ import numpy as np
 import torchvision.transforms as transforms
 import argparse
 import utils
+import os
+import logging
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -16,7 +18,16 @@ if __name__ == '__main__':
     parser.add_argument("--random_seed", type=int, default=42)
     parser.add_argument("--train_proportion", type=float, default=0.9)
     parser.add_argument("--gpu_devices", type=int, nargs="+", default=[0])
+    parser.add_argument("--data_cutoff", type=int, default=-1)
     args = parser.parse_args()
+
+    logging_file = args.output.split(".")[0] + ".log"
+    logging.basicConfig(filename=logging_file, level=logging.INFO, format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p', filemode='w')
+
+    logging.info(args)
+
+    if not os.path.exists(args.checkpoint_dir):
+        os.makedirs(args.checkpoint_dir)
 
 
     np.random.seed(args.random_seed)
@@ -77,6 +88,13 @@ if __name__ == '__main__':
 
     transcriber = utils.LatinTranscriber(net, num_to_char)
 
+    if args.data_cutoff > 0:
+        logging.info(f"Cutting off data at {args.data_cutoff}")
+        train_dataset = torch.utils.data.Subset(train_dataset, range(args.data_cutoff))
+    logging.info(f"Training on {len(train_dataset)} examples")
+    logging.info(f"Validating on {len(val_dataset)} examples")
+    
+
     train_loader = torch.utils.data.DataLoader(train_dataset, num_workers=4)
     valid_loader = torch.utils.data.DataLoader(val_dataset, num_workers=4)
 
@@ -84,11 +102,11 @@ if __name__ == '__main__':
     checkpoint_callback = ModelCheckpoint(
         monitor="val_word_acc", mode="max", dirpath=args.checkpoint_dir, filename="ocr"
     )
-
+    logging.info("Starting training")
     trainer = L.Trainer(accumulate_grad_batches=1, max_epochs=args.max_epochs, enable_progress_bar=True, callbacks=[checkpoint_callback], devices=args.gpu_devices)
 
     trainer.fit(transcriber, train_loader, valid_loader)
     
     trainer.validate(ckpt_path="best", dataloaders=valid_loader)
-
+    logging.info("Finished training")
     torch.save(net.state_dict(), args.output)

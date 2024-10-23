@@ -14,7 +14,7 @@ vars.AddVariables(
     ("MAX_EPOCHS", "", 100),
     ("RANDOM_SEED", "", 40),
     ("TRAIN_PROPORTION", "", 0.9),
-    ("GPU_DEVICES", "", [0, 1]), # GPU device number
+    ("GPU_DEVICES", "", [1]), # GPU device number
     ("MODEL_ERRORS_DIR", "", "/errors"),
     ("DATA_CUTOFF", "", -1)
 )
@@ -45,7 +45,8 @@ env = Environment(
             "--max_epochs ${MAX_EPOCHS} "
             "--random_seed ${RANDOM_SEED} "
             "--train_proportion ${TRAIN_PROPORTION} "
-            "--gpu_devices ${GPU_DEVICES}"
+            "--gpu_devices ${GPU_DEVICES} "
+            "--data_cutoff ${DATA_CUTOFF}"
         ),
         "ApplyModel" : Builder(
             action="python scripts/apply_model.py "
@@ -56,7 +57,6 @@ env = Environment(
             "--random_seed ${RANDOM_SEED} "
             "--train_proportion ${TRAIN_PROPORTION} "
             "--gpu_devices ${GPU_DEVICES} "
-            "--data_cutoff ${DATA_CUTOFF}"
         ),
 
         "GenerateReport" : Builder(
@@ -94,18 +94,19 @@ for max_data in [500, 1000, 1500, -1]:
     evaluation = env.ApplyModel(
         [Dir(path + '/'+ env['MODEL_RESULTS_DIR']+ "/val"), Dir(path + '/'+env['MODEL_RESULTS_DIR']+ "/train")],
         [Dir(env['SOURCE_DIR']), lines_data, model],
+        MODEL_RESULTS_DIR=Dir(path + '/'+ env['MODEL_RESULTS_DIR']), 
     )
 
     val_results, train_results = evaluation
 
     val_report = env.GenerateReport(
-        "${PATH}/{MODEL_RESULTS_DIR}/val_report.json",
+        "${PATH}/val_report.json",
         val_results,
         PATH = path
     )
 
     train_report = env.GenerateReport(
-        "${PATH}/{MODEL_RESULTS_DIR}/train_report.json",
+        "${PATH}/train_report.json",
         train_results,
         PATH = path
     )

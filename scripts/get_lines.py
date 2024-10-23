@@ -71,18 +71,20 @@ def extract_line_image(image_filename, output_filename, baseline, spacing, dir, 
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Extract lines from PAGE XML')
-    parser.add_argument('--input_dir', type=str, help='Directory containing PAGE XML files')
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--image_dir', type=str, help='Directory containing image files')
+    parser.add_argument('--xml_dir', type=str, help='Directory containing XML files')
     parser.add_argument('--output_dir', type=str, help='Output directory')
     args = parser.parse_args()
 
-    DIRNAME = args.input_dir + "/"
+    XML_DIRNAME = args.xml_dir + "/"
+    IMAGE_DIRNAME = args.image_dir + "/"
     #check that output_dir exists
     if not os.path.exists(args.output_dir):
         os.makedirs(args.output_dir)
 
 
-    for filename in tqdm(glob.glob(DIRNAME + "*.xml")):
+    for filename in tqdm(glob.glob(XML_DIRNAME + "*.xml")):
         baselines = []
         tree = ET.parse(filename)
         root = tree.getroot()
@@ -105,4 +107,4 @@ if __name__ == "__main__":
                 line_im_filename = "{}/{}_line_{}".format(args.output_dir, image_filename_new, lineno)
                 line_im_filename, _ = os.path.splitext(line_im_filename)
                 line_im_filename += ".png"
-                extract_line_image(image_filename, line_im_filename, baselines[lineno], med_spacing, DIRNAME)
+                extract_line_image(image_filename, line_im_filename, baselines[lineno], med_spacing, IMAGE_DIRNAME)

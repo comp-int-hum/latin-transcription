@@ -180,8 +180,8 @@ class LatinTranscriber(L.LightningModule):
             assert self.net.training
             loss, output = self.get_loss(batch, batch_idx)
             prediction, truth = self.get_prediction_and_truth(output, batch["target"])
-            self.train_cer_calc.update(truth, prediction)
-            self.train_wer_calc.update(truth, prediction)
+            self.train_cer_calc.update(prediction, truth)
+            self.train_wer_calc.update(prediction, truth)
             self.log("train_loss", loss)
             return loss
     
@@ -202,8 +202,8 @@ class LatinTranscriber(L.LightningModule):
             assert batch["target"].shape[0] == 1
             loss, output = self.get_loss(batch, batch_idx)
             prediction, truth = self.get_prediction_and_truth(output, batch["target"])
-            self.cer_calc.update(truth, prediction)
-            self.wer_calc.update(truth, prediction)
+            self.cer_calc.update(prediction, truth)
+            self.wer_calc.update(prediction, truth)
             return loss
             
     

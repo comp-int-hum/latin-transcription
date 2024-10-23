@@ -7,6 +7,8 @@ import argparse
 import utils
 import os
 import logging
+import wandb
+from pytorch_lightning.loggers import WandbLogger
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -19,12 +21,18 @@ if __name__ == '__main__':
     parser.add_argument("--train_proportion", type=float, default=0.9)
     parser.add_argument("--gpu_devices", type=int, nargs="+", default=[0])
     parser.add_argument("--data_cutoff", type=int, default=-1)
+    parser.add_argument("--use_wandb", type=bool, default=False)
     args = parser.parse_args()
 
     logging_file = args.output.split(".")[0] + ".log"
     logging.basicConfig(filename=logging_file, level=logging.INFO, format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p', filemode='w')
 
     logging.info(args)
+
+    if args.use_wandb:
+        wandb_logger = WandbLogger(project="latin_transcription", name=f"data_cutoff_{args.data_cutoff}"),
+        #wandb_logger.log_hyperparams(vars(args))
+
 
     if not os.path.exists(args.checkpoint_dir):
         os.makedirs(args.checkpoint_dir)
@@ -103,7 +111,11 @@ if __name__ == '__main__':
         monitor="val_word_acc", mode="max", dirpath=args.checkpoint_dir, filename="ocr"
     )
     logging.info("Starting training")
-    trainer = L.Trainer(accumulate_grad_batches=1, max_epochs=args.max_epochs, enable_progress_bar=True, callbacks=[checkpoint_callback], devices=args.gpu_devices)
+
+    logger = True
+    if args.use_wandb:
+        logger = wandb_logger
+    trainer = L.Trainer(accumulate_grad_batches=1, max_epochs=args.max_epochs, enable_progress_bar=True, callbacks=[checkpoint_callback], devices=args.gpu_devices, logger=logger)
 
     trainer.fit(transcriber, train_loader, valid_loader)
     

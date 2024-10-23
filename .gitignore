@@ -11,3 +11,4 @@ source
 lightning_logs
 __pycache__/
 transkribus
+wandb

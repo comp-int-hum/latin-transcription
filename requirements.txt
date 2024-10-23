@@ -14,3 +14,4 @@ tqdm
 termcolor
 ipython
 ipykernel
+wandb

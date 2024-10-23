@@ -16,7 +16,8 @@ vars.AddVariables(
     ("TRAIN_PROPORTION", "", 0.9),
     ("GPU_DEVICES", "", [1]), # GPU device number
     ("MODEL_ERRORS_DIR", "", "/errors"),
-    ("DATA_CUTOFF", "", -1)
+    ("DATA_CUTOFF", "", -1),
+    ("WANDB", "", True),
 )
 
 env = Environment(
@@ -46,7 +47,8 @@ env = Environment(
             "--random_seed ${RANDOM_SEED} "
             "--train_proportion ${TRAIN_PROPORTION} "
             "--gpu_devices ${GPU_DEVICES} "
-            "--data_cutoff ${DATA_CUTOFF}"
+            "--data_cutoff ${DATA_CUTOFF} "
+            "--use_wandb ${WANDB} "
         ),
         "ApplyModel" : Builder(
             action="python scripts/apply_model.py "

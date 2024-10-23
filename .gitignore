@@ -10,3 +10,4 @@ source
 .sconsign.dblite
 lightning_logs
 __pycache__/
+transkribus

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:16:43.479+02:00</Created>
+        <LastChange>2024-10-23T20:07:29.972+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80892513" pageNr="1" tsid="195651049" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=IUOQYPEQYIUDQELNAMXUUYBM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BBPXIDLLIIFZCOMFJWVKMWTD" imageId="66318377"/>
+    </Metadata>
+    <Page imageFilename="0001_JUST-633m11.jpeg" imageWidth="1090" imageHeight="954">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709211719" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="10,21 10,943 1088,943 1088,21"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="20,38 1072,57 1032,0 20,16"/>
+                <Baseline points="27,45 79,47 131,45 184,43 236,43 289,42 341,41 393,43 446,43 498,43 551,43 603,43 655,43 708,43 760,43 813,45 865,43 917,45 970,46 1022,49 1075,50"/>
+                <TextEquiv>
+                    <Unicode>aurencius filius Laurencii de Prestone chutaler iniuste etcitiris disses terram</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="11,108 1070,113 1070,57 1012,51 11,61"/>
+                <Baseline points="18,85 70,87 123,87 176,85 229,85 281,83 334,83 387,85 440,85 492,86 545,86 598,85 651,85 703,85 756,89 809,89 862,89 914,85 967,87 1020,89 1073,92"/>
+                <TextEquiv>
+                    <Unicode>Ithimissie Cut de libero tenemens suo in prestoum iuxta sebant post pramat er Et onde querntut quod diss¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="4,146 1057,142 979,93 4,103"/>
+                <Baseline points="12,130 64,127 116,125 169,123 221,123 274,121 326,121 379,121 431,123 484,125 536,125 588,125 641,128 693,129 746,127 798,129 851,129 903,129 956,129 1008,129 1061,129"/>
+                <TextEquiv>
+                    <Unicode>enem de quo propione capitendam pro custode para de prestone et bosca vocati Hamho et duaru culturarum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="730,158 751,156 758,161 776,154 778,159 801,159 816,148 828,152 829,134 809,131 801,138 789,136 776,142 761,129 754,134 731,136"/>
+                <Baseline points="739,150 770,150 801,149 832,145"/>
+                <TextEquiv>
+                    <Unicode>capund</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="7,183 1060,178 1032,135 7,143"/>
+                <Baseline points="14,167 66,165 119,163 171,162 224,161 276,160 329,159 381,161 434,161 486,164 539,165 591,167 644,168 696,170 749,170 801,170 854,170 906,170 959,168 1011,170 1064,170"/>
+                <TextEquiv>
+                    <Unicode>que vocantur Harnho Stoltyngset onus culture vocate la hale scilicet bun denarios et obonum micaelis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="7,228 1064,235 1064,181 5,183"/>
+                <Baseline points="14,203 66,203 119,201 172,201 224,201 277,201 330,199 382,199 435,201 488,204 541,207 593,208 646,210 699,210 751,212 804,212 857,216 909,214 962,214 1015,217 1068,218"/>
+                <TextEquiv>
+                    <Unicode>dielibus anni pro ointualibus suis et decem solidos ol ona rebam vracqi decem solidos ad Natale domini Sinellie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="11,250 883,282 1076,268 1076,224 9,217"/>
+                <Baseline points="18,241 71,243 124,243 177,243 230,243 283,241 336,243 389,241 442,241 495,243 548,247 601,250 654,252 707,252 760,252 813,254 866,254 919,254 972,254 1025,252 1079,250"/>
+                <TextEquiv>
+                    <Unicode>anno ats at protitulo liberi tenementis in hica parte et cer diot quod quide Laurenciam dominis de Preston miles patr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="8,294 1049,310 1025,263 8,262"/>
+                <Baseline points="16,279 67,281 119,281 171,280 223,279 275,279 326,279 378,280 430,279 482,281 534,285 585,288 637,292 689,295 741,295 793,296 844,298 896,297 948,296 1000,298 1052,296"/>
+                <TextEquiv>
+                    <Unicode>predicti Laurencii cus hereg ipuet est dedit concessit et carta sua confirmavit cuem Humfrido</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="11,325 893,363 1070,324 9,291"/>
+                <Baseline points="18,321 70,321 123,321 176,323 229,323 281,323 334,325 387,325 440,325 492,325 545,327 598,328 651,330 703,332 756,334 809,336 862,336 914,336 967,337 1020,341 1073,345"/>
+                <TextEquiv>
+                    <Unicode>RGningfeld patre predicti Elie cuius heretis ipse est custodiam para sui de Preston et bosci vo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="7,371 998,398 1061,388 1060,348 5,325"/>
+                <Baseline points="14,352 66,356 119,357 171,358 224,359 276,359 329,361 381,360 434,361 486,361 539,363 591,363 644,367 696,368 749,370 801,372 854,374 906,374 959,375 1011,377 1064,376"/>
+                <TextEquiv>
+                    <Unicode>cati Hainhio et duorum ounturarum terre cum pertinentiis que vocantur Larnho Stokynes et unium cultu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="9,407 1010,436 1047,391 8,371"/>
+                <Baseline points="16,392 67,390 119,390 170,393 222,394 274,396 325,397 377,399 428,399 480,403 532,403 583,403 635,408 686,410 738,412 790,414 841,414 893,414 944,414 996,414 1048,416"/>
+                <TextEquiv>
+                    <Unicode>vocate I me etc hid et tenendum eidem Humfrido et heredibus suis de cepore suo lextime proreatos et c</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="8,429 990,476 1060,461 1059,428 7,409"/>
+                <Baseline points="16,423 68,423 120,423 173,427 225,429 277,433 330,437 382,439 434,439 487,441 539,441 591,445 644,447 696,450 748,452 801,452 853,453 905,455 958,454 1010,453 1063,452"/>
+                <TextEquiv>
+                    <Unicode>Et concesi tet pro se et heredibus suis et assignatis quod idem Humfridus et heredes sui de corpore suo lextime procreati</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="3,484 917,519 1084,504 1083,455 816,477 1,428"/>
+                <Baseline points="10,461 63,459 117,459 171,459 225,465 279,467 333,472 387,474 441,474 495,477 549,479 602,481 656,482 710,486 764,486 818,489 872,491 926,490 980,490 1034,489 1088,486"/>
+                <TextEquiv>
+                    <Unicode>per matrus omas xeu herieum sues Ballious Seu assignati in manerio de prestone qui pro tempore fuerunt percipient quolibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="9,511 1006,548 1084,537 1084,504 414,499 163,456 8,483"/>
+                <Baseline points="16,497 69,497 123,497 176,499 230,503 284,505 337,508 391,510 444,512 498,513 552,514 605,516 659,517 712,520 766,522 820,526 873,527 927,526 980,525 1034,524 1088,516"/>
+                <TextEquiv>
+                    <Unicode>die ad manalla sua unum denaris t obolum et quolibet anno decem solidos et una roba prediri decem solidorum quolibet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="4,557 1070,562 3,504"/>
+                <Baseline points="12,534 65,534 118,532 171,534 224,536 277,537 330,540 383,542 436,545 489,545 542,548 595,550 648,550 701,553 754,557 807,559 860,559 913,561 966,561 1019,561 1072,559"/>
+                <TextEquiv>
+                    <Unicode>anno ad Natale Dominus teris et qod precicto Laurencius et hereus seum assignati sui in quoranconmique marnis manerium de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="8,579 948,610 1068,606 1067,564 7,554"/>
+                <Baseline points="16,570 68,570 121,568 174,568 227,568 280,569 332,571 385,573 438,575 491,576 544,580 596,585 649,586 702,588 755,592 808,594 860,594 913,594 966,594 1019,592 1072,592"/>
+                <TextEquiv>
+                    <Unicode>de prestum cum pertinentiis inposterum deveneit sen perci predicto custodiam predictam in ferma predicta predicto Humfrido theris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="8,627 1067,638 1034,600 8,577"/>
+                <Baseline points="16,606 68,608 121,608 174,606 226,606 279,607 332,610 384,611 437,613 490,615 543,617 595,619 648,619 701,621 753,625 806,626 859,626 911,626 964,625 1017,626 1070,628"/>
+                <TextEquiv>
+                    <Unicode>suis predictis vrantizbunt et Et profert cartam predicti Laurencii que hoc idem testatur t vnde dicit quod ipse su</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="13,664 183,651 305,696 418,658 761,691 1053,666 1052,634 13,627"/>
+                <Baseline points="21,650 72,652 124,650 176,648 228,647 280,646 331,647 383,648 435,648 487,650 539,652 590,655 642,655 694,656 746,661 798,665 849,665 901,662 953,663 1005,663 1057,661"/>
+                <TextEquiv>
+                    <Unicode>sacte Fuite de prolao predicto t de liberao tcapiendis in forma predict quiousque predicto Luri pastum imiste diciis et hoc peti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="12,700 53,695 84,712 124,712 144,699 167,707 192,689 212,699 247,696 247,662 218,653 198,668 156,661 140,674 119,655 93,654 74,672 42,657 12,665"/>
+                <Baseline points="19,685 44,687 70,687 96,686 121,686 147,686 173,686 198,685 224,685 250,683"/>
+                <TextEquiv>
+                    <Unicode>quo inuretur per assinam et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="11,727 1028,753 1048,697 9,699"/>
+                <Baseline points="18,721 69,723 121,725 173,722 224,721 276,723 328,722 379,723 431,725 483,728 535,728 586,732 638,734 690,734 741,735 793,736 845,739 896,739 948,737 1000,737 1052,734"/>
+                <TextEquiv>
+                    <Unicode>et Laurenons not eou et quidem habenum de Helpiston' respoveit pro eo teramqna eius beldis et et pro ipse ut tenentater</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="15,771 897,796 1060,789 1059,745 13,734"/>
+                <Baseline points="21,755 73,755 125,755 177,755 229,754 281,755 333,754 386,754 438,756 490,759 542,761 594,765 646,768 698,768 751,770 803,772 855,773 907,774 959,775 1011,774 1064,774"/>
+                <TextEquiv>
+                    <Unicode>dit quod meno tenet ei qaod hoc habe respondere quo dicit quod cum predicto Elias se questum sit dige de predicto presecvo annui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="22,805 925,825 1070,819 1070,786 20,771"/>
+                <Baseline points="27,790 79,788 131,790 183,789 236,790 288,791 340,790 393,790 445,791 497,793 550,794 602,795 654,797 706,799 759,801 811,803 863,804 916,807 968,809 1020,810 1073,810"/>
+                <TextEquiv>
+                    <Unicode>atim apindo de manio de Prestone atc quidem Henricim le fenere tenet de eodem manerio unum mesuagium et medieta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="22,846 836,856 1018,850 1040,815 20,805"/>
+                <Baseline points="27,823 77,826 128,826 179,824 230,824 281,825 332,824 382,824 433,826 484,826 535,827 586,829 637,830 688,831 738,834 789,835 840,835 891,838 942,839 993,841 1044,835"/>
+                <TextEquiv>
+                    <Unicode>teti inlugat et cum pertinentiis et Gilberts rolgn unum mesuarium t medicalm ui vigarte et cum pertinentiis de eod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="18,862 1060,886 1051,835 18,844"/>
+                <Baseline points="25,854 79,855 134,855 189,855 243,859 298,859 353,857 407,859 462,859 517,863 571,864 626,866 681,868 735,870 790,872 845,870 899,870 954,872 1009,874 1064,872"/>
+                <TextEquiv>
+                    <Unicode>manerio tenuerunt die impetoris bestris t vidit duobecim die Mari lcio preterito qui quidem Henricuo et Gulluas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="20,898 1047,924 1045,875 19,862"/>
+                <Baseline points="27,881 78,883 129,884 180,885 231,884 282,887 333,888 384,890 435,890 486,894 537,895 588,897 639,899 690,901 741,903 792,903 843,903 894,903 945,905 996,906 1048,903"/>
+                <TextEquiv>
+                    <Unicode>non nomiantur in berene et paoter iudicium t Et predictus Elas hoc nen potest dedicere son eiu est quod predictis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="57,921 74,921 100,937 115,929 127,937 135,933 140,936 154,924 170,924 169,894 140,894 129,886 120,892 115,887 98,902 82,896 55,901"/>
+                <Baseline points="63,912 90,915 117,915 144,917 172,919"/>
+                <TextEquiv>
+                    <Unicode>eac incum ae</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="186,937 953,953 383,952 953,953 410,952 953,953 446,952 953,953 463,952 953,953 472,952 953,953 476,952 953,953 498,952 953,953 510,952 953,953 526,952 953,953 534,952 953,953 538,952 953,953 545,952 953,953 579,952 953,953 593,952 953,953 603,952 953,953 611,952 953,953 624,952 953,953 629,952 953,953 635,952 953,953 641,952 953,953 660,952 953,953 674,952 953,953 677,902 185,902"/>
+                <Baseline points="192,921 217,919 243,921 268,921 294,920 319,919 345,920 370,922 396,923 421,925 447,926 473,927 498,928 524,928 549,930 575,932 600,932 626,930 651,930 677,930 703,928"/>
+                <TextEquiv>
+                    <Unicode>at per braete etc Et sit in nna pro fase clamam et Et predicto Hauri noere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="716,945 953,953 805,952 953,953 811,952 953,953 817,952 953,953 825,952 947,947 947,917 913,910 715,910"/>
+                <Baseline points="723,928 748,930 773,932 798,930 823,931 849,932 874,932 899,932 924,933 950,930"/>
+                <TextEquiv>
+                    <Unicode>curia inde sine die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

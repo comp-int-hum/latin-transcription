@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:53.728+02:00</Created>
+        <LastChange>2024-10-23T20:07:48.500+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893996" pageNr="90" tsid="195651174" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=VNZTKFKBPSPGAASZYYPKDDXW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NMTNYSCXBWXBMVYFQXUFBOUF" imageId="66319746"/>
+    </Metadata>
+    <Page imageFilename="0090_norw3.jpg" imageWidth="1118" imageHeight="230">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709215047" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="684,74 684,171 837,171 837,74"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="679,110 731,105 743,109 779,140 794,138 792,65 772,74 746,58 713,82 695,79 688,86 678,84"/>
+                <Baseline points="684,100 711,100 739,102 766,102 794,102"/>
+                <TextEquiv>
+                    <Unicode>menta pre¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="707,160 734,162 745,171 782,164 797,171 803,165 815,168 821,161 836,166 834,121 827,119 809,134 795,134 780,142 728,115 705,125"/>
+                <Baseline points="712,153 737,155 762,157 787,158 812,158 837,158"/>
+                <TextEquiv>
+                    <Unicode>et in manum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

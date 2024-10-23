@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:20.568+02:00</Created>
+        <LastChange>2024-10-23T20:07:43.732+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893546" pageNr="53" tsid="195651115" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=KTGVMOHZCLCOJINKWSLVALTW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IERQOYUWPWMERZORANLHCEGJ" imageId="66318869"/>
+    </Metadata>
+    <Page imageFilename="0053_JUST1-734m7.jpeg" imageWidth="980" imageHeight="497">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709214361" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="16,12 16,487 979,487 979,12"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="12,52 430,37 540,76 816,75 976,48 976,5 897,0 12,18"/>
+                <Baseline points="19,45 67,44 115,44 163,42 211,40 259,39 307,37 355,37 403,36 451,36 499,37 547,37 595,37 643,38 691,37 739,37 787,35 835,34 883,32 931,32 979,37"/>
+                <TextEquiv>
+                    <Unicode>sassis enis regnu silieris de Werlcone Iumiste eta disseris Waltero le Feleter de Cheplectone de libeo tonerto suo In Clri¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="11,85 527,81 527,48 497,40 340,59 281,43 11,53"/>
+                <Baseline points="17,76 42,75 68,75 93,75 119,75 144,75 170,75 195,75 221,74 246,73 272,73 298,73 323,72 349,70 374,70 400,70 425,70 451,70 476,70 502,68 528,70"/>
+                <TextEquiv>
+                    <Unicode>lecon pso pinictis Et bene quad quod disseis um de quamquam acra terre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="12,121 955,105 955,73 767,53 12,87"/>
+                <Baseline points="19,106 65,105 112,104 159,104 206,104 253,104 300,104 346,102 393,101 440,102 487,102 534,102 581,102 628,102 674,103 721,104 768,103 815,102 862,102 909,102 956,102"/>
+                <TextEquiv>
+                    <Unicode>Et Ricaris uenit et dicit quod non dissens eum de predicta terra quedict quod non disses em de predicta terra quoe dict quod alias tuilit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="17,143 968,147 944,107 17,112"/>
+                <Baseline points="24,140 71,142 118,142 166,140 213,140 260,140 308,140 355,142 402,142 450,142 497,142 544,142 592,139 639,138 686,138 734,135 781,135 828,135 876,137 923,135 971,135"/>
+                <TextEquiv>
+                    <Unicode>assactam morum antam uer cundem Walterum de duabus pertibus dimidim uiria terre soculde in ultimo Iterie scilicet R de Turke In Coma¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="16,178 952,180 952,148 831,137 16,143"/>
+                <Baseline points="22,174 68,174 115,173 161,172 208,173 255,173 301,172 348,173 394,174 441,173 488,173 534,174 581,174 627,172 674,170 721,171 767,171 814,172 860,171 907,173 954,174"/>
+                <TextEquiv>
+                    <Unicode>isto Et ibi benit predictus Walteros et predictam terram tireditis E dicit quod predicte sexagrie de quibus modo quar est de corpore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="16,232 901,219 901,184 800,176 16,179"/>
+                <Baseline points="22,207 66,209 110,207 154,207 198,205 242,205 286,204 330,204 374,205 418,205 463,205 507,204 551,205 595,204 639,205 683,205 727,205 771,206 815,207 859,209 904,212"/>
+                <TextEquiv>
+                    <Unicode>predictrum duarum parnum predicte di virgia terreut quod illam aliam disseis et haenerde fecit pout se super assam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="19,251 956,251 914,215 19,214"/>
+                <Baseline points="26,248 72,246 119,246 165,246 212,244 259,244 305,243 352,245 399,245 445,245 492,241 539,240 585,238 632,238 679,239 725,240 772,240 819,243 865,243 912,246 959,250"/>
+                <TextEquiv>
+                    <Unicode>Et Waleruo dict quod predicte ext aqcra tre non sunt de corpore predicte terre quam enidem Ricardo reddidit quro dicit quod exotrum qui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="11,292 966,292 966,263 889,245 11,248"/>
+                <Baseline points="17,281 64,282 112,282 159,282 207,282 255,279 302,279 350,279 397,279 445,279 493,279 540,276 588,276 635,274 683,274 731,274 778,274 826,276 873,277 921,279 969,279"/>
+                <TextEquiv>
+                    <Unicode>predicta assis capta fuit de predictis duabus pertinbus predeite dimidiam uiram terre tenuit iontr ipsius Walteri predictas stp acriagre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="16,332 972,329 972,287 808,279 17,302"/>
+                <Baseline points="24,318 71,318 119,318 166,317 214,318 261,317 309,317 356,317 404,317 451,316 499,315 547,313 594,312 642,312 689,312 737,313 784,310 832,310 879,312 927,312 975,314"/>
+                <TextEquiv>
+                    <Unicode>in docem que posta per legeum quact post predictam assisam captam eidem Waltero desfende Iurei beredis pot moce predicte nostro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="17,368 963,362 932,320 17,332"/>
+                <Baseline points="24,351 71,354 118,354 165,353 212,353 259,354 306,354 353,353 400,353 447,353 495,353 542,353 589,353 636,353 683,351 730,349 777,349 824,349 871,350 918,353 966,353"/>
+                <TextEquiv>
+                    <Unicode>sue ia quod eam tnunit fere per annum patifice quousque predicto Ricaris pri Iue dissens et de hoc pount se super assisnam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="10,417 974,406 966,354 10,364"/>
+                <Baseline points="16,385 64,392 112,392 160,392 208,392 256,395 304,395 352,395 400,396 448,397 496,397 544,395 592,395 640,395 688,395 736,393 784,392 832,390 880,390 928,390 977,387"/>
+                <TextEquiv>
+                    <Unicode>Iur diunt quod pecite exr actaterre no sunt de corppore predictarum diuaris partum predicte dimidiam vira terre queam predicto Waleo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="19,439 956,440 931,400 19,411"/>
+                <Baseline points="26,429 72,431 119,433 165,434 212,435 259,434 305,435 352,436 399,438 445,438 492,436 539,436 585,436 632,438 679,438 725,438 772,438 819,436 865,436 912,434 959,438"/>
+                <TextEquiv>
+                    <Unicode>reddidit predicto Ricardus per predictam racionem tquodidem Ricardus disses predictum Walterium deesde ex acre terre Iimiste etcr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="17,488 496,496 55,495 496,496 67,495 496,496 82,495 496,496 100,495 496,496 107,495 496,496 111,495 496,496 121,495 496,496 132,495 496,496 138,495 496,496 143,495 496,496 158,495 496,496 179,495 496,496 189,495 168,449 17,440"/>
+                <Baseline points="24,467 49,467 74,469 100,467 125,467 151,469 176,470 202,469"/>
+                <TextEquiv>
+                    <Unicode>ficont bere dicit Et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="496,496 366,495 571,492 570,453 355,447"/>
+                <Baseline points="362,474 388,472 414,472 441,474 467,475 493,476 520,476 546,476 573,475"/>
+                <TextEquiv>
+                    <Unicode>Ultero reter fes suarta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="496,496 663,482 663,449 584,447"/>
+                <Baseline points="591,475 628,475 665,475"/>
+                <TextEquiv>
+                    <Unicode>raia per visum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="724,480 771,495 496,496 776,495 807,481 819,492 837,486 837,450 724,446"/>
+                <Baseline points="730,475 757,475 785,475 812,475 840,477"/>
+                <TextEquiv>
+                    <Unicode>Riceris ui mina¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

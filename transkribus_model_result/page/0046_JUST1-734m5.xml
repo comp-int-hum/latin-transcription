@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:15.150+02:00</Created>
+        <LastChange>2024-10-23T20:07:42.835+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893694" pageNr="46" tsid="195651131" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=ZTTVEQSWKDHHJGNRFPRKFJDB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PMJNMCJINMSSNQNIPUGPNQAP" imageId="66319334"/>
+    </Metadata>
+    <Page imageFilename="0046_JUST1-734m5.jpeg" imageWidth="1007" imageHeight="959">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709214229" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="28,3 28,940 1006,940 1006,3"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="27,55 989,34 968,0 28,0"/>
+                <Baseline points="35,35 83,40 133,40 184,35 234,31 285,28 335,25 386,25 436,25 487,25 537,23 588,23 638,23 689,23 739,25 790,25 840,23 891,25 941,25 992,25"/>
+                <TextEquiv>
+                    <Unicode>Absas uon ret si colemanus de Ludelawe annctlo colemann de Kudelake fuit geis in dominico cuo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="24,79 988,67 878,28 26,59"/>
+                <Baseline points="31,70 79,72 127,72 175,68 223,64 271,61 319,59 367,58 415,58 463,57 511,58 559,58 607,58 655,58 703,58 751,58 799,58 847,60 895,60 943,62 992,62"/>
+                <TextEquiv>
+                    <Unicode>et  de uno coger et Ylu aciam terre cum pertinentiis in Dete et dimini viras terre cum pertinentiis in Weslintone et uno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="27,132 388,93 994,101 978,66 651,60 27,99"/>
+                <Baseline points="33,110 81,110 129,109 177,105 225,100 274,98 322,95 370,94 418,90 466,90 515,90 563,90 611,88 659,87 707,89 756,89 804,90 852,92 900,92 948,94 997,94"/>
+                <TextEquiv>
+                    <Unicode>gei et duobus acras terre cum pertinentiis in ccokte die quo obit etc ti Qd de stoby unum cotum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="27,153 970,149 982,107 388,93 27,132"/>
+                <Baseline points="33,147 80,146 128,142 175,141 223,137 270,135 318,131 365,129 413,128 460,127 508,125 556,127 603,124 651,124 698,124 746,126 793,127 841,128 888,131 936,134 984,134"/>
+                <TextEquiv>
+                    <Unicode>et duas acras terre Willelmo cotera quinque acras terre Siumon Holeod unum megas Henrici Melde unam acra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="28,212 457,173 975,184 988,142 29,160"/>
+                <Baseline points="36,194 83,191 131,186 178,183 226,180 274,176 321,172 369,168 417,167 464,166 512,166 560,164 607,166 655,166 703,166 750,166 798,166 846,168 893,169 941,171 989,172"/>
+                <TextEquiv>
+                    <Unicode>Ricoberti de Kodewytche decem dcra terre et domini Iuli que fuit uxor coleman septem dci Alicaio Stone</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="23,232 1003,231 1003,194 920,173 24,211"/>
+                <Baseline points="30,231 78,229 127,221 176,220 225,216 274,211 322,209 371,208 420,208 469,208 518,209 566,211 615,209 664,208 713,208 762,208 810,208 859,209 908,211 957,213 1006,213"/>
+                <TextEquiv>
+                    <Unicode>Suiarm acque Habelda la Nune sex dacre Magistr hospitalis sancti Iohannis de Ludelabe detem acqras terre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="23,276 997,263 903,219 24,236"/>
+                <Baseline points="30,268 78,266 126,263 175,261 223,257 272,253 320,250 369,250 417,248 466,248 514,250 562,249 611,248 659,249 708,248 756,248 805,250 853,253 902,253 950,255 999,253"/>
+                <TextEquiv>
+                    <Unicode>et domini Adi fili Iauid et Rgero pter eius tres acre Stephanus le Basse dominum virgia terre sine tenent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="21,319 997,309 997,271 915,260 21,278"/>
+                <Baseline points="28,305 76,301 125,300 173,300 222,298 270,295 319,292 367,290 416,288 464,288 513,288 562,289 610,292 659,294 707,295 756,295 804,297 853,297 901,298 950,297 999,298"/>
+                <TextEquiv>
+                    <Unicode>Et aud de Stoke et Isolda la Nune non Uen Set omnes ali uen Et ad et Iolda fuerit resimum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="27,359 986,347 986,308 863,302 27,318"/>
+                <Baseline points="33,339 80,339 128,337 176,337 224,334 272,333 319,330 367,329 415,327 463,327 511,327 558,329 606,330 654,330 702,333 750,333 797,334 845,335 893,335 941,335 989,337"/>
+                <TextEquiv>
+                    <Unicode>s ara assisa en eos per defaltam Et Iul que fuit uxor colemani dict quod predicto cleman imiste cul</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="23,393 521,365 987,399 987,342 23,357"/>
+                <Baseline points="30,377 78,376 126,376 174,375 222,373 270,371 318,369 366,368 414,366 462,364 510,362 558,364 606,367 654,367 702,371 750,373 798,375 846,376 894,377 942,379 990,381"/>
+                <TextEquiv>
+                    <Unicode>assa istam uecr am per dicte quod ipsa tenet terram nec eam portam nomine doctis ficit omine quod ipsa fuit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="27,437 987,429 945,388 520,365 27,392"/>
+                <Baseline points="33,418 80,421 128,421 176,421 224,421 272,420 320,419 367,418 415,417 463,414 511,414 559,414 607,416 655,416 702,418 750,419 798,419 846,420 894,419 942,418 990,421"/>
+                <TextEquiv>
+                    <Unicode>uxore predicti Clemanim amiuli predicte colemani et dici quod predicta terra ner eampetrita puod imogrete ipsius clemanm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="23,484 962,480 937,427 23,435"/>
+                <Baseline points="30,463 76,463 123,465 170,463 217,461 263,461 310,461 357,461 404,460 450,458 497,458 544,458 591,458 637,458 684,460 731,461 778,461 824,461 871,461 918,460 965,461"/>
+                <TextEquiv>
+                    <Unicode>quindam uiri sint fuit terra lla ei assingaunta in dicte ut illam que eam contiungum de liber tonmune quod fuit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="29,521 968,510 968,476 832,460 29,484"/>
+                <Baseline points="36,503 82,507 129,507 176,505 222,504 269,502 316,502 362,502 409,502 456,500 503,500 549,499 596,498 643,498 689,500 736,503 783,502 829,503 876,503 923,503 970,505"/>
+                <TextEquiv>
+                    <Unicode>predicti Colemeanani uiri sui Dne dict quod idem Colomamus de Faliund est Hiaries predicto docis sune Ita quro oi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="27,557 975,553 940,509 663,498 27,520"/>
+                <Baseline points="33,542 80,546 127,545 174,547 221,545 269,544 316,542 363,543 410,542 457,542 505,540 552,540 599,542 646,544 693,545 741,545 788,544 835,543 882,542 929,540 977,540"/>
+                <TextEquiv>
+                    <Unicode>alius perinentiis snei implaticarot tenetum ei haranti zare Et predictus eolemamus le Faliund nono paosint hoc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="27,597 962,607 962,568 845,547 27,557"/>
+                <Baseline points="33,582 79,584 126,586 172,587 219,587 266,586 312,584 359,584 405,584 452,583 499,582 545,581 592,582 638,584 685,586 732,587 778,586 825,586 871,587 918,587 965,589"/>
+                <TextEquiv>
+                    <Unicode>delitere et He conuns ost ero predicti Iulis Ine sine die eobhes predicta Talomamus quo ad Hoc nill capiat per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="29,657 541,627 1000,653 1000,607 805,587 29,592"/>
+                <Baseline points="36,624 84,628 132,629 181,629 229,629 277,628 326,628 374,626 422,626 471,626 519,626 567,626 616,626 664,628 712,628 761,629 809,629 857,629 906,629 954,630 1003,632"/>
+                <TextEquiv>
+                    <Unicode>Sllami istam et git in mna pro llo clamiao et predictus Willelmus et omnes alia dicunt quod predictus eolemanius humiste¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="33,686 984,692 984,650 940,636 33,658"/>
+                <Baseline points="40,670 87,673 134,674 182,675 229,674 276,673 324,672 371,671 418,671 466,673 513,673 560,671 608,672 655,673 702,674 750,675 797,675 844,675 892,675 939,676 987,675"/>
+                <TextEquiv>
+                    <Unicode>tuleit Absatem istraorum qu dimunc quod predicus clemanus annclulis ipsius galemanm ono oberit seis de predicti tenemen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="32,724 992,736 992,695 944,680 32,688"/>
+                <Baseline points="38,710 85,713 133,715 181,717 229,717 277,718 325,718 372,718 420,718 468,718 516,718 564,718 612,718 660,717 707,718 755,718 803,717 851,717 899,718 947,718 995,717"/>
+                <TextEquiv>
+                    <Unicode>dimuint Domini quod dae eolomanum per lorgum comsura ante matem suam tenementu illa dedit et concessit cumenrtam Colemanu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="27,772 966,784 938,722 27,725"/>
+                <Baseline points="33,759 79,760 126,761 173,761 220,760 267,760 313,760 360,760 407,760 454,759 501,759 547,759 594,759 641,760 688,760 735,760 781,760 828,760 875,761 922,760 969,760"/>
+                <TextEquiv>
+                    <Unicode>filio Suo quie fuit Dibe in dictis et pretea conent abla didit et concessit ipasti Willelus talis prenominitis Et de Hoc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="32,817 78,802 107,815 131,807 143,819 169,805 186,813 217,806 216,769 173,765 154,774 145,768 121,788 94,782 78,769 70,775 55,768 31,774"/>
+                <Baseline points="38,796 64,796 90,799 116,799 142,801 168,801 194,801 221,799"/>
+                <TextEquiv>
+                    <Unicode>foueit ee super assasum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="21,851 976,844 976,816 837,790 496,832 404,793 21,808"/>
+                <Baseline points="28,839 75,839 123,844 170,846 218,846 265,846 313,846 360,848 408,851 455,853 503,856 551,854 598,853 646,853 693,852 741,848 788,847 836,844 883,843 931,841 979,838"/>
+                <TextEquiv>
+                    <Unicode>Iure domini qo predcte clmani amiclis prediti Glemani de cuas morte assi artanem est abut temines in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="32,894 1001,885 992,837 630,872 32,848"/>
+                <Baseline points="38,880 86,883 134,885 182,886 231,885 279,885 327,885 375,886 424,890 472,890 520,891 568,890 617,891 665,891 713,890 761,888 810,885 858,884 906,881 954,880 1003,878"/>
+                <TextEquiv>
+                    <Unicode>dominico suo nt de feodo de omnibus predictis tenementis et prater tomnum Et qui predicto Colemanus le Foliund pro inquiorle et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="29,940 962,933 962,885 29,900"/>
+                <Baseline points="36,918 82,922 128,923 175,923 221,924 268,923 314,923 361,925 407,927 454,928 500,928 546,927 593,928 639,928 686,930 732,929 779,928 825,928 872,928 918,925 965,922"/>
+                <TextEquiv>
+                    <Unicode>emuo est Et Io comnunes est quod predictus colmamus roct seculdonm suam et villi coterel et omnes anii</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

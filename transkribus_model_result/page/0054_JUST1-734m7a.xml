@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:20.743+02:00</Created>
+        <LastChange>2024-10-23T20:07:43.854+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893641" pageNr="54" tsid="195651135" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=BHEWEGHCEZIIQTENZCHGICEI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QFGFPJYESMWKFVAGOKNQXWQX" imageId="66319402"/>
+    </Metadata>
+    <Page imageFilename="0054_JUST1-734m7a.jpeg" imageWidth="995" imageHeight="606">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709214372" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="18,0 18,597 994,597 994,0"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="114,28 136,23 145,27 160,18 173,22 178,18 188,25 197,19 203,19 203,0 114,0"/>
+                <Baseline points="121,0 149,6 178,5 207,0"/>
+                <TextEquiv>
+                    <Unicode>I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="11,67 963,36 950,0 13,18"/>
+                <Baseline points="19,56 66,56 113,55 161,52 208,49 256,49 303,47 350,44 398,41 445,38 493,36 540,34 587,33 635,33 682,31 730,31 777,30 824,29 872,29 919,31 967,31"/>
+                <TextEquiv>
+                    <Unicode>Ricardo Huresete catabie fuit ad respondam Ricardo filis Roberti de Chystone de pilio quara ptsmill cum aliis eneris ad pestum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="10,102 952,80 953,45 845,30 11,67"/>
+                <Baseline points="18,86 64,86 111,84 158,83 205,80 252,79 299,79 346,77 393,74 440,72 487,71 533,68 580,66 627,64 674,64 721,64 768,63 815,61 862,61 909,59 956,61"/>
+                <TextEquiv>
+                    <Unicode>ipsius Ricardo fili Roberti In Keldewrth et vonerito suo in codem bosco sinventio vebaverit maletratauernt et mndere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="12,125 374,109 457,128 546,104 547,75 12,104"/>
+                <Baseline points="19,116 45,116 72,116 98,114 125,114 151,114 178,112 204,112 231,111 257,109 284,109 310,108 337,106 363,105 390,102 416,101 443,100 469,99 496,97 522,96 549,96"/>
+                <TextEquiv>
+                    <Unicode>miuni prefati Ricards ibei abstulit asportanit contra pacem etc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="17,156 946,154 959,108 693,88 17,138"/>
+                <Baseline points="24,151 70,149 117,149 164,144 211,142 258,141 305,141 351,140 398,139 445,137 492,137 539,137 586,137 633,136 679,136 726,136 773,134 820,133 867,132 914,132 961,132"/>
+                <TextEquiv>
+                    <Unicode>Et Ricardus de Barelegh uenit et dfendium uni inui quand etc ebene dicit quod predicts boscus Inquo predicta tansgra feri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="19,193 948,178 948,151 842,134 19,157"/>
+                <Baseline points="26,180 72,179 118,177 164,175 211,174 257,174 303,172 349,171 396,168 442,167 488,166 534,165 581,166 627,167 673,167 719,167 766,169 812,171 858,170 904,172 951,172"/>
+                <TextEquiv>
+                    <Unicode>dunit est boscus prius Ricardi de Faurlegha Et beni dict quod denit ibi t nuenit abiquasdam arborum prestritadis et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="16,217 426,201 517,222 569,206 567,168 180,194 17,184"/>
+                <Baseline points="23,207 50,209 77,207 105,207 132,205 160,205 187,205 215,204 242,204 270,204 297,202 324,202 352,200 379,199 407,198 434,197 462,197 489,197 517,195 544,195 572,195"/>
+                <TextEquiv>
+                    <Unicode>illas cariare et asspirtare fictat sicut alberem licuit de bosco suo proprio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="24,252 868,236 868,193 793,182 595,185 481,225 423,201 24,220"/>
+                <Baseline points="31,244 73,242 115,240 157,238 199,237 241,237 283,236 325,235 367,234 409,235 451,237 493,234 535,234 577,234 619,234 661,235 703,235 745,234 787,233 829,232 871,230"/>
+                <TextEquiv>
+                    <Unicode>Et Ricari filius abeti dicit quod predictus boscis est boscis sunus proprius nt n boscus predicti Ricardi de Harleghi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="24,293 898,281 974,266 975,235 24,252"/>
+                <Baseline points="31,275 78,275 125,273 172,272 220,271 267,270 314,270 362,268 409,270 456,268 504,268 551,267 598,267 645,266 693,266 740,265 787,265 835,263 882,263 929,262 977,262"/>
+                <TextEquiv>
+                    <Unicode>buist ver de consensu pertium petuit quod ficit pamibullatio inter vostum predicti Ricardo filio Roberti et boscum bostum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="27,309 965,303 959,268 28,292"/>
+                <Baseline points="33,300 79,304 126,303 173,303 220,303 267,300 313,299 360,299 407,299 454,300 501,300 547,300 594,298 641,298 688,298 735,299 781,298 828,298 875,298 922,297 969,297"/>
+                <TextEquiv>
+                    <Unicode>predicti Ricardo de Barleyh Et Ricardo de Barlegh offert domino 2 90 s per sic quod predicta paubulatio fiat Et recipris sanco</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="23,350 969,333 969,305 859,300 24,304"/>
+                <Baseline points="31,333 78,335 125,333 172,333 219,333 266,332 313,330 360,332 407,332 454,332 501,332 548,330 595,330 642,331 689,330 736,330 783,328 830,330 877,332 924,328 972,328"/>
+                <TextEquiv>
+                    <Unicode>peptum est vicert quod assuimpties secum xii legalibus militibus de visuetar de Hairle de Cliston Iu proria persona ac</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="24,374 984,378 970,333 24,349"/>
+                <Baseline points="31,366 78,365 126,364 174,363 222,361 269,361 317,360 365,360 413,361 460,361 508,360 556,358 604,357 651,358 699,358 747,358 795,358 842,360 890,358 938,358 986,356"/>
+                <TextEquiv>
+                    <Unicode>ceit ad predictum bistum de Keldewrth' per corum sucuaorum feri faciris parmnbilonem inter boscum predicti Ricardi de Cliston' In clri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="22,397 965,408 965,367 798,362 22,384"/>
+                <Baseline points="28,393 77,395 126,393 176,391 225,391 275,390 324,390 373,391 423,393 472,393 522,391 571,393 621,393 670,390 719,390 769,391 818,390 868,390 917,390 967,390"/>
+                <TextEquiv>
+                    <Unicode>tonetum etboscum predicti Ricardi de Barelegha In Harelegh Ito quod painbulatio illa fiat pro cerap metas et dimisatas Et per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="24,430 971,428 866,391 24,403"/>
+                <Baseline points="31,426 78,426 125,425 172,425 219,425 266,425 313,423 361,423 408,424 455,425 502,425 549,425 596,426 643,425 691,426 738,425 785,425 832,423 879,423 926,423 974,421"/>
+                <TextEquiv>
+                    <Unicode>aubulacionem illam stire facart huc die sabbati proxtem prot festum pura be garie per quatuormiliter etca fosteta antem diem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="22,461 977,458 964,426 22,428"/>
+                <Baseline points="29,456 76,456 124,455 171,454 219,456 267,456 314,456 362,456 409,454 457,456 505,456 552,456 600,457 647,457 695,457 743,456 790,456 838,454 885,453 933,453 981,449"/>
+                <TextEquiv>
+                    <Unicode>illum vel edom de Hidenet Stephano de Lauurerlegh' Petr de Tuneton Willelmo de Leychton quatuormiliter quinter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="19,504 991,489 946,458 19,461"/>
+                <Baseline points="26,488 74,491 122,489 171,489 219,489 268,489 316,489 364,488 413,488 461,489 510,490 558,491 606,490 655,489 703,489 752,489 800,488 848,488 897,486 945,484 994,479"/>
+                <TextEquiv>
+                    <Unicode>fuerit pedite prombulacione Eui dicunt quod pamibulatio illa incip uel austrum a terra prioris In Keulok Iinter ostum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="16,523 969,520 969,495 790,489 16,501"/>
+                <Baseline points="23,522 70,522 117,522 165,521 212,521 260,521 307,522 355,521 402,519 450,519 497,519 544,521 592,520 639,518 687,518 734,518 782,516 829,516 877,516 924,514 972,516"/>
+                <TextEquiv>
+                    <Unicode>campum sactem sepem usque ad viriderm fepur magnum alium facta quod Ricaris fataras cerem et uoluerit ab alio per partien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="22,561 984,578 976,522 23,527"/>
+                <Baseline points="29,554 76,558 124,558 172,556 220,554 268,552 316,552 364,552 412,551 460,552 508,552 555,551 603,550 651,547 699,549 747,548 795,547 843,546 891,546 939,547 987,547"/>
+                <TextEquiv>
+                    <Unicode>illiuct bosci usqpue adm viridem quartum demde petedit per medam mariscum tboscum usque adeltam quartum et uicusque</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="24,603 605,605 39,604 605,605 69,604 605,605 90,604 605,605 115,604 605,605 132,604 201,563 24,561"/>
+                <Baseline points="31,582 57,586 84,587 110,587 137,586 163,587 190,585 217,586"/>
+                <TextEquiv>
+                    <Unicode>ardaliam quartum abbam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="605,605 230,604 605,605 256,604 605,605 264,604 605,605 275,604 605,605 281,604 605,605 286,604 605,605 296,604 605,605 303,604 310,562 223,563"/>
+                <Baseline points="229,586 257,586 285,586 313,586"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

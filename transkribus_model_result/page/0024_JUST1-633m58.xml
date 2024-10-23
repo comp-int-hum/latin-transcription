@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:16:59.226+02:00</Created>
+        <LastChange>2024-10-23T20:07:39.973+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893046" pageNr="24" tsid="195651061" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=QVMBZRZFXENBWYNJTXYJXSHX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GXPBRFFXUYLCRKUPALVVYQQI" imageId="66318852"/>
+    </Metadata>
+    <Page imageFilename="0024_JUST1-633m58.jpeg" imageWidth="1096" imageHeight="1073">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709212964" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 0,1050 1094,1050 1094,0"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="23,54 1059,37 1059,0 25,8"/>
+                <Baseline points="32,34 83,35 135,36 186,34 238,34 289,32 341,31 392,29 444,30 495,28 547,29 598,29 650,29 701,27 753,27 804,28 856,26 907,24 959,22 1010,21 1062,20"/>
+                <TextEquiv>
+                    <Unicode>silld' cok de Wrickeleswoth et libancea uxr eius Simoni le wasde et liberit ux eius Simon fili Iohannis Curteys</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="26,86 1051,75 1067,31 26,56"/>
+                <Baseline points="34,71 85,71 137,69 189,67 241,65 293,63 345,62 396,60 448,60 500,60 552,60 604,63 656,62 708,60 759,62 811,62 863,60 915,56 967,54 1019,54 1071,53"/>
+                <TextEquiv>
+                    <Unicode>et Matillis que fuit etre Roberti de Braelton suum fuerunt ad respindendum Willelmi Hron de Glapthou de placito quod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="18,118 852,113 1021,99 1047,59 18,80"/>
+                <Baseline points="25,106 76,103 127,101 178,100 229,98 281,96 332,95 383,95 434,95 485,93 537,95 588,95 639,96 690,95 741,96 793,96 844,94 895,92 946,90 997,87 1049,87"/>
+                <TextEquiv>
+                    <Unicode>pruncant prium presenare idoneam personam as ecclesiam de Sesburgh que vacat et ad onia seciat donacionem etc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="18,154 1089,128 1039,91 18,120"/>
+                <Baseline points="25,138 78,135 131,133 185,133 238,133 292,131 345,131 398,131 452,131 505,131 559,131 612,131 665,129 719,130 772,130 826,129 879,128 932,123 986,124 1039,124 1093,124"/>
+                <TextEquiv>
+                    <Unicode>Et unde ide Willelmus Groum dicit quod quindam Ricardus Hroin fuit seisite de uno mesuagio cum pertinentiis ini vesfurgh co¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="889,146 981,150 1003,142 1032,144 1033,124 1015,128 994,124 981,132 960,132 953,125 938,131 890,131"/>
+                <Baseline points="897,142 924,142 952,142 980,141 1008,139 1036,124"/>
+                <TextEquiv>
+                    <Unicode>adcandem etcham</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="19,189 1074,170 1074,135 19,154"/>
+                <Baseline points="27,169 79,166 132,165 184,165 237,164 289,164 342,164 394,164 447,164 499,164 552,164 605,164 657,163 710,163 762,162 815,162 867,162 920,162 972,160 1025,159 1078,157"/>
+                <TextEquiv>
+                    <Unicode>quod avocacio ecclesie predicte pertinet cepre pacis tempore dominie Rani domini Regis nunc et edem tempore presevanit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="22,223 1077,199 1052,163 22,188"/>
+                <Baseline points="29,202 81,200 134,199 186,199 239,199 291,197 344,199 396,197 449,195 501,196 554,195 607,195 659,195 712,197 764,197 817,197 869,197 922,197 974,195 1027,195 1080,193"/>
+                <TextEquiv>
+                    <Unicode>quendam Stephanum Grcoun clericum oumium quem ac presentaciom cuam fuit amissus et insttutus tepore pacis tempore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="384,218 423,216 436,226 448,215 461,218 467,212 482,212 483,195 471,197 464,192 451,201 442,199 437,203 415,204 407,200 385,203"/>
+                <Baseline points="391,213 422,213 454,210 486,207"/>
+                <TextEquiv>
+                    <Unicode>nohhe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="11,240 1088,238 1088,203 855,197 11,222"/>
+                <Baseline points="18,235 71,232 125,232 178,232 232,232 286,232 339,232 393,230 447,230 500,230 554,230 608,230 661,231 715,230 769,231 822,232 876,232 930,233 983,232 1037,232 1091,232"/>
+                <TextEquiv>
+                    <Unicode>eiusdem Regis te Et de ips Ricardo qua obut destendos suo etc cuioam Rogero ut fratri et herede qui quindem Rogerus ecclesia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="16,289 1081,286 1089,241 15,241"/>
+                <Baseline points="23,266 76,266 129,266 183,266 236,266 290,266 343,265 397,265 450,264 504,263 557,265 610,265 664,265 717,267 771,267 824,266 878,266 931,268 985,268 1038,268 1092,271"/>
+                <TextEquiv>
+                    <Unicode>predicta vacante per mortem predicti Stephani ad eandem ecclesiam presentavits quendam Willelmum Wilcoke clericum quum quam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="11,317 1082,313 1082,275 11,287"/>
+                <Baseline points="18,305 71,301 124,301 178,303 231,303 284,303 338,302 391,300 444,299 498,301 551,303 604,303 658,303 711,304 764,304 818,301 871,303 924,303 978,303 1031,305 1085,303"/>
+                <TextEquiv>
+                    <Unicode>at presentacionem suam fuit amissis et institutus tepore pacis tepore domini s r patris domini Regis nunc qui quidem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="8,358 1086,368 1086,320 924,306 8,325"/>
+                <Baseline points="16,343 69,338 123,338 177,338 230,338 284,338 338,338 391,338 445,338 499,338 553,338 606,339 660,338 714,339 767,339 821,338 875,338 928,336 982,338 1036,341 1090,345"/>
+                <TextEquiv>
+                    <Unicode>Rogerus de predicto mesuagio cum pertinentiis ad quod tc feoffant Willelmum Groun premert predicti Willelmi Groun cui hares ipere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="3,388 1090,384 830,340 3,363"/>
+                <Baseline points="10,376 64,374 118,372 172,374 226,374 281,374 335,374 389,374 443,374 497,374 552,372 606,373 660,373 714,375 768,376 823,375 877,376 931,376 985,378 1039,381 1094,380"/>
+                <TextEquiv>
+                    <Unicode>est qui quidem Willelmus ecclesia predicta vacante per moter predicti Willelmi ilcoke ad eandem ecclesiam presentavntur quendam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="4,415 1066,426 1064,392 824,381 3,388"/>
+                <Baseline points="12,411 64,409 117,409 170,410 223,411 276,411 329,411 381,412 434,412 487,413 540,411 593,411 646,411 699,413 751,413 804,413 857,413 910,413 963,414 1016,415 1069,418"/>
+                <TextEquiv>
+                    <Unicode>Stephanum Grom qui ad presentacioem gciam fuit admissus et instatatus tempore patis tepore Domini Nnunc per cuius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="0,449 1090,474 1079,421 0,412"/>
+                <Baseline points="7,446 61,444 115,444 170,444 224,446 278,447 333,447 387,447 441,447 496,449 550,449 604,447 659,447 713,449 767,449 822,448 876,449 930,449 985,451 1039,451 1094,447"/>
+                <TextEquiv>
+                    <Unicode>mortem ecclesia predicta modo racat Et de ips Willelmus Broun pratre uter descendo suos etcm sti Willelmo Broun vt filia herece</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="5,495 1066,502 1064,461 4,449"/>
+                <Baseline points="12,480 64,478 117,478 170,480 223,482 276,482 329,482 381,483 434,484 487,485 540,484 593,486 646,486 699,486 751,486 804,486 857,486 910,487 963,488 1016,489 1069,489"/>
+                <TextEquiv>
+                    <Unicode>quam nunc queritur et sic pertinet ad predictum Willelmum Wroun de Glapthoyn ad ecclesiam predictam presentare predicti Willelmus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="0,544 56,515 1066,542 1066,504 1003,490 0,494"/>
+                <Baseline points="3,511 56,513 109,515 162,517 216,517 269,518 322,518 376,520 429,521 482,522 536,522 589,523 642,524 695,526 749,524 802,524 855,524 909,526 962,526 1015,526 1069,528"/>
+                <TextEquiv>
+                    <Unicode>Sok alqua ipsum iniuste impediunt vnde dicit quod deciorum est t dampnum habet ad valentam viginti librarum Et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="0,561 49,557 68,564 124,554 152,564 189,557 207,565 230,557 229,531 196,543 172,524 128,539 112,530 91,536 69,524 0,534"/>
+                <Baseline points="5,550 30,550 55,550 81,548 106,549 131,550 157,551 182,552 207,552 233,552"/>
+                <TextEquiv>
+                    <Unicode>nisdue predncit teciam ut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="0,603 1063,599 1054,559 0,568"/>
+                <Baseline points="0,581 53,581 106,583 160,584 213,584 266,586 320,584 373,584 426,585 480,589 533,589 586,588 640,590 693,590 746,590 800,590 853,590 906,590 960,590 1013,592 1067,588"/>
+                <TextEquiv>
+                    <Unicode>Et predicti Willelmus sol Llancea Simon bilitia Simon et Matillis per Rogerum de Wrampton attornatum suum tenementum Et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="0,618 1066,636 1064,598 1013,595 0,604"/>
+                <Baseline points="5,614 58,616 111,617 164,617 217,619 270,619 323,618 376,619 429,621 482,623 536,621 589,625 642,625 695,625 748,626 801,626 854,626 907,626 960,626 1013,625 1067,625"/>
+                <TextEquiv>
+                    <Unicode>descardunt unum e sumuriam suande eco vdicunt quod ubi predictus Willelmus roun de Glapthoyun asserit predictam etlesam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="0,653 1078,670 1078,638 1002,628 0,643"/>
+                <Baseline points="7,652 60,650 114,652 168,652 222,652 275,652 329,654 383,656 437,656 490,656 544,657 598,658 652,659 705,659 759,659 813,661 867,663 920,661 974,661 1028,662 1082,661"/>
+                <TextEquiv>
+                    <Unicode>vacare per mortem predicti Stephani Uroum per predictum Willelmum Bron prevetm pius Willelmi Gron de Slapthton presentati</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="4,694 888,698 839,663 4,660"/>
+                <Baseline points="12,683 55,683 99,685 143,687 187,687 231,687 275,688 319,689 363,689 407,689 451,689 494,690 538,690 582,692 626,693 670,692 714,692 758,694 802,694 846,694 890,694"/>
+                <TextEquiv>
+                    <Unicode>eadem ecclesia non vacat per mortem eiusdem Stephani Et hoc pretendunt vificare unde peter sudm etc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="1,726 1043,751 1086,701 0,698"/>
+                <Baseline points="9,718 63,716 117,718 171,719 225,721 279,721 333,721 387,722 441,724 495,725 549,726 603,727 657,728 711,727 765,727 819,729 873,731 927,733 981,733 1035,734 1090,732"/>
+                <TextEquiv>
+                    <Unicode>Et idem Willelmus Groun de Glapthoyn dicit quod eadem ecclesia vacatur permortem eiusdem Stephani Et hoc petit quod inquirali</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="0,754 1067,781 1067,745 1005,734 0,727"/>
+                <Baseline points="7,753 60,751 113,753 166,754 219,755 273,757 326,756 379,756 432,757 485,757 539,760 592,761 645,762 698,762 751,762 805,765 858,765 911,765 964,767 1017,767 1071,767"/>
+                <TextEquiv>
+                    <Unicode>per patram Et predicti Willelmo cok et ali milis Ine preceptr est viter quod venire facit hi de sabti proxima post octabas pur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="0,799 1078,809 1044,773 0,751"/>
+                <Baseline points="0,786 54,784 108,786 162,789 216,789 270,789 324,791 378,791 432,791 486,792 541,794 595,795 649,796 703,795 757,797 811,799 865,801 919,802 973,802 1027,804 1082,802"/>
+                <TextEquiv>
+                    <Unicode>beat Marie 2 tc per quos etc Et qui nec tec ad recogn tc qua tam  l quem diem Remnti pres predicte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="0,839 1089,851 1089,804 0,802"/>
+                <Baseline points="5,813 59,817 113,818 168,820 222,822 277,824 331,824 385,826 440,826 494,828 549,829 603,829 657,831 712,831 766,831 821,834 875,835 929,836 984,836 1038,838 1093,840"/>
+                <TextEquiv>
+                    <Unicode>et oimius iuratoris de consensu pertinent elici quam dicunt super sacrum uum quod ecclesia predicta vacatur per mertem predicti Stephan¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="0,855 1089,873 0,830"/>
+                <Baseline points="5,846 59,848 113,851 168,853 222,853 277,855 331,857 385,857 440,859 494,860 549,862 603,862 657,864 712,864 766,866 821,868 875,868 929,869 984,870 1038,870 1093,870"/>
+                <TextEquiv>
+                    <Unicode>presentati per Willelmum Groun preum ipsius Willelmi quam nunc queritur etc se conru est quo predictus Willelmus Gron de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="7,892 1092,912 1048,874 7,866"/>
+                <Baseline points="14,877 68,881 122,882 176,884 230,888 284,890 338,892 392,890 446,892 500,893 554,893 608,895 662,897 716,899 770,901 824,901 878,902 932,903 986,903 1040,904 1094,899"/>
+                <TextEquiv>
+                    <Unicode>Glapthou recuperet presentacionem suam ad predictam ecclesiam et habeat berete sert loci quod n ostami reclamacione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="7,931 1022,964 1088,917 5,892"/>
+                <Baseline points="14,912 67,912 121,914 175,918 229,920 283,922 336,924 390,925 444,926 498,927 552,928 605,930 659,932 713,932 767,934 821,935 874,937 928,937 982,939 1036,939 1090,937"/>
+                <TextEquiv>
+                    <Unicode>predictorum Willelmi sok Alancie Simonis Nilic Simonis et Matillis ad presentacionem predicti Willelmi Grun de Glapthoyn'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="14,952 1077,984 996,943 14,931"/>
+                <Baseline points="21,945 73,946 126,948 179,949 232,952 285,955 338,958 390,959 443,961 496,961 549,963 602,965 655,966 708,968 760,968 813,972 866,974 919,974 972,976 1025,977 1078,976"/>
+                <TextEquiv>
+                    <Unicode>ad predictam ecclesiam soneam personam admicatum Et predicti Willelmus solis lilatra Simon et beatam Simon Matilli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="7,983 23,981 41,986 56,981 74,984 79,981 84,987 98,991 117,984 117,957 103,957 94,965 74,952 53,957 46,950 42,953 29,950 18,957 7,956"/>
+                <Baseline points="14,976 40,976 67,977 93,977 120,979"/>
+                <TextEquiv>
+                    <Unicode>tr un etc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="4,1036 946,1060 979,1013 1,979"/>
+                <Baseline points="10,1009 58,1010 107,1012 155,1016 204,1016 253,1018 301,1019 350,1021 399,1023 447,1025 496,1028 545,1030 593,1030 642,1030 691,1034 739,1032 788,1034 837,1036 885,1040 934,1039 983,1030"/>
+                <TextEquiv>
+                    <Unicode>Nicholai de Sampn quid predictus Willelms Groun de Glapthorpe gratis remertit ea eis hic in curia tc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

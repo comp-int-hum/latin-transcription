@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:15.042+02:00</Created>
+        <LastChange>2024-10-23T20:07:42.714+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893693" pageNr="45" tsid="195651130" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=AHKNPHEUMFWFXGZSBSRBIOXD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KAUSHMYQCBMQGKEIKFSCCGSZ" imageId="66319213"/>
+    </Metadata>
+    <Page imageFilename="0045_JUST1-734m4da.jpeg" imageWidth="998" imageHeight="1030">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709214211" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="13,18 13,1013 996,1013 996,18"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="6,85 993,47 995,0 9,47"/>
+                <Baseline points="14,68 63,69 112,70 161,68 210,64 259,62 308,61 357,59 406,57 455,55 505,53 554,52 603,48 652,46 701,44 750,43 799,41 848,41 897,39 946,38 996,39"/>
+                <TextEquiv>
+                    <Unicode>Willelmus de Barotape Iomnem fuit ad respondendum obbati de Lillexhulle de R qpre secit Wasterium uonuericionem in feosco</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="6,117 942,88 965,49 7,85"/>
+                <Baseline points="13,109 60,109 108,110 155,107 203,104 251,101 298,99 346,98 394,94 441,94 489,93 537,91 584,88 632,85 680,82 727,80 775,78 823,76 870,74 918,74 966,73"/>
+                <TextEquiv>
+                    <Unicode>de Tonge Frupnum idem abbas in futur habere possit saconabile est omerium omnium ad Trangam suam de le Mard</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="10,162 961,130 978,85 11,119"/>
+                <Baseline points="16,143 64,143 112,143 160,141 208,136 257,131 305,129 353,128 401,128 449,126 498,125 546,123 594,120 642,118 690,117 739,115 787,112 835,111 883,109 931,108 980,106"/>
+                <TextEquiv>
+                    <Unicode>quod i eo babere et licicuor dictr soluet etcer Et umnde predictus abbats quem quod cum ipse et omnes antecessores sui afindatione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="22,186 944,163 978,123 23,156"/>
+                <Baseline points="29,178 76,176 124,175 171,173 219,167 266,164 314,161 361,161 409,161 456,158 504,158 552,156 599,154 647,151 694,149 742,148 789,145 837,142 884,141 932,143 980,143"/>
+                <TextEquiv>
+                    <Unicode>predicte Ecclesie sue de Lilleabille sonper fuerit In coonia de habendo prectorabilia estconeria in predicto Roberto deconge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="15,238 989,181 903,144 17,188"/>
+                <Baseline points="23,212 71,211 120,212 168,207 217,204 265,201 314,199 362,197 411,194 459,192 508,190 556,189 605,186 653,182 702,181 750,181 799,179 847,178 896,176 944,176 993,173"/>
+                <TextEquiv>
+                    <Unicode>ad predictam E Angiam futerii de Leeard scilicet ad erdendum edificandum et culendum ex dono et contessiore tndet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="224,245 891,225 973,214 974,184 225,211"/>
+                <Baseline points="231,236 268,234 305,232 342,230 380,227 417,225 454,222 491,222 529,222 566,221 603,217 640,216 678,216 715,216 752,214 789,214 827,214 864,210 901,207 938,207 976,206"/>
+                <TextEquiv>
+                    <Unicode>Aofrt liertd de Htecupt cnoneram uxor predicti Willelmi predicto Willelmo fecit Wast</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="22,281 951,262 963,215 275,249 23,226"/>
+                <Baseline points="29,271 75,272 122,272 169,269 216,267 263,267 309,267 356,265 403,262 450,261 497,260 543,257 590,257 637,257 684,254 731,254 777,251 824,249 871,247 918,246 965,246"/>
+                <TextEquiv>
+                    <Unicode>et vendicione in predicto Rofeto quoninam idem abbatas et antecessores siui litere pecant ponrabild ostonerta sud in¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="18,333 960,286 885,247 21,283"/>
+                <Baseline points="26,307 72,308 119,307 166,307 213,304 259,304 306,301 353,298 400,296 446,296 493,294 540,291 587,291 633,289 680,288 727,287 774,286 820,284 867,284 914,281 961,279"/>
+                <TextEquiv>
+                    <Unicode>bosco illo itea ee quod nesrem ballis dedit de eodem Fosco Ed gilla queptium et uria gilia uenerit et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="32,362 901,345 966,284 33,327"/>
+                <Baseline points="39,346 85,347 131,344 178,343 224,342 271,339 317,337 364,334 410,333 457,331 503,329 549,327 596,324 642,326 689,324 735,322 782,321 828,317 875,317 921,314 968,309"/>
+                <TextEquiv>
+                    <Unicode>eos acpre Dosui illius assarartauit et in ealturam rodegit unde dict quod docerioratu est et dampnum hact</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="33,397 404,390 407,345 367,340 36,365"/>
+                <Baseline points="41,386 67,385 93,384 119,383 146,381 172,380 198,378 225,377 251,376 277,375 303,374 330,372 356,371 382,367 409,367"/>
+                <TextEquiv>
+                    <Unicode>et iuitur biebit ad vabentem pl p liccto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="27,429 967,414 981,377 28,394"/>
+                <Baseline points="34,424 81,424 128,420 176,418 223,415 271,415 318,415 366,413 413,409 461,407 508,406 555,404 603,404 650,404 698,405 745,403 793,404 840,402 888,401 935,399 983,397"/>
+                <TextEquiv>
+                    <Unicode>et Willelmus wene et des endem uuni et duiutum quando ec Et dictus quod nono deliet ad hoc bbe rosponde Cunu dicit quod Iftenum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="33,468 960,431 883,403 34,433"/>
+                <Baseline points="41,457 87,459 133,455 179,454 225,452 271,450 317,450 363,447 409,447 455,444 502,443 548,441 594,439 640,439 686,437 732,435 778,436 824,436 870,434 916,430 963,430"/>
+                <TextEquiv>
+                    <Unicode>berstre novum est et huauerditum et comintam gacinem formatum dic comnei quod boscis ille est soluteo m ipsiues Willelmi et dict</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="39,514 967,473 954,431 41,471"/>
+                <Baseline points="46,490 92,490 138,490 184,488 230,486 277,484 323,484 369,480 415,477 461,477 508,477 554,475 600,474 646,472 692,472 739,472 785,473 831,471 877,469 923,467 970,464"/>
+                <TextEquiv>
+                    <Unicode>quod predictus allas bec et bere potest ramonabilia estiueria sua in predicto bosco ad predictam Grangiam eo quod predictus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="39,539 971,506 965,469 41,511"/>
+                <Baseline points="46,529 92,527 138,525 185,524 231,524 278,522 324,517 371,515 417,514 464,510 510,510 556,509 603,509 649,507 696,505 742,505 789,505 835,505 882,503 928,500 975,497"/>
+                <TextEquiv>
+                    <Unicode>brosictus durat per quinque lentas et In predicta Grangda nono est igi uincum asbiatum uel duo ad plus et decimt mi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="42,582 810,557 941,547 942,520 43,536"/>
+                <Baseline points="48,562 92,560 137,559 182,559 227,557 272,557 317,555 361,554 406,551 451,550 496,547 541,547 586,545 631,544 675,540 720,539 765,537 810,537 855,536 900,534 945,532"/>
+                <TextEquiv>
+                    <Unicode>licrt et berere potest hi predicto Bolco quicquid si nocosse fuerit ad Hucebote et heredibus bote si deboccat ei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="43,614 922,584 942,546 44,578"/>
+                <Baseline points="51,600 95,597 140,595 184,594 229,593 274,592 318,590 363,587 407,586 452,585 497,582 541,580 586,580 630,577 675,575 720,574 764,574 809,574 853,571 898,569 943,567"/>
+                <TextEquiv>
+                    <Unicode>rosponde de tempore fuito Et qi aliquo mode possit uel debeat ipsum impedire uel defende quin possit ape</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="36,651 828,629 926,585 37,622"/>
+                <Baseline points="44,637 88,633 132,632 176,630 221,628 265,627 309,625 354,622 398,622 442,621 487,619 531,615 575,614 619,613 664,610 708,610 752,607 797,607 841,606 885,602 930,599"/>
+                <TextEquiv>
+                    <Unicode>ostonerina sua in predicto bosco furo propo pro uoluntate sua et bene dare uel uonde caliis amen predicto Abbati</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="36,679 127,670 149,686 318,665 388,670 390,635 326,643 278,630 229,650 107,634 37,646"/>
+                <Baseline points="43,670 69,668 96,667 123,667 150,667 176,667 203,666 230,665 257,665 283,664 310,662 337,659 364,658 391,653"/>
+                <TextEquiv>
+                    <Unicode>gorabilibu conoruo cuis inboco illo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="32,710 784,695 979,671 982,623 460,628 367,676 33,679"/>
+                <Baseline points="39,703 86,703 133,702 180,700 227,700 275,698 322,694 369,690 416,686 463,683 511,683 558,680 605,678 652,675 699,676 747,674 794,673 841,669 888,668 935,668 983,663"/>
+                <TextEquiv>
+                    <Unicode>Et predicto Aao ban Coni quod predicto Roscius est boscis prius ipsius Willelmi et quod in eo ape pastis et delio saminablia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="31,750 977,708 978,673 886,671 33,710"/>
+                <Baseline points="39,740 86,738 133,737 180,735 227,732 274,729 321,728 368,726 415,723 462,722 509,720 556,715 603,713 650,712 697,711 744,709 791,707 838,703 885,702 932,698 980,695"/>
+                <TextEquiv>
+                    <Unicode>Nomenam cund ome pasco in boso duo propto clis annei eidem Abbati et succesoribus sue sonabilibus esdleri¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="34,778 973,741 963,703 36,746"/>
+                <Baseline points="41,773 87,772 134,773 181,770 228,767 274,765 321,765 368,763 415,760 461,757 508,755 555,753 602,748 648,747 695,746 742,742 789,742 835,740 882,737 929,735 976,733"/>
+                <TextEquiv>
+                    <Unicode>suis in eodem bogio ad predictam Traugam suam dimi omni quod predicta ecclesia sua de Lillabill afucipio fui¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="37,821 936,785 961,750 38,779"/>
+                <Baseline points="44,803 89,805 135,803 181,802 227,800 273,798 319,797 364,795 410,790 456,790 502,787 548,787 594,785 640,785 685,783 731,778 777,774 823,773 869,773 915,772 961,770"/>
+                <TextEquiv>
+                    <Unicode>dicionis sue dotata fuit de predictis estouerins capiendis in predicto Fosco ipeogualiter et dicictus quod predictus Willelmus non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="45,850 928,805 929,778 789,774 47,812"/>
+                <Baseline points="53,835 96,833 140,832 184,830 228,828 272,828 316,826 360,823 404,822 448,821 492,819 535,817 579,817 623,817 667,815 711,812 755,808 799,805 843,804 887,802 931,798"/>
+                <TextEquiv>
+                    <Unicode>sominabus capit eOstonera una in bosco illo unino dictie quod ipse Willelmus vendidit et dedit de Holsco illo ad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="45,887 919,843 904,806 47,850"/>
+                <Baseline points="53,866 96,863 139,861 183,859 226,858 270,856 313,855 356,852 400,850 443,848 487,847 530,845 573,846 617,848 660,847 704,846 747,843 790,841 834,840 877,838 921,833"/>
+                <TextEquiv>
+                    <Unicode>corinam destracionem bosci illius ia quo xturpant quandam eagnam partem bosci illius quetest</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="47,920 381,885 891,891 944,880 945,844 47,886"/>
+                <Baseline points="54,896 98,893 143,891 187,890 232,887 277,886 321,885 366,881 410,880 455,878 500,875 544,875 589,874 633,876 678,878 723,878 767,875 812,873 856,872 901,870 946,871"/>
+                <TextEquiv>
+                    <Unicode>propinquior predicte Grdigie ipsius Abbatis libri comodins apere solobat predicta stoneria sua nihli in parpte illa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="53,939 909,923 950,883 53,908"/>
+                <Baseline points="59,925 103,926 148,925 192,923 237,921 281,920 326,920 370,917 415,916 459,915 504,911 549,910 593,911 638,911 682,911 727,911 771,908 816,907 860,906 905,906 950,906"/>
+                <TextEquiv>
+                    <Unicode>reolugunendo Eo si tle uasterium passio fibe in predicto Roso parciculatim et sunos me de anno in dnnum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="58,971 605,956 741,983 901,966 940,913 58,945"/>
+                <Baseline points="64,965 110,965 156,964 202,962 249,958 295,956 341,955 387,952 434,952 480,949 526,948 572,948 619,950 665,948 711,946 757,945 804,942 850,941 896,940 943,940"/>
+                <TextEquiv>
+                    <Unicode>abcqueaberimo remodio quod bibere Domini posset siam isra pances annos destruereatr predictus Fobeais pro quod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="69,1006 162,1017 342,993 420,1020 479,997 541,1011 603,988 605,960 70,978"/>
+                <Baseline points="76,1003 102,1001 129,1001 155,1000 182,1000 208,996 235,996 261,995 288,993 314,991 341,991 368,989 394,988 421,987 447,986 474,985 500,984 527,985 553,985 580,985 607,985"/>
+                <TextEquiv>
+                    <Unicode>predicta Otonerta sua sibi et successoribus suis ponter deprent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

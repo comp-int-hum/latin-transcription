@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:18:02.922+02:00</Created>
+        <LastChange>2024-10-23T20:07:49.216+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80894199" pageNr="96" tsid="195651177" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=HWAIRTHFZLIYNPJCXFTUZXGT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NGYELFMZTAQDUTFCFTMXAWET" imageId="66319934"/>
+    </Metadata>
+    <Page imageFilename="0096_JUST1-235m13.png" imageWidth="938" imageHeight="835">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709215114" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="12,14 12,805 930,805 930,14"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="6,56 911,42 897,0 7,18"/>
+                <Baseline points="12,51 57,50 102,48 147,46 192,45 237,43 282,43 327,40 372,40 417,42 463,42 508,42 553,43 598,43 643,43 688,40 733,40 778,37 823,35 868,35 914,34"/>
+                <TextEquiv>
+                    <Unicode>Willelmus de Chidegate apud per berem domini r Willemum Thora Iocen haket Ricardum Haibet Thomae Thor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="8,103 798,105 914,90 915,45 8,76"/>
+                <Baseline points="14,92 59,92 104,90 149,87 194,84 239,82 284,81 330,79 375,81 420,81 465,81 510,81 555,83 600,83 646,82 691,80 736,78 781,78 826,76 871,78 917,76"/>
+                <TextEquiv>
+                    <Unicode>et Iobnnem festiarius quod ue fuit in pace domini re apud Westurokum dnde hostitum Eequine predicti Willemi cta¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="806,134 828,121 849,138 868,121 880,129 893,125 902,128 901,87 881,80 860,99 844,86 835,87 826,95 802,88"/>
+                <Baseline points="810,114 842,116 874,118 906,120"/>
+                <TextEquiv>
+                    <Unicode>groo Sectu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="11,147 781,137 793,89 11,104"/>
+                <Baseline points="18,136 56,135 95,132 134,129 173,126 212,123 251,123 289,120 328,118 367,118 406,119 445,118 484,117 523,119 561,120 600,120 639,120 678,120 717,119 756,118 795,116"/>
+                <TextEquiv>
+                    <Unicode>Rorem Soegprapin die Ueneris Pxima ante festum sancti Iohannis Antde poram latimam Anno e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="445,142 462,149 476,140 481,145 496,144 502,148 519,142 536,146 555,142 555,128 542,129 532,120 522,120 506,128 490,119 475,127 445,131"/>
+                <Baseline points="451,140 477,139 504,140 531,140 558,140"/>
+                <TextEquiv>
+                    <Unicode>et aligaerint</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="19,210 355,160 410,190 529,159 901,174 902,133 20,147"/>
+                <Baseline points="25,181 68,176 112,174 156,172 200,170 244,167 288,163 332,161 376,159 420,159 464,159 507,162 551,159 595,157 639,157 683,158 727,159 771,159 815,158 859,156 903,157"/>
+                <TextEquiv>
+                    <Unicode>predicti Willelmus et alii et ipsum ceperunt et inpresonauint in Curia einsdem Willelmi et ipsum in fsona de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="11,235 626,201 854,224 903,168 470,162 242,199 184,174 11,208"/>
+                <Baseline points="17,222 61,220 105,217 150,212 194,210 239,208 283,207 327,204 372,203 416,201 461,200 505,201 549,201 594,200 638,199 683,198 727,198 771,199 816,198 860,197 905,198"/>
+                <TextEquiv>
+                    <Unicode>tonuerunt pre duos diet quousque delibatus fuit per habe domini r et cum ipsum abire permiserunt predictum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="17,273 894,257 895,205 18,237"/>
+                <Baseline points="23,264 66,262 110,259 154,255 197,253 241,251 285,248 328,248 372,246 416,243 460,243 503,243 547,242 591,242 634,242 678,240 722,239 765,239 809,237 853,236 897,236"/>
+                <TextEquiv>
+                    <Unicode>Willemum uebauerint et maletraitauerint contra pacem etc Et quod hoc fecit nequitu et inslone et cni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="23,337 52,331 95,304 140,325 184,320 214,298 263,297 266,266 252,269 236,257 162,275 127,263 82,269 61,285 50,275 27,279"/>
+                <Baseline points="31,308 57,304 83,303 109,301 135,300 161,299 187,296 213,293 239,292 265,289"/>
+                <TextEquiv>
+                    <Unicode>Predetim dmn Nosffiem et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="19,364 593,333 771,356 914,331 915,288 362,287 191,328 77,310 19,347"/>
+                <Baseline points="25,354 69,353 114,351 158,350 203,347 248,345 292,341 337,338 381,336 426,334 471,334 515,334 560,333 604,333 649,332 694,331 738,331 783,329 827,326 872,326 917,325"/>
+                <TextEquiv>
+                    <Unicode>Et Willelmus Thort Iocens et ad uen et defendio felomam inpresondium et qui quid est contra predicte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="26,409 885,384 915,339 27,363"/>
+                <Baseline points="32,398 76,395 120,394 164,390 209,389 253,385 297,383 341,381 386,379 430,376 474,376 518,373 563,372 607,372 651,371 695,370 740,370 784,369 828,367 872,365 917,364"/>
+                <TextEquiv>
+                    <Unicode>domini r Et perteuint e allocari quod quado hoc fectum frieri debuit uitest non fuit fenatum in uincquam preita</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="26,445 750,433 906,382 27,414"/>
+                <Baseline points="32,440 75,438 119,436 163,433 207,431 251,428 294,426 338,425 382,423 426,421 470,420 513,417 557,415 601,414 645,411 689,410 732,408 776,408 820,406 864,406 908,401"/>
+                <TextEquiv>
+                    <Unicode>in Comae presentacim Et quia hoc commitum per Toroma E Iur consodi est quod appstolium eius nmillum et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="32,504 349,467 885,473 902,401 750,434 34,450"/>
+                <Baseline points="39,483 82,480 125,476 168,474 211,471 254,468 297,469 341,465 384,464 427,462 470,462 513,461 556,458 599,456 643,453 686,451 729,450 772,449 815,447 858,447 902,444"/>
+                <TextEquiv>
+                    <Unicode>quinda ac prec perpat dominis dobruonidum inqurtam uictat per puaoaum Et huis dicict ec cad siem de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="33,538 531,508 594,531 636,503 898,501 901,469 34,497"/>
+                <Baseline points="39,528 82,523 125,519 168,516 211,514 254,511 297,509 341,508 384,508 427,508 470,507 513,506 556,503 599,501 643,498 686,497 729,496 772,494 815,492 858,490 902,489"/>
+                <TextEquiv>
+                    <Unicode>sibt fuit de inpresonamento st non de uerbatura se conodum est quod predictus Walleus de Chidegate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="31,566 730,555 727,501 636,503 590,533 363,510 32,540"/>
+                <Baseline points="37,566 71,563 106,561 141,558 176,556 211,555 246,553 280,551 315,550 350,549 385,548 420,548 455,548 490,547 524,547 559,545 594,544 629,542 664,539 699,538 734,539"/>
+                <TextEquiv>
+                    <Unicode>committatur Geoke pro filio appotolio Et predicti Willelmus Torel et alii tustoda prt terra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="31,614 212,598 259,638 364,592 485,619 664,589 808,628 921,598 922,540 31,589"/>
+                <Baseline points="37,611 81,606 125,602 170,598 214,596 258,596 303,594 347,592 391,591 436,591 480,591 524,589 569,589 613,588 657,585 702,583 746,581 790,579 835,576 879,572 924,569"/>
+                <TextEquiv>
+                    <Unicode>Et Ricardo le Clmerto TIohannes festhard non den Et predictus Willelmus Corel mannorum hacce ips corum Iuficiis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="33,655 52,662 84,651 156,650 180,642 209,654 237,641 241,602 194,599 136,619 114,607 36,619"/>
+                <Baseline points="40,650 68,648 96,645 125,642 153,638 182,637 210,636 239,634"/>
+                <TextEquiv>
+                    <Unicode>qu nuam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="37,715 910,662 912,618 754,611 40,667"/>
+                <Baseline points="45,689 88,687 131,684 175,682 218,678 262,677 305,675 349,672 392,669 436,667 479,667 522,664 566,661 609,659 653,658 696,655 740,652 783,651 827,648 870,645 914,645"/>
+                <TextEquiv>
+                    <Unicode>Fost uenu predictus Wilelmus Chorel et finem feti pro se et omnibus aliis appostolicis per E cobdo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="45,751 51,751 58,757 72,754 78,759 84,759 104,740 118,744 119,707 111,707 103,701 95,703 92,699 86,704 72,704 53,719 46,719"/>
+                <Baseline points="53,728 86,728 120,727"/>
+                <TextEquiv>
+                    <Unicode>per Prilipo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="44,822 129,794 181,822 271,792 835,791 927,765 929,724 46,760"/>
+                <Baseline points="51,795 97,793 143,789 189,788 236,785 282,784 328,785 374,783 421,782 467,782 513,780 559,778 606,774 652,772 698,769 744,767 791,764 837,761 883,756 930,755"/>
+                <TextEquiv>
+                    <Unicode>Nost uenint predicto Willelmus de Eudegate et finem feit pro dimiti nostre per prsta Henrici de Heltheton</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

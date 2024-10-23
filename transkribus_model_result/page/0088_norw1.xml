@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:50.376+02:00</Created>
+        <LastChange>2024-10-23T20:07:48.253+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893994" pageNr="88" tsid="195651173" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=SSQOLEFHSPPZDDLZQISISAUD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZUURBCFZXYDAHZAQEFPSXRMT" imageId="66319703"/>
+    </Metadata>
+    <Page imageFilename="0088_norw1.jpg" imageWidth="1260" imageHeight="216">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709215029" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="578,25 578,111 1010,111 1010,25"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="664,59 715,53 747,76 765,60 796,67 804,59 825,76 859,59 874,71 891,58 943,71 942,11 832,16 814,27 765,0 663,12"/>
+                <Baseline points="668,48 693,48 718,49 743,50 768,51 793,52 818,52 843,50 868,50 893,50 918,51 944,52"/>
+                <TextEquiv>
+                    <Unicode>tum iuper nochi cturta nostra coxa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="574,104 612,90 678,119 720,107 751,123 785,98 826,128 924,102 952,126 1008,101 1007,62 824,76 766,60 747,75 715,54 572,59"/>
+                <Baseline points="578,88 603,88 628,88 654,88 679,89 705,90 730,92 755,94 781,94 806,95 832,96 857,97 882,98 908,98 933,100 959,100 984,100 1010,100"/>
+                <TextEquiv>
+                    <Unicode>ei dnen epaus predicti presbibus idem Ericion</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

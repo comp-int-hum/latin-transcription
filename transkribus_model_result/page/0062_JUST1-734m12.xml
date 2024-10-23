@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:25.041+02:00</Created>
+        <LastChange>2024-10-23T20:07:44.885+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893418" pageNr="62" tsid="195651119" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=ARWMUQWUVCOULOECQPRFSSLB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AMPQPKSWXXIFCZXLCQDJYQOB" imageId="66319497"/>
+    </Metadata>
+    <Page imageFilename="0062_JUST1-734m12.jpeg" imageWidth="1012" imageHeight="858">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709214461" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="10,22 10,847 1006,847 1006,22"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="9,75 973,64 975,17 10,0"/>
+                <Baseline points="15,52 63,59 111,58 159,60 207,58 255,58 303,57 351,53 399,52 447,48 496,47 544,43 592,43 640,43 688,43 736,44 784,45 832,44 880,43 928,43 977,42"/>
+                <TextEquiv>
+                    <Unicode>i Waltemus Fntapale qui turit brete Ass gata autent nern Willelmum Fithogale de Rb ario terrordimidim et dimidia acam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="6,114 971,93 948,49 7,75"/>
+                <Baseline points="13,96 61,101 109,102 157,101 205,100 253,98 301,96 349,93 397,91 445,89 493,87 541,87 589,85 637,85 685,87 733,87 781,86 829,85 877,85 925,82 974,82"/>
+                <TextEquiv>
+                    <Unicode>loris cum pretinetiis in Lalmbermum non Est grasi Beripe et petes sui depns in mone salicet ocborians de Corneshale et obbtus deKtehullet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="5,173 961,152 954,112 737,96 6,114"/>
+                <Baseline points="13,155 60,153 108,151 155,151 203,150 250,146 298,146 345,144 393,143 440,141 488,143 536,141 583,139 631,138 678,138 726,138 773,138 821,136 868,138 916,139 964,136"/>
+                <TextEquiv>
+                    <Unicode>salutem uen fat s Walterus Haket Iniste et dissenis Iohannem de Brondone de Communa pasture sue Iin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="6,202 983,199 985,143 7,169"/>
+                <Baseline points="13,192 61,191 110,190 159,190 207,188 256,187 305,183 353,183 402,180 451,178 500,178 548,178 597,176 646,176 694,176 743,175 792,175 840,176 889,178 938,180 987,178"/>
+                <TextEquiv>
+                    <Unicode>Egartiona que pertinet ad liberum tenementum somnum in Hrondon Et uine cul quod diciuem eum de comma pasture sue ¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="5,253 613,213 981,238 959,185 6,202"/>
+                <Baseline points="13,230 61,231 110,233 158,231 207,230 255,227 304,224 352,220 401,219 449,217 498,215 547,215 595,214 644,213 692,214 741,214 789,214 838,217 886,217 935,219 984,220"/>
+                <TextEquiv>
+                    <Unicode>Idam foruera que continet Triginta et sex acra in qua solebat communcare cum omnimode anne sine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="7,301 850,263 838,232 677,217 9,249"/>
+                <Baseline points="16,273 57,274 99,273 141,271 183,270 225,269 267,266 309,263 351,261 393,259 435,257 476,256 518,253 560,252 602,251 644,251 686,251 728,251 770,252 812,253 854,252"/>
+                <TextEquiv>
+                    <Unicode>per totum annum quonsus predicto Waltero predictam Frueram assartanit et in cult uora redecit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="2,321 959,306 935,252 4,305"/>
+                <Baseline points="10,315 57,315 105,316 152,318 200,318 248,316 295,314 343,311 390,308 438,306 486,303 533,303 581,300 628,300 676,299 724,298 771,296 819,295 866,296 914,296 962,294"/>
+                <TextEquiv>
+                    <Unicode>Et predictus Waletus uenit et dicit quod predictus Iobannis humiste tulit assertum istam Et ia dic quod predicto Iohannes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="9,366 845,363 970,347 971,318 9,332"/>
+                <Baseline points="15,355 65,357 115,359 166,359 216,359 267,357 317,353 368,350 418,347 469,345 519,343 570,342 620,340 671,338 721,338 772,338 822,337 873,335 923,333 974,332"/>
+                <TextEquiv>
+                    <Unicode>est libere tenens sunis in predicto sauerio suo in Rrendon de quo ipse Waltero est capitali dominus Et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="9,401 967,381 939,341 10,368"/>
+                <Baseline points="16,394 63,397 111,397 159,397 206,397 254,395 302,391 349,389 397,387 445,386 493,384 540,384 588,382 636,382 683,381 731,381 779,382 826,380 874,379 922,377 970,374"/>
+                <TextEquiv>
+                    <Unicode>dict quod ipse per constitucionem de gortona appopeuaint predictam Kruerum de vasto suo in predicto ganerio suo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="5,442 971,428 968,380 6,410"/>
+                <Baseline points="13,431 61,436 109,436 157,436 205,435 253,434 301,430 349,429 397,426 445,426 493,424 541,426 589,426 637,425 685,424 733,423 781,421 829,422 877,421 925,421 974,419"/>
+                <TextEquiv>
+                    <Unicode>calua eidem Ibunem confficienti pastura ad predictum tenementum ipsius Iohannis in eadem uilla et libero Hugrum et rogapu ad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="4,490 978,481 991,428 5,459"/>
+                <Baseline points="10,470 59,473 108,475 157,475 206,475 256,471 305,470 354,470 403,468 452,466 502,465 551,465 600,465 649,465 698,466 748,465 797,466 846,466 895,466 944,468 994,468"/>
+                <TextEquiv>
+                    <Unicode>gande et quod idem Iohannes preter assartam illud de quo que hobmant sufficientem pasturam ad tenementum suum in predicti Willelmo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="14,529 1003,514 899,470 14,495"/>
+                <Baseline points="20,509 69,514 118,517 167,519 217,517 266,513 315,510 365,509 414,506 463,505 513,504 562,504 611,504 660,505 710,505 759,507 808,507 858,507 907,507 956,509 1006,510"/>
+                <TextEquiv>
+                    <Unicode>ponit resuper absam Preteroa dictit quod muillam dissersinam oilane focit Qua dict quod si aliquas dictus sne Fatafui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="11,574 991,565 982,514 11,531"/>
+                <Baseline points="18,552 66,555 115,555 164,554 212,554 261,551 310,549 358,547 407,546 456,543 505,541 553,541 602,542 651,542 699,542 748,543 797,544 845,542 894,544 943,546 992,544"/>
+                <TextEquiv>
+                    <Unicode>facta fuit per quandam Marcerem gatiem suam cum herces ipse est anquamam predictum Manerium de Brondone tenuit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="9,597 102,616 220,598 249,613 306,607 337,591 380,606 448,595 449,556 266,580 165,558 102,577 9,575"/>
+                <Baseline points="16,593 41,596 67,596 92,596 118,596 143,596 169,595 195,593 220,591 246,591 271,589 297,589 323,589 348,589 374,586 399,586 425,586 451,584"/>
+                <TextEquiv>
+                    <Unicode>Et non per ipsium Tadehot peuit se super assaem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="11,646 886,649 987,637 988,601 12,602"/>
+                <Baseline points="18,635 66,632 115,632 163,632 212,633 261,632 309,630 358,630 407,630 455,628 504,627 553,627 601,627 650,627 699,628 747,628 796,628 845,628 893,628 942,628 991,623"/>
+                <TextEquiv>
+                    <Unicode>Iure dicunt quod predictus Waltero non disbonis predictum Iohannem de predicta communa quna dicunt quod predicta Argeria at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="16,686 973,670 966,634 16,645"/>
+                <Baseline points="23,670 70,672 118,674 166,674 213,670 261,669 309,669 356,667 404,665 452,664 500,662 547,662 595,660 643,660 690,663 738,664 786,664 833,665 881,667 929,665 977,660"/>
+                <TextEquiv>
+                    <Unicode>predicti Walteri domini tenuit predictum Cangeium de Erendon assartait predictam brueram et Incultunrm redegit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="16,727 961,716 973,682 17,687"/>
+                <Baseline points="23,714 70,714 118,714 165,714 213,714 261,713 308,712 356,709 403,706 451,704 499,702 546,701 594,696 641,697 689,699 737,701 784,702 832,702 879,702 927,702 975,701"/>
+                <TextEquiv>
+                    <Unicode>Doinc Elesia quod predictus Wablleus est Capiualis dominus predicti Manerii de Wrendone et predicto Robates libere tonene suis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="20,762 854,758 968,745 970,713 21,725"/>
+                <Baseline points="26,751 73,754 120,754 167,753 215,751 262,750 309,746 357,746 404,745 451,742 499,740 546,740 593,738 640,738 688,740 735,740 782,740 830,739 877,736 924,736 972,733"/>
+                <TextEquiv>
+                    <Unicode>de eodem Manerio et quod predictus Iohannis precer assartum illud hac sufficientem postentum ad tenemenum sumum in predicta ulla et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="15,803 836,811 957,785 959,741 16,761"/>
+                <Baseline points="21,793 68,794 115,795 162,792 209,790 256,788 303,787 350,785 397,783 444,782 491,779 538,777 585,777 632,778 679,778 726,778 773,778 820,776 867,775 914,775 962,772"/>
+                <TextEquiv>
+                    <Unicode>Abbatum Higerum et Rogistum ad eandem Et doeo consum est quod predictus Walterus bne quietus et quod predicto Iohannis nobis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="294,841 339,836 364,845 375,836 387,841 428,830 470,853 492,843 495,793 454,804 424,790 408,798 382,793 363,811 342,798 318,807 295,799"/>
+                <Baseline points="300,832 328,832 356,830 384,829 412,828 440,827 468,825 497,822"/>
+                <TextEquiv>
+                    <Unicode>in mnarum filero emerit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="21,857 857,857 95,857 138,857 138,812 21,804"/>
+                <Baseline points="28,837 56,837 84,836 112,837 141,837"/>
+                <TextEquiv>
+                    <Unicode>apiat per assia¬ a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

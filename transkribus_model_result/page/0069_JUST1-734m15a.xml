@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:31.580+02:00</Created>
+        <LastChange>2024-10-23T20:07:45.791+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893914" pageNr="69" tsid="195651143" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=IVFQMWNGCTUZXDCVUUNSUVXT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TLQZBGPTFMJGKFJPWRIVEAVI" imageId="66319480"/>
+    </Metadata>
+    <Page imageFilename="0069_JUST1-734m15a.jpeg" imageWidth="963" imageHeight="789">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709214768" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="9,5 9,763 960,763 960,5"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="5,46 683,33 683,5 634,0 5,2"/>
+                <Baseline points="11,36 44,32 78,32 112,32 146,30 179,31 213,28 247,27 281,27 314,27 348,26 382,25 416,27 449,28 483,30 517,31 551,30 584,30 618,30 652,30 686,30"/>
+                <TextEquiv>
+                    <Unicode>Assiveni reter si Reginum de Erlecton P filius filii Regi fuit eis in dominico suo et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="703,33 753,36 768,46 812,32 866,36 876,46 915,39 915,0 886,0 865,13 857,5 834,16 796,15 779,5 766,16 747,15 734,3 724,9 703,0"/>
+                <Baseline points="710,30 736,30 762,30 788,30 814,32 840,31 866,30 892,30 918,32"/>
+                <TextEquiv>
+                    <Unicode>et uno me et octo acras terre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="683,73 714,67 734,83 747,74 761,84 777,78 789,89 830,90 895,62 919,68 919,38 876,46 866,36 837,41 813,32 784,47 763,50 754,41 718,51 683,37"/>
+                <Baseline points="689,64 714,63 740,62 766,62 792,62 818,61 844,60 870,59 896,59 922,57"/>
+                <TextEquiv>
+                    <Unicode>H et Petravill ux eius tnc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="574,81 591,74 599,83 610,81 618,74 625,77 632,73 641,79 656,79 656,37 641,35 624,40 617,37 604,44 593,36 576,37"/>
+                <Baseline points="582,64 607,64 633,62 659,64"/>
+                <TextEquiv>
+                    <Unicode>am Radulfi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="2,70 111,87 287,64 504,87 554,77 555,40 2,46"/>
+                <Baseline points="9,67 36,68 63,67 91,67 118,67 145,67 173,65 200,67 227,65 255,64 282,63 309,62 337,62 364,60 391,60 419,61 446,62 473,62 501,62 528,64 556,62"/>
+                <TextEquiv>
+                    <Unicode>cum pertinentiis si Erletan die quo ec s etc Quodmas et quam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="6,104 181,101 197,117 216,100 260,113 291,96 306,102 306,73 287,64 260,79 131,71 113,87 81,71 55,83 6,71"/>
+                <Baseline points="12,102 39,102 66,99 93,99 120,97 147,96 174,96 201,97 228,96 255,94 282,94 309,94"/>
+                <TextEquiv>
+                    <Unicode>Qui beciim micheli dicunt quada assam ret</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="8,149 916,143 897,94 745,85 662,113 8,111"/>
+                <Baseline points="14,128 59,129 104,128 149,128 194,128 240,128 285,126 330,126 375,126 420,125 466,125 511,126 556,128 601,128 646,127 692,126 737,126 782,126 827,126 872,126 918,128"/>
+                <TextEquiv>
+                    <Unicode>Iur dicunt quod pedictus Regius pei predicte Iullanio abut seisia de predictis mes terra ut de feodo Et pro termin quod predicta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="683,167 700,170 709,163 732,180 748,173 758,181 775,170 809,165 880,168 880,145 838,130 806,130 784,146 769,132 749,129 728,140 683,134"/>
+                <Baseline points="689,160 716,160 744,160 772,160 799,160 827,158 855,160 883,160"/>
+                <TextEquiv>
+                    <Unicode>ad et sarevillam nam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="579,167 591,163 599,167 608,162 624,178 639,168 653,170 653,150 625,145 614,137 600,136 594,140 589,136 579,136"/>
+                <Baseline points="585,160 620,160 655,160"/>
+                <TextEquiv>
+                    <Unicode>ne peo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="17,183 197,166 254,189 330,167 371,189 555,175 547,131 17,143"/>
+                <Baseline points="24,165 50,163 77,163 104,161 130,161 157,163 184,162 210,160 237,161 264,160 291,161 317,160 344,160 371,160 397,159 424,158 451,158 477,158 504,158 531,160 558,160"/>
+                <TextEquiv>
+                    <Unicode>sulis propiquio hereeius est Et honc consest quod predict filius rete seis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="6,228 920,238 921,191 777,170 744,196 593,168 7,189"/>
+                <Baseline points="12,222 57,222 103,222 148,222 194,220 239,218 285,216 330,218 376,218 421,216 467,218 513,218 558,218 604,218 649,217 695,216 740,215 786,215 831,214 877,214 923,213"/>
+                <TextEquiv>
+                    <Unicode>Nassie ven recogoum Thomaas corbet sumiste etcta Asses Fulconem filii Barini uncrei de Libeotenerto suo su</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="10,269 577,262 597,230 10,235"/>
+                <Baseline points="17,261 46,261 75,260 104,259 133,259 162,258 191,258 220,255 249,254 278,252 307,253 336,253 365,251 394,250 423,250 452,248 481,248 510,248 539,248 568,246 598,248"/>
+                <TextEquiv>
+                    <Unicode>Albarbiyr per pam etc  Et unde quad quod disses em de ciriter ue acra terre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="14,300 926,295 927,243 14,276"/>
+                <Baseline points="20,293 65,291 111,291 156,290 202,290 247,289 293,287 338,288 384,286 429,285 475,283 520,283 566,282 611,283 657,283 702,283 748,280 793,280 839,275 884,274 930,274"/>
+                <TextEquiv>
+                    <Unicode>Et Chomam uenit ddicit quod non disseis eum de peredita terra quredicit quod predicta terra une quad estde feodo ipsimus Tlhomius et quod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="13,332 936,314 936,287 838,280 14,300"/>
+                <Baseline points="19,322 65,326 111,325 157,323 203,323 249,321 295,320 341,320 387,320 433,320 479,320 525,319 571,318 617,317 663,317 709,315 755,312 801,310 847,307 893,306 939,304"/>
+                <TextEquiv>
+                    <Unicode>predicto Fulco coram plibus magnatibus et domini regi fidelibus homagium summ eiredim dit et similiter predictam terram Etpis¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="17,371 933,341 922,307 17,335"/>
+                <Baseline points="24,357 69,356 115,356 160,352 206,351 251,351 297,348 342,347 388,347 433,347 479,347 524,346 570,344 615,343 661,343 706,342 752,340 797,338 843,335 888,331 934,328"/>
+                <TextEquiv>
+                    <Unicode>dimi quod ninquam terram illam uel aliquam aliam de teneret Et ea ratione posui posint se in feiao de eadem terra sicut bene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="16,396 408,389 408,351 379,349 321,353 294,372 224,355 162,356 124,376 97,360 63,375 47,361 16,366"/>
+                <Baseline points="22,384 47,384 73,386 99,386 125,386 151,386 177,385 203,384 228,384 254,383 280,383 306,382 332,380 358,378 384,378 410,378"/>
+                <TextEquiv>
+                    <Unicode>alicuit quo predicto Fulco illame Riyuduniti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="15,427 810,421 936,408 938,356 16,394"/>
+                <Baseline points="22,424 67,423 113,422 159,421 205,420 251,421 297,419 342,416 388,415 434,413 480,413 526,412 572,410 618,409 663,406 709,404 755,402 801,402 847,400 893,397 939,396"/>
+                <TextEquiv>
+                    <Unicode>Et predicto fulco dicit quod ninquam ei redditpradictam terram nichimagim simm Et prisse pet fudam quod ecam futa esse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="17,466 845,446 939,411 18,428"/>
+                <Baseline points="24,453 69,455 115,453 161,452 207,452 253,451 299,451 344,450 390,449 436,445 482,445 528,444 574,442 620,441 665,438 711,435 757,432 803,432 849,429 895,426 941,426"/>
+                <TextEquiv>
+                    <Unicode>quod pairam illinotum divini in botenus homagium sinm eireddbet nec postea ftatum sium micaret sec</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="21,494 939,485 942,433 22,470"/>
+                <Baseline points="28,489 73,489 119,486 165,484 211,482 257,482 302,480 348,479 394,476 440,476 486,473 531,471 577,469 623,469 669,467 715,464 760,462 806,463 852,461 898,458 944,455"/>
+                <TextEquiv>
+                    <Unicode>in segia fud commuepiaveret sipredictus Thoma ccasione himplicis dicti sui posset ipsium de tenemenis suo issecure quad predicta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="21,525 471,527 624,508 634,478 338,481 279,504 22,494"/>
+                <Baseline points="28,514 58,517 88,517 119,517 149,517 180,516 210,516 240,516 271,516 301,516 332,513 362,512 392,509 423,508 453,507 484,505 514,503 544,501 575,500 605,500 636,500"/>
+                <TextEquiv>
+                    <Unicode>terramnquam ei reidit spante sud et bona uoluntate peuint se super assanam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="28,562 945,516 941,475 469,528 30,527"/>
+                <Baseline points="35,550 80,551 126,550 171,550 217,550 263,548 308,547 354,545 399,543 445,542 491,537 536,534 582,532 627,529 673,526 719,524 764,523 810,520 855,519 901,514 947,511"/>
+                <TextEquiv>
+                    <Unicode>sira bict quod quamdinumdicto dinorum capue fuit inter predictum chomam et Srfunm filius Rrmonbyn de plb contenionm bet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="29,579 629,576 945,554 946,520 29,561"/>
+                <Baseline points="35,574 80,575 126,575 172,575 217,576 263,574 309,573 354,570 400,570 446,569 492,566 537,564 583,562 629,558 674,555 720,552 766,550 811,546 857,545 903,543 949,540"/>
+                <TextEquiv>
+                    <Unicode>ne coneluint ple magnatos nbi tiam intersint predicto Fulco Et ibi pedictu Thoma et predictus Fulco corranti su¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="29,607 952,579 946,543 30,579"/>
+                <Baseline points="35,599 81,598 127,598 173,599 219,599 265,598 311,596 357,594 403,594 449,591 495,590 541,590 587,587 633,584 679,582 725,579 771,575 817,572 863,569 909,567 955,564"/>
+                <TextEquiv>
+                    <Unicode>erunt fta quodidam terminum nocanti Fulconem proxitu ipsius Fulconis predictorem Et predicti Filico de lic nelementino</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="36,634 956,593 946,568 37,616"/>
+                <Baseline points="43,625 88,623 134,622 180,620 226,620 272,620 318,619 363,619 409,617 455,617 501,614 547,614 593,610 639,609 684,608 730,605 776,601 822,598 868,594 914,591 960,585"/>
+                <TextEquiv>
+                    <Unicode>niciur nandeunt predicto clmaio quod e quo tantum cquvice imposuit patisuo e quod lumagiis sunei reddet quod mquam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="35,661 938,627 927,594 36,633"/>
+                <Baseline points="41,647 86,647 131,646 176,644 221,644 266,643 311,643 356,643 401,642 446,642 491,640 536,639 581,636 626,633 671,633 716,630 761,627 806,623 851,620 896,617 941,612"/>
+                <TextEquiv>
+                    <Unicode>acquae teram de cotenert eEt sur questi si predicti Fulco inpoprta persenta sua homagium sumu reddet predicto Tlemiaum dut uroe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="835,654 844,656 862,652 873,657 878,652 885,654 896,650 906,656 914,648 937,648 938,627 924,619 921,623 871,624 865,629 852,627 846,631 836,627"/>
+                <Baseline points="841,647 873,646 906,643 939,643"/>
+                <TextEquiv>
+                    <Unicode>Phrim istud</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="754,660 763,662 768,659 784,662 790,659 800,668 806,668 807,632 801,632 793,638 790,635 778,645 772,644 766,638 755,637"/>
+                <Baseline points="760,654 809,651"/>
+                <TextEquiv>
+                    <Unicode>doemi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="592,671 603,665 639,664 647,672 661,672 672,665 682,673 708,673 707,641 688,648 663,637 627,646 623,640 614,644 594,640"/>
+                <Baseline points="599,662 627,660 655,659 683,657 712,655"/>
+                <TextEquiv>
+                    <Unicode>et Et furi que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="38,682 530,679 512,645 38,659"/>
+                <Baseline points="44,673 69,673 95,673 121,673 146,673 172,671 198,670 223,670 249,670 275,668 300,668 326,667 352,666 377,666 403,667 429,666 454,665 480,665 506,667 532,667"/>
+                <TextEquiv>
+                    <Unicode>nonm minoruem intrositam psimam scilicet et quandam Rinonerius Hes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="632,693 638,693 642,690 653,693 661,692 664,695 673,692 683,692 683,669 677,669 670,665 662,672 652,671 648,673 639,664 632,664"/>
+                <Baseline points="638,684 684,683"/>
+                <TextEquiv>
+                    <Unicode>cto est</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="40,709 579,691 570,669 41,683"/>
+                <Baseline points="48,702 74,700 101,700 128,699 154,697 181,696 208,695 234,695 261,694 288,694 315,692 341,694 368,692 395,690 421,689 448,688 475,687 501,687 528,689 555,687 582,686"/>
+                <TextEquiv>
+                    <Unicode>mandant reddit ad vers suamdiam pedim terra dueni quod sic et quod de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="809,706 820,706 827,702 834,702 837,705 843,699 854,700 862,706 867,701 871,706 877,706 878,679 853,678 839,687 810,685"/>
+                <Baseline points="816,697 848,695 880,695"/>
+                <TextEquiv>
+                    <Unicode>pro octo de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="650,708 664,707 669,710 673,706 683,706 690,711 698,707 705,708 706,690 701,690 700,688 699,690 695,687 692,691 684,693 683,691 678,691 667,695 663,692 650,694"/>
+                <Baseline points="657,704 682,700 707,700"/>
+                <TextEquiv>
+                    <Unicode>mu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="47,736 566,721 576,692 48,711"/>
+                <Baseline points="54,726 80,725 106,724 132,724 158,723 184,723 210,723 237,721 263,718 289,718 315,716 341,716 367,714 393,713 420,713 446,711 472,710 498,709 524,708 550,708 577,707"/>
+                <TextEquiv>
+                    <Unicode>est capitale panerium pertinet ad tondeam terram tquod terram illam frnti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="809,734 816,734 825,741 836,732 839,733 845,730 850,734 854,731 860,732 861,701 845,699 838,703 832,703 817,715 810,715"/>
+                <Baseline points="816,723 864,720"/>
+                <TextEquiv>
+                    <Unicode>in retro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="50,774 680,758 682,708 51,738"/>
+                <Baseline points="56,753 87,753 118,752 150,750 181,750 213,748 244,747 275,744 307,743 338,741 370,742 401,739 432,737 464,737 495,736 527,735 558,734 589,732 621,730 652,728 684,728"/>
+                <TextEquiv>
+                    <Unicode>ped predicto terouam puinde predcta panca Et vcunt st quo predt fulctrint ter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

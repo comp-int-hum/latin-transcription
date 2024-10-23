@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:16:53.138+02:00</Created>
+        <LastChange>2024-10-23T20:07:38.262+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80892524" pageNr="11" tsid="195651054" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=YWQZWELGRFRGLUBEAMRJXILF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NFFEUIBPPZUFFHASJUWMCGLY" imageId="66318389"/>
+    </Metadata>
+    <Page imageFilename="0011_JUST1-633m5a.jpeg" imageWidth="1091" imageHeight="670">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709211804" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="21,16 21,643 1090,643 1090,16"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="20,35 1074,58 1057,3 20,7"/>
+                <Baseline points="27,40 79,40 132,40 184,38 237,37 289,38 342,37 394,36 447,36 499,38 552,36 604,38 657,36 709,38 762,41 814,41 867,45 919,47 972,47 1024,48 1077,50"/>
+                <TextEquiv>
+                    <Unicode>Abiao um oc afilio duotii Malerbe de Norhampton Thomas filio Simonis filii Iohannis atte Grene¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="17,94 1000,112 1073,60 16,33"/>
+                <Baseline points="25,76 77,76 130,74 182,74 235,72 287,74 340,74 392,75 445,77 497,78 550,78 603,78 655,78 708,78 760,80 813,81 865,83 918,83 970,85 1023,86 1076,85"/>
+                <TextEquiv>
+                    <Unicode>Abersone hictis facti Iohan ate Hre de Gustun et Galfridus de Hothon te buston imisie Edses Nicholam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="21,130 441,115 673,150 739,122 847,155 1065,134 1065,106 20,94"/>
+                <Baseline points="27,111 79,111 131,112 183,111 235,111 287,112 339,111 391,112 443,112 495,112 547,114 599,114 651,114 703,116 755,119 807,120 859,122 911,123 963,125 1015,129 1068,132"/>
+                <TextEquiv>
+                    <Unicode>rerxuni de piore et liciam uxon eius de libero tenemento uo in flore post frstum at Et vonde quer intur quod diorus eos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="17,149 126,170 179,154 471,159 471,119 439,115 17,129"/>
+                <Baseline points="25,143 50,143 75,145 100,146 125,148 150,149 175,148 200,147 225,147 250,147 275,147 300,147 325,147 350,147 375,147 400,146 425,145 450,145 475,147"/>
+                <TextEquiv>
+                    <Unicode>de uno mesuagio et sex acris terre cum pertinentiis tc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="20,206 571,185 992,220 1061,207 1061,173 19,147"/>
+                <Baseline points="27,180 78,180 130,180 182,182 234,181 286,180 337,180 389,180 441,180 493,180 545,180 596,182 648,184 700,185 752,188 804,191 855,192 907,194 959,196 1011,200 1063,203"/>
+                <TextEquiv>
+                    <Unicode>Et Emma xera et ali nuos tem et quidam Iohannis te Suston xenvria apro omnibus percenitus pre preicta Emma restpindet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="27,236 556,218 1043,262 1070,211 25,200"/>
+                <Baseline points="32,211 84,209 136,213 188,213 240,214 292,213 344,214 396,216 448,216 500,216 553,216 605,220 657,220 709,222 761,224 813,226 865,228 917,231 969,233 1021,237 1074,242"/>
+                <TextEquiv>
+                    <Unicode>tanqui uor turis adut quod ipsi nichil habent in predictis tenementis ad presens nec aliqua inde fecerunt nuriam sen dissei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="24,248 121,263 171,247 243,271 268,252 281,266 390,258 389,226 340,231 313,215 254,234 214,216 145,231 92,212 61,227 23,219"/>
+                <Baseline points="30,243 55,242 81,243 107,243 133,243 159,243 185,244 211,246 237,247 263,247 289,246 315,245 341,245 367,246 393,249"/>
+                <TextEquiv>
+                    <Unicode>nam et de hoc pint se super assisam etc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="23,283 1073,320 978,269 616,246 23,266"/>
+                <Baseline points="30,274 82,276 134,274 186,277 239,280 291,281 343,280 396,283 448,285 500,287 553,289 605,291 657,293 709,294 762,298 814,299 866,303 919,305 971,308 1023,313 1076,314"/>
+                <TextEquiv>
+                    <Unicode>et eninagium tenenus ata restinus adiat quod preciti Nicholaus et lilioa iniuste telerunt assisnam isam versus eam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="23,333 523,319 1037,361 1087,331 21,291"/>
+                <Baseline points="29,307 82,305 135,309 188,311 241,313 294,314 347,314 400,317 453,318 506,318 559,321 612,324 665,324 718,328 771,329 824,333 877,335 930,338 983,344 1036,349 1090,349"/>
+                <TextEquiv>
+                    <Unicode>quro dict quod predicta ten quondam fuerit in sersuina quortam onorium Malerbe et Iohannne uxrienis marte Emine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="17,342 892,392 1050,388 1058,352 16,327"/>
+                <Baseline points="25,340 76,338 128,342 180,344 232,346 284,348 335,351 387,351 439,353 491,355 543,355 594,356 646,358 698,358 750,361 802,364 853,368 905,371 957,375 1009,378 1061,380"/>
+                <TextEquiv>
+                    <Unicode>cui hmere paert vt de iure ipsius Iohanne qui quidem sumoris et Iohannna tenementa illa imiserunt quibuscam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="17,388 1067,427 1046,382 16,342"/>
+                <Baseline points="25,373 77,375 129,376 181,378 234,381 286,382 338,384 390,385 443,387 495,387 547,389 599,389 652,391 704,395 756,395 808,397 861,401 913,406 965,408 1017,410 1070,413"/>
+                <TextEquiv>
+                    <Unicode>Roberto Marie allebrie uxor eius tenentis ad terminum prte ersdem ibbati et lilese post quor mocam penra me tem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="16,418 1000,459 1049,426 15,388"/>
+                <Baseline points="23,409 74,407 125,410 177,412 228,415 280,416 331,416 383,416 434,416 486,420 537,422 588,423 640,425 691,428 743,430 794,433 846,435 897,438 949,442 1000,446 1052,449"/>
+                <TextEquiv>
+                    <Unicode>orm oucurie Iortanne edem Emina ut fili et heres predicte Iohannne intrunt inteon predictus pratr in renesione</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="17,449 1051,495 1049,450 16,418"/>
+                <Baseline points="25,442 76,444 127,444 179,447 230,447 282,448 333,449 385,449 436,453 488,455 539,456 590,458 642,459 693,463 745,465 796,467 848,469 899,471 951,477 1002,480 1054,484"/>
+                <TextEquiv>
+                    <Unicode>qua sicat ei bene rient et absque aliqua dissesima eisdem Nicholao et lterie uxori eius faciende et de ho prpenis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="21,508 340,489 804,522 803,474 110,470 19,446"/>
+                <Baseline points="27,477 66,478 105,478 144,478 183,479 222,480 261,482 300,484 339,485 378,486 417,488 456,490 495,491 534,492 573,493 612,495 651,497 690,499 729,503 768,504 808,509"/>
+                <TextEquiv>
+                    <Unicode>de super aram et predicti Nicholaus et lia uxor eius similiter Io capitalis assisa e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="851,535 903,511 931,523 945,516 965,530 1004,520 1055,534 1079,524 1077,486 1017,504 998,493 966,498 936,482 912,490 889,478 846,477"/>
+                <Baseline points="855,506 880,507 905,509 931,511 956,515 981,517 1007,519 1032,520 1057,521 1083,522"/>
+                <TextEquiv>
+                    <Unicode>Iurate diata super Sacranm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="19,530 496,524 993,580 1071,575 1070,530 16,479"/>
+                <Baseline points="25,513 77,515 129,515 182,515 234,516 287,515 339,518 392,520 444,524 497,524 549,526 601,529 654,531 706,535 759,540 811,545 864,550 916,553 969,556 1021,560 1074,560"/>
+                <TextEquiv>
+                    <Unicode>huius quo perta eniniqet noninas silida De mprtum pria iris slite mesimino trio de Luis ililio percipto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="15,568 1047,608 1067,564 12,516"/>
+                <Baseline points="21,549 73,548 126,549 178,550 231,551 283,551 336,552 388,556 441,558 493,559 546,562 599,565 651,569 704,573 756,577 809,582 861,588 914,591 966,594 1019,595 1072,597"/>
+                <TextEquiv>
+                    <Unicode>habeint vrni iupertate et achuic hec silice predictum Thomam fili Sumonis fili Iohannis atte Grene de Suston' int mine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="17,597 554,599 827,646 1049,637 1047,605 15,568"/>
+                <Baseline points="23,580 74,580 125,581 177,583 228,585 280,587 331,588 383,589 434,593 486,595 537,597 588,598 640,601 691,605 743,610 794,615 846,620 897,624 949,628 1000,631 1052,631"/>
+                <TextEquiv>
+                    <Unicode>et pro hoc campotum est pro Maram iscam sant predicta Emma et alii ine sine die et predicti Nicholaus et alioia mi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="16,615 77,608 169,668 219,637 325,627 352,652 531,635 559,652 573,603 382,592 323,609 186,585 141,601 100,581 15,596"/>
+                <Baseline points="23,611 50,609 78,609 106,613 134,619 161,617 189,617 217,619 245,620 272,620 300,622 328,622 356,625 383,628 411,629 439,629 467,629 494,630 522,632 550,633 578,633"/>
+                <TextEquiv>
+                    <Unicode>cipiant pro tratre omni set sint in umna pro fasso clamium et c</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

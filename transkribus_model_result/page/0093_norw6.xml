@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:18:01.914+02:00</Created>
+        <LastChange>2024-10-23T20:07:48.856+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80894193" pageNr="93" tsid="195651194" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=LLTYIASTFWGCVARCXYFUZQQX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ITPNFDVHGAEUQMNOOBVSMNUF" imageId="66319708"/>
+    </Metadata>
+    <Page imageFilename="0093_norw6.jpg" imageWidth="1126" imageHeight="216">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709215073" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="445,0 445,142 503,142 503,0"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="441,98 448,98 456,92 470,102 477,103 481,99 488,98 492,101 495,97 501,97 498,59 490,60 483,65 472,59 467,65 459,64 445,56 437,56"/>
+                <Baseline points="445,86 474,88 503,92"/>
+                <TextEquiv>
+                    <Unicode>in mage</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="550,70 550,166 941,166 941,70"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="545,103 605,124 625,111 770,111 812,136 846,114 941,123 932,64 904,85 861,89 819,70 787,91 744,63 656,75 543,57"/>
+                <Baseline points="550,93 576,93 602,95 628,97 654,98 680,100 706,101 732,102 758,104 784,106 810,107 836,108 862,108 888,110 914,108 941,108"/>
+                <TextEquiv>
+                    <Unicode>tuacs prefato Willelmo in compo suo qud de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="748,157 763,154 773,160 776,157 789,166 799,162 807,164 816,162 814,133 809,133 797,125 785,123 770,111 764,116 752,110 745,111"/>
+                <Baseline points="753,150 785,154 817,155"/>
+                <TextEquiv>
+                    <Unicode>modi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

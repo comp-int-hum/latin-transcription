@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:01.156+02:00</Created>
+        <LastChange>2024-10-23T20:07:40.667+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893406" pageNr="29" tsid="195651082" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=AQHRETZFVXOOEUXLGUATNOQO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PDAYLFIOQQQHYPPTWDGQCMQF" imageId="66319198"/>
+    </Metadata>
+    <Page imageFilename="0029_JUST1-635m12d.jpeg" imageWidth="1083" imageHeight="289">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709213075" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="18,1 18,253 1062,253 1062,1"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="489,35 502,29 513,30 518,35 530,26 540,37 556,40 552,0 542,0 536,7 529,5 527,8 522,5 517,10 512,5 510,8 500,1 487,0"/>
+                <Baseline points="496,27 527,29 558,32"/>
+                <TextEquiv>
+                    <Unicode>fuit per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="10,34 1052,86 1049,42 9,0"/>
+                <Baseline points="18,23 69,21 121,28 173,29 225,35 277,37 328,39 380,41 432,45 484,46 536,50 587,55 639,59 691,63 743,65 795,66 846,69 898,70 950,73 1002,76 1054,79"/>
+                <TextEquiv>
+                    <Unicode>et Padctus Paisukrn de Multon Felovite intersitors Iohanem Nisten in vila de Multon' Et satim¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="13,65 970,128 1061,125 1058,87 10,34"/>
+                <Baseline points="19,57 71,59 123,62 175,64 227,67 279,71 331,73 384,74 436,80 488,84 540,86 592,92 644,93 696,97 749,99 801,101 853,103 905,103 957,107 1009,111 1062,113"/>
+                <TextEquiv>
+                    <Unicode>pest ftum captae fuit et liberatum Iohanni de Wyleby tunc vicei stuis comite Qu iadim reris heres dicti Iohannis quo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="16,97 703,150 801,149 800,112 14,64"/>
+                <Baseline points="23,93 62,92 101,93 140,98 179,100 218,102 257,105 296,106 335,109 374,110 414,114 453,115 492,116 531,118 570,121 609,123 648,126 687,129 726,131 765,132 805,135"/>
+                <TextEquiv>
+                    <Unicode>devenit a eius oco de un vid sic et nichelis vientiorie q bueit turtra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="820,140 827,140 835,145 846,142 868,162 873,154 885,153 882,112 870,112 867,116 860,117 855,112 848,114 839,108 826,120 818,120"/>
+                <Baseline points="827,135 856,137 885,139"/>
+                <TextEquiv>
+                    <Unicode>clasti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="20,132 133,129 231,162 264,142 313,166 339,146 385,170 436,151 701,177 710,149 18,100"/>
+                <Baseline points="27,124 61,125 95,126 129,129 164,131 198,134 232,136 267,139 301,140 335,143 370,145 404,146 438,148 472,148 507,150 541,155 575,157 610,159 644,160 678,162 713,164"/>
+                <TextEquiv>
+                    <Unicode>hundredi de Nebolesbrane cestantur quod predictis Iohannis de Carlecon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="17,174 649,201 638,167 403,150 385,167 339,145 311,164 13,128"/>
+                <Baseline points="23,157 54,157 85,157 117,159 148,161 180,164 211,166 243,167 274,172 306,173 337,174 368,176 400,177 431,178 463,182 494,184 526,186 557,190 589,192 620,194 652,195"/>
+                <TextEquiv>
+                    <Unicode>felinte crasitr de cuius eassione Robertus filius et heree predicti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="681,210 692,210 701,214 709,210 711,213 714,211 719,215 739,213 737,180 727,180 720,175 711,180 705,174 701,176 693,170 686,174 680,174"/>
+                <Baseline points="689,198 715,200 742,200"/>
+                <TextEquiv>
+                    <Unicode>Hiis s</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="18,194 63,210 149,200 217,219 268,207 334,227 367,211 436,235 480,227 478,189 462,187 378,185 363,200 172,167 17,172"/>
+                <Baseline points="25,189 50,191 76,189 101,189 127,191 152,192 178,195 203,198 229,200 254,202 280,204 305,206 331,208 356,209 382,211 407,213 433,214 458,216 484,218"/>
+                <TextEquiv>
+                    <Unicode>de Seulotlet ne sancto nichil vltuis versus hered</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="762,214 788,218 800,211 810,215 820,207 830,217 853,213 852,185 846,185 840,192 837,188 827,191 817,180 808,180 801,175 787,171 783,174 761,171"/>
+                <Baseline points="769,202 798,204 827,205 857,205"/>
+                <TextEquiv>
+                    <Unicode>Holeby¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="561,231 572,231 576,228 578,230 578,228 581,228 586,231 594,230 603,234 609,234 608,202 600,202 595,197 583,200 577,197 572,204 560,202"/>
+                <Baseline points="567,223 612,225"/>
+                <TextEquiv>
+                    <Unicode>Iobi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="16,230 153,254 279,241 307,264 375,268 384,215 337,228 266,207 206,218 149,200 64,210 44,193 13,196"/>
+                <Baseline points="21,223 47,222 73,225 99,227 125,229 152,229 178,229 204,230 230,233 256,234 283,237 309,239 335,242 361,243 388,243"/>
+                <TextEquiv>
+                    <Unicode>rebur pertinenti porem cron prout per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="737,247 745,247 752,241 770,249 778,247 783,241 793,249 804,247 803,219 796,219 792,215 782,218 771,210 766,213 754,207 746,210 743,206 736,206"/>
+                <Baseline points="745,236 776,236 807,238"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

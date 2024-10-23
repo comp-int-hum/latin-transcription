@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:40.817+02:00</Created>
+        <LastChange>2024-10-23T20:07:47.246+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893884" pageNr="80" tsid="195651148" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=RGTESNWYURFECHZWBRGEDXSI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VJNMFBECMGHCZMNSDHSQWOOT" imageId="66319697"/>
+    </Metadata>
+    <Page imageFilename="0080_JUST1-734m27.jpeg" imageWidth="949" imageHeight="622">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709214926" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="22,6 22,608 948,608 948,6"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="30,37 925,71 944,3 809,30 573,0 29,8"/>
+                <Baseline points="36,26 81,28 127,28 172,26 218,29 264,30 309,30 355,30 400,32 446,33 492,34 537,34 583,36 628,41 674,41 720,44 765,47 811,45 856,46 902,48 948,44"/>
+                <TextEquiv>
+                    <Unicode>Ricardo de Badl appod in comita Iohanne de Wolnegeye de Pilipo Robero et pace domini rs frata Et Rcicaris non veneni sem ipse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="27,61 764,82 764,56 645,43 27,41"/>
+                <Baseline points="33,53 69,55 106,56 142,56 179,55 216,56 252,55 289,56 326,56 362,58 399,60 436,63 472,64 509,64 546,65 582,66 619,69 656,70 692,71 729,71 766,72"/>
+                <TextEquiv>
+                    <Unicode>cartua et pl si de praosos in meras scilices Willelmo de Cherehall et Willelmos filio Ricardi de Brotton</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="31,100 932,123 931,91 844,78 30,60"/>
+                <Baseline points="36,80 83,82 130,82 177,82 225,82 272,83 319,85 367,85 414,88 461,91 509,94 556,96 603,98 651,98 698,101 745,102 793,104 840,106 887,109 935,109"/>
+                <TextEquiv>
+                    <Unicode>idem Ricardus appuod de Strte Willelmum de Olynelegr Willelmum de Brompton Iohannem de Bratford Monachog de Cumber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="25,120 876,161 930,124 24,100"/>
+                <Baseline points="31,109 76,109 121,110 166,110 211,112 256,111 301,112 346,113 391,115 436,118 482,121 527,123 572,125 617,127 662,127 707,130 752,134 797,134 842,136 887,137 933,136"/>
+                <TextEquiv>
+                    <Unicode>niare fratrem Willelmui de Bretterbald' fratrem Willelmum parvum de Notton fratre eiuodem domus Ricardum Buocte de la Mre¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="23,148 777,188 794,146 22,120"/>
+                <Baseline points="28,137 66,141 104,142 143,142 181,142 220,142 258,143 297,144 335,145 374,146 412,147 450,150 489,151 527,153 566,156 604,156 643,159 681,161 720,163 758,166 797,164"/>
+                <TextEquiv>
+                    <Unicode>et Willelmum pistorem de Cumbernere lacoe quod ipsi fuerit in fortia ad faciendum predictam tranogruam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="28,188 946,210 944,175 846,161 781,190 27,153"/>
+                <Baseline points="34,175 79,175 125,174 171,172 216,174 262,175 308,176 353,177 399,178 445,180 491,182 536,182 582,188 628,191 673,194 719,197 765,201 810,200 856,200 902,202 948,197"/>
+                <TextEquiv>
+                    <Unicode>iidem appo de precepto Willelmum Abbatem de Cumbernare Et qued predictus Ricardo sequebatur uerco ego in comi et modo non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="29,216 942,248 939,212 877,207 28,188"/>
+                <Baseline points="34,205 79,204 124,204 170,204 215,205 261,206 306,206 352,208 397,209 443,210 488,212 533,213 579,218 624,221 670,226 715,227 761,230 806,232 852,233 897,236 943,237"/>
+                <TextEquiv>
+                    <Unicode>uenri sco inquiratus rei uertas per patram iure dicunt quod predictus Iohannes et alii non sunt cula de predicto facto hanto nerere quieti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="29,256 942,279 940,248 856,237 28,214"/>
+                <Baseline points="34,235 79,234 125,235 170,237 216,237 261,240 307,242 352,243 398,245 443,245 489,246 534,249 580,252 625,257 671,260 716,262 762,265 807,265 853,269 898,273 944,272"/>
+                <TextEquiv>
+                    <Unicode>idem aprod Willelmum de Brompton Monachum de Cumbremare de Plag Robero et poce dimi reis Et Ricardo non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="25,285 856,319 920,317 919,277 24,256"/>
+                <Baseline points="31,267 75,270 120,269 164,269 209,270 253,273 298,273 342,275 387,275 431,276 476,278 521,280 565,282 610,286 654,289 699,291 743,292 788,294 832,295 877,301 922,303"/>
+                <TextEquiv>
+                    <Unicode>uenri sono ipse capu et ple sui de partsio in mona scilicet Iohanne de Euelton et Hugone de Engwortham e per pace</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="25,330 137,305 943,350 940,307 23,284"/>
+                <Baseline points="30,300 75,299 121,300 167,300 212,300 258,302 304,305 349,307 395,307 441,307 487,309 532,309 578,312 624,315 669,318 715,321 761,325 806,326 852,332 898,337 944,338"/>
+                <TextEquiv>
+                    <Unicode>uxne pro obendnda inpuirta re mertas per patram iupe dicunt quod predictus Willelmus non est culritum de aliqua tenosgrae s inde quiete</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="20,363 235,348 859,410 922,403 920,366 141,307 18,332"/>
+                <Baseline points="25,345 69,348 114,346 159,348 204,346 249,348 294,351 338,354 383,357 428,359 473,360 518,364 563,367 608,371 652,374 697,377 742,379 787,383 832,389 877,392 922,395"/>
+                <TextEquiv>
+                    <Unicode>Iiardicienas pro sunt s aileli de Alto Monestero spri in comnt Kenebribus propitit Eyun vocadri Robertm Prepro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="17,394 218,380 927,451 939,388 15,365"/>
+                <Baseline points="22,376 68,376 114,376 160,378 206,379 252,380 298,382 344,385 390,390 436,393 482,396 528,399 574,403 620,406 666,408 712,409 758,413 804,416 850,422 896,425 943,427"/>
+                <TextEquiv>
+                    <Unicode>et et Adam Crekessaone de morte predicti Willelmi uiri sui ita quod predicti Kenerebu et alii uels sunt in comna per sectam ipsis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="16,415 45,411 73,415 91,411 98,413 98,399 84,395 70,381 56,386 39,381 27,392 16,394"/>
+                <Baseline points="23,409 49,408 75,408 101,406"/>
+                <TextEquiv>
+                    <Unicode>Sm ae</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="22,436 923,475 928,445 394,398 21,416"/>
+                <Baseline points="28,430 73,427 118,425 163,425 208,424 254,425 299,426 344,427 389,430 434,433 480,438 525,441 570,446 615,447 660,449 706,452 751,453 796,455 841,458 886,460 932,462"/>
+                <TextEquiv>
+                    <Unicode>Radulphi apadr de Forcia Robertum de Campeden Hugn' de Graham Pagann et Willelmum de Brompton Hugn de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="16,461 881,499 879,464 15,434"/>
+                <Baseline points="23,449 66,454 109,453 152,454 195,454 238,454 281,455 324,455 367,458 410,462 453,466 496,470 539,474 582,475 625,477 668,479 711,482 754,487 797,490 840,491 883,492"/>
+                <TextEquiv>
+                    <Unicode>Wicholi clemntem de eaodem Rober de Exton Monachos de Cumbremare et Willium Brun fratrem eisdem domus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="20,496 346,491 860,552 920,513 17,461"/>
+                <Baseline points="25,477 69,479 114,480 159,482 204,482 249,483 294,486 338,487 383,492 428,498 473,501 518,504 563,508 608,511 652,513 697,516 742,519 787,523 832,525 877,528 922,525"/>
+                <TextEquiv>
+                    <Unicode>st eodm apod de precepto et coneneu Willelmum Abbatem de Cumbernare et Clemencia non vemeno so ipsa capu et pter con¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="20,530 313,521 800,580 908,572 905,531 17,496"/>
+                <Baseline points="25,511 69,512 113,512 157,514 202,513 246,514 290,518 335,522 379,525 423,530 468,535 512,540 556,543 600,545 645,549 689,552 733,556 778,559 822,562 866,565 911,566"/>
+                <TextEquiv>
+                    <Unicode>de praoctoa in nuna scilicet Cadignani filius Eynon de Hynetone et Iohanne filiuo Ricardi Habus Et inquirua rei intero</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="18,577 853,615 849,569 15,530"/>
+                <Baseline points="22,546 63,546 105,546 146,546 188,547 230,549 271,551 313,553 354,555 396,559 438,565 479,569 521,572 562,578 604,581 646,584 687,587 729,589 770,593 812,595 854,598"/>
+                <TextEquiv>
+                    <Unicode>per pratram sure dicint exc Caram oumum quod predicus Abbats nons quo cuaqum de precepto nc aliio de Forta sancto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

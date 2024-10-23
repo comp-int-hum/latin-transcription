@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:22.700+02:00</Created>
+        <LastChange>2024-10-23T20:07:44.228+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893870" pageNr="57" tsid="195651117" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=XUOMMTISHQPESUVVVERANIEC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JWMJQAEDGRJOTJSWFCLINOLT" imageId="66319339"/>
+    </Metadata>
+    <Page imageFilename="0057_JUST1-734m8d.jpeg" imageWidth="983" imageHeight="638">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709214416" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="18,4 18,620 952,620 952,4"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="12,32 949,54 948,0 12,0"/>
+                <Baseline points="18,26 64,24 111,27 158,27 204,27 251,26 298,25 344,25 391,24 438,26 485,27 531,27 578,31 625,33 671,34 718,33 765,34 811,36 858,37 905,39 952,39"/>
+                <TextEquiv>
+                    <Unicode>Et Ualterus une et defandam uni et dominum quand etc et potet abd ipso Iohanne si bebrt aliquando Cartam uel gimilicam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="12,79 948,90 908,44 12,48"/>
+                <Baseline points="18,65 64,63 111,63 157,64 204,65 251,63 297,64 344,63 391,63 437,63 484,65 531,67 577,70 624,73 671,73 717,75 764,77 811,78 857,78 904,80 951,80"/>
+                <TextEquiv>
+                    <Unicode>pet quod clomat uestre predictam ballitum uel siceneit aliquod tenetio ad quod clameit ballam illam pertinere et predictus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="14,130 940,129 906,85 13,79"/>
+                <Baseline points="19,103 65,104 111,106 157,107 203,106 250,105 296,104 342,106 388,106 434,104 481,104 527,106 573,108 619,111 665,112 712,113 758,113 804,116 850,119 896,118 943,114"/>
+                <TextEquiv>
+                    <Unicode>Iohannes dict quod illam bet Dn Cartam n gniuerntit ic aliquoda tenes tenementom ad quod clamac pertinere balliam illam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="15,157 933,172 919,122 15,132"/>
+                <Baseline points="22,142 67,145 113,146 159,147 204,149 250,149 296,149 341,147 387,149 433,147 479,147 524,147 570,149 616,149 661,150 707,152 753,152 798,154 844,154 890,155 936,152"/>
+                <TextEquiv>
+                    <Unicode>sit dictm quod omnes antecessores sin a crasre a quo non exat memora fuerint in sumias de balla illa ut de feodo et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="20,198 936,206 936,171 840,157 20,155"/>
+                <Baseline points="26,183 71,186 117,187 162,189 208,190 254,190 299,188 345,188 390,186 436,185 482,186 527,186 573,185 618,188 664,188 710,190 755,191 801,191 846,191 892,191 938,190"/>
+                <TextEquiv>
+                    <Unicode>Iure Et siliter adem Abbats toto tepore suo preter motem Pibii patris sui qui bne obut sonueitam sint in eo deolem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="15,245 943,241 899,198 15,203"/>
+                <Baseline points="22,226 68,227 114,227 160,229 206,229 253,229 299,229 345,227 391,226 437,223 484,224 530,225 576,226 622,226 668,227 715,229 761,226 807,226 853,229 899,230 946,231"/>
+                <TextEquiv>
+                    <Unicode>tallia usque ham quinque anne Epos quod predictus Rabltus e defect predictam balltum et quod ipse et omnes dominices</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="709,250 715,250 723,256 735,251 753,251 760,256 764,251 769,254 774,252 784,261 790,261 790,233 781,233 776,228 771,233 756,235 746,228 729,236 709,233"/>
+                <Baseline points="716,246 741,244 766,246 792,242"/>
+                <TextEquiv>
+                    <Unicode>calugre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="14,292 940,277 940,243 889,231 15,245"/>
+                <Baseline points="22,273 68,275 114,274 160,273 206,272 252,270 298,267 344,267 390,266 436,265 482,265 528,264 574,264 620,264 666,262 712,264 758,264 804,261 850,260 896,264 943,264"/>
+                <TextEquiv>
+                    <Unicode>laogro sui fuerint In Sctios de Balla illa no de Roblo et Bure oftiao domino r I t Et precicis uabtetus preterse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="15,330 907,313 921,276 15,291"/>
+                <Baseline points="22,314 67,316 112,314 157,313 202,310 247,308 292,307 337,305 382,303 427,301 472,300 517,300 562,301 607,301 652,301 697,303 742,302 787,301 832,301 877,303 923,305"/>
+                <TextEquiv>
+                    <Unicode>petit Iudem deunt idam Iobannis ullam uct cartam uel cumentum de predica ualla nec aliquod tenementa ad quo d</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="21,359 928,356 900,309 825,305 21,333"/>
+                <Baseline points="27,352 72,355 117,352 162,350 207,350 253,348 298,345 343,342 388,341 433,337 479,338 524,337 569,340 614,341 659,342 705,342 750,342 795,340 840,341 885,341 931,341"/>
+                <TextEquiv>
+                    <Unicode>Dimidet peouere alutem illam Srpossit idam Iohannes Ualiquis aliquis antent sunoram una Thoris Anlelicto de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="20,396 837,374 948,402 937,346 21,359"/>
+                <Baseline points="26,390 72,390 118,390 164,388 211,387 257,386 303,383 350,381 396,378 442,375 489,373 535,373 581,373 627,375 674,376 720,377 766,377 813,376 859,373 905,373 952,373"/>
+                <TextEquiv>
+                    <Unicode>uilla illo nisi de Erta et permissione ipsius Walteri et ad uoluntatem suam et sunco de iure Ricards somini aod quideam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="15,439 902,428 923,397 486,376 15,404"/>
+                <Baseline points="22,426 67,429 112,428 157,426 202,426 248,424 293,420 338,419 383,418 428,414 474,412 519,411 564,411 609,411 654,411 700,411 745,411 790,408 835,409 880,411 926,410"/>
+                <TextEquiv>
+                    <Unicode>Rigeris de Nogelowie qui tenet tenementum ad quod predicta ballam partin est in comio de predicta balliam ex</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="18,475 662,449 908,476 929,429 18,438"/>
+                <Baseline points="24,464 69,465 114,464 160,464 205,463 250,460 296,459 341,454 386,452 432,451 477,448 522,447 568,447 613,447 658,446 704,446 749,445 794,447 840,449 885,451 931,451"/>
+                <TextEquiv>
+                    <Unicode>dono et fofamerto domini re qui predictum tenentum simili cum predicta balliao dedit et concessi eidem Rego domini predicta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="15,506 933,512 933,479 851,464 15,475"/>
+                <Baseline points="22,500 67,502 113,503 159,502 204,503 250,503 296,500 341,498 387,495 433,495 479,494 524,493 570,495 616,495 661,496 707,495 753,495 798,495 844,496 890,498 936,496"/>
+                <TextEquiv>
+                    <Unicode>Willmo fuit In mam sua teqre predicto Abas nullam Et cartam per quanm apse nec aliquis antecessoru suorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="15,546 943,543 903,506 15,506"/>
+                <Baseline points="22,531 68,536 114,536 160,534 206,535 253,536 299,536 345,534 391,533 437,533 484,533 530,534 576,533 622,534 668,533 715,533 761,534 807,533 853,533 899,534 946,533"/>
+                <TextEquiv>
+                    <Unicode>foffarctio esstes per predictum sualitonum uel aliquo attent suorum de predicto bellia nec potest ostendos quod tenet aliquiod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="15,573 396,574 545,610 933,596 931,553 884,535 15,560"/>
+                <Baseline points="22,567 67,570 113,570 158,570 204,569 249,570 295,570 340,569 386,567 431,566 477,568 523,570 568,572 614,574 659,574 705,575 750,576 796,577 841,577 887,577 933,577"/>
+                <TextEquiv>
+                    <Unicode>tenementis ad quod Willetum ila pertineat Domino est qued predinnis Waltrius Domine sine die Et quod predictus Robantus ibia clamare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="19,629 637,637 104,637 637,637 110,637 637,637 181,637 637,637 183,637 637,637 200,637 637,637 207,637 637,637 217,637 637,637 233,637 637,637 248,637 637,637 269,637 637,637 299,637 637,637 335,637 637,637 340,637 637,637 362,637 637,637 381,637 430,633 397,574 18,572"/>
+                <Baseline points="24,598 49,603 75,603 100,603 126,605 151,605 177,606 202,606 228,609 253,610 279,610 304,610 330,607 355,606 381,606 406,606 432,606"/>
+                <TextEquiv>
+                    <Unicode>facto in Deta Willemi et ocet ini meris puo hanis ais ca</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

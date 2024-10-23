@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:01.054+02:00</Created>
+        <LastChange>2024-10-23T20:07:40.489+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893402" pageNr="28" tsid="195651063" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=GSEQTMUMGPUKOJQXQNALWHWR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CCTFNQSUXSEQWLDFHQMFXJZV" imageId="66319023"/>
+    </Metadata>
+    <Page imageFilename="0028_JUST1-635m6.jpeg" imageWidth="1165" imageHeight="397">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709213068" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="9,1 9,352 1118,352 1118,1"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="5,33 27,25 102,35 127,25 170,40 183,29 228,37 270,30 270,10 248,0 5,4"/>
+                <Baseline points="13,21 38,23 64,23 90,23 116,22 142,22 168,23 194,23 220,23 246,25 272,25"/>
+                <TextEquiv>
+                    <Unicode>CLunam Wilelmo de Bron</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="292,31 307,34 319,46 330,45 338,37 353,41 361,40 361,0 342,0 340,3 335,0 333,3 329,0 292,1"/>
+                <Baseline points="299,27 332,29 365,27"/>
+                <TextEquiv>
+                    <Unicode>Tasche¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="535,49 548,42 558,50 636,41 646,48 704,48 702,12 666,19 631,3 601,18 555,5 533,7"/>
+                <Baseline points="541,33 568,33 596,33 623,33 651,35 678,35 706,36"/>
+                <TextEquiv>
+                    <Unicode>fuit com Radulphi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="821,46 840,48 855,45 858,48 862,45 888,44 888,14 874,12 869,18 858,8 854,12 846,10 832,16 821,15"/>
+                <Baseline points="829,40 860,38 891,40"/>
+                <TextEquiv>
+                    <Unicode>Eltn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1027,57 1035,57 1039,53 1043,55 1053,46 1060,48 1060,45 1076,55 1077,52 1090,55 1094,50 1101,50 1098,18 1088,19 1080,12 1058,7 1045,22 1041,20 1035,25 1024,27"/>
+                <Baseline points="1033,40 1068,41 1103,46"/>
+                <TextEquiv>
+                    <Unicode>iatuu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="19,75 63,56 125,67 142,57 151,64 181,57 226,71 225,33 213,30 170,38 149,29 18,31"/>
+                <Baseline points="27,56 52,53 77,52 103,53 128,54 153,54 179,54 204,54 230,59"/>
+                <TextEquiv>
+                    <Unicode>pacis domini pegrio de d</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="285,75 315,74 320,65 333,57 341,57 349,64 370,61 386,74 393,74 391,34 378,34 367,46 338,35 329,45 318,46 305,34 284,34"/>
+                <Baseline points="291,56 317,56 343,58 369,59 395,58"/>
+                <TextEquiv>
+                    <Unicode>Ayno et fe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="398,76 480,67 520,71 518,44 503,41 495,48 483,44 461,49 445,35 439,41 423,42 410,33 397,34"/>
+                <Baseline points="406,58 434,64 463,60 492,62 521,62"/>
+                <TextEquiv>
+                    <Unicode>teriis in comita¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="540,72 581,78 625,67 645,78 678,67 702,80 745,65 787,82 855,72 855,55 820,42 750,55 735,42 716,52 540,42"/>
+                <Baseline points="548,62 573,62 599,62 625,62 651,62 677,62 703,63 728,64 754,64 780,66 806,66 832,66 858,68"/>
+                <TextEquiv>
+                    <Unicode>sto per ipsum perpetratis et pretint</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1008,82 1023,80 1030,74 1038,75 1046,82 1057,79 1060,82 1062,78 1072,82 1083,75 1099,75 1098,52 1079,56 1060,45 1036,56 1030,52 1008,56"/>
+                <Baseline points="1015,68 1044,70 1073,70 1103,73"/>
+                <TextEquiv>
+                    <Unicode>t imi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="15,93 675,105 675,71 623,67 142,57 15,76"/>
+                <Baseline points="23,85 55,83 88,85 121,84 153,83 186,83 219,83 251,85 284,87 317,85 350,85 382,86 415,87 448,88 480,89 513,89 546,91 578,91 611,93 644,92 677,93"/>
+                <TextEquiv>
+                    <Unicode>ecclesiam de Isieby maris et cistodcs in eadem per villatam d Lsbehy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="694,110 820,101 863,117 1058,101 1117,117 1116,83 1088,75 955,74 926,89 871,72 694,80"/>
+                <Baseline points="702,93 728,95 754,95 780,96 806,97 832,97 858,98 884,99 910,99 936,99 962,99 988,99 1014,99 1040,99 1066,99 1092,101 1118,105"/>
+                <TextEquiv>
+                    <Unicode>ucusque Heni Willelmus nocante felomite vitisit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="11,125 863,140 820,101 11,89"/>
+                <Baseline points="19,118 61,118 103,118 145,120 188,118 230,118 272,119 314,118 357,120 399,120 441,121 483,122 526,123 568,124 610,124 652,125 695,126 737,128 779,128 821,128 864,130"/>
+                <TextEquiv>
+                    <Unicode>ab eadem I ad idem de eras suo villatam predictam et postquam sit evasit fugit et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="884,151 927,136 948,145 967,135 1004,134 1032,151 1072,151 1080,143 1107,151 1107,119 1075,106 1035,102 1011,113 952,115 931,104 884,105"/>
+                <Baseline points="891,130 918,130 946,130 973,130 1001,130 1028,131 1056,132 1083,134 1111,136"/>
+                <TextEquiv>
+                    <Unicode>predicta villata ipsum presequ¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="11,177 1091,184 1107,150 10,124"/>
+                <Baseline points="19,155 73,153 128,154 182,154 237,154 291,154 346,153 400,155 455,155 509,158 564,160 618,159 673,159 727,161 782,163 836,163 891,165 945,165 1000,165 1054,168 1109,175"/>
+                <TextEquiv>
+                    <Unicode>Datur ad ipsum arestandi et recapiendos et predictus Willelmus semper fugit et de quodam baceli quem habuit et de sapidibus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="11,206 766,200 766,172 679,164 11,176"/>
+                <Baseline points="19,192 56,190 93,190 131,191 168,192 206,190 243,190 281,191 318,192 356,190 393,192 430,192 468,192 505,192 543,195 580,196 618,194 655,194 693,194 730,194 768,196"/>
+                <TextEquiv>
+                    <Unicode>quos invenitr se defendebat in quantum potuit nolens se paci domini regis redde¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="822,205 839,200 865,221 888,217 942,221 952,217 951,176 911,187 886,168 869,184 839,172 821,179"/>
+                <Baseline points="830,198 855,196 880,197 905,198 930,198 955,198"/>
+                <TextEquiv>
+                    <Unicode>in de futrigter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="1041,207 1057,206 1061,203 1101,218 1107,211 1114,211 1113,181 1102,180 1090,184 1079,176 1073,177 1069,173 1065,176 1057,172 1049,179 1038,177"/>
+                <Baseline points="1046,200 1082,202 1118,206"/>
+                <TextEquiv>
+                    <Unicode>ilicam d</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="192,215 243,220 265,214 274,221 285,213 301,220 331,214 342,224 364,211 383,218 409,211 409,196 331,200 282,191 265,199 192,192"/>
+                <Baseline points="200,214 226,213 253,211 279,210 306,210 332,210 359,210 385,208 412,206"/>
+                <TextEquiv>
+                    <Unicode>per perocaem Fmsed' qui obit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="678,217 698,217 702,214 706,218 713,214 724,222 730,222 734,218 738,222 743,218 754,220 754,203 736,199 726,203 719,198 706,203 697,199 693,203 685,195 678,195"/>
+                <Baseline points="685,212 721,212 757,212"/>
+                <TextEquiv>
+                    <Unicode>habebus Mars</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="1,255 734,240 615,199 571,222 507,199 344,222 1,202"/>
+                <Baseline points="9,235 45,230 81,229 118,229 154,229 191,229 227,230 263,231 300,231 336,231 373,231 409,229 445,231 482,231 518,232 555,233 591,231 627,232 664,233 700,232 737,233"/>
+                <TextEquiv>
+                    <Unicode>Fisreby secaptate fuit cal eius 8 s vni vict pro idem Willelmus habuit et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="1047,245 1054,245 1058,240 1064,240 1069,244 1080,247 1083,245 1095,251 1102,244 1109,244 1107,211 1084,218 1072,207 1066,207 1061,203 1053,209 1046,209"/>
+                <Baseline points="1054,231 1082,233 1111,233"/>
+                <TextEquiv>
+                    <Unicode>S i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="915,237 923,237 934,245 946,240 955,243 960,250 967,250 972,244 979,244 981,209 970,207 957,217 955,214 949,217 944,213 936,221 916,221"/>
+                <Baseline points="922,235 953,235 984,233"/>
+                <TextEquiv>
+                    <Unicode>Stist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="11,280 578,281 570,240 536,260 342,235 270,258 207,237 183,259 11,248"/>
+                <Baseline points="19,270 47,268 75,268 103,268 131,268 159,268 187,268 215,268 243,267 271,267 300,268 328,268 356,268 384,267 412,266 440,267 468,268 496,269 524,270 552,270 581,270"/>
+                <TextEquiv>
+                    <Unicode>et de exitibus terre eiusdem pr medum tempus 9 s pro tribus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="1004,315 1021,318 1036,308 1050,305 1053,305 1058,312 1071,314 1072,286 1061,285 1054,288 1039,274 1021,288 1012,281 1005,281"/>
+                <Baseline points="1011,307 1042,303 1074,303"/>
+                <TextEquiv>
+                    <Unicode>pet ci¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="764,315 775,314 777,311 781,314 788,311 796,319 799,319 811,312 825,314 826,285 814,285 811,281 805,282 798,278 781,281 779,284 773,278 766,278"/>
+                <Baseline points="772,307 799,305 827,303"/>
+                <TextEquiv>
+                    <Unicode>con et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="5,318 55,310 79,327 119,310 184,325 255,311 271,323 297,318 297,288 270,280 220,293 199,275 175,284 71,273 5,282"/>
+                <Baseline points="13,305 39,305 65,305 91,305 117,304 143,304 170,305 196,305 222,305 248,305 274,307 301,305"/>
+                <TextEquiv>
+                    <Unicode>catalla predicta sine warto Io</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="11,348 48,346 56,355 75,341 82,346 142,345 142,316 121,308 94,327 87,323 78,326 63,314 46,325 11,316"/>
+                <Baseline points="19,342 44,341 69,340 94,340 119,338 145,340"/>
+                <TextEquiv>
+                    <Unicode>tuam conon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

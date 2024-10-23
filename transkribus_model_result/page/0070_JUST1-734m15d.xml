@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:34.644+02:00</Created>
+        <LastChange>2024-10-23T20:07:45.930+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893878" pageNr="70" tsid="195651123" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=ZOLWROVKOALALIXEKHUEPAHZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ILQBRKCXBWHKJPUTXHIFUHTX" imageId="66319501"/>
+    </Metadata>
+    <Page imageFilename="0070_JUST1-734m15d.jpeg" imageWidth="988" imageHeight="660">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709214781" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="18,19 18,653 985,653 985,19"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="11,64 973,51 973,0 11,22"/>
+                <Baseline points="18,49 65,47 113,46 161,46 209,44 257,44 304,46 352,44 400,44 448,43 496,42 543,43 591,44 639,42 687,41 735,39 782,41 830,41 878,41 926,42 974,44"/>
+                <TextEquiv>
+                    <Unicode>scassii une reterci Gildi de Kerlichi sumisit etila issacis Robertum scarit de liberoton suo iubetamo per pami a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="18,94 965,77 945,47 756,41 19,61"/>
+                <Baseline points="26,79 73,77 120,76 167,75 214,73 261,71 308,70 356,72 403,70 450,70 497,69 544,70 591,70 638,69 686,69 733,70 780,70 827,70 874,70 921,70 969,69"/>
+                <TextEquiv>
+                    <Unicode>une quam quod disscectocum recripto acra terre Et Eruald non vnen Eet quidam Willelmi de Lecuctell' sul nresfandi per co ¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="17,113 982,111 982,82 891,72 17,91"/>
+                <Baseline points="24,110 72,108 120,105 168,103 216,102 264,100 312,100 360,101 408,98 456,98 504,98 552,102 600,100 648,98 696,99 744,100 792,100 840,100 888,102 936,102 985,98"/>
+                <TextEquiv>
+                    <Unicode>quam ballo cur Edict quod dem dissec predictum obantem de pedita terra quedictque quindam Ricardu de Betonite ftoffavt quandum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="30,148 956,147 964,118 29,113"/>
+                <Baseline points="37,138 83,138 130,134 176,133 223,132 269,131 316,130 362,128 409,128 455,130 502,128 548,132 595,131 641,131 688,132 734,134 781,136 827,138 874,139 920,139 967,139"/>
+                <TextEquiv>
+                    <Unicode>Robertuo de Betenior filium suum de predicta terra cipsium si in eciam posit Epostuod rintint cum de facto suo rect</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="24,184 969,179 939,141 24,152"/>
+                <Baseline points="31,169 78,169 125,167 172,166 219,164 266,162 313,162 360,161 407,161 454,161 501,161 548,161 595,161 642,161 689,162 736,165 783,167 830,167 877,168 924,167 972,169"/>
+                <TextEquiv>
+                    <Unicode>ipseui Robertum decaeam terra et ftoffavt inde predictum arbadem barit fa quod predictus Roberto postera arrama quandam assatim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="23,207 981,219 981,170 23,183"/>
+                <Baseline points="29,199 76,199 124,197 172,199 220,197 267,195 315,194 363,193 411,194 458,194 506,192 554,192 602,191 649,192 697,195 745,197 793,199 840,200 888,200 936,200 984,200"/>
+                <TextEquiv>
+                    <Unicode>nonic disfari versus predectum icarum pactionam psime Roberti et predictum Oountdem coram Nicholus de Turri Iusticaris ad ho assignati iata quodact</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="630,215 637,215 639,218 643,215 655,215 658,217 662,214 667,217 677,217 678,197 667,197 662,200 646,200 640,195 631,196"/>
+                <Baseline points="636,210 679,209"/>
+                <TextEquiv>
+                    <Unicode>La¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="23,238 982,241 955,209 773,202 23,207"/>
+                <Baseline points="29,228 76,230 124,228 172,230 220,230 268,228 315,230 363,228 411,227 459,226 507,225 554,225 602,226 650,227 698,229 746,230 793,232 841,232 889,232 937,232 985,227"/>
+                <TextEquiv>
+                    <Unicode>assanam illam rater idem Robertos veis suam de pedictaterra Et postquam fuit in pacfico facte per dimidia mnum camplinc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="24,280 981,276 980,242 894,234 23,237"/>
+                <Baseline points="29,260 76,260 124,258 172,258 219,260 267,261 315,261 362,261 410,259 458,259 506,260 553,260 601,261 649,261 696,261 744,264 792,266 839,266 887,266 935,264 983,261"/>
+                <TextEquiv>
+                    <Unicode>forffant inde pedctum Ernald de Berkeleycipsum inde Iuceis posint Et quod dem Erneld illam alicui disfcis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="20,301 970,311 909,268 20,282"/>
+                <Baseline points="27,292 74,292 121,291 168,291 216,292 263,291 310,291 357,291 405,292 452,291 499,291 546,292 594,292 641,294 688,296 735,296 783,296 830,297 877,297 924,299 972,299"/>
+                <TextEquiv>
+                    <Unicode>ti indefecit pounnt se super assanam Et coblrto dict quod predictus Robertus noret infituum duas acras dimidiem per predictam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="23,336 973,339 922,302 23,305"/>
+                <Baseline points="29,325 76,325 123,325 170,324 218,325 265,324 312,324 359,324 407,325 454,325 501,325 548,325 596,325 643,327 690,329 737,329 785,330 832,333 879,334 926,334 974,332"/>
+                <TextEquiv>
+                    <Unicode>satum quod cecasione predite terre quam Riberdus reter per predictam assaam otufavit predicto Truald predictas septem acre E dt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="19,370 981,377 967,339 19,335"/>
+                <Baseline points="26,358 73,358 121,358 169,360 217,360 265,358 313,358 361,360 409,360 457,360 505,360 552,361 600,362 648,362 696,363 744,363 792,363 840,365 888,367 936,367 984,367"/>
+                <TextEquiv>
+                    <Unicode>hec pouit se super assam et Nicholaum de Hevint vivie retao noluit facere visum et Nicholaus de Hampton Gillio qorie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="17,395 983,415 982,378 891,368 17,374"/>
+                <Baseline points="23,391 71,391 119,391 167,391 215,391 263,390 311,389 359,390 407,391 455,391 504,394 552,395 600,396 648,398 696,399 744,398 792,396 840,398 888,398 936,399 985,396"/>
+                <TextEquiv>
+                    <Unicode>uefn Riobertus de Corfod' Radulpfo le Ftrester Roberto de Paterlbyne Willelo de la baune rete eiude asset no veneisoem i¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="28,443 916,466 967,454 965,413 26,404"/>
+                <Baseline points="34,427 80,427 127,427 174,426 221,427 267,428 314,427 361,429 408,431 454,431 501,432 548,434 595,437 641,438 688,439 735,441 782,441 828,442 875,442 922,442 969,444"/>
+                <TextEquiv>
+                    <Unicode>Iuriea dicunt quod predicto Robertos retuperant per primam assam coram predicto Nicholais de Turri ton unam acra terorodat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="22,473 893,497 977,462 20,445"/>
+                <Baseline points="27,464 74,467 122,467 169,465 217,465 265,465 312,465 360,465 407,465 455,465 503,467 550,469 598,469 645,472 693,475 741,475 788,477 836,478 883,478 931,479 979,477"/>
+                <TextEquiv>
+                    <Unicode>terre uersus predictum Ricarus patrem ipsius Roberti et predicteum Robertum Et quod occasione illu terre idem baliis coturavit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="23,513 982,536 968,485 23,472"/>
+                <Baseline points="29,501 76,503 124,501 172,501 220,500 268,501 315,501 363,503 411,503 459,502 507,503 554,505 602,505 650,505 698,506 746,508 793,508 841,510 889,511 937,513 985,508"/>
+                <TextEquiv>
+                    <Unicode>s pedictas septas acre quas predictus Osberto posuit in visu suo Et dimint quod quando fuitinde in bna e feof¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="20,553 980,560 955,520 887,515 19,512"/>
+                <Baseline points="26,536 73,539 121,539 169,539 217,538 265,536 313,536 360,536 408,538 456,538 504,539 552,539 600,541 648,541 695,542 743,543 791,544 839,546 887,548 935,549 983,549"/>
+                <TextEquiv>
+                    <Unicode>faunit inde predictum Eynalde de predicta terra une dicunt pretise quod predictus Ernaldo one dissex predictum Robaerdum de predicta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="283,560 289,560 294,565 297,561 319,563 324,560 331,565 333,562 343,562 345,565 358,563 359,545 338,545 329,540 314,544 307,540 301,545 295,540 284,543"/>
+                <Baseline points="289,557 324,557 360,556"/>
+                <TextEquiv>
+                    <Unicode>terta sui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="20,593 961,595 961,556 719,545 20,553"/>
+                <Baseline points="27,574 73,576 120,576 167,576 214,573 261,575 308,575 354,576 401,576 448,574 495,577 542,579 589,579 636,579 682,579 729,579 776,580 823,580 870,582 917,587 964,589"/>
+                <TextEquiv>
+                    <Unicode>simmo si disses et inde facta fuit per plitum boblus nonoper predictum Ernald Etud tius est quod predicto scbertio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="20,633 953,627 953,596 769,583 20,595"/>
+                <Baseline points="27,610 73,612 119,611 166,612 212,609 259,609 305,610 352,610 398,610 445,612 491,613 537,613 584,615 630,618 677,618 723,620 770,622 816,622 863,623 909,623 956,623"/>
+                <TextEquiv>
+                    <Unicode>nichis arum per assanam istancisit in mam pro filio clami t primres per aliud birere siveolint Et predicts Erual¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="659,659 29,658 659,659 34,658 659,659 78,658 659,659 90,658 659,659 100,658 659,659 106,658 659,659 117,658 659,659 123,658 20,621"/>
+                <Baseline points="27,640 52,641 78,643 104,643 130,643"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

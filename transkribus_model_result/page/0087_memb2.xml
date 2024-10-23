@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:50.029+02:00</Created>
+        <LastChange>2024-10-23T20:07:48.121+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80894159" pageNr="87" tsid="195651172" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=GTZAXITBZUNUMAFIDWJDDFTZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YOZKIUBTHEEJWHLJFJJIGESN" imageId="66319778"/>
+    </Metadata>
+    <Page imageFilename="0087_memb2.jpg" imageWidth="800" imageHeight="600">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709215020" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="24,0 24,594 778,594 778,0"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="401,28 411,31 418,27 423,31 430,31 449,15 462,20 475,21 475,0 401,0"/>
+                <Baseline points="406,0 441,2 477,0"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="296,13 306,15 325,8 344,23 349,21 364,31 368,28 378,30 386,28 386,0 295,0"/>
+                <Baseline points="301,0 330,1 359,2 388,1"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="65,21 96,20 107,28 143,16 178,26 198,12 208,18 231,10 253,23 265,17 267,0 104,0 93,6 66,0"/>
+                <Baseline points="70,16 98,14 126,13 154,10 183,7 211,5 239,7 268,8"/>
+                <TextEquiv>
+                    <Unicode>ister tettro reei in et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="19,63 96,55 122,65 144,51 186,65 222,39 244,48 282,36 316,42 318,12 280,28 267,16 215,13 117,20 101,31 74,21 20,42"/>
+                <Baseline points="24,56 50,54 77,52 104,50 130,49 157,46 184,43 211,39 237,38 264,36 291,34 318,32"/>
+                <TextEquiv>
+                    <Unicode>metore e Et inde predicaum dctam uo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="26,117 770,44 763,11 619,4 511,37 30,69"/>
+                <Baseline points="33,98 70,90 107,90 144,87 181,83 218,81 255,80 292,77 329,74 366,72 403,68 440,64 477,60 514,57 551,50 588,46 625,44 662,45 699,42 736,40 773,38"/>
+                <TextEquiv>
+                    <Unicode>et pedictus Walteum per Domerum de Wanhescre iem omn omna  efodis no niun quono x garos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="52,151 775,96 779,48 577,50 543,77 334,100 56,97"/>
+                <Baseline points="58,132 94,129 130,128 166,126 202,124 238,122 274,120 310,117 346,115 382,113 418,110 454,105 490,102 526,99 562,94 598,90 634,88 670,85 706,84 742,83 778,86"/>
+                <TextEquiv>
+                    <Unicode>qundam Thomas de ano plino predicti Radulphi cilicet filatis Alatis meltris Robert prati predicti Aadelis cui ha¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="20,178 754,147 757,97 730,83 22,152"/>
+                <Baseline points="26,173 62,170 99,169 135,166 172,164 208,160 245,158 281,157 318,153 354,149 391,148 428,145 464,143 501,141 537,138 574,136 610,133 647,130 683,129 720,128 757,130"/>
+                <TextEquiv>
+                    <Unicode>iod est fuit soastrtus de pedicto Irario cum pertinentiis in domino suro it de feodo qui qundam Thomas er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="23,219 773,173 776,132 25,182"/>
+                <Baseline points="28,209 65,206 102,205 140,205 177,202 215,200 252,198 289,196 327,194 364,189 402,186 439,185 476,181 514,180 551,177 589,175 626,172 663,169 701,166 738,165 776,161"/>
+                <TextEquiv>
+                    <Unicode>noner Thome de Anne burgeni Worestre per cartam omnia dedit monineam prectum cum prtntiis et lla Manri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="18,268 537,215 647,231 767,211 770,170 428,185 347,217 21,215"/>
+                <Baseline points="24,246 61,245 98,241 135,240 173,238 210,237 247,236 285,233 322,232 359,229 397,226 434,222 471,220 508,216 546,213 583,212 620,208 658,206 695,204 732,202 770,198"/>
+                <TextEquiv>
+                    <Unicode>et tenemonum per monen capitalis mesuais sui Dmne supillacis in bonastri ua cum Testodius acris terre drbilis in frara¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="19,294 774,246 776,213 703,207 21,266"/>
+                <Baseline points="25,278 62,280 100,278 137,276 175,273 213,273 250,271 288,269 325,268 363,266 401,264 438,261 476,258 513,254 551,252 589,249 626,245 664,243 701,241 739,237 777,236"/>
+                <TextEquiv>
+                    <Unicode>muros st pratum quod vodilitru Egeleham et maluerorum Quorm de Wyntterboyrue Gernaym et Tukelone cum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="36,328 725,275 745,297 774,246 128,301 39,282"/>
+                <Baseline points="42,317 78,313 115,313 151,313 188,311 225,310 261,309 298,308 334,305 371,302 408,301 444,298 481,295 517,293 554,288 591,286 627,282 664,280 700,276 737,273 774,269"/>
+                <TextEquiv>
+                    <Unicode>uel ueteris suis predictis hohanni de Faiondit t Klicie hobendas eisdem Iohanni et lilcis et eorum heredibus et assignai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="27,367 774,334 778,283 29,328"/>
+                <Baseline points="33,356 70,353 107,352 144,349 182,349 219,346 256,344 293,342 331,341 368,339 405,338 442,334 480,330 517,326 554,323 591,321 629,319 666,317 703,314 740,313 778,310"/>
+                <TextEquiv>
+                    <Unicode>inpeterum Rclligis so et heredus quas Ad warium Manera et onenm pretibus tmte petniis predictis habeeie ltet et orm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="26,418 448,379 510,399 760,368 776,334 29,365"/>
+                <Baseline points="32,398 69,395 106,394 143,391 180,390 218,388 255,385 292,382 329,381 366,380 404,379 441,378 478,374 515,372 552,367 590,365 627,362 664,359 701,357 738,354 776,353"/>
+                <TextEquiv>
+                    <Unicode>heci t assisntis irsibus quisuqum in petum ui Iuodiiciares habis deice</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="30,458 115,431 650,429 760,382 715,358 575,393 32,417"/>
+                <Baseline points="36,436 72,435 108,431 144,430 180,428 217,428 253,425 289,424 325,423 361,421 398,418 434,417 470,416 506,413 542,410 579,408 615,406 651,401 687,399 723,396 760,393"/>
+                <TextEquiv>
+                    <Unicode>Malnero de Tuikeldon' tum bbenum fofanit predictum Walterum Et utc dixit quod os preter a Aiquos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="39,491 431,457 546,484 577,457 775,446 777,406 713,399 652,428 559,412 41,458"/>
+                <Baseline points="45,474 81,472 118,468 154,469 191,468 228,466 264,465 301,463 337,460 374,458 411,456 447,454 484,453 520,452 557,450 594,448 630,445 667,443 703,439 740,436 777,433"/>
+                <TextEquiv>
+                    <Unicode>prpesuo mullatis fuerit de Mhane pedictm predictus Raodulphus teneritus et hogs predicti Thomis ostem eria eum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="52,517 212,532 763,486 759,448 547,484 489,461 53,491"/>
+                <Baseline points="58,510 93,510 128,508 164,508 199,507 234,506 270,506 305,502 340,498 376,497 411,497 446,497 482,496 517,494 552,494 588,494 623,492 658,489 694,487 729,484 765,482"/>
+                <TextEquiv>
+                    <Unicode>cen eidem Wiallerus et assinam predicti Iohannis uorie nenre es ndum p predctus bbatus Alcion predidctum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="673,551 684,555 696,549 701,554 707,548 734,544 739,550 759,552 772,560 775,497 734,493 720,505 710,495 692,499 676,492"/>
+                <Baseline points="680,526 712,524 744,523 776,520"/>
+                <TextEquiv>
+                    <Unicode>peicta aratum et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="27,561 346,543 417,545 482,584 639,577 666,572 669,493 28,528"/>
+                <Baseline points="33,549 64,549 96,549 128,548 160,548 192,548 224,546 255,545 287,542 319,541 351,538 383,537 415,537 447,536 478,537 510,537 542,535 574,533 606,530 638,526 670,528"/>
+                <TextEquiv>
+                    <Unicode>fuit acram pedictem quo vesrs nun de ontinest mlncois posset N pault tn lidam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="125,598 599,599 150,599 599,599 168,599 199,567 125,552"/>
+                <Baseline points="130,581 165,581 201,581"/>
+                <TextEquiv>
+                    <Unicode>edicti ta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="31,595 40,596 44,592 48,595 51,591 54,590 56,592 59,589 66,590 74,596 83,593 82,565 74,567 69,563 63,566 58,562 56,564 52,560 45,560 38,565 30,564"/>
+                <Baseline points="36,581 85,584"/>
+                <TextEquiv>
+                    <Unicode>dnum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

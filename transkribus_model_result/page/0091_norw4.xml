@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:54.742+02:00</Created>
+        <LastChange>2024-10-23T20:07:48.614+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80894162" pageNr="91" tsid="195651193" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=YYQREMWAWDMSOEACTOICWSJE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FVUWNMOTZVDOCFLOYRGKAMXB" imageId="66319747"/>
+    </Metadata>
+    <Page imageFilename="0091_norw4.jpg" imageWidth="1104" imageHeight="212">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709215056" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+                <RegionRefIndexed index="2" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="309,64 309,140 405,140 405,64"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="304,90 332,90 346,102 360,100 371,106 391,102 404,109 400,34 393,36 364,22 345,27 336,36 319,31 311,23 300,25"/>
+                <Baseline points="309,84 341,86 373,88 405,90"/>
+                <TextEquiv>
+                    <Unicode>beru exo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="334,134 346,134 350,138 358,137 368,144 380,139 391,141 389,104 382,106 375,103 372,107 367,102 359,100 352,103 341,100 338,103 333,103"/>
+                <Baseline points="339,127 365,129 392,130"/>
+                <TextEquiv>
+                    <Unicode>Sngel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="442,0 442,144 529,144 529,0"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="438,96 444,95 466,104 474,100 494,103 499,98 514,96 527,100 525,62 507,64 498,73 484,79 455,69 437,72"/>
+                <Baseline points="442,90 471,92 500,92 529,94"/>
+                <TextEquiv>
+                    <Unicode>octo solido</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:2;}">
+            <Coords points="540,74 540,157 929,157 929,74"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="536,118 584,118 610,97 668,123 815,113 856,131 927,116 926,78 828,77 753,96 681,67 655,81 630,67 534,66"/>
+                <Baseline points="540,94 565,97 591,97 617,99 643,100 669,102 695,105 721,106 747,106 773,107 799,107 825,105 851,105 877,106 903,106 929,106"/>
+                <TextEquiv>
+                    <Unicode>v unum denarim 6 1  quos de redditu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="659,169 681,154 704,157 725,150 744,168 765,175 781,165 818,159 816,115 775,125 755,115 728,130 696,120 657,127"/>
+                <Baseline points="663,141 688,143 714,143 740,145 766,145 792,146 818,147"/>
+                <TextEquiv>
+                    <Unicode>nos denarios b</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

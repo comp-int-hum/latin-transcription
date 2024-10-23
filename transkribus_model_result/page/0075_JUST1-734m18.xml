@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:40.182+02:00</Created>
+        <LastChange>2024-10-23T20:07:46.579+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893423" pageNr="75" tsid="195651126" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=DVOIZRHEMDRGYKGIKCFFCKAV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MIEPXCBMLYLLTWMHRJSLCZTD" imageId="66319487"/>
+    </Metadata>
+    <Page imageFilename="0075_JUST1-734m18.jpeg" imageWidth="988" imageHeight="640">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709214855" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="16,10 16,615 985,615 985,10"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="10,47 960,74 967,16 690,0 566,34 472,0 8,0"/>
+                <Baseline points="16,32 63,34 111,32 159,32 206,30 254,31 302,33 349,36 397,38 445,41 493,45 540,47 588,51 636,51 683,51 731,51 779,51 826,51 874,52 922,54 970,55"/>
+                <TextEquiv>
+                    <Unicode>s G fritus Subando Willelmo le Sunam essone Waltero filio Ricero epx de urdie ec Allamam filium Raduldos Matole Uno ei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="16,88 914,106 961,75 14,37"/>
+                <Baseline points="21,67 68,69 115,70 162,70 209,70 256,69 303,70 351,71 398,72 445,74 492,74 539,75 586,78 633,80 681,82 728,83 775,83 822,83 869,85 916,87 964,90"/>
+                <TextEquiv>
+                    <Unicode>de plno quod ipsi simult cum participibus suis waris predicto Galfrido Tiampateii Lu acre ht cquinbiri terre ex¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="12,105 961,124 866,88 12,89"/>
+                <Baseline points="19,103 66,106 113,106 160,108 208,107 255,105 302,106 349,105 397,105 444,103 491,105 538,106 586,108 633,110 680,111 727,111 775,112 822,112 869,116 916,117 964,118"/>
+                <TextEquiv>
+                    <Unicode>iega quiqe solidos eex denario redditut cum pertinens In sptone et Clafflore Etde palno quod wars predicto Waltero terram pate unim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="17,141 982,157 982,115 17,109"/>
+                <Baseline points="23,134 71,138 119,138 167,136 215,138 263,136 311,138 359,138 407,136 455,138 504,138 552,139 600,141 648,142 696,142 744,143 792,143 840,143 888,144 936,144 985,143"/>
+                <TextEquiv>
+                    <Unicode>me et bunius vuria terrecum pertinentiis sueodem villi quos Robertus le vaubafur Iohanne uxor eius clamat in dotem ipius Iohannis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="17,181 953,194 964,170 16,145"/>
+                <Baseline points="24,169 71,169 118,167 165,168 212,169 259,166 306,166 354,164 401,164 448,164 495,166 542,169 589,171 636,172 684,171 731,172 778,173 825,175 872,176 919,179 967,180"/>
+                <TextEquiv>
+                    <Unicode>nel erdem Galfridi balteri Et une indem Galfridi Walteri lter an Rro deditoe lan et Matil percipero suge uersus et Ecip</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="19,209 918,223 966,188 18,181"/>
+                <Baseline points="26,200 73,199 120,199 167,199 214,199 261,197 308,196 356,195 403,193 450,194 497,194 544,195 591,199 638,200 686,200 733,201 780,202 827,203 874,206 921,209 969,210"/>
+                <TextEquiv>
+                    <Unicode>non venerint ec E sunum ectiri Iudibus sap innonim rede dechrapelum Alan matilli ad vilut Edie etceam Et ipsi sueum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="18,245 973,242 972,217 797,205 17,210"/>
+                <Baseline points="23,228 70,230 118,228 166,230 213,229 261,228 309,227 356,227 404,225 452,225 500,224 547,225 595,227 643,230 690,230 738,231 786,231 833,233 881,235 929,237 977,238"/>
+                <TextEquiv>
+                    <Unicode>er prae sesit adie Pascha in xdie squod nomini castrie super cynam Etque pedicti Alaneri t Matillis non habuint terram In omim eras</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="12,274 966,269 966,242 584,229 12,251"/>
+                <Baseline points="19,259 66,261 114,259 161,259 209,258 256,256 304,257 351,256 399,256 446,256 494,256 541,255 589,255 636,256 684,258 731,258 779,261 826,262 874,264 921,264 969,264"/>
+                <TextEquiv>
+                    <Unicode>et in comue Lycestri et predicta tercra paro quam petunt uero predictum Galfridus Suband extenditur ad xeia  d obois</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="17,305 975,315 975,270 867,264 17,274"/>
+                <Baseline points="24,294 71,292 119,292 166,292 214,294 262,294 309,291 357,291 405,291 452,291 500,289 548,288 595,287 643,287 691,287 738,288 786,291 834,292 881,292 929,294 977,291"/>
+                <TextEquiv>
+                    <Unicode>Et predicta tercia pars quam petuntu predictum Walteri filiu Ricari extenditur ad s tvirdis hoc preptum est uiecis Eexis quod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="17,333 981,355 982,317 17,311"/>
+                <Baseline points="23,329 71,329 119,327 167,327 215,327 263,327 311,329 359,327 407,327 455,327 504,325 552,324 600,323 648,324 696,324 744,325 792,327 840,327 888,329 936,330 985,325"/>
+                <TextEquiv>
+                    <Unicode>campu In manum domini re de terra predictorum Alandom et guitillis ad ualum etc In forum predicti etca dem dies dictum est Willlus de Nedat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="16,378 475,388 683,363 672,328 643,347 596,328 17,351"/>
+                <Baseline points="24,366 57,365 90,365 123,365 156,365 189,363 222,365 255,363 288,363 321,363 355,363 388,363 421,363 454,362 487,361 520,359 553,358 586,358 619,357 652,357 686,355"/>
+                <TextEquiv>
+                    <Unicode>et Is uxoeiis gilo de Hasting Oxonie uxoreus per attrus sumium In Banco etc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="14,445 969,450 981,367 13,405"/>
+                <Baseline points="21,426 69,424 117,424 165,424 214,424 262,426 310,427 358,426 407,426 455,426 503,425 551,422 600,422 648,425 696,428 744,430 793,431 841,432 889,431 937,432 985,429"/>
+                <TextEquiv>
+                    <Unicode>Galfrido Suband opx feuiu die er Allanum filiue Roldis coatillis uxorinus de plio quod ipsi simill cum Milone de Hastenes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="17,475 981,475 981,446 895,435 17,445"/>
+                <Baseline points="24,463 71,463 119,462 167,460 215,460 263,459 311,459 359,458 407,458 455,455 503,455 550,455 598,456 646,458 694,460 742,462 790,462 838,463 886,463 934,467 982,467"/>
+                <TextEquiv>
+                    <Unicode>et Honis uxore ius Willelmo de Fdar Is uxoenis acritaem ipsum de servicio quod Willus de Bellocampo de Heredia b e ttis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="24,505 979,513 979,479 926,470 24,474"/>
+                <Baseline points="31,500 78,498 126,496 173,496 221,495 269,495 316,495 364,493 411,493 459,491 507,491 554,491 602,490 649,491 697,492 745,492 792,494 840,495 887,495 935,495 983,496"/>
+                <TextEquiv>
+                    <Unicode>e Libero tenero suo quod de predictus Alaneri Matillis miloni Oonis villi ise teneterus In Chalfeyc Oxpton In cumium Huk</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="23,538 969,542 969,510 908,497 870,524 736,497 23,511"/>
+                <Baseline points="29,531 76,529 123,529 170,528 217,528 264,527 311,526 359,525 406,524 453,526 500,529 547,526 594,524 641,526 689,529 736,530 783,533 830,536 877,536 924,534 972,536"/>
+                <TextEquiv>
+                    <Unicode>une indem Alanus Matillis gilo Uxyonis villi quos cum medu fuit inter es ipsiu acquietem elet etc Et li proi nons</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="331,540 367,548 381,540 392,544 400,539 414,545 422,539 434,548 460,552 460,531 444,526 425,531 331,530"/>
+                <Baseline points="337,539 362,539 387,539 412,539 437,539 462,541"/>
+                <TextEquiv>
+                    <Unicode>chmi cuum hexo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="522,550 532,552 542,546 550,552 557,545 571,551 636,550 636,533 624,527 593,528 590,533 568,533 561,528 555,533 522,530"/>
+                <Baseline points="529,541 556,541 583,541 610,542 638,544"/>
+                <TextEquiv>
+                    <Unicode>Iux excestri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="24,585 972,578 957,540 24,542"/>
+                <Baseline points="31,565 78,569 125,569 172,569 219,567 267,567 314,566 361,565 408,565 455,564 503,564 550,562 597,561 644,559 691,562 739,561 786,562 833,565 880,565 927,565 975,569"/>
+                <TextEquiv>
+                    <Unicode>Uneus etce polis fetes defalutet hado septue est uites ext quod distre co per onis tras onina canalli fa et dom po stis et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="21,615 717,630 751,610 751,571 21,578"/>
+                <Baseline points="27,598 63,601 99,602 136,603 172,602 209,602 245,602 281,602 318,600 354,600 391,600 427,602 463,603 500,603 536,603 573,605 609,604 645,605 682,605 718,605 755,602"/>
+                <TextEquiv>
+                    <Unicode>quod habuet corpora eoxum a die Pasche in xvdie apud nomini castri super uoxnam etc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

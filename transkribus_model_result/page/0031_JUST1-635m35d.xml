@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:03.369+02:00</Created>
+        <LastChange>2024-10-23T20:07:40.940+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893285" pageNr="31" tsid="195651083" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=ZCWJFNNNCSDHQLNULVELYMNK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AZQKYMRWBPNKKYBMYERNYWLX" imageId="66319177"/>
+    </Metadata>
+    <Page imageFilename="0031_JUST1-635m35d.jpeg" imageWidth="1123" imageHeight="277">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709213089" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="7,15 7,254 801,254 801,15"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="9,65 203,74 443,40 674,61 703,53 704,16 10,6"/>
+                <Baseline points="14,46 48,48 83,46 117,46 152,46 186,46 221,44 255,44 290,44 324,43 359,43 394,41 428,39 463,39 497,39 532,39 566,37 601,35 635,35 670,35 705,35"/>
+                <TextEquiv>
+                    <Unicode>walus de Floraue felonite inter fecitur Iohannem Walram in Aibbachia sancti Iac¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1,106 80,82 471,77 587,105 799,78 800,20 656,64 423,42 2,65"/>
+                <Baseline points="7,87 46,80 86,80 126,80 165,80 205,80 245,80 284,79 324,78 364,76 404,76 443,76 483,74 523,76 562,74 602,74 642,74 681,72 721,71 761,71 801,71"/>
+                <TextEquiv>
+                    <Unicode>rkegeo nunc tercio et statim post factum fugitu so catas eius confiscant pro fuga cra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2,130 691,129 700,78 587,104 504,78 462,101 420,82 2,106"/>
+                <Baseline points="7,121 41,118 76,117 111,116 145,116 180,116 215,116 249,116 284,114 319,112 354,112 388,112 423,112 458,112 492,111 527,110 562,110 596,110 631,108 666,108 701,106"/>
+                <TextEquiv>
+                    <Unicode>postea sure testantur quod predictus Willelmus carptus fuit et liberatais in custodia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="21,163 616,161 740,144 741,123 21,136"/>
+                <Baseline points="26,155 61,151 97,153 133,152 169,151 204,151 240,149 276,149 312,147 347,147 383,146 419,147 455,145 490,145 526,144 562,144 598,142 633,140 669,139 705,139 741,140"/>
+                <TextEquiv>
+                    <Unicode>Osfonda Robertus filis et heres eiusdem Iohannis quo devenit ecc pinis nventio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="582,178 592,180 601,177 607,180 615,174 629,180 637,177 649,178 649,148 644,148 635,157 630,155 624,160 619,158 614,163 598,157 590,149 582,150"/>
+                <Baseline points="587,172 619,172 651,172"/>
+                <TextEquiv>
+                    <Unicode>nt s¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="19,197 359,186 378,181 379,154 312,166 221,152 20,165"/>
+                <Baseline points="24,183 49,181 75,181 100,179 126,179 151,177 177,177 202,177 228,177 253,176 279,175 304,175 330,175 355,175 381,175"/>
+                <TextEquiv>
+                    <Unicode>ptilis cortum quod predicto Willelmo a Cistaedel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="700,213 714,218 726,216 732,220 750,207 755,209 758,206 764,206 764,177 755,176 750,180 743,176 731,182 720,177 712,182 700,182"/>
+                <Baseline points="705,202 735,202 765,202"/>
+                <TextEquiv>
+                    <Unicode>ostquam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="582,218 590,217 596,211 608,207 611,209 615,207 621,212 626,207 640,212 647,210 647,178 632,179 628,182 612,178 597,180 595,178 590,181 582,178"/>
+                <Baseline points="587,202 618,202 649,204"/>
+                <TextEquiv>
+                    <Unicode>Nicholai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="11,219 170,223 273,209 308,222 331,209 365,220 380,215 381,184 290,179 209,196 176,185 157,201 96,186 11,200"/>
+                <Baseline points="16,211 42,211 68,211 94,211 120,210 146,209 172,209 198,208 224,206 250,205 276,205 302,205 328,205 354,205 381,204"/>
+                <TextEquiv>
+                    <Unicode>cad indem de easione fiis Willelmi super</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="16,251 36,254 45,248 53,254 66,253 97,271 141,269 143,219 124,221 109,212 88,224 81,217 67,217 52,226 18,219"/>
+                <Baseline points="22,243 52,244 83,243 113,241 144,239"/>
+                <TextEquiv>
+                    <Unicode>Bacam predicta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="801,0 801,220 918,220 918,0"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="824,44 852,49 860,46 863,49 874,43 890,46 896,42 902,48 907,45 915,47 916,16 898,14 890,17 881,8 870,5 856,12 845,11 833,0 825,0"/>
+                <Baseline points="829,35 858,35 887,35 917,33"/>
+                <TextEquiv>
+                    <Unicode>hebt dno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="797,129 832,110 839,117 873,112 889,122 916,110 916,86 891,93 882,84 873,87 858,74 825,82 806,73 797,77"/>
+                <Baseline points="802,102 831,101 860,101 889,102 918,102"/>
+                <TextEquiv>
+                    <Unicode>Dleby tunc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="795,209 808,208 836,229 848,223 859,227 868,223 883,231 902,223 910,225 912,184 896,185 854,171 843,181 832,178 819,187 809,179 797,183"/>
+                <Baseline points="801,202 829,200 857,198 885,198 913,196"/>
+                <TextEquiv>
+                    <Unicode>enessit capt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:20.456+02:00</Created>
+        <LastChange>2024-10-23T20:07:43.596+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893706" pageNr="52" tsid="195651134" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=ZRAKSQXNFGFHLILVHJZRHWPM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CUPRBOZWHQUFCGJVOGAXSDKB" imageId="66319400"/>
+    </Metadata>
+    <Page imageFilename="0052_JUST1-734m6da.jpeg" imageWidth="974" imageHeight="785">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709214344" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="16,10 16,775 958,775 958,10"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="14,55 164,39 332,47 348,63 371,48 409,67 546,60 558,25 461,35 389,8 12,1"/>
+                <Baseline points="19,30 46,30 73,32 100,34 127,34 154,35 181,36 209,38 236,38 263,40 290,42 317,42 344,43 371,45 399,47 426,49 453,50 480,50 507,50 534,48 562,48"/>
+                <TextEquiv>
+                    <Unicode>argteris que fuit uxr Rogis de Astone pateri uersus Iornordum de Co¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="587,63 605,62 611,55 616,59 634,59 652,76 666,74 662,6 634,7 630,13 626,11 609,21 585,21"/>
+                <Baseline points="593,50 618,51 643,53 668,53"/>
+                <TextEquiv>
+                    <Unicode>tliam per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="686,69 696,70 711,60 736,66 745,64 754,56 762,63 769,62 767,8 761,8 745,19 723,21 719,18 708,28 685,28"/>
+                <Baseline points="692,55 718,55 745,56 772,58"/>
+                <TextEquiv>
+                    <Unicode>in dimidum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="782,69 798,73 806,68 827,79 838,72 859,80 876,64 900,72 916,69 930,79 942,76 942,33 926,27 885,47 848,25 834,38 802,30 782,35"/>
+                <Baseline points="789,60 815,60 841,60 867,61 893,61 919,62 945,64"/>
+                <TextEquiv>
+                    <Unicode>rost trre quatuoraqe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="15,75 942,107 940,76 876,64 14,54"/>
+                <Baseline points="22,64 68,68 114,69 160,71 206,70 252,73 298,75 345,76 391,79 437,82 483,82 529,82 575,83 621,85 668,86 714,90 760,89 806,90 852,90 898,92 945,95"/>
+                <TextEquiv>
+                    <Unicode>cum pertinentiis Iu astona Et nec Rogerum filium Ricardi terciam partem quatuordecim acra terre e duaria acrae paticum pertiner in eadem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="19,108 933,128 806,96 19,82"/>
+                <Baseline points="25,100 70,102 116,102 161,102 207,103 252,104 298,107 343,110 389,111 434,113 480,113 525,113 571,113 616,115 662,116 707,118 753,120 798,122 844,121 889,120 935,121"/>
+                <TextEquiv>
+                    <Unicode>vill Et ne Seplanum de aston teriam partem sexacramterre cum pertinentiis ineadem uilla Et ner Ricardus fero terciam partem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="15,144 556,156 553,117 447,134 414,117 381,131 356,115 317,129 235,108 143,123 101,104 14,109"/>
+                <Baseline points="22,132 48,132 75,134 102,134 129,134 155,134 182,134 209,135 236,137 262,137 289,139 316,141 343,141 369,141 396,143 423,144 450,145 476,146 503,147 530,147 557,149"/>
+                <TextEquiv>
+                    <Unicode>1 acre trecqumacram praticum pertin in cadem uilla Et un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="606,170 612,170 624,158 631,162 647,165 659,157 665,157 665,130 645,130 635,123 627,125 617,117 606,120"/>
+                <Baseline points="613,150 640,152 668,150"/>
+                <TextEquiv>
+                    <Unicode>fage</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="684,165 709,158 764,168 797,157 822,172 848,156 915,157 942,174 940,124 890,135 836,130 816,140 795,140 775,125 755,132 726,122 712,131 698,121 682,129"/>
+                <Baseline points="690,150 715,150 741,150 766,152 792,152 817,154 843,152 868,152 894,152 919,153 945,155"/>
+                <TextEquiv>
+                    <Unicode>somis uenti terciam partitum dimi vuiri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="14,170 949,202 913,157 14,145"/>
+                <Baseline points="21,165 67,167 114,167 160,167 207,168 253,171 300,170 346,173 393,175 439,175 486,176 533,178 579,180 626,181 672,181 719,181 765,183 812,184 858,184 905,184 952,188"/>
+                <TextEquiv>
+                    <Unicode>terrecum pertinem ficdem ulla at sobuem de Aundal terram petednaram acram prati cum pertinentiis neadem uilla et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="14,206 723,232 957,218 957,189 13,171"/>
+                <Baseline points="21,196 67,201 114,201 161,201 208,203 255,204 302,202 348,204 395,207 442,208 489,209 536,210 583,210 630,210 676,212 723,214 770,214 817,212 864,212 911,210 958,210"/>
+                <TextEquiv>
+                    <Unicode>versus Ricardus de Hybun terram partenbus vira terrecum pertinent exceptio 2t acre cum pertinentiis In Fircouilelde et ill</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="14,244 953,247 944,216 13,209"/>
+                <Baseline points="19,227 65,230 112,230 159,230 206,231 253,231 300,231 346,234 393,237 440,238 487,240 534,241 581,240 628,240 674,241 721,243 768,244 815,244 862,243 909,240 956,240"/>
+                <TextEquiv>
+                    <Unicode>Willelmum filii Hugis Heylini de Brauilake Sibill' uxr eius terciam partem unius Nebenius acras trrecum partu in eadm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="12,277 949,288 927,244 11,240"/>
+                <Baseline points="17,257 63,259 110,259 156,259 203,260 250,261 296,263 343,264 390,268 436,269 483,270 530,270 576,270 623,269 670,270 716,272 763,272 810,274 856,275 903,274 950,274"/>
+                <TextEquiv>
+                    <Unicode>vill Et ver Roganum filium Henrici teriam pertendim viris tr dnuaries acque tre evivis acram prati cum pertinentiis In ead uillium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="11,312 925,329 947,285 9,269"/>
+                <Baseline points="16,293 62,293 109,291 156,291 202,291 249,293 296,296 342,298 389,300 436,301 483,301 529,303 576,304 623,304 669,304 716,306 763,306 809,308 856,308 903,308 950,309"/>
+                <TextEquiv>
+                    <Unicode>Et ver vm Denheubyc terram parte quantuor acram terre cum pertinentiis in eadem vill Et nec Robertus de Hertteriamperti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="11,337 614,352 681,347 681,308 9,300"/>
+                <Baseline points="17,322 50,322 83,323 117,324 150,324 183,326 217,326 250,327 283,326 317,328 350,330 383,330 417,332 450,332 483,332 517,332 550,334 583,332 617,333 650,334 684,337"/>
+                <TextEquiv>
+                    <Unicode>quinque solidos quatuor denaris reditum pertine sn Blytepon oley utdotem suam etc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="15,365 942,392 940,358 888,344 784,367 14,334"/>
+                <Baseline points="22,358 68,358 114,360 160,361 206,363 252,365 298,367 345,370 391,374 437,374 483,377 529,381 575,379 621,380 668,382 714,383 760,385 806,384 852,386 898,386 945,387"/>
+                <TextEquiv>
+                    <Unicode>Et yornordam omnes alii uen Et omnies prater predictum Ricards Prigsis uetrus ad war Iohannem filim Petri inpote heredus pedicti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="14,395 942,436 940,389 14,365"/>
+                <Baseline points="21,386 67,389 113,389 159,391 205,392 251,394 297,397 343,400 389,403 435,405 482,405 528,407 574,408 620,410 666,411 712,413 758,414 804,416 850,416 896,418 943,420"/>
+                <TextEquiv>
+                    <Unicode>Rogeri de aston qundam viri ipsius Margarie quiest infra etatem tucustod Elhmii Crlet per cartas predicti Rogeri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="15,426 601,444 652,476 713,449 782,481 949,463 947,434 843,421 14,395"/>
+                <Baseline points="22,415 68,418 114,418 161,419 207,421 254,424 300,423 346,425 393,428 439,429 486,433 532,434 578,437 625,439 671,442 718,443 764,446 810,449 857,451 903,454 950,455"/>
+                <TextEquiv>
+                    <Unicode>quas proferunt de feoffamento predictarum terrapum etenementorum lon custor suum quod sit ic in crastino pura bt Marie tuc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="281,449 294,442 335,446 342,443 348,447 368,446 386,455 393,454 392,434 380,428 374,431 344,426 339,430 315,429 308,424 301,429 292,424 279,427"/>
+                <Baseline points="287,437 314,437 341,439 368,441 395,444"/>
+                <TextEquiv>
+                    <Unicode>pest duem siicteum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="18,450 90,453 129,473 170,455 329,461 329,444 288,447 246,427 229,440 215,427 169,436 150,424 90,421 64,439 16,422"/>
+                <Baseline points="24,447 49,449 75,449 101,449 126,449 152,450 178,451 203,452 229,452 255,452 280,454 306,454 332,455"/>
+                <TextEquiv>
+                    <Unicode>hibent predictrum Iohannem ad warum t er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="544,478 556,476 571,488 591,489 598,494 600,491 611,490 610,454 584,453 571,465 563,461 544,465"/>
+                <Baseline points="551,476 582,479 614,478"/>
+                <TextEquiv>
+                    <Unicode>cartarum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="18,483 875,533 938,533 936,491 577,488 420,446 16,457"/>
+                <Baseline points="24,478 69,478 115,481 161,482 207,484 253,484 298,485 344,486 390,489 436,491 482,493 527,495 573,498 619,501 665,503 711,507 756,509 802,512 848,517 894,519 940,522"/>
+                <TextEquiv>
+                    <Unicode>Et predicto Rics pagrie dicit quod de terra uersus eum petta non debet ipsi dotem habere quedict quod predictus Rogero quandambii</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="27,519 893,559 936,531 25,488"/>
+                <Baseline points="32,507 77,509 122,510 168,512 213,511 258,510 304,512 349,515 394,519 440,520 485,522 530,523 576,526 621,528 666,530 712,533 757,537 802,539 848,544 893,546 939,551"/>
+                <TextEquiv>
+                    <Unicode>ipsius Margare die quo hiabeam despnsavt ut unquam postea tenuit predictam cerram in feodo ita quom ipsam inde ¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="21,549 936,601 933,567 874,548 20,523"/>
+                <Baseline points="27,538 72,540 118,541 163,542 209,543 254,543 300,544 345,549 391,549 436,549 482,552 527,554 573,555 618,560 664,562 709,564 755,567 800,571 846,573 891,577 937,580"/>
+                <TextEquiv>
+                    <Unicode>care potuit Dictenuni quod idem Rogeros perlogum tempr ante mortem suam feoffavit quandam Waltem lt Sinonei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="23,591 936,628 905,584 21,549"/>
+                <Baseline points="29,569 74,570 120,574 165,575 211,574 256,578 302,577 347,580 393,582 438,585 484,585 529,588 575,590 620,592 666,596 711,598 757,600 802,601 848,604 893,609 939,614"/>
+                <TextEquiv>
+                    <Unicode>de ea terra quinde ebut seiam et promorem ipsius Willelti feiis predicto Rogero predictam terram in manu sua roviere tusturar¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="18,609 360,620 464,660 639,637 929,662 926,627 748,603 18,596"/>
+                <Baseline points="24,603 69,606 114,608 159,608 205,608 250,610 295,611 341,611 386,614 431,614 477,617 522,617 567,620 612,622 658,627 703,629 748,630 794,632 839,633 884,636 930,645"/>
+                <TextEquiv>
+                    <Unicode>quod nunqui aliquid habuit in predicta tramsi ronecustodecum heredbus prediti Willi pount se super patram tararm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="28,650 61,641 103,658 111,648 136,657 159,644 205,658 219,647 233,658 245,655 244,617 230,612 195,619 177,613 163,627 129,613 120,620 63,609 50,621 28,614"/>
+                <Baseline points="35,637 61,637 87,637 114,638 140,638 166,639 193,639 219,639 246,642"/>
+                <TextEquiv>
+                    <Unicode>similiter id fiat inde Iura</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="32,686 721,706 742,653 514,643 380,671 353,650 30,646"/>
+                <Baseline points="37,671 72,671 107,673 143,673 178,674 214,675 249,675 285,676 320,678 356,679 391,682 426,684 462,685 497,684 533,686 568,686 604,687 639,688 675,689 710,690 746,692"/>
+                <TextEquiv>
+                    <Unicode>Iur dicunt quod predictus Regis quandam uiripsius Margtire non tenuit predictam terram in feodo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="822,700 835,700 852,714 862,715 866,709 876,714 881,709 891,715 897,713 896,679 886,680 872,675 868,679 859,677 854,681 832,668 829,672 820,671"/>
+                <Baseline points="827,695 863,698 900,700"/>
+                <TextEquiv>
+                    <Unicode>in destcus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="30,712 898,736 798,677 29,687"/>
+                <Baseline points="37,699 80,699 123,700 166,702 209,703 253,705 296,705 339,707 382,707 425,710 469,710 512,711 555,713 598,713 641,715 685,715 728,717 771,718 814,720 857,722 901,726"/>
+                <TextEquiv>
+                    <Unicode>necunquam postea ete dicanti quod per dimidia nnum anem mortem suam dedit idem Rogers predictam terram predicto Willemi eclmonit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="26,730 359,739 458,773 660,750 794,770 793,728 722,720 26,718"/>
+                <Baseline points="32,728 70,728 108,729 146,730 184,731 223,733 261,734 299,734 337,734 375,734 414,735 452,736 490,737 528,740 566,741 605,742 643,744 681,745 719,746 757,747 796,750"/>
+                <TextEquiv>
+                    <Unicode>nostum inde in plenare des posit Et ide conc est quod predictus Willelus fagenere sine die et predicta parta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="817,755 823,755 829,760 835,759 854,772 856,769 864,772 866,768 871,768 878,773 882,769 890,770 888,738 877,740 869,734 865,738 851,728 840,726 829,730 815,727"/>
+                <Baseline points="823,750 857,754 892,754"/>
+                <TextEquiv>
+                    <Unicode>Micli capur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="21,762 784,784 124,784 784,784 143,784 784,784 193,784 784,784 224,784 784,784 21,738"/>
+                <Baseline points="27,757 53,759 79,759 106,759 132,761 158,762 185,762 211,765 237,764 264,762 290,763 317,765"/>
+                <TextEquiv>
+                    <Unicode>Bart studo et sit in nnam pro flo clamiai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

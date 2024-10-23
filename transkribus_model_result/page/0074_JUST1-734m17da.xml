@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:38.996+02:00</Created>
+        <LastChange>2024-10-23T20:07:46.448+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893881" pageNr="74" tsid="195651145" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=CTULDEHVQXROPJBVTTZYUZEE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GGDHUEYTSICEPNWHBRUQLOZX" imageId="66319053"/>
+    </Metadata>
+    <Page imageFilename="0074_JUST1-734m17da.jpeg" imageWidth="933" imageHeight="1392">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709214824" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="12,40 12,1376 929,1376 929,40"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="6,96 896,86 907,21 8,48"/>
+                <Baseline points="13,80 57,82 102,82 147,82 192,81 236,80 281,79 326,77 371,74 415,73 460,69 505,68 550,66 594,64 639,62 684,61 729,60 773,60 818,60 863,62 908,63"/>
+                <TextEquiv>
+                    <Unicode>Iabbas de percionere summone fuit ad respondam Macheo de Nesillae de pluno quaram lonauit quoddam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="17,135 504,109 900,134 919,81 17,97"/>
+                <Baseline points="23,121 67,122 112,121 157,119 202,118 247,116 291,116 336,116 381,113 426,111 471,110 515,109 560,108 605,107 650,107 695,106 739,106 784,107 829,108 874,110 919,111"/>
+                <TextEquiv>
+                    <Unicode>orcatus apud Hauekebury ad Noecimertum quod cati predicti Macthei de Sthostan etc Et domne predictus Mallis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="17,184 322,156 876,170 886,131 18,135"/>
+                <Baseline points="23,163 65,163 108,163 151,162 195,161 238,160 281,157 325,155 368,155 411,154 455,153 498,153 541,152 584,152 628,152 671,152 714,153 758,153 801,153 844,155 888,158"/>
+                <TextEquiv>
+                    <Unicode>pr acternatum suum quem quod cum bat quabus Septimam per diem grarctis quodam Sacatum ex dono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="14,209 902,209 903,171 840,161 15,177"/>
+                <Baseline points="21,208 65,209 109,209 153,209 197,208 242,205 286,204 330,201 374,199 418,197 463,194 507,194 551,192 595,191 639,191 684,191 728,191 772,192 816,192 860,194 905,194"/>
+                <TextEquiv>
+                    <Unicode>domini r percartam suam in uilla ipsius Macei de Sthorstan et anciquius Inpetratum q nerdaiti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="17,268 896,253 907,203 147,240 18,213"/>
+                <Baseline points="24,248 68,250 112,250 156,251 200,250 245,247 289,245 333,242 377,242 421,239 466,237 510,237 554,234 598,236 642,234 687,235 731,238 775,237 819,237 863,237 908,236"/>
+                <TextEquiv>
+                    <Unicode>predicti Abbatis de Haanekebir predictus Abbas de nono leuanit predictum Martatum suum in Ranekebrn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="23,315 855,291 890,246 24,269"/>
+                <Baseline points="29,292 72,293 115,295 158,295 201,294 244,293 287,290 330,289 373,287 416,285 460,284 503,284 546,284 589,281 632,279 675,278 718,279 761,278 804,276 847,276 891,273"/>
+                <TextEquiv>
+                    <Unicode>scilicet quabus septimanum per die Lune Ia pro uertandie marcatorum que uendi dabent et soluent ad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="23,348 779,351 884,331 885,284 23,315"/>
+                <Baseline points="29,335 74,337 119,339 164,337 209,335 255,334 300,332 345,332 390,331 435,329 481,329 526,329 571,329 616,326 661,325 707,325 752,323 797,323 842,323 888,320"/>
+                <TextEquiv>
+                    <Unicode>Seratum suum in sthorstan eolo uonduilt ad mercditum ipsius Abbatis de Hauekebir E omiliter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="18,397 895,372 895,326 19,355"/>
+                <Baseline points="24,379 67,379 111,381 155,384 198,382 242,382 286,380 329,379 373,377 417,377 461,377 504,376 548,374 592,373 635,371 679,371 723,372 766,373 810,371 854,370 898,367"/>
+                <TextEquiv>
+                    <Unicode>Teclona et st allagia et alie consuetudines que dari soluont et debent pro merchandis ucatorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="25,435 900,423 891,372 26,399"/>
+                <Baseline points="31,421 74,424 118,426 161,427 205,427 248,427 292,426 335,424 379,424 422,423 466,422 510,421 553,418 597,418 640,418 684,417 727,417 771,416 814,416 858,415 902,413"/>
+                <TextEquiv>
+                    <Unicode>emptis in muercato ipsius Machi de Schestan modo dant et capiuntuar in mircato ipsius abbatis de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="20,467 902,472 902,419 20,439"/>
+                <Baseline points="26,458 72,462 118,463 164,465 211,464 257,465 303,465 349,465 396,463 442,461 488,460 534,458 581,458 627,460 673,458 719,458 766,458 812,458 858,458 905,457"/>
+                <TextEquiv>
+                    <Unicode>Hanekebir unde dit quod per hoc quod lenant predictum xrdeitum dotornigiatu est et dampum Et a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="26,519 52,518 73,527 90,513 124,525 148,518 192,524 192,475 176,468 165,475 140,472 112,488 91,479 78,483 65,474 46,480 26,472"/>
+                <Baseline points="32,505 59,505 86,507 113,507 140,507 167,507 195,505"/>
+                <TextEquiv>
+                    <Unicode>ualent pi Abas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="14,565 916,582 891,530 474,555 12,522"/>
+                <Baseline points="20,559 64,558 109,559 154,561 199,563 244,565 288,567 333,569 378,570 423,571 468,572 512,572 557,572 602,572 647,573 692,575 736,575 781,575 826,575 871,574 916,572"/>
+                <TextEquiv>
+                    <Unicode>et abbas per atrnatum suum uenit E defendit uni et Dituriam quam et cis et bne defenduo quod predictum exraim actam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="18,624 902,621 816,584 17,565"/>
+                <Baseline points="23,603 67,601 111,601 155,603 199,604 243,605 287,605 331,606 375,608 419,609 464,609 508,609 552,609 596,609 640,609 684,610 728,611 772,612 816,615 860,615 905,615"/>
+                <TextEquiv>
+                    <Unicode>suum de Hauenebiri non est lenatum ad aliquod noc tueritum predicti Mcati ipsius Mabbi de Schostone</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="14,663 903,662 903,621 14,617"/>
+                <Baseline points="20,639 64,642 108,642 152,645 197,647 241,648 285,649 330,650 374,651 418,653 463,653 507,653 551,651 595,650 640,649 684,648 728,649 773,651 817,651 861,651 906,650"/>
+                <TextEquiv>
+                    <Unicode>quia dict quod mercatum suum de Hauekebir quod est per diem lune precedict ubircatum ipsius et achas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="17,695 919,718 901,661 17,662"/>
+                <Baseline points="23,687 70,687 117,689 164,690 212,692 259,692 306,692 354,692 401,690 448,692 496,692 543,692 590,692 638,692 685,691 732,692 780,694 827,695 874,698 922,696"/>
+                <TextEquiv>
+                    <Unicode>de Stchostori quod est per diem grarcis Ita quod ei cacoroes qui venerunt cum Moc chands suis ad pratum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="16,735 919,745 867,706 15,697"/>
+                <Baseline points="21,729 66,730 111,732 156,734 201,733 246,734 291,734 336,734 381,736 426,737 471,738 516,738 561,738 606,738 651,738 696,738 741,738 786,738 831,738 876,738 922,740"/>
+                <TextEquiv>
+                    <Unicode>suum de Hauekekir proueciores sunt ad marcatum ipsus Maltri de Sthorstan Et ditis quod maercato</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="21,780 890,797 888,748 20,740"/>
+                <Baseline points="26,763 69,768 112,771 155,773 199,774 242,776 285,776 329,777 372,777 415,777 459,778 502,777 545,778 588,779 632,779 675,779 718,780 762,781 805,781 848,780 892,780"/>
+                <TextEquiv>
+                    <Unicode>ros qui enunt micandias in mercato ipsis abbatis pretea uendernt illas in mercato ipsius Mac</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="15,820 877,850 876,802 14,782"/>
+                <Baseline points="21,799 63,805 106,808 149,810 192,810 235,810 278,811 320,813 363,815 406,815 449,815 492,816 535,816 578,818 620,818 663,818 706,819 749,819 792,821 835,822 878,825"/>
+                <TextEquiv>
+                    <Unicode>ita quod marcatum suum de Hauekebir magie lonatum est ad emdem et utilitatem Mraci ipsius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="21,861 852,882 908,876 907,831 20,823"/>
+                <Baseline points="26,841 70,844 114,849 158,849 203,851 247,853 291,853 335,855 380,856 424,858 468,856 512,856 557,858 601,860 645,861 689,860 734,861 778,862 822,863 866,866 911,864"/>
+                <TextEquiv>
+                    <Unicode>Machi de Stortan quam ad nocumeritum Et de hoc ponit se super partiam Et Matl silito CMac</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="18,899 909,920 887,873 17,866"/>
+                <Baseline points="23,878 67,880 111,885 156,887 200,889 245,889 289,890 333,891 378,891 422,892 467,894 511,895 555,897 600,899 644,903 689,903 733,905 777,906 822,907 866,908 911,906"/>
+                <TextEquiv>
+                    <Unicode>pars quod pt inquiratur offert domino rei Domini Et qued predictum Prdaictum de Hauekobr est in comebnc et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="21,937 781,972 913,963 913,920 20,897"/>
+                <Baseline points="27,920 71,922 116,925 160,926 205,926 249,929 294,930 338,931 383,931 427,934 472,934 516,936 561,939 605,940 650,943 694,945 739,947 783,949 828,950 872,951 917,950"/>
+                <TextEquiv>
+                    <Unicode>Srcacum de Stonstan est In comsat preceptote est uic Glouert quod venire ficardo suaduenti s de¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="21,971 910,1009 917,962 20,939"/>
+                <Baseline points="26,962 70,965 115,967 159,970 204,972 249,973 293,973 338,974 383,975 427,976 472,976 517,978 561,978 606,979 651,981 695,983 740,986 785,987 829,989 874,991 919,990"/>
+                <TextEquiv>
+                    <Unicode>Diaunt tempre campodicto tam Milli et c pr quos etc Et qui noc etas Et siliter uic villet qui venire fiucert alias</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="20,1007 918,1036 917,1008 655,985 20,971"/>
+                <Baseline points="27,1003 71,1006 116,1010 160,1012 205,1014 250,1015 294,1016 339,1017 383,1018 428,1018 473,1018 517,1017 562,1018 606,1021 651,1022 696,1025 740,1027 785,1028 829,1031 874,1034 919,1035"/>
+                <TextEquiv>
+                    <Unicode>octo tam ml etc ad fec etc sipredictum eium atum predicti abbatis de Bauekbira lonatum sit a nocumentum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="25,1063 926,1098 923,1033 787,1054 24,1016"/>
+                <Baseline points="31,1043 75,1046 120,1049 165,1052 210,1052 255,1054 300,1056 345,1058 390,1059 435,1060 480,1062 524,1063 569,1066 614,1068 659,1071 704,1073 749,1074 794,1074 839,1077 884,1080 929,1085"/>
+                <TextEquiv>
+                    <Unicode>predicti Mracati ipsius Machis de Sthortan sict predictus Mathis dictis il nono Et si aue none ad quod non ud</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="15,1093 404,1109 403,1072 371,1086 359,1073 301,1080 255,1061 228,1076 188,1060 157,1080 95,1058 67,1072 14,1055"/>
+                <Baseline points="21,1084 46,1085 72,1085 98,1088 123,1090 149,1092 175,1094 201,1095 226,1096 252,1096 278,1096 304,1096 329,1098 355,1099 381,1100 407,1099"/>
+                <TextEquiv>
+                    <Unicode>ta et cet concessiuui est huiic Dne etc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="838,1134 846,1132 855,1132 858,1134 870,1124 873,1124 876,1128 877,1125 885,1125 884,1104 876,1104 875,1106 870,1103 865,1105 858,1100 855,1103 850,1102 846,1097 837,1099"/>
+                <Baseline points="844,1122 888,1124"/>
+                <TextEquiv>
+                    <Unicode>Omn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="20,1124 875,1159 883,1125 453,1082 408,1114 19,1094"/>
+                <Baseline points="26,1110 69,1112 112,1116 155,1119 198,1119 241,1119 284,1121 327,1122 370,1124 413,1125 456,1126 499,1127 542,1129 585,1130 628,1132 671,1137 714,1139 757,1139 800,1140 843,1143 886,1146"/>
+                <TextEquiv>
+                    <Unicode>Fsta Die domno p Et quindenam Puri ba Marie apud Oumpedenem ione predicta vur euidunt super socaem quod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="21,1160 886,1195 902,1144 19,1123"/>
+                <Baseline points="27,1146 73,1149 119,1150 165,1150 212,1150 258,1152 304,1154 350,1155 397,1157 443,1157 489,1158 535,1158 582,1161 628,1165 674,1170 720,1175 767,1176 813,1178 859,1181 906,1180"/>
+                <TextEquiv>
+                    <Unicode>pedictum predicto predicti abbatis de Lnekebre lenatum est quod nanc predicti Madrti predicti Machie in Thost eia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="17,1184 907,1217 847,1182 540,1162 16,1159"/>
+                <Baseline points="23,1180 67,1182 111,1183 155,1184 200,1185 244,1185 288,1185 333,1186 377,1186 421,1186 466,1188 510,1188 554,1189 598,1193 643,1198 687,1202 731,1206 776,1208 820,1210 864,1211 909,1210"/>
+                <TextEquiv>
+                    <Unicode>domini preo omnes homines eiastres Abbats de Saino grno de Hauekgbre eninit et vonderunt re onedra bedde et pere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="18,1221 529,1223 904,1267 902,1217 17,1188"/>
+                <Baseline points="23,1206 67,1211 111,1211 155,1215 199,1218 243,1219 287,1219 331,1219 375,1220 419,1220 464,1220 508,1222 552,1225 596,1228 640,1231 684,1234 728,1235 772,1239 816,1242 860,1244 905,1247"/>
+                <TextEquiv>
+                    <Unicode>coger et omnes echnd as sua faciunt ad matum illud deane keobiri et qua omnino preternitunt alid mretum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="11,1245 886,1276 799,1241 10,1209"/>
+                <Baseline points="17,1239 60,1241 104,1243 147,1245 191,1247 235,1248 278,1248 322,1248 365,1248 409,1250 453,1251 496,1252 540,1254 583,1257 627,1259 671,1262 714,1266 758,1269 801,1271 845,1274 889,1276"/>
+                <TextEquiv>
+                    <Unicode>de Skestan Ut solibit venire ad endem et honerondam sicut uexparpte Clehanc Et frateri dimint quod alii gutac Acos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="12,1273 891,1312 902,1280 11,1245"/>
+                <Baseline points="17,1269 61,1270 105,1273 150,1274 194,1277 239,1276 283,1278 328,1278 372,1280 417,1280 461,1281 505,1281 550,1284 594,1287 639,1291 683,1292 728,1294 772,1297 817,1300 861,1301 906,1304"/>
+                <TextEquiv>
+                    <Unicode>bodi qui colelant bilidum apud Shostadm ad Orandium apud Kystoll qodo enerint ad oliud quodctum Langbrei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="6,1302 848,1343 891,1309 5,1277"/>
+                <Baseline points="12,1298 56,1298 100,1301 144,1303 188,1304 232,1305 276,1306 320,1308 364,1308 408,1308 452,1309 496,1311 540,1312 584,1315 628,1317 672,1319 716,1322 760,1325 804,1326 848,1326 892,1326"/>
+                <TextEquiv>
+                    <Unicode>u eoqudm norcatu illud est propinquius que sit edicti de Sborstan et alia foine dict quod es a nomerctum predicti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="7,1330 708,1381 824,1379 877,1362 877,1329 6,1302"/>
+                <Baseline points="13,1328 56,1328 99,1330 143,1332 186,1335 230,1336 273,1336 316,1337 360,1339 403,1340 447,1341 490,1342 533,1345 577,1345 620,1348 664,1350 707,1351 750,1352 794,1354 837,1357 881,1356"/>
+                <TextEquiv>
+                    <Unicode>Merca de Shostan quod maneum de Bukegbir in qa minrtaconum predicti abbatis lendetum et non distat a predicto s Et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="10,1378 933,1391 227,1391 933,1391 231,1391 933,1391 268,1391 933,1391 273,1391 288,1342 8,1334"/>
+                <Baseline points="15,1354 40,1356 65,1357 90,1359 115,1360 140,1361 166,1363 191,1364 216,1365 241,1365 266,1366 292,1365"/>
+                <TextEquiv>
+                    <Unicode>de Sbystan necium per tres Lende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

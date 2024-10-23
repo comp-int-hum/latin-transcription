@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:18:02.320+02:00</Created>
+        <LastChange>2024-10-23T20:07:49.092+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80894197" pageNr="95" tsid="195651195" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=IPBKRBXCXXSWIZAWWLMVUKYR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AYFVNNPDPXLSAZLFGTKTWQCT" imageId="66319712"/>
+    </Metadata>
+    <Page imageFilename="0095_JUST1-230m2.png" imageWidth="885" imageHeight="433">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709215100" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="20,12 20,420 860,420 860,12"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="551,40 595,50 607,40 667,39 696,52 775,55 840,38 840,18 820,21 778,2 728,24 696,0 653,22 551,13"/>
+                <Baseline points="556,33 582,33 608,32 634,34 660,36 686,36 712,35 738,36 764,36 790,36 816,34 843,33"/>
+                <TextEquiv>
+                    <Unicode>cum mos fuit in dono sua In pace</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="16,70 531,36 532,7 471,0 18,20"/>
+                <Baseline points="22,58 47,55 73,55 98,52 124,50 149,47 175,47 200,45 226,45 251,43 277,42 303,43 328,44 354,42 379,42 405,38 430,36 456,33 481,33 507,32 533,32"/>
+                <TextEquiv>
+                    <Unicode>Hengo de audam Mpluntfeldum quod ut en Ricartus filios promino</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="15,99 762,86 839,76 840,52 519,34 16,69"/>
+                <Baseline points="20,92 61,90 102,87 143,84 184,82 225,79 266,78 307,75 348,72 389,68 431,65 472,63 513,61 554,61 595,64 636,65 677,68 718,67 759,69 800,70 842,70"/>
+                <TextEquiv>
+                    <Unicode>domini H De det proctam preter fetitus sancti Hyais duobus dimis tei pos ueni predicta Hultand cum forcta sua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="15,133 852,107 847,69 16,100"/>
+                <Baseline points="20,122 61,120 103,117 145,116 186,114 228,112 270,110 311,108 353,107 395,103 437,100 478,98 520,95 562,94 603,95 645,97 687,97 728,95 770,97 812,97 854,95"/>
+                <TextEquiv>
+                    <Unicode>et eam eicet de domo sua et appotaulit quiquid inter invenerint ut inpanos et tatibus aliis Robetis te aud</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="16,167 572,128 839,147 859,107 17,132"/>
+                <Baseline points="22,148 63,148 105,145 147,143 189,141 231,140 273,141 315,138 357,136 399,135 441,134 482,131 524,129 566,128 608,127 650,127 692,128 734,128 776,129 818,128 860,128"/>
+                <TextEquiv>
+                    <Unicode>postes hunt predicti Agae ad uiceum et paoter patem domini R de ea pre pacem etca vencam predicti Iulando cum forca sua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="15,189 431,169 486,188 517,166 632,173 633,149 550,130 510,152 443,135 387,157 214,145 15,167"/>
+                <Baseline points="20,181 50,179 81,179 112,178 143,177 174,175 204,173 235,172 266,171 297,170 328,170 358,169 389,169 420,167 451,167 482,166 512,165 543,163 574,163 605,163 636,163"/>
+                <TextEquiv>
+                    <Unicode>et aditem iuri bones et duos eiset xn didentes notanter et poc se hemear</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="17,211 769,210 856,200 857,157 778,184 680,159 17,188"/>
+                <Baseline points="23,206 64,206 106,206 148,204 190,201 231,200 273,200 315,200 357,200 398,200 440,198 482,197 524,195 565,195 607,194 649,193 691,193 732,194 774,195 816,195 858,192"/>
+                <TextEquiv>
+                    <Unicode>et huliuus non et defendit pacem infracam et Elone et tot tu et vesm ult die et dicti predicti agsati fuit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="21,246 826,239 859,231 860,192 21,212"/>
+                <Baseline points="27,237 68,234 110,235 151,235 193,234 235,231 276,231 318,231 360,231 401,231 443,229 485,229 526,226 568,229 610,227 651,227 693,225 735,226 776,226 818,226 860,225"/>
+                <TextEquiv>
+                    <Unicode>Bircacessa et de feodo ipsis et etr noluit neond cerio secudi consueta regni uen predicta Hubando Rot poere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="27,275 840,275 857,236 27,242"/>
+                <Baseline points="33,265 74,265 115,264 156,263 198,262 239,259 280,257 321,258 363,260 404,260 445,258 486,257 528,257 569,257 610,257 651,257 693,255 734,257 775,256 816,256 858,253"/>
+                <TextEquiv>
+                    <Unicode>sersam super hostium ibi tercis poeteto fuit ut sni cogert nendem secd consicti Rundei et quod ab</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="28,311 170,294 221,302 273,287 315,303 331,288 381,288 382,267 344,263 30,276"/>
+                <Baseline points="35,296 61,296 88,297 115,296 141,294 168,291 195,289 221,287 248,285 275,284 301,284 328,283 355,282 382,281"/>
+                <TextEquiv>
+                    <Unicode>n Recerto nec aliaociam poteru se fice prtam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="26,332 855,319 856,272 523,261 485,291 26,314"/>
+                <Baseline points="32,324 73,323 114,324 155,322 197,319 238,316 279,316 320,315 362,312 403,311 444,308 485,305 527,301 568,298 609,298 650,297 692,297 733,297 774,301 815,304 857,304"/>
+                <TextEquiv>
+                    <Unicode>Euda pkot de Forca Willelmum Ruffum Iobennui Fauelt Huie vulte et hurt uoni e Weltem asbacis non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="26,357 713,340 757,368 842,346 831,311 581,305 27,337"/>
+                <Baseline points="33,354 73,357 114,356 154,354 195,351 236,352 276,352 317,351 357,350 398,350 439,347 479,345 520,340 560,337 601,334 642,335 682,337 723,336 763,337 804,338 845,337"/>
+                <TextEquiv>
+                    <Unicode>venerit velt accuais fuit prcim del hero deter et kalias et Anglem de eollem et sibades per grcia¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="33,387 109,406 389,380 538,395 651,371 652,346 34,361"/>
+                <Baseline points="38,385 68,388 99,388 130,387 161,383 191,382 222,383 253,382 284,381 314,380 345,379 376,379 407,377 437,377 468,374 499,372 530,372 560,369 591,369 622,367 653,366"/>
+                <TextEquiv>
+                    <Unicode>le sanctipunt de Milham Robertus de la Foe de Tal et praomnes in md¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="266,431 616,425 623,373 561,377 536,395 458,381 266,389"/>
+                <Baseline points="272,410 297,410 322,408 347,407 372,406 398,405 423,406 448,407 473,406 498,406 524,405 549,406 574,404 599,405 625,405"/>
+                <TextEquiv>
+                    <Unicode>u tericiam t in sualitao aaai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

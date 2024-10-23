@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:18:02.031+02:00</Created>
+        <LastChange>2024-10-23T20:07:48.979+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80894195" pageNr="94" tsid="195651176" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=YEONHTZDUPYOFVAGHATLGAXN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZOPFAWWADIQZFQIFSNKCXUBD" imageId="66319710"/>
+    </Metadata>
+    <Page imageFilename="0094_norw7.jpg" imageWidth="1128" imageHeight="194">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709215081" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="557,0 557,149 602,149 602,0"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="552,106 564,101 567,104 570,100 576,99 583,104 586,102 593,107 602,108 597,30 588,30 575,40 569,36 562,40 557,35 548,35"/>
+                <Baseline points="557,96 602,99"/>
+                <TextEquiv>
+                    <Unicode>c¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="606,38 606,117 934,117 934,38"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="602,68 669,94 734,66 758,84 773,76 810,89 893,80 914,98 933,85 931,37 887,57 873,45 843,55 804,33 736,44 711,30 600,24"/>
+                <Baseline points="606,58 631,60 656,62 681,62 706,63 732,64 757,66 782,67 807,69 833,71 858,73 883,71 908,72 934,73"/>
+                <TextEquiv>
+                    <Unicode>ailibus epruatus practi levatas fi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="643,122 650,123 653,121 657,123 667,115 678,121 692,117 690,87 679,90 673,97 663,88 654,87 645,81 640,81"/>
+                <Baseline points="647,103 693,107"/>
+                <TextEquiv>
+                    <Unicode>Ar e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:09.914+02:00</Created>
+        <LastChange>2024-10-23T20:07:42.204+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893689" pageNr="41" tsid="195651088" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=IVHASXUOJXSFYTNJMAVIPBNL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UNVYLETOXWOEQZZFGVDYISJI" imageId="66319187"/>
+    </Metadata>
+    <Page imageFilename="0041_JUST1-734m3b.jpeg" imageWidth="971" imageHeight="602">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709214161" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="14,13 14,593 951,593 951,13"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="8,46 925,44 915,2 694,29 8,8"/>
+                <Baseline points="14,33 59,33 105,36 150,37 196,37 242,38 287,37 333,38 379,38 424,38 470,40 516,40 561,41 607,40 653,41 698,42 744,42 790,40 835,40 881,37 927,37"/>
+                <TextEquiv>
+                    <Unicode>Iallam ueneri feco si Robertus Eorbet uimiste et ceta isetis exidem de Credinton de comminia pasture sueimn recono</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="15,77 925,78 925,39 751,67 15,48"/>
+                <Baseline points="22,63 67,67 112,69 157,69 203,71 248,71 293,71 338,72 384,74 429,76 474,77 519,77 565,78 610,79 655,79 700,79 746,79 791,78 836,76 881,76 927,76"/>
+                <TextEquiv>
+                    <Unicode>Prestone que pertinet ad liberaum tommitum santum in Roefod prte primam et c et unde quam quod disis eum de cominia pasture hue¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="15,108 938,137 937,80 15,77"/>
+                <Baseline points="21,98 67,103 113,105 159,106 205,108 251,107 297,107 343,109 389,111 435,113 481,114 527,116 573,118 619,118 665,116 711,114 757,114 803,114 849,114 895,114 941,114"/>
+                <TextEquiv>
+                    <Unicode>de quodam gora que contur quadraginta acra in qua solbat bestre commnam tranquam pertinenti ad libertum tenemenu omnum in edem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="15,146 725,177 926,166 928,124 680,144 14,107"/>
+                <Baseline points="22,135 67,139 113,142 158,144 204,143 249,143 295,146 340,147 386,150 431,153 477,155 522,156 568,156 613,158 659,156 704,156 750,158 795,158 841,156 886,158 932,158"/>
+                <TextEquiv>
+                    <Unicode>uilla pro totum annum ad omnimoda aueria sunta quondam dom Robertus ei deforcianit pasturam illam et filier quem quod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="17,186 890,219 943,204 942,165 16,151"/>
+                <Baseline points="24,173 70,176 116,179 162,181 208,182 254,182 300,184 346,185 392,187 438,189 485,190 531,190 577,193 623,194 669,194 715,195 761,196 807,196 853,197 899,197 946,195"/>
+                <TextEquiv>
+                    <Unicode>habere debeat communam pasture sue in quidam Iulneco quod continur quinque acras ad omnimoda anera sua pater kal¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="19,238 911,264 916,211 16,187"/>
+                <Baseline points="24,213 68,216 113,219 158,222 203,223 248,224 292,224 337,224 382,226 427,228 472,230 516,231 561,233 606,234 651,234 696,236 740,236 785,238 830,239 875,237 920,237"/>
+                <TextEquiv>
+                    <Unicode>asspiortatea de Campio Rilneco flo adiacentibus predictos Robertus Sulnotiomum ido includi fecit fossato et Hardus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="24,281 57,260 114,280 150,264 172,278 313,269 371,282 379,242 230,232 202,244 96,225 60,240 22,234"/>
+                <Baseline points="30,255 55,257 80,258 105,260 130,262 156,262 181,265 206,266 231,267 256,267 282,267 307,267 332,267 357,267 383,268"/>
+                <TextEquiv>
+                    <Unicode>promicat ipsum aliquo tepre aiberetre continam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="20,322 938,319 937,287 756,268 70,262 19,288"/>
+                <Baseline points="25,297 70,299 116,302 162,304 208,306 254,308 299,309 345,310 391,310 437,312 483,316 528,318 574,318 620,318 666,316 712,315 757,315 803,313 849,313 895,313 941,313"/>
+                <TextEquiv>
+                    <Unicode>et Robertus ueneri et dicet quod predictus exidue Iumiste tulict assantam Istam quia dictus quod dem exndinuo nec aliquie Alcicaino</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="15,354 817,378 933,361 933,321 14,320"/>
+                <Baseline points="22,333 67,337 113,340 158,344 204,345 250,346 295,348 341,349 387,349 432,351 478,354 524,355 569,356 615,355 661,354 706,354 752,354 798,352 843,351 889,350 935,349"/>
+                <TextEquiv>
+                    <Unicode>quam predictum tenementum de Frefforde tenuerit quinqua aliqa commnam bi habeunit in habere debet vien solet si de Garta uel permissius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="21,389 673,414 754,397 754,372 20,354"/>
+                <Baseline points="27,372 63,373 100,375 136,378 173,380 209,378 246,380 282,380 319,381 355,382 392,383 428,385 465,386 501,387 538,390 574,390 611,390 647,390 684,391 720,390 757,390"/>
+                <TextEquiv>
+                    <Unicode>et pro suo dando scilicet per arturis et ealinis dandie per annum E deloc vouit se super assicam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="15,425 938,434 925,389 15,394"/>
+                <Baseline points="22,415 70,420 118,423 167,425 215,427 263,428 312,430 360,432 408,430 457,430 505,430 554,430 602,430 650,432 699,430 747,428 795,428 844,427 892,425 941,428"/>
+                <TextEquiv>
+                    <Unicode>Iur douno quod predictus Robertus dissinis predictum eodieum de predicta communa pasture uuiste et ertas Sincto bibe dict Caa domini</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="19,472 652,469 694,495 948,474 947,434 441,455 17,426"/>
+                <Baseline points="24,451 70,457 116,461 163,464 209,465 255,467 302,468 348,469 394,469 441,467 487,467 533,467 580,467 626,467 672,468 719,467 765,467 811,467 858,467 904,468 951,469"/>
+                <TextEquiv>
+                    <Unicode>quod predictus Egidrus et omnes antessoris sui qui predictum tenererum de Befforde tenerit semper communcare solunt et delent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="15,493 704,530 868,527 919,485 14,473"/>
+                <Baseline points="22,491 67,496 112,499 157,503 202,503 247,504 292,506 337,506 382,506 427,507 472,509 517,509 562,508 607,508 652,508 697,508 742,507 787,506 832,508 877,506 922,508"/>
+                <TextEquiv>
+                    <Unicode>cum omniodis auerius suis per cotum amnum in predicta Corta Et Similiter in predicto Lulueto proter bilada detampis de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="17,539 442,546 477,575 527,548 948,551 948,506 842,531 17,507"/>
+                <Baseline points="24,534 70,534 116,535 163,537 209,538 255,540 302,541 348,543 394,543 441,543 487,545 533,545 580,545 626,543 672,543 719,545 765,545 811,545 858,546 904,543 951,540"/>
+                <TextEquiv>
+                    <Unicode>Ranerneco ili ediacentibus tanguram pertinentes ad liberum tenemenam posorum de Refford sine aliquo suo dendo et heno contra est</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="21,593 31,592 41,581 57,592 66,582 79,579 102,592 108,590 102,544 94,546 70,541 57,545 48,539 43,544 35,539 14,538"/>
+                <Baseline points="24,566 52,570 81,575 110,576"/>
+                <TextEquiv>
+                    <Unicode>quod predictus Et¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="194,589 601,601 293,601 601,601 304,601 601,601 320,601 601,601 445,548 194,549"/>
+                <Baseline points="200,579 227,579 255,580 282,582 310,582 337,581 365,583 392,582 420,582 448,582"/>
+                <TextEquiv>
+                    <Unicode>feuionum Sulin et Robertis ta nna</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

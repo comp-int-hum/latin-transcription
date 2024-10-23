@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:45.898+02:00</Created>
+        <LastChange>2024-10-23T20:07:47.985+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893922" pageNr="86" tsid="195651191" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=LUWZENPRCJJELHHCHBLGUNGH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UOZBZAVCFGFVHCIILVMGQJOO" imageId="66319702"/>
+    </Metadata>
+    <Page imageFilename="0086_memb1.jpg" imageWidth="800" imageHeight="600">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709215006" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="12,0 12,579 796,579 796,0"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="144,25 157,28 167,20 171,21 181,11 184,14 191,12 196,14 202,10 208,11 208,0 144,0"/>
+                <Baseline points="149,4 179,4 210,5"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="12,81 231,78 429,30 638,30 671,25 674,0 296,2 227,27 16,34"/>
+                <Baseline points="18,66 50,66 83,62 116,56 149,50 182,44 215,37 248,34 281,31 314,29 347,30 379,30 412,28 445,27 478,26 511,24 544,19 577,14 610,10 643,5 676,0"/>
+                <TextEquiv>
+                    <Unicode>in atas ast uti u ioi u uo li oi i e pei eio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="11,163 387,85 685,60 784,87 791,21 709,5 435,62 20,76"/>
+                <Baseline points="20,129 58,129 96,126 135,121 173,115 212,109 250,101 289,94 327,89 366,84 404,82 442,81 481,80 519,79 558,77 596,69 635,61 673,56 712,54 750,57 789,58"/>
+                <TextEquiv>
+                    <Unicode>face de e d dedatin uia hais ili l</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="21,210 376,129 689,105 792,129 787,84 667,61 27,151"/>
+                <Baseline points="28,188 66,181 104,178 143,170 181,164 220,155 258,145 296,136 335,129 373,122 412,118 450,117 488,116 527,116 565,114 604,111 642,106 680,104 719,106 757,108 796,110"/>
+                <TextEquiv>
+                    <Unicode>petete dei adi e eraeae</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="287,200 418,171 497,185 639,151 778,164 780,122 704,108 578,134 467,121 396,146 380,133 351,156 291,142"/>
+                <Baseline points="293,182 318,178 344,175 370,171 395,168 421,165 447,163 472,161 498,158 524,158 549,158 575,156 601,153 626,152 652,149 678,148 703,146 729,148 755,149 781,150"/>
+                <TextEquiv>
+                    <Unicode>golorio ine presentis Sicarius et habs us Alus i l e e ali de d¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="180,240 186,242 227,216 233,222 245,223 262,212 267,213 278,163 272,163 266,156 248,167 235,169 229,165 211,172 197,163"/>
+                <Baseline points="192,208 219,204 246,197 273,190"/>
+                <TextEquiv>
+                    <Unicode>heri qro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="300,239 440,211 552,223 588,199 713,208 778,190 781,164 639,151 493,188 456,171 402,190 305,186"/>
+                <Baseline points="306,229 331,223 356,219 381,216 406,212 431,210 456,207 481,205 506,204 531,202 556,200 581,197 606,194 631,192 656,190 681,189 706,188 731,187 756,186 781,185"/>
+                <TextEquiv>
+                    <Unicode>Honesade dede dediani in presant t lamam pad eida</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="4,260 14,264 28,256 38,262 51,255 61,258 99,236 122,245 153,230 157,194 140,203 121,189 110,189 88,204 73,193 32,215 13,210"/>
+                <Baseline points="12,241 41,238 70,234 99,229 128,223 158,216"/>
+                <TextEquiv>
+                    <Unicode>pr pe dto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="251,303 272,316 351,272 430,278 585,239 719,250 741,234 780,256 787,189 257,241"/>
+                <Baseline points="257,288 283,283 309,275 336,270 362,262 389,258 415,256 441,254 468,252 494,250 521,248 547,245 573,240 600,237 626,236 653,234 679,233 705,232 732,229 758,226 785,224"/>
+                <TextEquiv>
+                    <Unicode>ademeue dumnu Aesie duni de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="107,292 123,294 183,263 197,271 217,260 268,267 279,213 267,209 244,223 228,216 186,242 169,243 145,232 123,246 117,243"/>
+                <Baseline points="117,270 143,267 170,260 196,256 223,250 249,243 276,238"/>
+                <TextEquiv>
+                    <Unicode>per inadsed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="44,390 453,303 772,282 777,253 681,234 482,255 51,347"/>
+                <Baseline points="52,374 88,372 124,365 160,361 197,353 233,344 269,334 305,326 342,316 378,309 414,302 450,300 487,297 523,293 559,288 595,281 632,277 668,276 704,275 740,270 777,265"/>
+                <TextEquiv>
+                    <Unicode>aa aa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="45,345 60,340 73,348 100,333 108,341 159,320 166,330 188,315 198,328 212,320 229,333 241,269 229,262 195,272 184,264 133,289 93,286 71,299 54,293"/>
+                <Baseline points="53,328 79,326 105,320 132,317 158,313 185,307 211,301 238,294"/>
+                <TextEquiv>
+                    <Unicode>Maefrd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="191,423 408,366 518,376 606,328 778,331 780,269 200,360"/>
+                <Baseline points="200,397 229,391 258,385 287,377 316,371 345,364 374,359 403,354 432,350 461,346 491,345 520,342 549,339 578,333 607,327 636,324 665,322 694,321 723,320 752,318 782,314"/>
+                <TextEquiv>
+                    <Unicode>prede ei dunis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="206,449 312,453 389,418 424,435 488,403 512,421 662,374 693,392 784,375 790,332 606,328 516,377 466,359 282,410 213,398"/>
+                <Baseline points="212,445 240,440 269,436 298,431 327,422 356,416 384,413 413,409 442,405 471,402 500,402 528,397 557,391 586,384 615,377 644,374 672,372 701,369 730,368 759,365 788,362"/>
+                <TextEquiv>
+                    <Unicode>per earai dado</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="111,429 128,432 144,422 155,427 168,418 173,419 179,377 165,371 153,377 138,371 124,382 118,382"/>
+                <Baseline points="118,417 147,414 177,408"/>
+                <TextEquiv>
+                    <Unicode>Simno</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="242,493 429,466 514,497 579,452 773,434 782,378 761,366 515,420 483,405 422,437 390,418 289,459 250,444"/>
+                <Baseline points="248,488 274,483 301,478 327,472 354,466 381,462 407,459 434,457 460,453 487,453 514,450 540,446 567,439 593,432 620,426 647,423 673,419 700,414 726,412 753,409 780,405"/>
+                <TextEquiv>
+                    <Unicode>qua e detio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="57,493 71,499 117,467 122,472 149,461 168,481 190,482 196,425 173,415 156,426 145,423 122,438 106,440 96,434 74,445 63,438"/>
+                <Baseline points="65,461 91,464 117,462 143,459 169,454 196,449"/>
+                <TextEquiv>
+                    <Unicode>mexille</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="22,533 57,525 79,534 104,519 143,527 195,507 225,519 231,451 168,481 149,460 68,501 59,492 28,491"/>
+                <Baseline points="29,520 54,518 79,517 104,514 129,510 154,508 179,501 204,498 229,494"/>
+                <TextEquiv>
+                    <Unicode>Pt e d</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="234,553 243,551 256,565 299,565 319,555 343,561 398,542 417,545 429,477 415,473 400,482 387,476 366,488 336,472 284,499 272,489 245,488"/>
+                <Baseline points="241,538 267,534 293,531 320,526 346,521 373,515 399,511 426,506"/>
+                <TextEquiv>
+                    <Unicode>ara at ai ia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="52,579 599,599 99,599 599,599 103,599 599,599 110,599 599,599 122,599 599,599 128,599 599,599 155,599 599,599 161,599 599,599 194,599 211,517 57,543"/>
+                <Baseline points="58,569 84,567 110,565 137,564 163,560 189,554 216,549"/>
+                <TextEquiv>
+                    <Unicode>e esi haenis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:17.562+02:00</Created>
+        <LastChange>2024-10-23T20:07:43.214+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893541" pageNr="49" tsid="195651113" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=TTMFIVNJCDQAPPKLVJZKKGES&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YPRXUSEPBCONHGANTIJUDZTS" imageId="66318865"/>
+    </Metadata>
+    <Page imageFilename="0049_JUST1-734m5da.jpeg" imageWidth="967" imageHeight="597">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709214287" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="16,25 16,579 955,579 955,25"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="15,69 911,61 924,16 16,21"/>
+                <Baseline points="22,53 67,55 112,55 157,56 203,54 248,53 293,51 338,50 384,48 429,49 474,49 519,48 565,46 610,46 655,48 700,45 746,45 791,45 836,45 881,45 927,46"/>
+                <TextEquiv>
+                    <Unicode>Sampgro de Wuillogh Simone fuit ad pospondam Margerie de Lass de placto quod reddat ei Indriam filium et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="22,105 784,105 917,88 918,62 22,73"/>
+                <Baseline points="29,98 73,100 118,96 162,96 207,94 252,91 296,88 341,87 385,83 430,83 475,82 519,83 564,85 608,85 653,85 698,82 742,80 787,78 831,76 876,75 921,75"/>
+                <TextEquiv>
+                    <Unicode>herdem Nicole de WUillilegh curius custodia ad eam partin eo quod predictus Nicolatus per seruicium glicare ete et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="26,143 929,126 897,80 27,108"/>
+                <Baseline points="33,133 80,133 127,132 174,133 222,131 269,128 316,126 364,123 411,124 458,118 506,120 553,120 600,121 648,122 695,121 742,119 790,117 837,117 884,116 932,116"/>
+                <TextEquiv>
+                    <Unicode>unde predicte gargerit per Itiatis somnuem quem quod cum fruderis g icolitis rostre predicti Andree de ea ceneret tenenmentur suum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="26,188 894,165 936,160 937,125 27,150"/>
+                <Baseline points="32,174 77,174 122,172 168,171 213,171 258,166 304,163 349,161 394,158 440,157 485,156 530,156 576,156 621,154 666,156 712,156 757,154 802,154 848,153 893,156 939,156"/>
+                <TextEquiv>
+                    <Unicode>in Kusebir per seruicium feodi dimidii cilicet Scilicet ai Stuchpium domini R xx solidos quando erenisset x solio Et od</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="27,220 821,206 923,197 924,159 27,188"/>
+                <Baseline points="33,208 77,209 122,208 167,206 211,205 256,203 301,203 345,200 390,196 435,195 480,194 524,193 569,193 614,193 658,193 703,193 748,193 792,193 837,191 882,190 927,187"/>
+                <TextEquiv>
+                    <Unicode>plus plus et ad minus minum la quod predicta gargere fuit sinctie de predictis scutagiis per manus predicti Nicaolis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="21,252 923,243 924,198 21,218"/>
+                <Baseline points="27,246 74,246 121,245 168,242 216,240 263,238 310,237 358,233 405,231 452,230 500,227 547,225 594,226 642,226 689,227 736,227 784,227 831,227 878,225 926,227"/>
+                <TextEquiv>
+                    <Unicode>die quo predictus Nicolieus fuici gortiune et unine et prate mortem ipsius Nicole fomine predicti forisei dnici</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="21,295 929,276 941,232 22,253"/>
+                <Baseline points="27,285 72,285 118,283 164,280 210,276 255,274 301,273 347,270 393,266 438,264 484,263 530,261 576,259 621,259 667,259 713,259 759,259 804,259 850,256 896,258 942,256"/>
+                <TextEquiv>
+                    <Unicode>debenc predictus Frndrium filii treres ipsius Nicolis qui est inftea eudtem esse in custodia sua predicta Bnrgis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="22,331 908,315 920,264 23,298"/>
+                <Baseline points="29,322 73,324 118,324 162,320 207,316 252,311 296,309 341,306 385,301 430,300 475,300 519,297 564,294 608,292 653,292 698,292 742,292 787,291 831,290 876,290 921,290"/>
+                <TextEquiv>
+                    <Unicode>cemper potr impatem psus Ncolie eideunt et redde condicit predictum Andraum uene dict quod decerorata est et doamunum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="9,372 183,359 229,369 290,352 292,325 200,322 180,332 49,340 12,326"/>
+                <Baseline points="17,359 42,359 67,359 92,359 117,358 142,356 167,356 192,354 217,351 242,350 267,348 293,346"/>
+                <TextEquiv>
+                    <Unicode>lcer ad balent dicte libre et c</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="11,404 936,381 899,332 12,367"/>
+                <Baseline points="17,393 63,392 109,390 155,390 201,389 247,388 293,386 339,388 385,388 431,387 478,385 524,384 570,382 616,382 662,380 708,380 754,378 800,375 846,374 892,375 939,377"/>
+                <TextEquiv>
+                    <Unicode>Et Himpe unc et uocatu ad Barum Iobannem de Shothmnde qui don et ei wiarie et uocat ad war Iohanne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="13,436 944,413 918,378 14,400"/>
+                <Baseline points="19,429 65,426 111,425 158,425 204,424 251,422 297,421 343,419 390,419 436,417 483,417 529,416 575,416 622,416 668,415 715,413 761,410 807,409 854,408 900,408 947,409"/>
+                <TextEquiv>
+                    <Unicode>fil Alani qui precen est et eibar Et dict quod predicta Margeria nhi climare posurt in maricagio predicti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="9,482 930,448 931,419 823,412 11,438"/>
+                <Baseline points="16,466 61,463 107,463 153,461 199,459 245,458 291,457 337,456 383,455 429,453 475,453 520,451 566,453 612,451 658,451 704,450 750,450 796,450 842,450 888,448 934,448"/>
+                <TextEquiv>
+                    <Unicode>Andrete E uud dicts quod predictus Nicdeliatus fati predicti Andret per quinque annos dinem mortem suam maricauit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="12,510 927,489 921,453 753,449 13,481"/>
+                <Baseline points="19,498 64,500 110,500 155,500 201,496 246,495 292,495 337,494 383,493 428,491 474,490 519,490 565,490 610,488 656,487 701,485 747,484 792,484 838,482 883,482 929,482"/>
+                <TextEquiv>
+                    <Unicode>ipsum Andrem tudam Filie Ualem de Hugeford qui presens est in fumius de predicto herede et fecit Indem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="14,537 738,545 951,519 952,482 14,510"/>
+                <Baseline points="20,534 66,537 113,538 160,537 207,535 253,534 300,534 347,534 394,532 440,532 487,532 534,529 581,528 627,527 674,527 721,523 768,522 814,521 861,517 908,516 955,514"/>
+                <TextEquiv>
+                    <Unicode>de tunc predictus Nicolles de Wuillg pstr ipsius Andrem in uica sua maritanit ipsum Andrem sicut ei bene linc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="454,593 522,572 592,592 744,569 786,586 886,559 931,580 952,573 954,522 830,519 738,545 714,525 669,544 455,544"/>
+                <Baseline points="461,569 487,569 513,568 539,567 565,567 591,566 617,566 643,566 669,564 695,564 721,564 747,563 773,563 799,562 825,559 851,556 877,555 903,553 929,553 955,556"/>
+                <TextEquiv>
+                    <Unicode>Iitagio predicti Berdis Et Suhoc non sufficiatone dice aliud</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

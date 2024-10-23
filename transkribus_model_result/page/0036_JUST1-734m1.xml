@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:06.904+02:00</Created>
+        <LastChange>2024-10-23T20:07:41.581+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893594" pageNr="36" tsid="195651067" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=FWBGDMTRDZVYMAGRTQLACJRC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ESYFOSYPVKVBVAIMLQGXWQUH" imageId="66319205"/>
+    </Metadata>
+    <Page imageFilename="0036_JUST1-734m1.jpeg" imageWidth="906" imageHeight="1089">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709213853" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="18,20 18,1083 904,1083 904,20"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="12,77 844,59 880,53 881,11 644,0 381,37 278,0 165,41 13,10"/>
+                <Baseline points="18,57 61,58 104,59 147,57 191,56 234,55 277,54 320,54 364,52 407,52 450,51 493,49 537,49 580,49 623,49 666,49 710,47 753,45 796,42 839,42 883,40"/>
+                <TextEquiv>
+                    <Unicode>Fassam Uone rect gi Willelmus de la Grourceapllan et Nicholas fratri oumies Lumiste etera dictus Wilti¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="30,106 101,129 314,103 390,137 684,131 793,89 877,112 878,59 745,47 32,79"/>
+                <Baseline points="36,101 78,99 120,101 162,99 204,99 246,99 288,99 331,98 373,97 415,98 457,97 499,95 541,95 583,95 626,93 668,91 710,88 752,87 794,87 836,86 879,87"/>
+                <TextEquiv>
+                    <Unicode>et bertem perpionta de libero tent suo in Alummebagim prater pinana et c et umni quado qro dicis cnem de qrauor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="54,147 68,151 90,146 99,154 102,151 121,154 137,144 158,144 158,115 152,115 147,109 129,122 115,121 102,130 93,128 80,116 54,113"/>
+                <Baseline points="60,140 85,140 110,141 135,140 160,138"/>
+                <TextEquiv>
+                    <Unicode>e A etc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="48,177 458,196 855,169 879,134 567,116 48,152"/>
+                <Baseline points="54,172 95,174 136,172 177,172 219,170 260,170 301,169 342,168 384,169 425,167 466,169 507,167 549,165 590,164 631,163 672,161 714,161 755,160 796,160 837,160 879,161"/>
+                <TextEquiv>
+                    <Unicode>Willelmus et ali Uone et dicet qro predictus Willelmus de Hemptone Iniste quara de predictis quatuor acras terre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="24,214 155,235 857,201 834,164 458,196 25,185"/>
+                <Baseline points="31,208 72,208 113,209 155,208 196,209 238,209 279,209 321,208 362,206 404,205 445,204 486,203 528,203 569,203 611,200 652,199 694,199 735,197 777,197 818,196 860,196"/>
+                <TextEquiv>
+                    <Unicode>er dicnt pro nono poseuint in uign suo in autem tres Acra tre et preteroa dictus Willelmus Capellano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="27,264 856,249 883,200 28,216"/>
+                <Baseline points="33,247 75,249 118,250 160,250 203,247 246,246 288,246 331,243 373,243 416,240 459,240 501,240 544,238 586,240 629,237 672,236 714,234 757,232 799,232 842,231 885,229"/>
+                <TextEquiv>
+                    <Unicode>Ut pro de illis eb acrias terre non dictis predictum Willelmum de Bomptone quod dict qet quidem Henrici filii</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="27,314 464,278 866,292 877,247 28,264"/>
+                <Baseline points="34,289 76,291 118,291 160,292 203,288 245,286 287,285 329,282 372,279 414,277 456,276 498,276 541,274 583,274 625,273 667,272 710,271 752,271 794,269 836,268 879,268"/>
+                <TextEquiv>
+                    <Unicode>de Alinbleg de boua et pacifica sanse sua ipsum fosfavit de predictis tibus acris tere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="27,354 403,317 601,324 603,286 29,312"/>
+                <Baseline points="34,329 62,332 91,330 119,330 148,329 176,327 205,325 233,323 262,321 290,320 319,318 347,315 376,312 404,312 433,313 461,312 490,312 518,312 547,311 575,310 604,306"/>
+                <TextEquiv>
+                    <Unicode>et qro predictus Willelmus de Bemntone sunge habuict bn aliua cegam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="20,385 846,351 859,290 22,345"/>
+                <Baseline points="27,374 68,376 110,373 151,371 193,369 235,366 276,359 318,357 360,354 401,351 443,352 485,351 526,350 568,347 610,345 651,344 693,342 735,340 776,336 818,333 860,332"/>
+                <TextEquiv>
+                    <Unicode>et illelas de Bempcione bne cognosicit et predictus Benricus filius Willelmi alia tempore fecerait predicto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="26,424 882,382 884,343 802,340 28,388"/>
+                <Baseline points="33,407 75,412 118,412 160,410 203,407 246,402 288,398 331,396 374,392 416,389 459,389 502,388 544,386 587,385 630,384 672,381 715,378 758,377 800,374 843,373 886,373"/>
+                <TextEquiv>
+                    <Unicode>Willelmo de la Grene quandcam cartam de Foftamerco de predicta terra sed dictus quo inquam aliqua sect</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="26,463 882,424 878,378 28,426"/>
+                <Baseline points="33,447 75,448 118,450 160,450 203,447 246,443 288,437 331,434 374,431 416,428 459,427 502,424 544,421 587,419 630,418 672,415 715,415 758,414 800,413 843,410 886,410"/>
+                <TextEquiv>
+                    <Unicode>itadierict per predictum brtam Eit unde pue predictus Henricis filiis lulli per boriiati camstris anre colto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="26,512 584,458 830,470 857,429 28,462"/>
+                <Baseline points="33,484 74,491 115,492 156,490 198,487 239,483 280,480 322,476 363,474 404,469 446,466 487,464 528,460 569,457 611,456 652,456 693,454 735,451 776,451 817,450 859,447"/>
+                <TextEquiv>
+                    <Unicode>predicte carte dimidiat predictam terram cuidam Henricui de Pirie ad terminum viginti annorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="20,537 870,502 867,452 22,507"/>
+                <Baseline points="27,530 69,531 111,531 154,528 196,525 238,522 281,518 323,514 365,510 408,506 450,503 492,499 535,496 577,495 619,493 662,491 704,490 746,489 789,489 831,487 874,486"/>
+                <TextEquiv>
+                    <Unicode>et prederea infa deominum simi fecit predicto Willelmo de le grene predictam Casftam absque aqra Earie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="17,583 865,533 855,500 732,495 21,538"/>
+                <Baseline points="24,569 66,570 108,569 150,568 192,567 235,563 277,558 319,554 361,551 403,549 446,545 488,543 530,539 572,537 614,534 657,533 699,530 741,529 783,526 825,525 868,524"/>
+                <TextEquiv>
+                    <Unicode>quam ei Domn Feciset et pretes obut predictus Henricis de Purie ante fimine predicti Kini vegni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="21,618 874,587 884,532 23,581"/>
+                <Baseline points="27,605 69,608 112,607 155,605 198,603 241,599 284,594 327,592 370,590 413,590 456,587 498,586 541,584 584,580 627,577 670,575 713,573 756,570 799,567 842,567 885,569"/>
+                <TextEquiv>
+                    <Unicode>annorum Et et idem Renricis in ultcima uoluntate sua leganit legant reidmt tein¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="18,651 889,620 891,583 824,577 21,617"/>
+                <Baseline points="24,646 67,647 110,648 154,645 197,642 241,639 284,635 327,634 371,631 414,629 458,629 501,628 544,628 588,625 631,623 675,621 718,617 761,613 805,610 848,610 892,610"/>
+                <TextEquiv>
+                    <Unicode>sui que eondem terra tenuit prete motem predicti Henrici uiri eu eodem mdo quo diem Loieim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="24,689 817,672 878,664 879,620 24,668"/>
+                <Baseline points="30,684 72,684 115,684 157,682 200,679 242,676 285,674 327,671 370,670 412,669 455,667 497,669 540,669 582,667 625,668 667,664 710,664 752,661 795,657 837,655 880,655"/>
+                <TextEquiv>
+                    <Unicode>eam tenuit et preted quidem Henrici de Corl dsponserint eam et interit in eandem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="25,731 706,722 889,700 890,668 26,690"/>
+                <Baseline points="31,721 74,721 117,721 160,722 203,719 246,716 289,713 332,708 375,709 418,708 461,708 504,706 547,706 590,704 633,704 676,705 719,703 762,701 805,698 848,694 891,696"/>
+                <TextEquiv>
+                    <Unicode>secinm de predicta terra et preteres in processiu temptoris uon predictus Willelmus di Bemptone tcli St</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="28,772 840,765 873,708 29,734"/>
+                <Baseline points="34,762 76,763 118,762 160,762 202,760 244,756 286,752 328,749 370,749 412,749 455,748 497,746 539,746 581,746 623,743 665,743 707,743 749,742 791,737 833,737 876,737"/>
+                <TextEquiv>
+                    <Unicode>vereus predictum Roenricus lt Wilelmi de Amnelet quoidem Henricus ipsum Rofrunt de predicti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="33,818 866,792 903,759 34,777"/>
+                <Baseline points="39,800 82,803 125,802 168,801 212,798 255,796 298,794 341,792 385,789 428,789 471,789 514,786 558,785 601,785 644,783 687,783 731,783 774,781 817,779 860,777 904,776"/>
+                <TextEquiv>
+                    <Unicode>terra et carta suam e ld fecit pric se satisfacet predicto Henrico de orfta firmaro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="35,845 135,866 890,827 891,790 847,783 36,819"/>
+                <Baseline points="42,842 84,843 127,842 169,841 212,841 254,839 297,837 339,835 382,833 424,832 467,830 509,829 552,826 594,824 637,823 679,823 722,821 764,820 807,818 849,815 892,812"/>
+                <TextEquiv>
+                    <Unicode>de ternio cuo et idem Willelmus de Tempton tanicum feit versus eumdem Henricium de Cork quod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="40,886 654,884 899,857 901,824 197,869 41,851"/>
+                <Baseline points="46,879 88,882 131,883 174,883 217,882 259,879 302,876 345,874 388,872 430,870 473,868 516,866 559,863 601,862 644,860 687,859 730,859 772,857 815,854 858,851 901,849"/>
+                <TextEquiv>
+                    <Unicode>idem Henricis remuienit ei tontntus pesidium termini sui Lagtam per predictum Henricum filius Willelmi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="33,928 884,901 903,859 35,889"/>
+                <Baseline points="40,912 83,916 126,917 169,918 212,917 256,913 299,913 342,910 385,907 428,906 472,904 515,903 558,900 601,899 644,898 688,896 731,894 774,892 817,891 860,888 904,880"/>
+                <TextEquiv>
+                    <Unicode>fecol comiune sustum quam per predictum Henricum de cealem firmasium interiunt idem Willelmi de Hemton</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="35,967 876,929 858,893 768,893 37,930"/>
+                <Baseline points="42,956 83,956 125,956 167,957 209,957 251,955 293,953 334,950 376,948 418,946 460,943 502,941 544,939 586,936 627,936 669,934 711,931 753,931 795,928 837,927 879,924"/>
+                <TextEquiv>
+                    <Unicode>mne dictis predicte terre et remangit in bona et pacilita sanctis quonosque predicti Willelmui de la¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="32,1008 902,977 876,930 465,969 34,958"/>
+                <Baseline points="37,998 80,999 123,999 167,999 210,997 253,995 297,992 340,989 383,987 427,984 470,981 513,980 557,978 600,977 643,977 687,974 730,971 773,968 817,966 860,966 904,959"/>
+                <TextEquiv>
+                    <Unicode>Etone et Alio itieim Dine distus Et dehoc pouit se super assisnatim et Iuria uen et hoc dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="36,1058 771,1009 836,1031 899,1009 901,975 38,1002"/>
+                <Baseline points="43,1036 88,1037 133,1036 178,1034 223,1031 269,1028 314,1027 359,1027 404,1022 449,1019 495,1019 540,1018 585,1013 630,1013 675,1011 721,1008 766,1007 811,1004 856,1002 902,1000"/>
+                <TextEquiv>
+                    <Unicode>dicent qui gacsum omnum Et i contera Et quo predictus liltum de Henitone retrs cessuni sum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="306,1074 906,1088 567,1019 307,1034"/>
+                <Baseline points="312,1060 339,1062 366,1062 393,1060 420,1060 447,1060 474,1058 501,1059 528,1059 555,1060 583,1057"/>
+                <TextEquiv>
+                    <Unicode>le Grene et alii in nosna et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="906,1088 53,1088 96,1084 96,1046 42,1044"/>
+                <Baseline points="48,1070 73,1073 98,1070"/>
+                <TextEquiv>
+                    <Unicode>rel Et predicti Aigeri e aea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

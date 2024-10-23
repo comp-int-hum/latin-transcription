@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:45.768+02:00</Created>
+        <LastChange>2024-10-23T20:07:47.864+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80894192" pageNr="85" tsid="195651171" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=AXECFLJRMQFFGDWVWXPFZHBF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IBLPOWCORXBHXZKBWGVQZUOC" imageId="66319740"/>
+    </Metadata>
+    <Page imageFilename="0085_KB27-263m21.jpeg" imageWidth="1134" imageHeight="1066">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709214998" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="5,29 5,1034 1132,1034 1132,29"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="18,85 1095,65 1104,24 130,10 18,52"/>
+                <Baseline points="26,77 82,69 139,68 196,66 253,68 309,66 366,64 423,64 480,62 537,60 593,62 650,58 707,56 764,52 821,52 877,49 934,49 991,49 1048,49 1105,54"/>
+                <TextEquiv>
+                    <Unicode>precepsum fuit viceris Priciti firdis de Stepying die lane proxima post festum exaltacionis sancto crucis anno reni per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="26,121 1093,92 1093,61 961,53 28,81"/>
+                <Baseline points="34,115 87,112 140,108 193,105 246,103 299,102 352,100 405,101 458,99 511,99 565,97 618,96 671,94 724,90 777,88 830,88 883,87 936,86 989,86 1042,86 1096,88"/>
+                <TextEquiv>
+                    <Unicode>hunc sextodencim in curiart conm Iohanne de Foyle Isohanne de Stonore iusticiaiis domini Rg ad ossicais in com</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="26,167 1099,130 1099,92 1037,84 28,117"/>
+                <Baseline points="34,149 87,145 140,143 194,139 247,139 300,138 354,137 407,136 460,134 514,135 567,132 620,132 674,128 727,126 780,124 834,122 887,122 940,121 994,120 1047,119 1101,117"/>
+                <TextEquiv>
+                    <Unicode>predicto capiendas assignati apud Wunton roparasset versus Iohannem Gileberd' Iohannem fili Iohannis Erleberd'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="22,201 1096,173 1065,123 24,163"/>
+                <Baseline points="30,190 83,185 137,183 190,181 244,177 297,175 351,173 404,173 458,171 511,170 565,170 618,168 672,164 725,164 779,164 832,164 886,161 939,160 993,160 1046,158 1100,160"/>
+                <TextEquiv>
+                    <Unicode>haum le tullaoir et Alidem Nenlalle quodragintue silitert pro dempnis suis que habuit occasione cuiusdeam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="21,230 1124,223 1125,166 21,210"/>
+                <Baseline points="28,224 85,220 143,218 201,214 259,212 317,211 375,210 432,206 490,204 548,204 606,205 664,201 722,196 779,196 837,194 895,194 953,192 1011,190 1069,190 1127,192"/>
+                <TextEquiv>
+                    <Unicode>dissie odenm Ricardo de Seoing per prefati Iohannenm et alios de duabus A teria cum pertinentiis in Nuthelkul et banstru¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="18,258 1083,251 1093,206 18,230"/>
+                <Baseline points="26,255 79,255 133,255 186,251 240,247 293,247 347,244 400,241 454,240 507,240 561,238 614,240 668,238 721,234 775,233 828,229 882,228 935,227 989,226 1042,228 1096,232"/>
+                <TextEquiv>
+                    <Unicode>iblate prout pro quendam assisatm nine diffice ibi inde inter eos suum acapt conuctum fuit sicut regi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="22,297 1074,274 1064,234 22,265"/>
+                <Baseline points="30,289 82,289 134,289 187,286 239,284 291,282 344,279 396,279 448,275 501,277 553,274 605,272 658,270 710,268 762,266 815,266 867,264 919,262 972,262 1024,262 1077,268"/>
+                <TextEquiv>
+                    <Unicode>constat per inseccionem recondi et processus assiste predicte que coam eo ce de carsvenire fecit Re¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="21,338 1095,312 1115,269 22,297"/>
+                <Baseline points="30,330 84,325 138,323 193,323 247,322 301,320 356,315 410,315 464,313 519,313 573,309 627,308 682,306 736,304 790,302 845,301 899,299 953,298 1008,296 1062,296 1117,298"/>
+                <TextEquiv>
+                    <Unicode>Ec ex parte predicti Ricardi de Styyng accipit Rex quod treincta solidos de dampni predictis ei goluit restint</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="21,373 1110,347 1076,301 21,338"/>
+                <Baseline points="28,368 82,360 136,358 190,354 245,353 299,353 353,349 407,347 462,345 516,347 570,343 624,343 679,342 733,340 787,339 841,337 896,336 950,336 1004,332 1058,332 1113,338"/>
+                <TextEquiv>
+                    <Unicode>solvendi pro quam oidem vicecotam precipat Rex quod pro probos etc soreficicro predictis Iohanni Gilebere Iohanni filii Iohannis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="10,411 1127,383 1127,345 1005,336 11,368"/>
+                <Baseline points="17,404 72,396 128,393 183,389 239,387 295,387 350,382 406,381 462,381 517,379 573,377 629,376 684,374 740,374 796,372 851,372 907,370 963,370 1018,366 1074,366 1130,372"/>
+                <TextEquiv>
+                    <Unicode>Gilober Ricardo le ttullour e lde Eenelole quod essent com r in octabais sancti Michaelis px precict ucicumque</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="14,437 1124,422 1092,372 15,407"/>
+                <Baseline points="22,436 77,430 132,425 187,423 243,421 298,421 353,420 408,416 464,414 519,413 574,412 629,411 685,408 740,407 795,406 850,402 906,402 961,404 1016,402 1071,400 1127,401"/>
+                <TextEquiv>
+                    <Unicode>tunc ues ad ostentm si quod pro se haberet vl dicere sciet quare predicti ciinca solidos de terracia in ballio su¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="17,489 1089,450 1090,415 18,434"/>
+                <Baseline points="24,466 77,463 130,459 184,455 237,455 291,455 344,455 397,452 451,449 504,449 558,447 611,447 664,446 718,442 771,441 825,437 878,434 931,434 985,434 1038,436 1092,436"/>
+                <TextEquiv>
+                    <Unicode>fieri et prefato Ricardi Steynyng reddi non delerente qu Et olterus at idem victm ad diem illum r¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="17,524 1089,483 1090,444 852,440 18,490"/>
+                <Baseline points="26,502 79,497 132,495 186,493 239,491 293,490 346,489 399,488 453,485 506,483 560,483 613,480 666,478 720,476 773,475 827,473 880,469 933,469 987,468 1040,468 1094,468"/>
+                <TextEquiv>
+                    <Unicode>rettontio quod sare fecit predictis Iohanni Gilober Iohanni filii Iohannis Giloberd Ricardo le trillou et lde OGenelele</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="14,560 1044,521 1099,480 15,524"/>
+                <Baseline points="22,536 78,533 135,531 192,529 249,529 305,527 362,527 419,525 476,521 533,517 589,517 646,515 703,514 760,510 817,508 873,504 930,504 987,504 1044,504 1101,502"/>
+                <TextEquiv>
+                    <Unicode>per Ricon petenius eat Ricardum de Mulebrigt quod essent toram e ac prefatum terminum ii idem Iohannes Gilehore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="7,578 966,560 1065,549 1067,517 8,546"/>
+                <Baseline points="15,574 67,572 120,572 172,570 225,568 278,565 330,563 383,561 435,559 488,556 541,554 593,552 646,551 698,548 751,548 804,546 856,544 909,542 961,542 1014,538 1067,536"/>
+                <TextEquiv>
+                    <Unicode>rai Licet pro vicoim peminiti ad diem tocriam R venirenon curterit idem que Ricardus de Synyng'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="6,635 1097,581 1051,546 8,574"/>
+                <Baseline points="15,616 69,611 123,609 177,607 232,603 286,601 340,598 395,597 449,595 503,593 558,589 612,587 666,584 720,581 775,581 829,582 883,580 938,580 992,580 1046,578 1101,580"/>
+                <TextEquiv>
+                    <Unicode>postes venta in curia Ricoam ipso Rlt pro statutum de communi consilio idm Rinde prouissi olegit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="10,653 1096,621 1082,588 735,582 11,628"/>
+                <Baseline points="18,648 72,644 126,642 180,637 234,635 288,633 342,633 397,629 451,629 505,627 559,623 613,619 667,618 721,614 776,613 830,614 884,614 938,614 992,614 1046,612 1101,610"/>
+                <TextEquiv>
+                    <Unicode>siri libertrs omnia bonaciatem predictorum Iohannis Gileberll et alioum preter bones taffritri de Carucis suis et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="13,688 1049,660 1104,624 14,646"/>
+                <Baseline points="20,686 74,683 128,680 183,675 237,671 291,670 346,669 400,669 454,665 509,661 563,657 617,655 672,652 726,649 780,646 835,647 889,648 943,646 998,646 1052,646 1107,648"/>
+                <TextEquiv>
+                    <Unicode>silii meduetate omnium terrirum et tenementam suorum tenemendta et liberum tenementum sibi et assinatis suis iuxta ferma stomt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="15,739 1127,693 1104,652 969,649 17,693"/>
+                <Baseline points="24,716 79,718 134,716 190,712 245,708 301,706 356,706 411,706 467,703 522,701 578,696 633,691 688,687 744,685 799,683 855,682 910,680 965,678 1021,680 1076,680 1132,678"/>
+                <TextEquiv>
+                    <Unicode>predicti quousque de predictis Lynico solidos plenarie fuerit sotissam omnia bona a cata predictorum Iohannis talis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="18,758 1122,734 1125,685 19,723"/>
+                <Baseline points="26,744 81,746 136,748 191,746 246,742 301,740 356,740 411,744 466,739 521,734 576,730 631,727 686,723 741,722 796,721 851,717 906,714 961,712 1016,712 1071,714 1127,715"/>
+                <TextEquiv>
+                    <Unicode>preter bone Gafrido de Corucis suis atcili medietate omnim terriram Et ten suorum eidem Ricardo de Sepung¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="21,783 160,810 964,769 1086,760 1088,719 21,766"/>
+                <Baseline points="28,782 81,780 134,779 187,780 240,776 293,778 346,776 399,777 452,774 505,772 559,770 612,767 665,761 718,756 771,754 824,753 877,750 930,749 983,746 1036,746 1090,750"/>
+                <TextEquiv>
+                    <Unicode>sine omone pro ronabile preint rextentis liberaris farie tenenenda ut liberum tenementum sibi et assignatis suis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="17,816 92,844 150,812 1111,790 1090,755 941,752 18,785"/>
+                <Baseline points="26,816 80,815 134,813 189,812 243,812 298,810 352,808 407,808 461,807 516,805 570,803 624,800 679,796 733,792 788,791 842,789 897,785 951,782 1006,782 1060,782 1115,780"/>
+                <TextEquiv>
+                    <Unicode>iuxta forma situti predicti quonsque predictos Riti solidos plenarie inde levenerit Et qua et Sare¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="13,879 781,849 1088,794 14,816"/>
+                <Baseline points="20,858 73,853 126,850 180,848 233,844 287,844 340,844 393,845 447,842 500,842 554,839 607,837 660,833 714,833 767,830 821,827 874,822 927,819 981,816 1034,814 1088,814"/>
+                <TextEquiv>
+                    <Unicode>fiaceris R hic ad huntatio scilicet in octalis sa Hullaris ubicumque etc icum vicet ad diem illum Rogi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="13,901 1096,855 1061,817 14,869"/>
+                <Baseline points="20,890 74,886 128,883 182,881 236,878 290,877 344,876 398,876 452,875 506,873 560,871 614,871 668,869 722,867 776,867 830,861 884,855 938,849 992,846 1046,844 1100,844"/>
+                <TextEquiv>
+                    <Unicode>rcioni quod bie quoda sibi inde ven adeo tende eca santo biut alias preceptum est vicm quod omnia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="6,929 780,926 1074,890 1090,855 7,894"/>
+                <Baseline points="15,922 68,920 122,918 176,913 230,914 284,912 338,910 391,909 445,909 499,907 553,907 607,907 661,907 715,907 768,906 822,901 876,895 930,889 984,884 1038,878 1092,878"/>
+                <TextEquiv>
+                    <Unicode>banri a cartae predictorum Iohannis vileberd taliou preter bonos cta Et silii medietotem omnim terra et tenementum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="7,962 1095,922 1088,883 801,929 8,923"/>
+                <Baseline points="15,960 69,958 123,955 177,952 231,949 285,947 339,946 394,945 448,945 502,945 556,943 610,943 664,944 718,944 773,944 827,938 881,932 935,927 989,920 1043,916 1098,911"/>
+                <TextEquiv>
+                    <Unicode>suorum per raconabile prescoi eat extantu liberarum facicie prefata Ricardi Stenynege tenementum ut liberum tenementum libi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="0,996 629,979 798,1010 1053,966 1075,925 0,962"/>
+                <Baseline points="5,994 58,992 112,990 166,990 219,983 273,980 327,979 380,979 434,979 488,979 542,980 595,979 649,980 703,980 756,979 810,977 864,969 917,964 971,955 1025,948 1079,945"/>
+                <TextEquiv>
+                    <Unicode>tcasioni suis per fonmcm statuti prdce quousque predictos tenicta sliterm pleneri inde lenani Et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="8,1039 184,1050 273,1022 372,1051 521,1017 741,1039 730,986 10,1005"/>
+                <Baseline points="18,1022 54,1023 90,1022 127,1024 163,1021 200,1018 236,1016 272,1015 309,1014 345,1014 382,1016 418,1015 454,1017 491,1016 527,1015 564,1014 600,1014 636,1013 673,1014 709,1013 746,1016"/>
+                <TextEquiv>
+                    <Unicode>quolis et cer facari Re al die pascha in xl dies ubicumque eca</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

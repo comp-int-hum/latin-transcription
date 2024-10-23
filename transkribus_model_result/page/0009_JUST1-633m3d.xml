@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:16:52.125+02:00</Created>
+        <LastChange>2024-10-23T20:07:37.993+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80892520" pageNr="9" tsid="195651053" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=ANBNJMKGWHRLLGQFZSVJCREM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=URMVNTUOJTBAKHVVULVGFXQO" imageId="66318382"/>
+    </Metadata>
+    <Page imageFilename="0009_JUST1-633m3d.jpeg" imageWidth="1089" imageHeight="821">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709211788" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="19,19 19,816 1058,816 1058,19"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="13,69 1055,49 1039,0 14,25"/>
+                <Baseline points="21,50 72,49 124,50 176,51 228,50 280,50 332,50 383,49 435,47 487,45 539,45 591,45 643,43 695,43 746,41 798,41 850,41 902,41 954,39 1006,41 1058,41"/>
+                <TextEquiv>
+                    <Unicode>Assia vatra rectoga sti Willelmus le clerk de Graunteston et Iohannes filius eis et Iohannis Conele de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="14,113 974,101 1048,87 1050,51 16,67"/>
+                <Baseline points="21,92 72,87 124,87 175,87 227,86 278,86 330,87 381,86 433,85 484,85 536,87 587,83 639,81 690,81 742,81 793,83 845,80 896,81 948,81 999,79 1051,79"/>
+                <TextEquiv>
+                    <Unicode>Halterky miursto at disseis Rogeru de Whyteby de Wateford et Margeriam uxorem eius et libera</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="12,130 1052,119 847,80 12,114"/>
+                <Baseline points="19,123 70,123 122,121 174,121 226,121 278,121 329,121 381,120 433,119 485,119 537,121 588,119 640,118 692,116 744,115 796,115 847,114 899,114 951,114 1003,116 1055,116"/>
+                <TextEquiv>
+                    <Unicode>tenemenis super in Ashebyleg post pram et Et uicto queruntur sod dissers ego de qutinpue slitatm redritus tum peri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="16,169 1043,163 1030,118 17,134"/>
+                <Baseline points="23,154 74,154 125,154 176,156 228,154 279,154 330,155 381,154 433,154 484,155 535,156 586,158 638,156 689,154 740,154 791,154 843,154 894,151 945,150 996,148 1048,148"/>
+                <TextEquiv>
+                    <Unicode>et villls et alii non Uum get quidam Iohannes de Wayhyngton respondit pro etes tanus exi Gilbertus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="22,209 793,187 1039,218 1050,166 23,175"/>
+                <Baseline points="30,190 81,189 132,187 183,185 234,187 285,187 336,187 388,187 439,187 490,187 541,188 592,187 643,187 694,185 746,185 797,187 848,185 899,184 950,183 1001,185 1053,188"/>
+                <TextEquiv>
+                    <Unicode>et pro prato Willelmo le Sarkrgict quod ie nichil clomat in redditu nec ansua iuriam ven d Isafm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="22,245 1030,234 1030,202 899,188 22,189"/>
+                <Baseline points="29,217 79,219 129,219 179,218 229,220 280,221 330,221 380,219 430,219 480,220 531,222 581,221 631,219 681,219 731,221 782,221 832,221 882,221 932,223 982,223 1033,221"/>
+                <TextEquiv>
+                    <Unicode>ci feacit et Et pro Iohanne filis eiusdem Wilelmum tanquam triento tet in uisui pantorum etca undes team</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="19,274 1039,267 990,222 19,230"/>
+                <Baseline points="27,252 77,254 128,254 179,255 230,258 280,258 331,259 382,257 433,256 483,257 534,257 585,257 636,255 686,254 737,256 788,256 839,256 889,255 940,256 991,256 1042,256"/>
+                <TextEquiv>
+                    <Unicode>togno et xagia asseriugt preictum redditum pervenire et ct nontenentur de eis nec sunt te erumfr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="22,309 1048,295 904,254 22,260"/>
+                <Baseline points="29,281 80,283 131,284 182,286 233,287 284,289 335,290 386,288 437,290 488,292 540,290 591,291 642,288 693,288 744,290 795,288 846,288 897,288 948,288 999,286 1051,286"/>
+                <TextEquiv>
+                    <Unicode>s dominio etc et ptit uditum ec Et pro predicto Iohanne de Couele teonquam tenente predicti reitus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="14,343 1044,324 882,289 14,301"/>
+                <Baseline points="21,312 72,317 123,317 175,317 226,320 277,319 329,321 380,321 431,323 483,323 534,323 585,323 637,324 688,322 739,321 791,321 842,321 893,323 945,325 996,319 1048,321"/>
+                <TextEquiv>
+                    <Unicode>dat qud predicti Rogerius et Margeria iuste se queruintur in hac parte Enadicit quod quitam Iohannes pater ipsius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="27,374 1048,367 1037,326 27,339"/>
+                <Baseline points="34,348 84,348 135,348 186,349 237,350 288,352 339,354 389,354 440,354 491,354 542,354 593,354 644,354 695,353 745,354 796,354 847,354 898,355 949,356 1000,354 1051,354"/>
+                <TextEquiv>
+                    <Unicode>hehinis te Conele cuius habes ipse et obnt seistus de predicto reditu in dominico suo utere feodo pat cuius mei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="19,406 990,409 1037,375 18,344"/>
+                <Baseline points="27,379 77,383 128,384 178,384 229,385 280,386 330,386 381,386 432,388 482,387 533,388 584,388 634,389 685,388 736,386 786,386 837,388 888,387 938,390 989,389 1040,388"/>
+                <TextEquiv>
+                    <Unicode>tam ipae intraut in predicto redditu ut filius etharnes pstuo Iohannis proinquior et sesnam suam inde hucusque con¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="19,432 1052,446 1052,402 878,388 19,380"/>
+                <Baseline points="27,412 78,417 129,419 181,419 232,420 284,421 335,421 386,423 438,421 489,421 541,421 592,425 643,425 695,423 746,423 798,423 849,421 900,423 952,421 1003,421 1055,425"/>
+                <TextEquiv>
+                    <Unicode>tinenit absque aliqua niura aut dissenam eisdem Rogero et Margerie ine facienda teram Et de hoc pont s sui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="18,458 44,450 61,461 66,455 92,453 104,458 112,452 121,461 139,453 153,455 152,423 140,423 130,431 122,424 105,432 84,422 62,426 51,419 40,424 17,415"/>
+                <Baseline points="25,448 51,448 77,450 103,450 129,450 156,452"/>
+                <TextEquiv>
+                    <Unicode>Assisnatim t c</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="18,510 1055,481 522,435 18,467"/>
+                <Baseline points="25,479 76,479 128,479 179,482 231,484 283,484 334,483 386,485 437,484 489,486 541,486 592,486 644,486 695,485 747,484 799,484 850,482 902,483 953,483 1005,479 1057,479"/>
+                <TextEquiv>
+                    <Unicode>Et predicti Rogerus et Margeria ticunt quod predicta tenemea prta in visuata vide ac tenentur de ebis per predictum serui¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="27,522 1051,525 1051,481 27,487"/>
+                <Baseline points="34,512 87,508 141,510 194,512 248,515 302,515 355,515 409,515 463,516 516,517 570,516 623,517 677,517 731,517 784,514 838,514 892,514 945,515 999,512 1053,514"/>
+                <TextEquiv>
+                    <Unicode>precictorum quinque solidorum per annui de quo quidem redditu ipsi seisiti fuerint ut de libero tenemento suo quonsa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="31,563 1039,555 1006,514 31,532"/>
+                <Baseline points="38,541 88,539 138,542 188,543 238,546 289,548 339,546 389,546 439,547 489,548 540,548 590,548 640,550 690,550 740,548 791,546 841,547 891,546 941,548 991,546 1042,546"/>
+                <TextEquiv>
+                    <Unicode>Ptrtii Willelmus et aliis ipsos nince intuste Tisses e Et hoc petunt quod inquirat per assignam etc Et predicti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="18,590 462,586 557,606 609,588 609,562 17,545"/>
+                <Baseline points="25,573 54,572 83,573 113,575 142,576 171,578 201,581 230,581 259,581 289,581 318,581 347,583 377,583 406,583 435,583 465,584 494,584 523,584 553,584 582,585 612,586"/>
+                <TextEquiv>
+                    <Unicode>Roberius et aliis per predictum ballium similii sonco capiatur assina¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="22,620 1054,632 1026,577 22,599"/>
+                <Baseline points="29,610 80,608 131,612 183,612 234,614 286,615 337,615 388,615 440,615 491,617 543,619 594,619 645,619 697,618 748,618 800,620 851,619 902,619 954,619 1005,619 1057,619"/>
+                <TextEquiv>
+                    <Unicode>Et Iuri ex consensu partium electi v a dicunt super saquasaum simm quod predicta tenemena tenentur de predictis Rogero</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="22,657 1021,662 1021,622 22,620"/>
+                <Baseline points="29,644 78,646 128,647 178,649 228,648 277,650 327,650 377,650 427,650 476,650 526,652 576,652 626,652 675,652 725,652 775,652 825,650 874,650 924,650 974,649 1024,652"/>
+                <TextEquiv>
+                    <Unicode>et Margeria per servicia predictas et quod predicti Iohannes filius Willelmi IIsohannes e Couele disseis predictos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="18,688 1035,684 18,657"/>
+                <Baseline points="25,679 75,679 126,681 176,682 227,683 278,682 328,684 379,682 429,686 480,684 531,686 581,686 632,686 682,684 733,684 784,684 834,686 885,686 935,683 986,682 1037,682"/>
+                <TextEquiv>
+                    <Unicode>Rogeru et Margeriam de predicto redditu sicut queruntur loncons est quod predicti Rogerus et pargia ecu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="27,712 515,742 1032,716 990,684 27,697"/>
+                <Baseline points="34,712 86,712 139,715 191,717 244,717 296,717 349,718 402,719 454,719 507,719 559,719 612,719 664,719 717,719 770,719 822,717 875,715 927,713 980,714 1033,713"/>
+                <TextEquiv>
+                    <Unicode>ent iate selutaem suam per visum recognut et campna sua que taxant per eostem anc viginti soltos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="25,754 1039,764 1008,718 25,715"/>
+                <Baseline points="32,744 82,744 133,747 183,749 234,750 284,750 335,751 385,753 436,751 486,751 537,751 587,752 638,751 688,751 739,751 789,751 840,751 890,751 941,749 991,748 1042,748"/>
+                <TextEquiv>
+                    <Unicode>Et predicti Iohannes filius Willelmi Oschannes de Coueie in ma Et similiter predicti Rogerus et Marcgia in ua pro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="25,788 375,794 393,789 393,762 315,753 292,768 226,754 192,766 110,746 23,755"/>
+                <Baseline points="32,773 58,775 84,777 110,777 136,777 162,779 188,780 214,782 240,783 266,784 292,784 318,784 344,786 370,788 397,788"/>
+                <TextEquiv>
+                    <Unicode>falso cama vrsus predictum vilbem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="419,810 496,785 619,814 676,789 782,815 828,794 959,814 1043,793 1043,759 986,753 419,764"/>
+                <Baseline points="426,788 457,786 488,784 519,782 550,782 581,781 612,781 643,781 674,781 705,782 736,781 767,782 798,783 829,782 860,779 891,779 922,780 953,780 984,778 1015,779 1046,782"/>
+                <TextEquiv>
+                    <Unicode>et perostea ie curia hic textra fracitum Rogerus Et giytapere cogram pre ftassatm os</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="820,820 26,820 820,820 31,820 820,820 34,820 820,820 47,820 820,820 57,820 820,820 74,820 109,790 19,782"/>
+                <Baseline points="25,804 53,806 81,801 110,802"/>
+                <TextEquiv>
+                    <Unicode>compiis praters sincto pradicti Iohannes et scoto  n</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

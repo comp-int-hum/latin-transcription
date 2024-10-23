@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:45.646+02:00</Created>
+        <LastChange>2024-10-23T20:07:47.739+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80894190" pageNr="84" tsid="195651190" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=OPYEPIDQQVGNVCZTXBOWKZHR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LHZVTPMVGQYBYIOVBCDORJLC" imageId="66319700"/>
+    </Metadata>
+    <Page imageFilename="0084_JUST1-820m18.jpeg" imageWidth="1000" imageHeight="1285">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709214989" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1,8 1,1203 971,1203 971,8"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="15,72 782,45 784,0 312,25 172,0 124,32 18,5"/>
+                <Baseline points="21,63 59,61 97,59 135,58 173,56 212,56 250,54 288,51 326,49 364,46 403,44 441,41 479,41 517,37 555,32 594,30 632,28 670,30 708,31 746,31 785,35"/>
+                <TextEquiv>
+                    <Unicode>Ricardus de Issebill' et Thoma le Uygot in nuc pro pluribus defalter us tig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="12,121 874,68 869,33 728,32 15,76"/>
+                <Baseline points="20,103 62,102 105,101 148,99 191,96 234,95 277,93 320,91 363,88 406,83 449,78 491,75 534,75 577,71 620,69 663,66 706,65 749,63 792,59 835,54 878,55"/>
+                <TextEquiv>
+                    <Unicode>idem fticirdus cloem Gilbtes le clerseysufidem le tur ccable fiuerint ad reonbontum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="17,151 952,112 954,68 847,61 19,118"/>
+                <Baseline points="25,136 71,134 118,132 164,131 211,128 257,125 304,123 350,121 397,117 443,114 490,110 537,108 583,105 630,101 676,98 723,97 769,94 816,91 862,91 909,91 956,91"/>
+                <TextEquiv>
+                    <Unicode>vxn de plas quare cum sidicia et exotuciones sudicorum de malestiuibus sartis infralibtate farinus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="12,178 963,141 965,98 844,96 15,151"/>
+                <Baseline points="20,173 67,170 114,170 161,165 209,161 256,160 303,155 350,155 398,151 445,148 492,145 539,143 587,141 634,136 681,136 728,132 776,130 823,130 870,130 917,126 965,130"/>
+                <TextEquiv>
+                    <Unicode>te Norton ad ipsum Hugonei pertinennt idem Ricardos et alii libertatem ilam ingressi fii et quat latim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="10,208 873,187 959,177 961,141 11,178"/>
+                <Baseline points="16,205 63,203 110,201 158,198 205,195 252,193 300,192 347,190 394,187 442,185 489,181 536,178 584,178 631,175 678,174 726,170 773,168 820,169 868,170 915,168 963,168"/>
+                <TextEquiv>
+                    <Unicode>bodem cartaum et in pepentum euit calduxerit inpiudicium punento dugos liberitis qui predicta tontur pe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="10,239 922,217 967,183 10,220"/>
+                <Baseline points="16,236 63,235 111,231 159,229 207,227 254,225 302,225 350,223 398,221 445,218 493,215 541,211 589,210 636,207 684,203 732,202 780,201 827,201 875,201 923,200 971,203"/>
+                <TextEquiv>
+                    <Unicode>domini regis Et uente predictum Huigo per atteatum suum questum quod cum ad ipsum pertinent udicia et exsecutines licet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="8,273 963,239 948,208 11,242"/>
+                <Baseline points="16,266 63,266 110,263 158,263 205,260 253,259 300,256 348,254 395,253 443,250 490,248 537,245 585,241 632,239 680,237 727,235 775,235 822,236 870,233 917,231 965,230"/>
+                <TextEquiv>
+                    <Unicode>de qubustcunque malescionribus captis infra manerium de Norton ea famine quod dominum Rex domini predictum Maa¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="13,318 955,288 956,239 920,233 16,278"/>
+                <Baseline points="21,300 67,296 114,295 161,295 208,291 255,288 302,286 348,285 395,284 442,281 489,280 536,278 583,275 630,275 676,272 723,271 770,270 817,268 864,268 911,266 958,266"/>
+                <TextEquiv>
+                    <Unicode>fuit in manu qua fuit in secima de predicti libertate de quibuscumque malestioribus captis inftra preadtum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="13,336 956,313 918,276 756,271 15,318"/>
+                <Baseline points="20,331 67,326 114,323 161,321 208,320 255,316 302,315 349,316 396,315 443,312 490,310 537,308 584,306 631,305 678,305 725,304 772,302 819,301 866,300 913,298 961,298"/>
+                <TextEquiv>
+                    <Unicode>eintuncpere alicuius lacrotum et similiter quidem Robertus le caraachal postquam i e et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="4,370 965,341 965,310 669,305 5,337"/>
+                <Baseline points="11,361 58,360 106,357 154,355 202,353 250,351 298,348 345,348 393,346 441,345 489,341 537,339 585,338 633,337 680,336 728,336 776,336 824,336 872,333 920,331 968,333"/>
+                <TextEquiv>
+                    <Unicode>domini regis snct feostaverat fartum de predicto Minio Dum omnibus libertatibus et liberis conuetis ad panrium hd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="0,410 842,384 927,377 929,350 0,371"/>
+                <Baseline points="6,403 52,391 98,390 144,389 191,387 237,385 283,383 329,381 376,378 422,378 468,377 514,375 561,373 607,373 653,370 699,371 746,370 792,368 838,368 884,365 931,366"/>
+                <TextEquiv>
+                    <Unicode>pertinentibus fuit in seiqina de eodo libertate stere quod Iuida Hugone le trec captuoulam cum manuorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="4,452 933,413 935,380 6,409"/>
+                <Baseline points="11,431 57,428 103,427 149,425 195,422 242,421 288,416 334,415 380,413 426,410 473,409 519,408 565,406 611,405 657,405 704,405 750,403 796,403 842,401 888,400 935,398"/>
+                <TextEquiv>
+                    <Unicode>cimoditi euim finati in predicto manrio cepit et secundum consuetudinem regni quspendi fecto tstimalii</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="4,476 886,450 943,411 5,441"/>
+                <Baseline points="10,465 56,465 103,462 150,463 197,461 244,458 290,455 337,451 384,448 431,446 478,443 524,441 571,441 618,436 665,436 712,435 758,435 805,435 852,435 899,435 946,435"/>
+                <TextEquiv>
+                    <Unicode>quidem Hugoryltn pater ipsius Rigis postquam dominus Rey qui nunc est feofaverit ipatem de predicto Paero</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="10,518 817,477 818,442 736,436 12,482"/>
+                <Baseline points="18,501 58,501 98,498 138,496 178,496 218,495 258,490 298,488 338,486 378,484 419,481 459,479 499,478 539,475 579,472 619,470 659,469 699,468 739,465 779,465 820,468"/>
+                <TextEquiv>
+                    <Unicode>fuit instacia d edem liberatem d predictum canum pertintente cpost icotr ipsius Rugoi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="2,552 952,498 919,464 4,519"/>
+                <Baseline points="10,535 57,533 104,531 151,530 199,526 246,525 293,523 340,520 388,517 435,516 482,513 529,511 577,508 624,505 671,503 718,501 766,499 813,498 860,498 907,493 955,495"/>
+                <TextEquiv>
+                    <Unicode>de fortibus fili herec ipsius Hugonis et fimilis pe Hugo postquam recepit predictum garnium de Pedicto Willelmo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="0,570 891,549 960,539 963,500 0,552"/>
+                <Baseline points="6,571 53,569 101,565 149,562 197,561 245,559 293,558 340,555 388,551 436,548 484,548 532,545 580,543 628,539 675,537 723,535 771,531 819,531 867,531 915,528 963,530"/>
+                <TextEquiv>
+                    <Unicode>in escambium per quadam alio comerio quod eidedit tenend de domino rege in capite cum omnibus libertatibus ill</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="0,626 560,575 955,587 969,541 0,572"/>
+                <Baseline points="3,610 51,601 99,600 148,598 196,595 244,591 293,588 341,585 389,581 438,580 486,577 534,574 583,574 631,571 679,569 728,566 776,565 824,565 873,560 921,561 970,558"/>
+                <TextEquiv>
+                    <Unicode>consuetudie ad predictum monium pertinentibus u ipse raione predicte libertatus quamdicti Iabellam de Assefed d¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="0,661 949,585 2,615"/>
+                <Baseline points="8,640 55,640 102,636 149,635 196,630 243,628 290,624 338,620 385,616 432,613 479,611 526,610 573,608 620,605 668,604 715,600 762,600 809,597 856,596 903,596 951,595"/>
+                <TextEquiv>
+                    <Unicode>fec cum indimopere pnniorum furatorum et inpersenare inpregna sua deNton predicti Ricardo et ali uoei de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="2,680 965,630 966,601 905,596 4,661"/>
+                <Baseline points="10,673 57,671 105,668 153,665 201,662 249,658 297,656 345,653 393,651 441,646 489,645 536,642 584,639 632,635 680,632 728,629 776,628 824,626 872,625 920,623 968,625"/>
+                <TextEquiv>
+                    <Unicode>pars prxina test festim binte carie in scartio Annorse adpalictum Maum NNtton et perietis fai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="29,716 963,664 964,630 853,626 32,678"/>
+                <Baseline points="37,702 83,699 129,697 176,696 222,691 269,690 315,686 361,685 408,684 454,680 501,677 547,674 593,671 640,668 686,665 733,662 779,661 825,659 872,656 918,656 965,660"/>
+                <TextEquiv>
+                    <Unicode>presintam deconai epruint culuxerunt in bindicium ipsinuom dunis libertat que pridicte contra past</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="4,750 834,709 823,661 6,711"/>
+                <Baseline points="11,733 52,735 93,733 135,731 176,730 217,728 259,725 300,722 341,718 383,718 424,716 465,716 507,712 548,711 589,710 631,706 672,702 713,700 755,697 796,695 838,691"/>
+                <TextEquiv>
+                    <Unicode>temen dict puo deterioratus est et dpnum libet ad valenim Cent milso et inde predunt fectam icn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="0,779 959,768 969,704 0,763"/>
+                <Baseline points="1,778 49,776 98,776 146,775 195,773 243,773 292,770 340,768 389,765 437,764 486,763 534,761 583,761 631,759 680,757 728,755 777,753 825,751 874,751 922,751 971,753"/>
+                <TextEquiv>
+                    <Unicode>Et Ricardus et alii tenti comeritus preter predictum Thomas bene cognoscuit quod ipsi predicto die ad predictum Saciam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="0,823 904,810 963,801 964,770 0,791"/>
+                <Baseline points="5,811 53,811 101,812 149,810 197,810 245,810 293,806 341,806 389,805 437,803 485,801 533,800 581,800 629,798 677,796 725,794 773,791 821,790 869,788 917,788 965,788"/>
+                <TextEquiv>
+                    <Unicode>predicti Hugonis tenerint tibidem in quadam domo ipsius Hugonis uibi predicta Iabelle inxgonat fuit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="7,865 847,853 958,837 959,799 8,819"/>
+                <Baseline points="15,846 62,846 109,845 156,845 204,844 251,841 298,841 346,841 393,841 440,840 488,836 535,835 582,833 629,833 677,832 724,831 771,830 819,828 866,826 913,825 961,825"/>
+                <TextEquiv>
+                    <Unicode>iposum ceperunt abduxerunt eo quod ipsa rectato fuit de morte cumsrdiam homines octisi apud Elecell</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="0,891 956,879 958,834 0,869"/>
+                <Baseline points="5,885 52,883 100,881 148,881 196,881 243,880 291,880 339,878 387,878 434,875 482,873 530,871 578,870 625,869 673,868 721,867 769,866 816,865 864,863 912,863 960,861"/>
+                <TextEquiv>
+                    <Unicode>et kene dicunt quod predictus Hugo nila humiqinedi Kibertatem habet in unquam fuit in feqia de aliqua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="0,922 879,924 966,918 967,876 0,899"/>
+                <Baseline points="5,915 53,913 101,913 149,913 198,913 246,913 294,913 343,911 391,910 439,910 488,908 536,905 584,903 632,903 681,901 729,900 777,900 826,898 874,896 922,896 971,896"/>
+                <TextEquiv>
+                    <Unicode>tunodi libertat in predicto parrio libenti et quia predicti Ricardus et aii cognostuit quod ipatei coperunt predictam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="0,953 958,955 927,910 0,922"/>
+                <Baseline points="5,948 52,946 100,946 148,948 196,948 244,949 291,949 339,949 387,948 435,948 483,946 530,945 578,941 626,941 674,941 722,941 769,940 817,940 865,941 913,943 961,940"/>
+                <TextEquiv>
+                    <Unicode>Iabelli in prochia predicti Huginis noc ipsi rem pradem dedutere possint in iurdicium utrum predicta libertas pertinet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="0,988 956,993 956,959 903,944 0,952"/>
+                <Baseline points="6,981 53,980 101,981 148,982 196,983 244,985 291,985 339,985 386,985 434,985 482,983 529,981 577,979 624,978 672,980 720,980 767,978 815,977 862,978 910,980 958,978"/>
+                <TextEquiv>
+                    <Unicode>ad predictum Haginm nel non teciam uicot predictus Hugo funiste haberet presenam in predicto Manerio de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="754,1000 774,999 782,993 785,996 789,994 805,1010 817,1001 831,1006 830,982 810,983 801,979 797,983 780,982 774,986 761,978 753,979"/>
+                <Baseline points="760,993 796,992 833,996"/>
+                <TextEquiv>
+                    <Unicode>iceipi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="0,1021 963,1028 936,983 0,988"/>
+                <Baseline points="5,1018 53,1015 101,1013 149,1016 197,1016 245,1016 293,1016 341,1018 389,1017 437,1018 485,1018 533,1016 581,1016 629,1016 677,1016 725,1016 773,1016 821,1015 869,1016 917,1016 965,1018"/>
+                <TextEquiv>
+                    <Unicode>Nton eti sine aliquo sarantopre dicti tircri et alum anctoritate suer prpe iusticiam abi Oli berte non possicti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="1,1060 956,1058 956,1027 902,1021 1,1023"/>
+                <Baseline points="8,1045 55,1045 103,1046 150,1048 198,1048 246,1046 293,1048 341,1046 388,1046 436,1048 484,1048 531,1048 579,1050 626,1050 674,1051 722,1051 769,1050 817,1051 864,1050 912,1051 960,1053"/>
+                <TextEquiv>
+                    <Unicode>nec aliqui dissegciri deket de libertatibus i liberis consuetudinibus sine iudicio tngidacumtest quod predicti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="0,1105 58,1090 109,1103 153,1090 203,1106 250,1088 286,1101 377,1097 377,1062 326,1068 294,1052 0,1062"/>
+                <Baseline points="5,1085 30,1085 55,1083 80,1083 105,1083 130,1083 155,1085 180,1085 205,1086 230,1085 255,1083 280,1081 305,1081 330,1081 355,1083 381,1083"/>
+                <TextEquiv>
+                    <Unicode>beirtis et aliis funt in ma pro transgratione cis¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="4,1129 956,1136 942,1086 4,1103"/>
+                <Baseline points="10,1123 57,1121 105,1121 152,1123 200,1124 247,1124 295,1123 342,1121 390,1121 437,1121 485,1121 532,1125 580,1125 627,1126 675,1127 722,1126 770,1127 817,1128 865,1128 912,1128 960,1126"/>
+                <TextEquiv>
+                    <Unicode>et Thome defende cun et sumis quando d tibene defendit quod ipse predicto die ad predictam peisonam non venit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="5,1160 969,1186 935,1131 5,1130"/>
+                <Baseline points="11,1158 59,1156 107,1156 155,1160 203,1161 251,1160 299,1160 347,1158 395,1158 443,1158 491,1160 539,1160 587,1161 635,1163 683,1165 731,1163 779,1163 827,1160 875,1160 923,1159 971,1160"/>
+                <TextEquiv>
+                    <Unicode>nec predictam Iabis addugit neoc eciam predicta transgressio etipsum facti fuit sicut ei inponit t quod iad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="0,1208 661,1213 661,1164 0,1163"/>
+                <Baseline points="6,1191 40,1190 75,1190 110,1190 144,1191 179,1193 214,1193 248,1193 283,1193 318,1193 352,1193 387,1191 422,1191 456,1190 491,1191 526,1191 560,1191 595,1191 630,1190 665,1190"/>
+                <TextEquiv>
+                    <Unicode>git precitum se super partam Et Hugo siiliter so fande iurata</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

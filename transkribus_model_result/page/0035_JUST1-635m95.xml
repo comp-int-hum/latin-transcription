@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:04.214+02:00</Created>
+        <LastChange>2024-10-23T20:07:41.448+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893385" pageNr="35" tsid="195651085" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=WCUBYVEANRAWAQNFTPJYFQRJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SAYCUHNXMTYOGPWNCFVHFPOY" imageId="66319184"/>
+    </Metadata>
+    <Page imageFilename="0035_JUST1-635m95.jpeg" imageWidth="1119" imageHeight="652">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709213162" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="13,17 13,635 1100,635 1100,17"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="5,28 1091,50 1091,0 5,18"/>
+                <Baseline points="13,39 67,37 121,39 175,39 229,38 283,38 337,37 391,37 445,39 499,39 554,39 608,39 662,39 716,39 770,40 824,40 878,40 932,39 986,39 1040,37 1095,39"/>
+                <TextEquiv>
+                    <Unicode>fil pade Lambert de Multon indicatus coram Iusticiariis huc de morte Rogeri heyessone de parvca Gilby</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="22,76 1097,84 1097,49 1033,41 22,37"/>
+                <Baseline points="29,74 82,72 136,72 189,72 243,72 296,74 350,72 403,72 457,74 510,72 564,74 618,74 671,72 725,73 778,74 832,74 885,72 939,72 992,70 1046,70 1100,70"/>
+                <TextEquiv>
+                    <Unicode>aruid Noliet anno regni Regis nunc secundo felonice inter feci reddidit se presone Regeri in custodia vieci qc Wenti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="23,125 1061,116 995,76 23,74"/>
+                <Baseline points="31,108 82,108 134,106 186,105 237,104 289,106 341,106 392,106 444,108 496,108 548,108 599,109 651,109 703,108 754,108 806,108 858,108 909,106 961,106 1013,106 1065,106"/>
+                <TextEquiv>
+                    <Unicode>pro viceoim ductus et allotutus qualiter se velit de morte predicti Rogeri acquietare lict quod ipse alias toram</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="27,158 1082,148 1082,114 977,111 27,123"/>
+                <Baseline points="35,139 87,141 139,141 192,139 244,139 297,141 349,141 402,141 454,139 507,141 559,141 611,141 664,141 716,141 769,140 821,141 874,139 926,141 979,139 1031,141 1084,139"/>
+                <TextEquiv>
+                    <Unicode>Waltero de Friskeney et socutibis suis iusticaris domini Regis ad Caolam Castri Iohanne delibeand' assignati die Martis¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="23,183 1091,181 1091,143 23,160"/>
+                <Baseline points="31,175 84,176 137,175 190,173 243,171 296,173 349,173 402,173 455,173 508,173 562,173 615,173 668,173 721,173 774,174 827,173 880,174 933,173 986,171 1039,171 1093,173"/>
+                <TextEquiv>
+                    <Unicode>proxia post festum sancti Mather anno regni Regis nunc sacundo Albtutus fuit de morte predcta et ibidem taciquam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="23,221 1079,211 1059,176 23,191"/>
+                <Baseline points="31,210 83,209 136,208 188,206 241,206 293,204 346,206 398,206 451,206 503,208 556,203 609,203 661,204 714,204 766,205 819,204 871,206 924,204 976,204 1029,204 1082,204"/>
+                <TextEquiv>
+                    <Unicode>clericis tonuictus liberatus fuit Ep ue Et de hot vocat retondum rotulorum predicti Walteri de tempore predicto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="508,222 543,226 592,223 600,230 606,223 635,219 635,208 623,208 617,203 548,210 528,203 523,208 508,208"/>
+                <Baseline points="515,209 545,219 576,217 606,218 637,219"/>
+                <TextEquiv>
+                    <Unicode>de morte pta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="19,255 1075,241 1063,207 19,222"/>
+                <Baseline points="26,242 78,242 131,240 183,238 236,240 289,238 341,238 394,238 446,238 499,235 552,236 604,238 657,234 709,238 762,238 815,238 867,236 920,237 972,236 1025,234 1078,236"/>
+                <TextEquiv>
+                    <Unicode>et postea coram Henrici Lincolnei Episcopo se purganit ret profert inde liers ipsius Episcopi patentes in hec vla</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="31,284 1083,280 1055,241 31,256"/>
+                <Baseline points="39,270 91,271 143,272 196,271 248,271 300,271 353,271 405,270 457,270 510,268 562,268 614,269 667,268 719,269 771,270 824,268 876,268 928,268 981,267 1033,268 1086,270"/>
+                <TextEquiv>
+                    <Unicode>Universis presentes litteris inspercturis fenrici permissione divina et incoluim Epuo salutem in omni salvatore Sme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="22,321 1056,319 1023,268 23,292"/>
+                <Baseline points="29,305 80,305 131,305 183,302 234,303 286,303 337,303 389,303 440,303 492,303 543,302 594,300 646,300 697,301 749,301 800,298 852,298 903,298 955,299 1006,299 1058,299"/>
+                <TextEquiv>
+                    <Unicode>omnia que geruntur utique facilius memone oturrere poterunt infituru si recente dunm continguint Hali¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="26,351 1061,344 976,305 26,324"/>
+                <Baseline points="33,335 84,337 136,336 187,335 239,335 291,335 342,335 394,333 445,333 497,335 549,334 600,334 652,335 703,333 755,331 807,329 858,330 910,329 961,330 1013,331 1065,333"/>
+                <TextEquiv>
+                    <Unicode>pasine fideliter comendentiur universitati vestre notum facimus per presentes quod Thomas Lamkarde clericus super</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="26,376 1051,375 1042,337 26,349"/>
+                <Baseline points="33,368 84,369 135,370 186,368 237,366 288,366 339,366 390,366 441,366 492,366 543,366 594,366 645,366 696,365 747,363 798,365 849,363 900,363 951,364 1002,363 1054,361"/>
+                <TextEquiv>
+                    <Unicode>morte Rogeri de Billyng inter fecci a quibusdam notatus et ideo captus et incarceratus nobis que adiunidicandm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="26,401 1060,395 1049,367 26,376"/>
+                <Baseline points="33,398 84,398 136,398 187,399 239,398 290,396 342,398 393,396 445,398 496,398 548,397 599,398 651,398 702,396 754,396 805,396 857,396 908,396 960,395 1011,393 1063,389"/>
+                <TextEquiv>
+                    <Unicode>in frio ecclesiasticio secundum canonicas sancciones uno modo vel alio per fasticis domini regis liberatus pest plures</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="26,448 1067,430 1045,401 26,401"/>
+                <Baseline points="33,430 84,430 136,430 188,432 240,431 292,430 343,428 395,428 447,428 499,429 551,428 602,428 654,428 706,428 758,426 810,426 861,426 913,426 965,425 1017,424 1069,424"/>
+                <TextEquiv>
+                    <Unicode>clamacione in locis huic negocio oportinis solerinter et publice promingatas cum nuillus esset quam per viam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="23,471 1080,468 1060,428 23,445"/>
+                <Baseline points="31,461 83,461 136,463 188,463 241,463 294,462 346,461 399,461 452,461 504,461 557,461 610,460 662,460 715,458 768,456 820,456 873,456 926,456 978,454 1031,454 1084,452"/>
+                <TextEquiv>
+                    <Unicode>accusacionis vel alio modo tantum facimus contra cem prosequi attemptaret de eodem quine canonice se purge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="26,489 1075,500 1013,460 26,464"/>
+                <Baseline points="33,486 85,488 137,492 189,494 242,493 294,493 346,493 398,493 451,493 503,493 555,494 607,493 660,491 712,489 764,489 816,488 869,488 921,488 973,486 1025,486 1078,486"/>
+                <TextEquiv>
+                    <Unicode>nter poter quod idem clericus abuifami cuinus hici aucte nostra sententialiter absalite et resticicios integraliter fan¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="26,544 1076,531 1076,498 1015,493 27,490"/>
+                <Baseline points="35,523 87,524 139,523 191,525 244,525 296,523 348,525 400,525 453,524 505,525 557,525 609,525 662,523 714,523 766,520 818,517 871,518 923,517 975,516 1027,516 1080,516"/>
+                <TextEquiv>
+                    <Unicode>sue In cuius rei testimonium has litteras nostras eidem clerico ad instanciam sicam humilem et denoam duxinmum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="23,558 1022,570 1076,531 23,528"/>
+                <Baseline points="31,553 83,553 135,555 188,556 240,555 292,556 345,556 397,555 449,556 502,556 554,555 606,555 659,553 711,553 763,552 816,550 868,549 920,547 973,547 1025,547 1078,545"/>
+                <TextEquiv>
+                    <Unicode>cuincedendas Datum apud Eynesham sexto Idus aprilis anno Domini millesio cobrerto cricesimo Et super hoc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="22,592 1057,594 1049,556 22,554"/>
+                <Baseline points="29,581 80,584 132,584 183,586 235,587 287,590 338,590 390,590 441,590 493,590 545,588 596,587 648,586 699,584 751,584 803,582 854,582 906,582 957,581 1009,579 1061,581"/>
+                <TextEquiv>
+                    <Unicode>questis rotilis predicti Walteri de tempore predicto compelia est ien eisdeum quod predictus eisiem e um s</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="19,648 544,644 690,624 690,594 256,611 18,588"/>
+                <Baseline points="27,616 60,618 93,619 127,619 160,620 193,622 227,622 260,624 293,624 327,625 360,625 393,624 427,625 460,624 493,624 527,624 560,624 593,624 627,622 660,622 694,622"/>
+                <TextEquiv>
+                    <Unicode>liberatus fuitr Epo tcc pro morte predicta fanto idem Thomas inde sine de ecm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

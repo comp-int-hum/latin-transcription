@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:09.122+02:00</Created>
+        <LastChange>2024-10-23T20:07:41.960+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893634" pageNr="39" tsid="195651087" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=DEGPXMJTQLLOXZWRFNHUHJHP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NACWSWRWJNATRRFPWSSGLXJG" imageId="66319225"/>
+    </Metadata>
+    <Page imageFilename="0039_JUST1-734m3.jpeg" imageWidth="954" imageHeight="452">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709214149" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="7,18 7,442 953,442 953,18"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="8,45 937,59 937,19 874,0 8,2"/>
+                <Baseline points="15,41 61,39 107,39 153,38 200,39 246,39 292,38 338,38 385,39 431,41 477,42 523,42 570,42 616,42 662,42 708,42 755,41 801,42 847,41 893,41 940,42"/>
+                <TextEquiv>
+                    <Unicode>Edde Hodent Radulfuo de Crac Iohanne filis Pohinnis Gileras de Buckenhulle quauor militie unum adeligenda eii</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="7,78 952,85 951,58 838,44 7,45"/>
+                <Baseline points="14,71 63,73 112,74 162,74 211,73 261,75 310,74 359,75 409,74 458,75 508,77 557,76 607,77 656,76 705,77 755,79 804,79 854,79 903,78 953,76"/>
+                <TextEquiv>
+                    <Unicode>etctad facia reter magna assistm suum inter Racdedule butallar Matilli uxor cius petum iill del ale tenemento de septem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2,110 950,117 933,82 2,79"/>
+                <Baseline points="9,103 56,105 103,106 150,105 197,105 245,105 292,105 339,106 386,108 433,109 481,109 528,111 575,111 622,112 669,114 717,113 764,114 811,113 858,115 905,114 953,109"/>
+                <TextEquiv>
+                    <Unicode>acqua bosci cum pertinentiis in Benint et unde idem billi qui tenem est posuit sem magnam asstum domini reci et peteret</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="6,150 835,165 939,136 5,110"/>
+                <Baseline points="12,138 58,138 105,138 151,136 198,138 244,138 291,140 337,141 384,141 430,143 477,143 523,145 570,145 616,145 663,146 709,146 756,146 802,148 849,149 895,151 942,152"/>
+                <TextEquiv>
+                    <Unicode>feri intrum ipse macis Ius habant in predicto bosco in predicti Radulphi tatillis uen et clegaunt isteo scilicet Radulphi de Ayrac¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="0,177 947,207 920,154 0,149"/>
+                <Baseline points="7,175 54,173 101,173 148,175 195,175 242,176 289,178 337,178 384,178 431,176 478,176 525,179 572,178 619,179 667,182 714,183 761,183 808,183 855,184 902,185 950,186"/>
+                <TextEquiv>
+                    <Unicode>Stephani de butterl ehl Gilberto de Lonbenhull' villo de Lchton Thom de Costentin Petro de Myntton Rogero Bar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="7,211 833,242 853,198 6,177"/>
+                <Baseline points="14,211 56,210 98,210 140,211 182,213 224,211 266,212 309,213 351,213 393,214 435,214 477,216 519,216 561,216 604,217 646,221 688,221 730,221 772,220 814,218 857,219"/>
+                <TextEquiv>
+                    <Unicode>dofio Galfrido le pocr Iohanne de Arundel eaddocum de Mutton Iohannes filio Stephani Willelmo de Furthe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="5,266 946,274 946,235 4,215"/>
+                <Baseline points="11,246 57,246 104,248 151,248 198,248 245,249 292,249 339,251 386,252 433,255 480,257 526,259 573,259 620,259 667,259 714,259 761,259 808,259 855,259 902,261 949,263"/>
+                <TextEquiv>
+                    <Unicode>postea conters sunt Et Willelus dit siind pro licer cut per pli ipsius Radulfui et est tuntr clei quod predictus Willelmus etur re¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="8,296 940,306 939,271 886,261 7,258"/>
+                <Baseline points="14,280 60,280 106,281 153,283 199,281 246,283 292,283 338,284 385,285 431,289 478,291 524,291 570,292 617,292 663,292 710,292 756,292 802,292 849,294 895,296 942,297"/>
+                <TextEquiv>
+                    <Unicode>dictum boscum cum pertinentiis esse ius predicte Macillis et illum eredi predictis Radulpho et Macilli Et remen et quietum clamaio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="8,321 937,344 936,302 895,296 8,296"/>
+                <Baseline points="15,315 61,316 107,316 153,316 200,316 246,318 292,318 338,318 385,321 431,323 477,326 523,328 570,329 616,329 662,329 708,327 755,329 801,327 847,329 893,332 940,331"/>
+                <TextEquiv>
+                    <Unicode>de Se tham fuis predictis Radulpho coratilli etharcipsius Matilis iperpetuum Et pro hac et re etc predicti Radulpfus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="13,352 949,380 949,348 784,326 13,337"/>
+                <Baseline points="19,350 65,353 112,354 158,356 205,358 252,358 298,358 345,360 391,361 438,362 485,364 531,368 578,369 624,372 671,370 718,369 764,367 811,366 857,367 904,367 951,367"/>
+                <TextEquiv>
+                    <Unicode>totilli dabunt predicto Willelmo huinque marcas argenter de quibus ei soluent med ad medum Tlyuam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="13,392 689,431 920,412 901,373 13,369"/>
+                <Baseline points="20,385 65,388 110,389 155,390 200,393 245,393 290,395 336,397 381,399 426,401 471,401 516,402 561,404 606,407 652,408 697,410 742,407 787,405 832,405 877,405 923,405"/>
+                <TextEquiv>
+                    <Unicode>anno xio et alteram mede vlcimo die xeraio anne eod Et nisi fecerit contr quod uitet facrt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="451,451 21,451 451,451 27,451 451,451 73,451 451,451 92,451 451,451 102,451 156,449 152,398 11,393"/>
+                <Baseline points="20,423 47,424 74,428 102,427 129,430 157,432"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

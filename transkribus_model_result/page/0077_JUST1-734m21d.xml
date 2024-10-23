@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:40.396+02:00</Created>
+        <LastChange>2024-10-23T20:07:46.826+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893993" pageNr="77" tsid="195651127" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=ZGFXTXSOWVBXAMJMTAGJBWYJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DQQVUVGSPABOKMNHGHWQLKSB" imageId="66319695"/>
+    </Metadata>
+    <Page imageFilename="0077_JUST1-734m21d.jpeg" imageWidth="969" imageHeight="571">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709214887" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="20,20 20,561 966,561 966,20"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="13,71 954,64 965,20 482,2 378,43 129,47 14,22"/>
+                <Baseline points="20,67 67,67 114,66 161,63 209,61 256,62 303,62 351,61 398,58 445,56 493,55 540,52 587,47 634,45 682,46 729,46 776,46 824,45 871,45 918,43 966,40"/>
+                <TextEquiv>
+                    <Unicode>Aagnem quaem fuit uxore Barni de Tedestale appuod in comtat Thomas Kor Willelmum de Punele clepitum Walteru Willelope</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="18,116 917,101 966,69 19,75"/>
+                <Baseline points="24,98 71,101 118,101 165,101 212,100 259,100 306,99 353,99 400,93 447,92 495,89 542,86 589,83 636,82 683,82 730,80 777,79 824,79 871,79 918,80 966,77"/>
+                <TextEquiv>
+                    <Unicode>filipm Hordo Pilim Oalchi Stephani de Stok Ricardo de Wrngechull et Radulphum de Fonton quod nbi fuit in parte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="18,150 809,121 964,154 966,86 19,115"/>
+                <Baseline points="24,140 71,138 118,137 165,138 212,135 259,135 306,133 353,133 400,132 447,130 495,129 542,126 589,122 636,120 683,118 730,116 777,114 824,114 871,114 918,116 966,109"/>
+                <TextEquiv>
+                    <Unicode>Domini e in domo sua in Codestile die merturi in septma Pasche Anno xxvii cirta medam noctem uen predicto Thomae</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="13,174 268,170 303,189 613,167 613,138 561,127 465,154 13,148"/>
+                <Baseline points="20,169 49,170 79,170 109,170 139,172 169,171 198,170 228,169 258,169 288,169 318,169 347,167 377,167 407,168 437,167 467,167 496,167 526,165 556,162 586,161 616,159"/>
+                <TextEquiv>
+                    <Unicode>et alii rolebant Domacionam frangere cona pace etc et hoc oft et c</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="18,215 955,198 966,143 723,127 546,181 19,179"/>
+                <Baseline points="24,206 71,203 118,201 165,201 212,201 259,200 306,200 353,200 400,200 447,200 495,200 542,197 589,194 636,189 683,186 730,185 777,182 824,183 871,182 918,182 966,175"/>
+                <TextEquiv>
+                    <Unicode>Et Walerus Galelipo Pilio Eahaicoho Stephani de Stok et Ricardo de Krngtehulle n uenera Et Galtero fuit atehalis per homoram</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="19,256 946,233 955,197 20,212"/>
+                <Baseline points="27,240 73,236 119,232 166,232 212,232 259,230 305,229 352,229 398,230 445,229 491,229 537,228 584,225 630,225 677,222 723,221 770,220 816,220 863,219 909,217 956,214"/>
+                <TextEquiv>
+                    <Unicode>Hore de Watlebrngg et Rogerum Wallelope Et Philipis Calon fuit attahalus per Ricardus de la Nicholae et Thoma Wallehore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="22,284 964,259 964,225 919,224 24,247"/>
+                <Baseline points="29,270 75,268 122,266 169,266 216,262 263,261 310,259 356,258 403,259 450,257 497,254 544,254 591,253 638,251 684,251 731,251 778,251 825,251 872,251 919,251 966,250"/>
+                <TextEquiv>
+                    <Unicode>Et stephani de Stok fuit atacholis per Hamunda filio Ricardi de Elemere et Walteriu Pekre de Mtratton sancto omne in nam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="24,309 910,302 939,266 24,282"/>
+                <Baseline points="30,306 75,302 121,298 166,298 212,295 257,291 303,291 348,289 394,289 439,288 485,287 531,285 576,285 622,282 667,282 713,281 758,280 804,280 849,282 895,282 941,283"/>
+                <TextEquiv>
+                    <Unicode>Et Ricardo de Briggehull' fuit atacali per Danud filii Aexandri de WBradechull' et Oynon fratrem predicti Pevid o</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="21,347 964,333 964,290 691,282 22,311"/>
+                <Baseline points="29,330 75,329 122,327 169,325 216,324 263,324 310,324 356,324 403,322 450,321 497,319 544,317 591,317 638,316 684,315 731,313 778,312 825,314 872,314 919,314 966,312"/>
+                <TextEquiv>
+                    <Unicode>in ma et Thomas Horde Philpeo Ioredo Radulphi de Euton uen et defendt fractionem domorum et totum et c et pet s</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="26,366 902,366 949,329 26,348"/>
+                <Baseline points="32,361 80,359 128,359 177,356 225,353 273,351 322,351 370,351 418,348 467,346 515,346 564,345 612,345 660,345 709,345 757,345 805,345 854,345 902,346 951,346"/>
+                <TextEquiv>
+                    <Unicode>allocari de hoc quod Agnem femina est et non habet apostolum mei in duobus aribus san conte est quod apostolum illuem Et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="32,405 960,392 960,347 32,371"/>
+                <Baseline points="38,391 84,388 130,390 176,387 222,385 269,383 315,380 361,379 407,377 453,375 500,375 546,375 592,372 638,374 684,372 731,372 777,374 823,375 869,379 915,379 962,378"/>
+                <TextEquiv>
+                    <Unicode>Willelmo de Punmel uen et dicitum quod clericus est et quod timto debet hic perdere Et euo hoc uen decamus episcopi Conmuitis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="26,433 960,420 947,387 774,379 26,413"/>
+                <Baseline points="32,422 78,421 125,421 171,418 218,416 264,411 311,409 357,409 404,409 450,408 497,406 543,404 590,403 636,404 683,403 729,404 776,404 822,408 869,409 915,412 962,411"/>
+                <TextEquiv>
+                    <Unicode>et Ricbolas et peti ipsum anquam clericum et libertur ei Seo ut sciatus qualis et liberatur inquiratur rei intero pr prri¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="31,470 954,450 933,420 603,408 32,431"/>
+                <Baseline points="38,456 83,454 129,451 175,449 221,445 267,442 313,440 359,441 405,440 451,438 497,438 542,437 588,437 634,437 680,438 726,440 772,440 818,441 864,443 910,443 956,441"/>
+                <TextEquiv>
+                    <Unicode>iurie dicunt quod predicto Thomas et alii uen noctanter ad domum predicte Agne et donum suam fregerint set non in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="28,503 961,483 904,445 30,470"/>
+                <Baseline points="35,487 81,484 127,481 174,479 220,475 267,475 313,475 360,474 406,474 453,470 499,472 545,471 592,469 638,469 685,470 731,470 778,472 824,474 871,474 917,475 964,470"/>
+                <TextEquiv>
+                    <Unicode>kelon necr ad aliquam Rober facirom qu pro quadam textra facio uequod noctanter et cona statuta Regni hoc fetrus sac oncta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="24,523 942,529 929,482 24,498"/>
+                <Baseline points="30,511 75,512 121,510 167,509 213,509 258,510 304,511 350,512 396,511 441,509 487,509 533,509 579,509 624,509 670,507 716,508 762,509 807,509 853,512 899,512 945,514"/>
+                <TextEquiv>
+                    <Unicode>comitantius Tyol Fost uenori Thoma horeds Pilipo Herdo Gadulpho de Kuton et fimem facte proxi olol per pl¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="26,569 570,570 40,569 570,570 45,569 570,570 60,569 570,570 88,569 570,570 102,569 570,570 111,569 570,570 127,569 570,570 130,569 570,570 178,569 570,570 181,569 570,570 193,569 570,570 197,569 570,570 243,569 570,570 255,569 570,570 286,569 570,570 291,569 570,570 303,569 570,570 317,569 570,570 322,569 359,523 26,527"/>
+                <Baseline points="33,551 58,550 83,548 108,546 134,548 159,548 184,549 210,548 235,550 260,547 286,546 311,546 336,545 362,546"/>
+                <TextEquiv>
+                    <Unicode>Roberti Corket et Rici Eprengeshare</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:18:04.282+02:00</Created>
+        <LastChange>2024-10-23T20:07:49.462+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80892208" pageNr="98" tsid="195651178" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=ZYPBLZSZDDQANPSMYOANTNLU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ILRUDIAAZKPDSSYFVJVFWSRW" imageId="66319976"/>
+    </Metadata>
+    <Page imageFilename="0098_JUST1-633m120.png" imageWidth="1071" imageHeight="1549">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709215158" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="17,29 17,1525 1052,1525 1052,29"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="25,113 1044,61 990,0 354,61 309,32 27,49"/>
+                <Baseline points="33,91 83,91 134,89 185,85 235,82 286,82 337,79 387,77 438,74 489,73 540,69 590,66 641,64 692,64 742,60 793,57 844,55 894,53 945,51 996,49 1047,49"/>
+                <TextEquiv>
+                    <Unicode>Iohannes filio Poibipi de Neville de Brampton per Iohannum de Runfreyt atem suum pete versus Iohanne deo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="31,145 1043,97 1008,52 34,105"/>
+                <Baseline points="39,130 89,127 139,124 189,121 240,117 290,114 340,112 391,111 441,108 491,107 542,105 592,101 642,101 692,99 743,98 793,96 843,92 894,92 944,89 994,89 1045,87"/>
+                <TextEquiv>
+                    <Unicode>Nevill de Satton tresecim pesuagia unam acre et decm virgatas terre et dimia et quatuor librats</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="31,176 1001,149 1038,100 32,146"/>
+                <Baseline points="39,165 91,162 144,158 196,157 249,152 301,150 354,147 407,144 459,143 512,141 564,140 617,137 669,137 722,135 775,132 827,130 880,126 932,124 985,124 1038,124"/>
+                <TextEquiv>
+                    <Unicode>et decen daratas reditus et situm toic libri cumini cum pertinentiis in gagna Brampton Et res</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="26,212 712,206 789,175 1007,199 1031,131 27,172"/>
+                <Baseline points="33,199 83,198 133,196 183,192 233,190 283,189 333,186 383,184 433,182 483,180 533,179 583,176 633,176 683,173 733,171 783,170 833,166 883,164 933,163 983,162 1033,162"/>
+                <TextEquiv>
+                    <Unicode>Simonem de Haltulp unum gesuagium et unas virgatas terre cum pertinentiis ineadem villa ut sus et c</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="31,238 80,251 102,234 147,246 184,234 254,243 331,225 349,234 351,197 294,204 282,193 252,211 166,212 138,199 115,211 32,213"/>
+                <Baseline points="39,235 65,233 91,233 117,231 143,231 169,230 196,228 222,226 248,224 274,223 300,223 326,221 353,223"/>
+                <TextEquiv>
+                    <Unicode>et lbe tt frma donacionis et c</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="44,281 863,255 1035,241 1049,204 559,193 45,241"/>
+                <Baseline points="51,268 101,264 151,261 201,258 251,258 301,255 351,251 401,248 451,247 501,245 551,242 601,240 651,239 701,237 751,235 801,234 851,231 901,230 951,230 1001,230 1052,230"/>
+                <TextEquiv>
+                    <Unicode>t Phihannis e Simon per Willlmum de Kelleseyge ater suum ven et alias dexerunt quod utcque eorum tenui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="28,314 1014,281 1025,237 30,282"/>
+                <Baseline points="35,299 84,299 134,297 183,293 233,290 282,289 332,285 381,281 431,280 480,279 530,276 580,274 629,273 679,269 728,267 778,265 827,264 877,263 926,262 976,262 1026,260"/>
+                <TextEquiv>
+                    <Unicode>tenementis versus eos sepatiti petrita ad terminum vite ex dimissione Willelmi de Neville et in forma illa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="27,339 919,313 979,305 981,272 28,314"/>
+                <Baseline points="35,330 82,330 129,328 177,324 224,323 272,323 319,321 366,317 414,316 461,313 509,310 556,310 603,306 651,307 698,304 746,303 793,301 840,298 888,297 935,296 983,294"/>
+                <TextEquiv>
+                    <Unicode>tocati ind partinetum villltum ad ware et c qui modo venit persnum et gratis eis wara in forma predicta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="21,376 1025,335 987,291 22,342"/>
+                <Baseline points="28,364 80,361 133,359 185,357 238,358 290,355 343,353 396,352 448,348 501,347 553,343 606,342 658,340 711,339 764,335 816,333 869,331 921,330 974,328 1027,326"/>
+                <TextEquiv>
+                    <Unicode>Et predictus Iohannes per predictum attum suum petit versus ei predicta tenementa cum pertinentiis et dicit quod quinam Phoilannus de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="25,397 1035,384 1038,339 25,376"/>
+                <Baseline points="32,394 82,394 132,392 183,389 233,389 284,389 334,388 384,386 435,383 485,382 536,381 586,378 636,376 687,374 737,372 788,371 838,368 888,367 939,365 989,364 1040,362"/>
+                <TextEquiv>
+                    <Unicode>Noville de predictos tenemento cum pertinentiis fuit gesitus in dominico suo ut te feodo et iure tempore paces tempore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="28,440 1040,408 959,371 30,409"/>
+                <Baseline points="37,433 87,430 137,426 187,422 238,422 288,422 338,420 389,419 439,418 489,417 540,414 590,412 640,410 690,406 741,406 791,405 841,403 892,400 942,399 992,397 1043,397"/>
+                <TextEquiv>
+                    <Unicode>RReg pro ani domini Regis nunc capieno inde eplet ad valenciam et c qui quinte Iohannis tenementis illa dedit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="25,467 1027,444 1027,411 955,402 25,439"/>
+                <Baseline points="32,460 81,459 131,459 181,455 231,455 281,455 331,453 380,451 430,450 480,448 530,447 580,447 630,444 680,442 729,440 779,439 829,438 879,437 929,436 979,433 1029,433"/>
+                <TextEquiv>
+                    <Unicode>cuidam Iacobo de Neville et hedtibus de copere suo exeuntibus qui per donum illie fuit geisitus de¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="19,512 964,494 1034,452 21,466"/>
+                <Baseline points="28,492 78,495 128,494 179,490 229,490 279,488 330,488 380,487 430,487 481,486 531,485 581,483 632,483 682,481 732,479 783,477 833,475 883,474 934,472 984,471 1035,469"/>
+                <TextEquiv>
+                    <Unicode>predcictis tenemis in dominico no ut de feodo et furit pro formam etca ita quod videm sacobus sine herede de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="21,541 1049,514 1013,481 757,481 22,516"/>
+                <Baseline points="28,528 79,529 130,527 181,525 232,522 283,521 334,521 386,519 437,519 488,519 539,519 590,517 641,517 692,517 744,514 795,513 846,511 897,510 948,508 999,506 1051,506"/>
+                <TextEquiv>
+                    <Unicode>topo ono exenite obiret predicta tenementa cum pertinentiis R aduldas fratri ihrpisius aicobi et heredibus deccope cunt exento</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="17,568 876,564 1019,523 17,539"/>
+                <Baseline points="24,563 73,562 123,560 173,560 223,558 273,556 322,554 372,553 422,553 472,551 522,550 571,551 621,549 671,547 721,546 771,546 820,545 870,544 920,541 970,538 1020,538"/>
+                <TextEquiv>
+                    <Unicode>til remanent Etudem Radulpdus sine herede de corpor sno tenuit obiret predicta tenementa cum pertinentiis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="12,602 1001,594 1018,546 12,576"/>
+                <Baseline points="19,599 69,598 119,596 169,596 219,596 269,592 319,591 370,589 420,587 470,587 520,585 570,585 620,585 670,581 721,580 771,580 821,578 871,578 921,576 971,572 1022,572"/>
+                <TextEquiv>
+                    <Unicode>Iohannie fratri eiusdem Radulphi et heredibus de corte suo exeuntibus remanerent et quoe pest mortem predictorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="12,637 875,635 1030,613 1031,583 12,611"/>
+                <Baseline points="19,633 69,633 120,633 171,633 221,632 272,631 323,629 373,627 424,624 475,622 526,622 576,621 627,621 678,620 728,618 779,616 830,613 880,613 931,612 982,612 1033,613"/>
+                <TextEquiv>
+                    <Unicode>Iacobi Radulphi et Philippi fratris Raduli prefato Iohanni filii et heredi eiusdem Pibiti fratris Raduli remanere debent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="10,684 379,701 783,662 895,693 1047,668 1048,630 10,648"/>
+                <Baseline points="17,672 68,671 120,670 172,669 223,669 275,667 327,665 378,663 430,662 482,660 534,660 585,658 637,658 689,656 740,654 792,652 844,650 895,649 947,649 999,649 1051,649"/>
+                <TextEquiv>
+                    <Unicode>pro formam donacionis predicto eo quod utrque predictorum sacobi et Radulphi chi sine herede de corposuo exxeunte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="14,721 114,704 136,715 193,704 259,715 344,700 344,679 326,674 299,690 243,674 215,695 162,673 53,690 16,679"/>
+                <Baseline points="23,710 49,704 76,704 103,703 130,704 157,703 184,703 211,703 238,701 265,701 292,701 319,699 346,701"/>
+                <TextEquiv>
+                    <Unicode>Et nute redutt icatam et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="16,746 1044,730 1035,692 796,671 17,719"/>
+                <Baseline points="23,740 74,734 125,734 176,733 227,734 279,735 330,731 381,731 432,729 483,728 535,726 586,726 637,724 688,725 739,724 791,724 842,723 893,722 944,722 995,724 1047,726"/>
+                <TextEquiv>
+                    <Unicode>T Willelmus dicit quod aum predictus Iohannes de sersina nullius sui antcessore peter vsus uenim predicta tenen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="14,783 1044,772 1044,731 922,724 14,748"/>
+                <Baseline points="21,770 72,769 123,769 174,769 226,770 277,769 328,769 380,767 431,767 482,765 534,765 585,765 636,764 687,763 739,763 790,760 841,761 893,760 944,760 995,760 1047,760"/>
+                <TextEquiv>
+                    <Unicode>set tomquam veananca persona ex asserens sibi fore remanenca post mortem Petorim sacobi Radulphi et fihanni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="16,823 1044,811 1034,768 890,762 16,781"/>
+                <Baseline points="23,808 74,805 125,805 176,806 227,807 279,806 330,806 381,806 432,804 483,803 535,803 586,803 637,801 688,801 739,798 791,797 842,797 893,796 944,795 995,795 1047,797"/>
+                <TextEquiv>
+                    <Unicode>fratris et c pro formam donacionis predicte que per specale factum habet cstend et de quo idem Nchets nichl pro fer¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="17,863 983,858 1036,814 17,822"/>
+                <Baseline points="24,845 74,845 125,844 176,845 226,846 277,845 328,845 378,844 429,842 480,840 531,840 581,840 632,838 683,838 733,837 784,834 835,834 885,833 936,833 987,833 1038,833"/>
+                <TextEquiv>
+                    <Unicode>petit Indem si sine seralitate responderi debeat Et Iohannes dicit quod in curia domini R Regis paii¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="10,884 1035,878 1036,846 855,836 12,862"/>
+                <Baseline points="17,883 68,881 119,881 170,881 221,883 272,881 323,881 375,881 426,879 477,879 528,878 579,878 630,879 681,877 733,876 784,874 835,872 886,870 937,869 988,869 1040,869"/>
+                <TextEquiv>
+                    <Unicode>domini R nunc apud testiterim in octabis sancte trinitatis anno regni sui quadragesimo septims coram</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="10,928 1041,916 1041,876 10,884"/>
+                <Baseline points="17,919 68,919 119,919 171,920 222,920 274,919 325,919 376,919 428,919 479,917 531,917 582,915 633,914 685,915 736,914 788,911 839,911 890,910 942,908 993,908 1045,908"/>
+                <TextEquiv>
+                    <Unicode>Rogerto de Thurkelley et sanctiis suis tunc Iiusticiariis ipsius domini Regis de Lanco levanit quitam fuint Iun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="16,973 1049,973 1049,922 16,929"/>
+                <Baseline points="23,954 74,954 125,955 177,954 228,954 280,956 331,956 382,954 434,952 485,954 537,954 588,952 639,952 691,952 742,952 794,952 845,952 896,952 948,949 999,947 1051,949"/>
+                <TextEquiv>
+                    <Unicode>Iacobu de Neville querentam et Philipum de Revill impediente de quatuordem libratis terre cum pertineni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="19,1001 1036,995 925,956 19,978"/>
+                <Baseline points="26,990 76,990 127,990 178,992 228,992 279,993 330,992 380,991 431,991 482,992 533,992 583,992 634,990 685,990 735,992 786,992 837,991 887,990 938,990 989,990 1040,988"/>
+                <TextEquiv>
+                    <Unicode>in pagna Brampton que sunt prata tenementa pecita pro quem finem iem Iohennis recognitit illam terram</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="17,1030 1040,1043 1040,1007 930,991 17,1004"/>
+                <Baseline points="24,1027 77,1026 131,1026 184,1027 238,1027 292,1027 345,1027 399,1027 453,1027 506,1027 560,1026 613,1027 667,1029 721,1029 774,1029 828,1029 882,1029 935,1029 989,1029 1043,1029"/>
+                <TextEquiv>
+                    <Unicode>cum pertinentiis essesu ipsius Iacobi ut illam quam id sacobus habet de dono predicti Iohanni habentam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="21,1065 1030,1074 1030,1035 21,1044"/>
+                <Baseline points="28,1060 78,1058 128,1061 178,1061 229,1061 279,1061 329,1063 379,1061 430,1063 480,1063 530,1064 580,1063 631,1065 681,1065 731,1065 781,1067 832,1067 882,1068 932,1068 982,1067 1033,1070"/>
+                <TextEquiv>
+                    <Unicode>et tenendam eidem Iacob et heredibus suis de corpporesno procreatis t sicontingat quod predictus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="19,1110 1016,1127 1044,1087 18,1061"/>
+                <Baseline points="26,1093 77,1095 128,1097 179,1098 230,1099 281,1100 332,1099 383,1101 434,1101 485,1104 536,1102 587,1101 638,1101 689,1102 740,1102 791,1104 842,1105 893,1108 944,1106 995,1108 1047,1106"/>
+                <TextEquiv>
+                    <Unicode>sacobus obierit sine herede decoppor suo procrato tota predicta terra cum pertinentiis suis remaneat Rdulphi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="30,1160 1026,1157 1026,1129 915,1113 30,1109"/>
+                <Baseline points="37,1138 86,1136 136,1137 185,1137 235,1138 285,1138 334,1138 384,1140 433,1142 483,1143 533,1143 582,1144 632,1143 681,1143 731,1143 781,1143 830,1143 880,1145 929,1147 979,1147 1029,1149"/>
+                <TextEquiv>
+                    <Unicode>fratri ipsum Iocobi et heredibus decopo suo procreatis Et si contingatr diactmum Radulphus obierit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="21,1192 1030,1208 1029,1155 19,1162"/>
+                <Baseline points="28,1176 78,1177 128,1176 178,1177 229,1178 279,1179 329,1179 379,1179 430,1179 480,1183 530,1181 580,1182 631,1181 681,1183 731,1184 781,1183 832,1183 882,1184 932,1186 982,1185 1033,1183"/>
+                <TextEquiv>
+                    <Unicode>sine herede decipere suo protreat predicta terra cum pertinentiis remaneat Iohannis fratri eiusdem Radulphi et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="23,1225 1014,1226 974,1192 23,1192"/>
+                <Baseline points="30,1213 79,1213 128,1213 178,1216 227,1217 277,1218 326,1218 375,1217 425,1218 474,1218 524,1218 573,1219 622,1220 672,1222 721,1222 771,1220 820,1220 869,1222 919,1222 968,1222 1018,1222"/>
+                <TextEquiv>
+                    <Unicode>heredibus decopere suo greatos et dicit quod ipse est filiis eiusdem Philippi et quod vircit eiusdem fuit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="25,1252 919,1278 917,1236 878,1225 25,1233"/>
+                <Baseline points="32,1247 76,1248 121,1249 165,1250 210,1253 254,1254 299,1256 343,1256 388,1256 432,1254 477,1254 521,1254 566,1256 610,1257 655,1258 699,1259 744,1260 788,1261 833,1261 877,1262 922,1261"/>
+                <TextEquiv>
+                    <Unicode>predicta tenementa ei debent remane et c et pofert hic partem sinis precete que hoc testatur et e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="25,1291 906,1320 1041,1304 1041,1272 23,1256"/>
+                <Baseline points="32,1279 82,1279 133,1281 183,1284 234,1286 285,1288 335,1288 386,1290 437,1288 487,1290 538,1288 589,1293 639,1294 690,1294 741,1295 791,1295 842,1296 893,1297 943,1295 994,1295 1045,1293"/>
+                <TextEquiv>
+                    <Unicode>Et Willelmus diot quod obi predictus Iohannes filiu Pilippi Supponi predictum Iacobu habuisse predicta tonmenia de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="26,1325 1043,1338 1022,1299 26,1291"/>
+                <Baseline points="33,1311 83,1315 134,1317 184,1318 235,1321 286,1323 336,1324 387,1325 437,1324 488,1324 539,1325 589,1326 640,1329 690,1330 741,1330 792,1332 842,1333 893,1331 943,1333 994,1333 1045,1333"/>
+                <TextEquiv>
+                    <Unicode>dono predicti Phihlinpni de Nevilli dominis sacols nuncquam aliquid habuit in eisdem de dono eiusdem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="26,1380 1049,1384 1048,1338 26,1324"/>
+                <Baseline points="33,1350 83,1352 134,1352 185,1354 236,1356 287,1358 338,1359 389,1359 440,1361 491,1361 542,1361 592,1363 643,1365 694,1365 745,1366 796,1366 847,1368 898,1368 949,1368 1000,1368 1051,1372"/>
+                <TextEquiv>
+                    <Unicode>Philippi Et de hoc poli se super patram Et Iohannes filius Philippi Similiis fact precesptum est vicura qo voniriu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="28,1410 734,1431 1000,1417 1027,1377 27,1378"/>
+                <Baseline points="35,1386 84,1388 134,1390 184,1391 234,1392 284,1394 333,1395 383,1395 433,1397 483,1398 533,1399 582,1400 632,1400 682,1401 732,1404 782,1404 831,1402 881,1403 931,1403 981,1402 1031,1404"/>
+                <TextEquiv>
+                    <Unicode>facrde hic die veneris in terra septimana quadragesimeo vi et c per quot et E Et qui nec et c</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:38;}">
+                <Coords points="25,1424 1040,1450 1029,1405 25,1411"/>
+                <Baseline points="32,1420 82,1422 133,1425 183,1426 234,1429 284,1430 335,1431 385,1433 436,1433 486,1433 537,1434 587,1436 638,1437 688,1439 739,1440 789,1440 840,1440 890,1440 941,1440 991,1438 1042,1438"/>
+                <TextEquiv>
+                    <Unicode>ad retton et c suva tam et l quem diem predictus Willelmus op v versus predictus Iohannem de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:39;}">
+                <Coords points="25,1477 917,1506 1040,1485 1039,1449 23,1427"/>
+                <Baseline points="32,1454 82,1457 133,1460 183,1462 234,1464 284,1466 335,1468 385,1468 436,1470 486,1470 537,1472 587,1472 638,1474 688,1475 739,1477 789,1477 840,1477 890,1479 941,1479 991,1477 1042,1477"/>
+                <TextEquiv>
+                    <Unicode>predicto Placio Et ipso non vo Et fuit Petens sont predictus Willelmus inde sine die Et predicts Iolites</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_41" custom="readingOrder {index:40;}">
+                <Coords points="25,1519 644,1540 678,1525 677,1487 486,1475 455,1496 69,1462 23,1479"/>
+                <Baseline points="32,1493 64,1493 96,1496 128,1497 161,1497 193,1500 225,1502 258,1504 290,1505 322,1507 355,1507 387,1507 419,1508 451,1509 484,1511 516,1511 548,1513 581,1513 613,1513 645,1515 678,1511"/>
+                <TextEquiv>
+                    <Unicode>et plegi sui dogratr in mnam et eta Enepattur nomina ples et c</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

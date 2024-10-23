@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:07.021+02:00</Created>
+        <LastChange>2024-10-23T20:07:41.702+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893630" pageNr="37" tsid="195651086" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=RJYUQXPJUGQAAMJHAHDYGCHX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XNRJTKIOVENIZMRMWEAESAUB" imageId="66318857"/>
+    </Metadata>
+    <Page imageFilename="0037_JUST1-734m2.jpg" imageWidth="981" imageHeight="579">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709214138" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="4,7 4,568 979,568 979,7"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="716,44 731,44 750,34 761,41 771,40 778,33 786,39 800,41 803,0 779,0 771,8 753,9 749,5 741,11 730,2 717,4"/>
+                <Baseline points="722,31 749,28 776,27 804,27"/>
+                <TextEquiv>
+                    <Unicode>brecim e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="613,40 625,41 629,37 652,45 672,34 685,41 694,40 694,8 677,5 668,8 657,0 613,0"/>
+                <Baseline points="619,32 644,31 670,31 696,31"/>
+                <TextEquiv>
+                    <Unicode>brtum le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="13,77 376,40 561,48 589,38 592,0 403,0 336,26 62,12 15,32"/>
+                <Baseline points="21,49 49,53 78,53 106,52 135,52 163,50 192,49 220,46 249,44 277,40 306,40 335,39 363,38 392,34 420,34 449,32 477,32 506,32 534,31 563,32 592,32"/>
+                <TextEquiv>
+                    <Unicode>Iass uen ret gi Alanus le harpur iniuste et cetra disseys H</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="690,70 713,79 732,70 752,77 786,64 798,71 816,64 831,72 868,70 877,62 896,68 897,34 864,44 849,35 797,44 780,33 761,42 752,35 731,44 720,35 690,40"/>
+                <Baseline points="696,63 721,63 746,62 772,62 797,60 822,58 848,60 873,60 899,62"/>
+                <TextEquiv>
+                    <Unicode>nus virgate terre et d</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="26,104 143,107 261,72 667,83 668,35 28,65"/>
+                <Baseline points="34,88 65,87 97,86 129,85 161,82 193,79 224,76 256,73 288,71 320,71 352,68 383,68 415,67 447,67 479,65 511,63 542,63 574,65 606,63 638,64 670,65"/>
+                <TextEquiv>
+                    <Unicode>Spton pret paam et e Et unde querenat quod disseysun dmrdnm de medietate u¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="22,138 904,103 883,64 24,100"/>
+                <Baseline points="29,129 72,125 116,122 160,120 204,115 248,111 292,107 336,105 380,104 424,104 468,103 511,99 555,99 599,99 643,99 687,99 731,98 775,98 819,97 863,98 907,96"/>
+                <TextEquiv>
+                    <Unicode>Et Elamis uen et dict quod predicto Herbetus iniste tuerit assisam istam quia dicts quod idem Berbus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="26,173 448,139 902,151 903,108 852,101 27,149"/>
+                <Baseline points="34,165 77,161 121,157 164,155 208,152 252,149 295,145 339,143 382,141 426,139 470,137 513,135 557,135 600,135 644,136 688,135 731,135 775,135 818,135 862,134 906,134"/>
+                <TextEquiv>
+                    <Unicode>tullis assisam nove difsicne ue ipsum de eodem tenementi cora magistro g de Wauton usticiariis ad hoc ass¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="26,225 290,179 906,172 872,141 629,138 27,177"/>
+                <Baseline points="34,201 77,194 121,191 165,188 209,185 252,183 296,179 340,176 384,174 427,171 471,171 515,170 559,170 602,170 646,171 690,171 734,170 777,170 821,168 865,168 909,170"/>
+                <TextEquiv>
+                    <Unicode>perctum soitum fuit quod idem Heribus uillamus fuit ita quod idem Clamus per consa curiam recesit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="25,256 282,225 885,239 967,227 968,179 410,174 25,225"/>
+                <Baseline points="31,235 77,232 124,228 171,225 218,223 265,220 312,219 359,217 406,215 453,214 500,210 546,210 593,209 640,209 687,209 734,210 781,209 828,209 875,209 922,210 969,210"/>
+                <TextEquiv>
+                    <Unicode>et predicto Heresaus remaneit in mua Et predicto Herberus hoc idem cognaum q tonuer est quod predicto Ala¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="27,303 123,302 147,284 212,279 262,289 292,276 306,290 348,272 408,276 410,232 394,225 356,243 288,227 268,244 231,229 87,261 31,251"/>
+                <Baseline points="35,279 60,275 85,273 110,272 135,271 160,270 185,268 210,266 236,264 261,263 286,261 311,260 336,258 361,258 386,256 412,256"/>
+                <TextEquiv>
+                    <Unicode>ine quietus et Berbus pauper est et c</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="0,377 829,343 941,331 943,285 698,308 364,277 210,330 0,315"/>
+                <Baseline points="4,350 53,354 102,352 152,346 201,345 251,343 300,341 349,340 399,338 448,336 498,335 547,332 597,330 646,328 695,327 745,325 794,322 844,323 893,322 943,320"/>
+                <TextEquiv>
+                    <Unicode>Willelmus Sandige de Cassu Raulgod peter ner prptni de Wnilele duoas quita stertres rperteniism mim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="27,390 888,368 956,337 27,370"/>
+                <Baseline points="34,390 80,388 126,384 172,381 218,377 265,376 311,373 357,372 403,370 449,368 496,368 542,366 588,364 634,363 680,362 727,357 773,354 819,354 865,351 911,353 958,353"/>
+                <TextEquiv>
+                    <Unicode>ut Ius suum et ce Et unde quideam Robertuos de la Core antelis suis fuit Hexgs in dominico suo ut de feodo et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="27,440 954,397 926,352 28,407"/>
+                <Baseline points="34,425 80,423 126,420 172,415 218,412 265,408 311,404 357,402 403,400 449,398 496,397 542,397 588,395 634,394 680,393 727,389 773,388 819,387 865,384 911,386 958,382"/>
+                <TextEquiv>
+                    <Unicode>iure empore Hr au Domini Nenunt capiendo in Uepel ad valentiem dei mici et c Eo de ipso Roberto destendit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="31,481 318,437 917,435 977,397 345,405 32,446"/>
+                <Baseline points="37,462 84,458 131,455 178,448 225,444 272,441 319,436 366,436 413,433 460,431 508,430 555,428 602,426 649,425 696,425 743,423 790,421 837,420 884,418 931,418 979,412"/>
+                <TextEquiv>
+                    <Unicode>us tere illius cuidam Egnem ut filii et heredibus Et de prata Agines qude Thi ut filiis et heredis Et de ipso Thome</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="26,503 964,464 942,422 652,424 27,475"/>
+                <Baseline points="32,495 78,493 125,486 172,483 218,478 265,474 312,472 358,471 405,469 452,467 499,466 545,462 592,461 639,460 685,459 732,458 779,457 825,456 872,453 919,453 966,448"/>
+                <TextEquiv>
+                    <Unicode>quindem Roberto ut filis et heredius Et de ipso Roberto et obit sine herede de se cuidam Thomas ut fratri et herus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="28,534 331,513 409,540 599,490 731,527 806,493 928,521 969,515 971,461 29,505"/>
+                <Baseline points="35,528 81,524 128,519 175,514 222,511 269,508 316,506 363,505 410,500 457,497 504,493 550,492 597,491 644,490 691,491 738,493 785,490 832,490 879,490 926,487 973,489"/>
+                <TextEquiv>
+                    <Unicode>Et de pasto Shao et obit sine heridus de Se st Willelus qui nunc pectit uet fratri et heredbus et quod tale sit ius qunum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="51,571 71,575 86,565 95,563 98,566 110,558 124,565 136,565 140,528 127,530 119,527 100,541 84,530 77,529 64,536 57,534"/>
+                <Baseline points="59,558 86,555 114,550 142,544"/>
+                <TextEquiv>
+                    <Unicode>sert et c</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:22.576+02:00</Created>
+        <LastChange>2024-10-23T20:07:44.105+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893869" pageNr="56" tsid="195651136" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=SLILPQNDHWGTZHNMIISHOOQH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YVYGFGRUFZFQAEMYBVFKWUWK" imageId="66319231"/>
+    </Metadata>
+    <Page imageFilename="0056_JUST1-734m8.jpeg" imageWidth="974" imageHeight="578">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709214408" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="9,17 9,568 954,568 954,17"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2,45 943,46 943,7 871,0 2,9"/>
+                <Baseline points="9,42 55,42 102,43 149,43 196,43 243,43 290,43 336,43 383,45 430,45 477,43 524,43 571,42 618,42 664,38 711,39 758,37 805,42 852,42 899,40 946,37"/>
+                <TextEquiv>
+                    <Unicode>Irusst uenri pot si Abbas de Lilleshille uniste eti Diminus Hmone le Finge de RLibero tenemaro ouo Iub rocbe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="15,88 739,93 784,87 785,48 16,47"/>
+                <Baseline points="22,77 60,81 98,82 136,84 175,82 213,81 251,82 289,81 328,81 366,81 404,80 442,79 481,79 519,79 557,78 595,77 634,76 672,75 710,74 748,74 787,74"/>
+                <TextEquiv>
+                    <Unicode>U than prat primam etc et uende quem quod diceus enium de duobus perticatis terre et dimidiam cum pertinentiis per locda</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="7,133 912,114 894,54 738,93 8,99"/>
+                <Baseline points="14,116 59,118 104,119 149,119 194,119 239,120 284,120 329,118 374,118 419,117 464,115 509,116 554,115 599,113 644,112 689,112 734,110 779,110 824,108 869,105 915,103"/>
+                <TextEquiv>
+                    <Unicode>et Abbas uonit et dicito quod predictus Hamo Iuiste tulict assinam istam Quua dict quod predictum tenementum de quo quidem et quod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="9,161 838,156 927,144 928,113 9,127"/>
+                <Baseline points="16,150 61,154 107,152 153,154 198,154 244,155 290,154 335,154 381,152 427,150 473,150 518,150 564,150 610,150 655,149 701,146 747,145 792,144 838,141 884,138 930,138"/>
+                <TextEquiv>
+                    <Unicode>posuit in uisi suo est in Langodei tano inarokebrthyn prete dict Licec coe Alud es in Wokestrhn affra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="6,200 933,183 917,144 7,171"/>
+                <Baseline points="12,188 58,188 104,188 150,188 196,186 242,186 288,188 335,186 381,186 427,186 473,186 519,188 565,186 611,185 658,185 704,182 750,179 796,176 842,175 888,173 935,172"/>
+                <TextEquiv>
+                    <Unicode>Ddimino debet Donine fieri s teneltis ei bamna hoc respondit Euna dict quo manegium de Wrokewrbhen est anc quandum diuct um</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="9,232 809,230 933,219 934,183 9,198"/>
+                <Baseline points="16,227 62,228 108,227 154,225 200,225 246,225 292,224 338,221 384,220 430,219 476,219 522,219 568,219 614,217 660,216 706,216 752,215 798,212 844,211 890,209 936,206"/>
+                <TextEquiv>
+                    <Unicode>domini p Cauisum pretrta dict quod sialiqua dictus eisbem facta fuit fuit facta epstoe cundam predecessoris sui tonno tempore</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="7,273 940,268 941,215 898,211 8,242"/>
+                <Baseline points="14,267 60,266 107,265 153,264 200,264 246,263 293,263 339,261 386,258 432,256 479,256 525,256 572,255 618,253 665,251 711,250 758,249 804,246 851,245 897,245 944,243"/>
+                <TextEquiv>
+                    <Unicode>suo ac emnie quod terra illa de qua quem est quedam diuisa inter terras ipsor Hamonis et abbatis et dicitis quod semper terram</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="8,306 750,292 751,250 562,277 9,275"/>
+                <Baseline points="16,305 52,303 89,302 126,301 163,300 200,298 237,298 273,298 310,297 347,297 384,295 421,293 458,292 495,292 531,290 568,290 605,287 642,286 679,285 716,284 753,282"/>
+                <TextEquiv>
+                    <Unicode>illam medum facti cenuit in quo fuit termpstre predictos sui Et dehoc ponit se super albam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="2,351 925,316 900,276 508,316 5,304"/>
+                <Baseline points="9,342 54,344 100,344 146,342 192,339 238,339 284,339 330,338 376,335 422,333 468,332 513,331 559,327 605,326 651,322 697,320 743,319 789,315 835,314 881,311 927,310"/>
+                <TextEquiv>
+                    <Unicode>et Hano bene Eoni quod predictum Qanesrium est duciquendum dominicum domini P soc dictus quod ab hoc non debet predicta assisam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="13,391 930,363 897,316 15,358"/>
+                <Baseline points="21,379 66,380 112,379 157,378 203,376 249,375 294,374 340,373 385,370 431,368 477,367 522,365 568,362 613,358 659,356 705,353 750,352 796,348 841,347 887,345 933,344"/>
+                <TextEquiv>
+                    <Unicode>rondnere Quiusd dict quod lobannes le Etrange po sunis tenet predictum Cauerium de domino r in Capite et quod idem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="5,438 913,405 923,358 6,389"/>
+                <Baseline points="12,415 57,414 103,416 148,414 194,412 239,412 285,412 330,410 376,408 421,406 467,405 513,402 558,399 604,396 649,394 695,392 740,392 786,388 831,384 877,381 923,384"/>
+                <TextEquiv>
+                    <Unicode>Ibeas fofiauit ipsum de predicta terra siilis cum aliis terris quas tenet in eodm manero per cartam et quod predictum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="7,459 734,453 735,406 7,434"/>
+                <Baseline points="14,449 50,449 86,449 122,449 158,448 194,448 230,448 266,448 302,446 338,446 374,444 410,444 446,444 482,443 518,441 554,439 590,438 626,438 662,438 698,436 735,438"/>
+                <TextEquiv>
+                    <Unicode>ton est in Wirokebrthyn et quod idem abbas tipsum Dne disseti ponit Recuper assanam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="7,492 934,468 934,432 862,420 432,467 7,459"/>
+                <Baseline points="14,483 60,485 106,483 152,485 198,485 244,484 290,484 336,483 382,483 428,483 475,482 521,480 567,477 613,476 659,474 705,471 751,470 797,470 843,467 889,465 936,462"/>
+                <TextEquiv>
+                    <Unicode>Dr diunc quod predictus Abbas non dissectie predictum Hamonem de predicto tenemento cuia dict quod predictus abbas semper prater</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="9,527 950,522 951,472 9,500"/>
+                <Baseline points="16,517 62,517 109,520 156,522 203,522 250,522 297,522 344,521 391,521 438,521 485,520 531,516 578,513 625,510 672,509 719,507 766,505 813,504 860,501 907,498 954,495"/>
+                <TextEquiv>
+                    <Unicode>mortem predicte sui tenuit tomme illud in eodem facu in quo fuit teripctre predicti predecessorie sui et heo comnc est quod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="252,576 916,555 917,506 891,504 254,529"/>
+                <Baseline points="259,558 292,558 325,556 358,556 391,556 424,555 457,555 490,554 523,554 556,552 589,549 622,548 655,547 688,547 721,545 754,545 787,542 820,540 853,536 886,534 920,534"/>
+                <TextEquiv>
+                    <Unicode>Et quod predictus Hano hic apitic per assanatam istam et cuiprolo cami</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="577,577 43,577 577,577 55,577 577,577 66,577 577,577 86,576 134,533 15,520"/>
+                <Baseline points="24,550 52,552 81,554 110,556 139,556"/>
+                <TextEquiv>
+                    <Unicode>inde quitue et pro prt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

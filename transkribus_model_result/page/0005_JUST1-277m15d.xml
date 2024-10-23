@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:16:49.709+02:00</Created>
+        <LastChange>2024-10-23T20:07:37.449+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893194" pageNr="5" tsid="195651051" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=DSVBLXIUZUSNDPNTOAOIFNVV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZDNWKVCCYURMOWCVHIXUQXFU" imageId="66318916"/>
+    </Metadata>
+    <Page imageFilename="0005_JUST1-277m15d.jpeg" imageWidth="1172" imageHeight="1263">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709211758" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="50,24 50,1253 1169,1253 1169,24"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="49,67 1063,85 1141,79 1141,29 47,10"/>
+                <Baseline points="56,44 110,46 164,49 219,49 273,47 327,48 382,46 436,46 490,50 545,53 599,54 653,56 708,57 762,58 816,60 871,60 925,61 979,60 1034,63 1088,64 1143,68"/>
+                <TextEquiv>
+                    <Unicode>Richelimus Berebonght et Margia uxor eius per ipsum Nicholaum attornatom eiusdem Margie ep se versus Li¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="53,84 1129,107 1031,70 53,63"/>
+                <Baseline points="60,80 113,76 167,77 220,78 274,78 328,80 381,80 435,81 488,82 542,86 596,88 649,91 703,91 756,93 810,93 864,95 917,95 971,95 1024,95 1078,99 1132,101"/>
+                <TextEquiv>
+                    <Unicode>icebaldum le tallour de placito quinque acraum terre cum pertinentiis in boseyate quas clamii ut ius ipsius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="45,112 1162,144 1148,99 45,77"/>
+                <Baseline points="52,109 107,107 163,107 219,108 274,109 330,112 386,112 441,113 497,115 553,117 609,121 664,122 720,122 776,124 831,127 887,128 943,130 998,131 1054,134 1110,134 1166,134"/>
+                <TextEquiv>
+                    <Unicode>Mariie versus eum et pargarta hxatrem eius per bretem de ingrum et ipse non veno et tam ipse quam predicta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="45,152 1107,188 1160,146 43,112"/>
+                <Baseline points="52,144 107,139 162,138 218,138 273,140 329,139 384,139 440,142 495,142 551,146 606,148 661,150 717,151 772,153 828,157 883,160 939,161 994,163 1050,165 1105,167 1161,167"/>
+                <TextEquiv>
+                    <Unicode>margarta alias fecerunt desaltam postsum sum fuerunt essendi hic ad parum assisam etc ita quod tunc peter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="50,199 339,170 1160,209 1158,174 49,149"/>
+                <Baseline points="56,173 111,173 166,171 221,170 277,169 332,167 387,168 442,169 498,171 553,171 608,177 663,177 719,177 774,180 829,183 884,185 940,189 995,193 1050,195 1105,199 1161,199"/>
+                <TextEquiv>
+                    <Unicode>fuit vict quod capet predictam terram in manum dicti regis Et diem et cera Et quod sum eos quod essent hic</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="43,229 1147,231 835,184 42,178"/>
+                <Baseline points="50,206 105,208 160,206 215,204 270,204 325,204 380,203 435,203 490,201 545,201 600,204 655,205 710,206 765,206 820,208 875,212 930,214 985,218 1040,220 1095,223 1151,224"/>
+                <TextEquiv>
+                    <Unicode>Adhunc dice scilicet die Lunc in crastino quindene Pascha et ca Et vicer modo maneat diem captigie et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="50,252 1165,258 946,216 50,212"/>
+                <Baseline points="58,234 113,236 169,238 224,236 280,237 335,236 391,236 446,234 502,236 557,234 613,236 669,236 724,236 780,237 835,238 891,240 946,244 1002,248 1057,251 1113,251 1169,247"/>
+                <TextEquiv>
+                    <Unicode>Et quo summa cia Et super hoc venit predicta Margarea et petit quod ipsa per desaltam predicti viri sui no amittat suo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="54,283 1165,284 666,238 54,255"/>
+                <Baseline points="62,265 117,265 172,265 228,266 283,268 338,269 394,269 449,271 504,271 560,270 615,269 670,269 726,270 781,271 836,269 892,271 947,275 1002,278 1058,279 1113,279 1169,281"/>
+                <TextEquiv>
+                    <Unicode>suim cum ipsa pata sit eis inde respondere et c et admittitr etc Et predicti Nicholaus et Masgia petuit versu ea¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="46,307 1161,319 1147,284 963,277 46,280"/>
+                <Baseline points="54,292 109,292 164,294 220,292 275,294 331,294 386,297 442,298 497,297 553,298 608,298 663,298 719,296 774,298 830,300 885,300 941,301 996,301 1052,306 1107,304 1163,304"/>
+                <TextEquiv>
+                    <Unicode>pedictam tertam cum pertinentiis ut su et hereditatem ipsius Margerie Et quam idem archibaldus no habebit ingrau isi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="56,340 1058,353 1154,322 54,307"/>
+                <Baseline points="62,322 116,322 171,322 226,322 281,323 336,324 391,325 445,325 500,325 555,327 610,326 665,325 720,325 775,326 829,327 884,327 939,329 994,333 1049,333 1104,334 1159,335"/>
+                <TextEquiv>
+                    <Unicode>per Rogerum in Chewyk' quondam tiurum Isabelle fili Hugonis le Wolf de Eston vanditr matris predicte Mar¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="54,364 1167,376 1139,339 54,339"/>
+                <Baseline points="62,353 117,351 172,349 228,350 283,351 338,354 394,356 449,355 504,355 560,357 615,357 670,355 726,355 781,357 836,360 892,359 947,361 1002,363 1058,365 1113,365 1169,359"/>
+                <TextEquiv>
+                    <Unicode>gerie cuiu heres ipsa et qui illam e dimisit cui ipsa Isabella in vita sua contradicere non potuit Et unde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="47,389 1141,403 1122,371 46,360"/>
+                <Baseline points="54,376 108,376 163,376 217,376 272,379 326,383 381,384 435,384 490,386 544,387 599,388 654,388 708,388 763,388 817,390 872,390 926,392 981,395 1035,398 1090,396 1145,394"/>
+                <TextEquiv>
+                    <Unicode>dicit quod predicta Isabella mater etcer fuit seisicta de predita terra cum pertinentiis in dominico suo ut defeodo a sure</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="54,414 1165,435 1141,401 54,389"/>
+                <Baseline points="62,404 117,402 172,404 228,404 283,406 338,409 394,411 449,411 504,413 560,415 615,417 670,417 726,419 781,421 836,422 892,423 947,425 1002,427 1058,429 1113,427 1169,419"/>
+                <TextEquiv>
+                    <Unicode>tempore placis tempore C Riogis patris domini Nnunc capiendo inde explet ad valencia etc Et de predcassabele</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="50,452 977,484 1143,471 1158,436 49,414"/>
+                <Baseline points="56,435 111,435 166,435 221,437 277,438 332,439 387,440 442,441 498,441 553,443 608,448 663,448 719,452 774,454 829,454 884,455 940,458 995,458 1050,460 1105,458 1161,456"/>
+                <TextEquiv>
+                    <Unicode>destendit sus tcm ssti Margeie s nunc petic ut filie et heredi Et in quamaco Et inde producit sectama</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="54,495 1141,509 1109,461 53,452"/>
+                <Baseline points="60,474 114,472 168,471 222,471 277,472 331,474 385,476 439,478 494,480 548,481 602,483 656,486 711,488 765,489 819,493 873,495 928,498 982,498 1036,497 1090,495 1145,495"/>
+                <TextEquiv>
+                    <Unicode>t Margareta vebi et defendit sus suum quando ac Et dicit quod predicti Nicholaus et Margeria nichil i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="56,507 1150,535 1121,503 56,493"/>
+                <Baseline points="64,505 118,503 172,502 227,501 281,501 336,501 390,503 445,505 499,509 554,510 608,511 662,513 717,517 771,517 826,519 880,523 935,527 989,528 1044,528 1098,527 1153,525"/>
+                <TextEquiv>
+                    <Unicode>clamare possint in peticta terra cum pertinentiis Qrva dicit quod predicta Margeria dimidi solcti fuit concessit et quietum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="56,546 1143,566 1141,531 56,512"/>
+                <Baseline points="64,536 118,532 172,532 226,531 280,530 334,530 388,532 442,534 496,536 550,539 604,540 658,541 712,546 766,548 820,550 874,552 928,552 982,555 1036,558 1090,556 1145,554"/>
+                <TextEquiv>
+                    <Unicode>fiarmavitur ipsi Margarete totum sus quod habuit in eadem terra ista quod nec ipsa ne heredes sui aliquid iuris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="50,574 1144,591 525,538 50,551"/>
+                <Baseline points="58,566 112,562 166,563 221,562 275,562 329,560 384,562 438,564 492,564 547,567 601,569 655,570 710,572 764,575 818,577 873,579 927,580 981,582 1036,586 1090,589 1145,585"/>
+                <TextEquiv>
+                    <Unicode>gili clam in tera illa exigere vel vendicare possent imperpetuum ec pofert quoddam scriptum sub nomine predicte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="54,602 1155,622 1139,591 54,577"/>
+                <Baseline points="62,593 116,589 171,589 226,589 281,590 335,591 390,593 445,593 500,597 554,599 609,599 664,601 719,604 773,606 828,607 883,609 938,611 992,611 1047,614 1102,615 1157,616"/>
+                <TextEquiv>
+                    <Unicode>pargerie in hec Berba Omnibus Christi fidelibus hoc pesens scriptum visurias el audituris gargeria filii ethereis Ricardi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="56,626 1151,662 1150,624 907,610 56,613"/>
+                <Baseline points="64,622 118,620 172,617 227,617 281,618 336,619 390,622 445,624 499,626 554,626 608,626 662,629 717,632 771,634 826,636 880,636 935,636 989,639 1044,642 1098,642 1153,642"/>
+                <TextEquiv>
+                    <Unicode>Childeiuyke de Gosrate salutem in domino sempiternam Naveritis me in pura potestate mea dedisse conces¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="61,669 1101,690 1150,659 60,631"/>
+                <Baseline points="68,651 122,651 176,650 230,650 285,650 339,652 393,653 447,657 502,657 556,657 610,657 664,659 719,659 773,661 827,665 881,669 936,669 990,672 1044,675 1098,675 1153,675"/>
+                <TextEquiv>
+                    <Unicode>sisse et omnino po me et heredibus meis quietuam clamasse argarete soroil met et hedibus suis ac suis assig¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="59,689 1148,712 1136,680 736,665 59,672"/>
+                <Baseline points="66,681 120,681 174,680 228,680 283,680 337,682 391,683 445,685 500,685 554,687 608,690 662,692 717,691 771,692 825,694 879,696 934,698 988,699 1042,701 1096,702 1151,696"/>
+                <TextEquiv>
+                    <Unicode>natis totum unt quod habui vel aliquo modo habere potui in quindecim selionibus cum duabus chenici terre arabilis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="60,714 893,747 1136,740 1136,712 59,690"/>
+                <Baseline points="68,708 121,708 175,708 228,708 282,709 336,710 389,714 443,714 496,716 550,718 604,721 657,722 711,724 764,724 818,724 872,724 925,726 979,724 1032,728 1086,728 1140,730"/>
+                <TextEquiv>
+                    <Unicode>in campo de sospato iacentibus cum omnibus suis pertinentiis sicut pro quandam cartam feoffametui pate de dono et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="61,751 991,774 1140,740 60,712"/>
+                <Baseline points="68,739 121,739 175,740 229,741 283,741 336,741 390,743 444,743 498,745 551,746 605,747 659,749 713,751 766,751 820,753 874,754 928,756 981,757 1035,755 1089,757 1143,757"/>
+                <TextEquiv>
+                    <Unicode>concessione Roberti cui le Wyk asssabelle uxoris eius matris mee ita tame qod nec ego predicta Margeria</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="63,779 1150,800 1105,762 63,751"/>
+                <Baseline points="70,769 124,769 178,769 232,770 286,771 340,773 394,774 449,774 503,776 557,776 611,778 665,778 719,780 773,780 828,780 882,781 936,782 990,783 1044,783 1098,784 1153,786"/>
+                <TextEquiv>
+                    <Unicode>nec heredes mei nec aliquis per me nec pro me con noveo nostro in predictis quindecim clionibus cum duabus henic</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="67,811 1157,833 1155,794 67,782"/>
+                <Baseline points="74,802 128,802 182,800 236,800 291,801 345,804 399,802 453,804 508,804 562,805 616,806 670,806 725,806 779,806 833,806 887,808 942,809 996,810 1050,810 1104,812 1159,815"/>
+                <TextEquiv>
+                    <Unicode>terre arabilis cum omnibus suius pertinentiis nec eliquid iuris nc clamim decetero poteriu exiger nec vendicare in perpe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="66,840 1090,860 1136,818 64,814"/>
+                <Baseline points="72,833 125,831 178,828 232,827 285,828 339,829 392,833 446,835 499,836 553,837 606,837 659,835 713,837 766,837 820,838 873,840 927,839 980,837 1034,837 1087,838 1141,839"/>
+                <TextEquiv>
+                    <Unicode>tuiu set semper inde cumniums excrlusi s cuius rei testimonium huic presenti scripto sigillum meum apposui Hiis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="67,868 1108,892 1141,849 66,843"/>
+                <Baseline points="74,862 127,860 181,859 234,856 288,856 341,856 395,860 448,862 502,864 555,865 609,865 663,866 716,868 770,868 823,869 877,870 930,870 984,870 1037,870 1091,871 1145,872"/>
+                <TextEquiv>
+                    <Unicode>testibus Thoma filio Hugonis Rogero filio suo Simone filio Ricardi Ricardo Blveth' domino Gillelmo filio Roberti capellano</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="68,910 1137,916 1150,886 67,867"/>
+                <Baseline points="76,892 129,890 183,889 237,888 291,886 345,884 399,886 452,888 506,890 560,891 614,892 668,892 722,894 776,896 829,894 883,897 937,896 991,895 1045,896 1099,899 1153,903"/>
+                <TextEquiv>
+                    <Unicode>et aliis Datum apud ospate die mcturi proxima post festum ot sulano virginis a marciris anno regni regi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="72,937 1141,932 988,899 72,906"/>
+                <Baseline points="80,927 133,920 186,919 239,917 293,914 346,913 399,913 452,914 506,916 559,916 612,917 665,919 719,919 772,921 825,920 878,922 932,919 985,921 1038,922 1091,924 1145,927"/>
+                <TextEquiv>
+                    <Unicode>Edwardi tercii post conquestum periu et peti inden si contaam fanctum suum predictum accionem habere possit Et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="60,978 1153,962 1153,931 1036,928 60,935"/>
+                <Baseline points="68,956 122,950 176,948 231,947 285,944 339,942 394,940 448,944 502,944 557,942 611,942 665,942 720,944 774,946 828,946 883,946 937,946 991,947 1046,951 1100,954 1155,956"/>
+                <TextEquiv>
+                    <Unicode>Nicholaus et Margeria dicut quod tauem in predicto scripto contineatur quod ipsa marteria terram predictam desisse debur¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="70,999 1155,1006 1139,960 925,952 70,971"/>
+                <Baseline points="78,981 134,977 191,977 248,976 305,974 361,974 418,976 475,976 532,975 589,974 645,973 702,973 759,973 816,976 873,974 929,977 986,977 1043,983 1100,985 1157,987"/>
+                <TextEquiv>
+                    <Unicode>pedte Margarete supponenda canle Margareatam intrasse in terram illam per ipsam margeiam et nono per predictum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="74,1024 1118,1020 913,981 74,995"/>
+                <Baseline points="81,1013 135,1011 190,1011 245,1009 299,1008 354,1008 409,1007 463,1007 518,1007 573,1007 627,1005 682,1004 737,1005 791,1003 846,1003 901,1005 955,1007 1010,1008 1065,1012 1120,1015"/>
+                <TextEquiv>
+                    <Unicode>Rogeri quod est est contrim predicto bretei suo quod quidem bete pati sunt verificare unde petuit indem et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="68,1054 1122,1052 1091,1017 68,1022"/>
+                <Baseline points="76,1046 128,1044 181,1043 233,1042 286,1042 338,1042 391,1040 443,1040 496,1042 548,1041 601,1040 653,1040 706,1038 758,1039 811,1038 863,1038 916,1040 968,1041 1021,1042 1073,1042 1126,1042"/>
+                <TextEquiv>
+                    <Unicode>E garganreta dicit quod licat predicti Nicholaus et Margeria petendant inficare quod ipsa marcaneca intrunc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="72,1084 1151,1093 1151,1038 72,1066"/>
+                <Baseline points="80,1077 133,1077 187,1078 241,1076 295,1075 348,1075 402,1075 456,1079 510,1079 563,1079 617,1078 671,1077 725,1075 778,1077 832,1077 886,1077 940,1077 993,1077 1047,1075 1101,1077 1155,1077"/>
+                <TextEquiv>
+                    <Unicode>in terram predictam per predictum Rogerum a nono per domnum prate Margerie pout in predicto scripto continetur sit tame</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="72,1116 1130,1129 1087,1083 72,1084"/>
+                <Baseline points="80,1108 132,1106 185,1108 238,1107 290,1106 343,1104 396,1106 448,1109 501,1110 554,1110 607,1112 659,1112 712,1112 765,1112 817,1112 870,1110 923,1110 975,1109 1028,1108 1081,1108 1134,1104"/>
+                <TextEquiv>
+                    <Unicode>alia libera in scripto illo contenta que siuta ccione ipsorum Nicholai et Margeie exclisina indepecit quod idem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_37" custom="readingOrder {index:36;}">
+                <Coords points="72,1155 393,1148 523,1176 552,1153 686,1161 686,1126 72,1122"/>
+                <Baseline points="80,1141 110,1141 140,1141 171,1143 201,1143 232,1141 262,1141 293,1140 323,1140 354,1140 384,1140 414,1140 445,1142 475,1144 506,1146 536,1147 567,1148 597,1149 628,1150 658,1151 689,1153"/>
+                <TextEquiv>
+                    <Unicode>Nicholaus et maluteria ad scriptum illud plone respondeant et c</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_38" custom="readingOrder {index:37;}">
+                <Coords points="74,1183 1150,1206 1135,1160 74,1157"/>
+                <Baseline points="81,1175 134,1175 188,1176 241,1176 295,1175 349,1175 402,1179 456,1182 509,1185 563,1189 617,1190 670,1192 724,1194 777,1194 831,1192 885,1192 938,1192 992,1192 1045,1190 1099,1190 1153,1190"/>
+                <TextEquiv>
+                    <Unicode>et Nicholaus et Margeria dicunt quod scritum illus eis nocere non debet quia dicunt quod tempore confeccionis eudm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_39" custom="readingOrder {index:38;}">
+                <Coords points="74,1232 1086,1246 1114,1201 72,1185"/>
+                <Baseline points="80,1210 131,1210 183,1211 235,1211 287,1210 339,1210 391,1213 443,1216 495,1218 547,1220 599,1222 650,1223 702,1224 754,1229 806,1229 858,1229 910,1228 962,1227 1014,1225 1066,1224 1118,1223"/>
+                <TextEquiv>
+                    <Unicode>scripti fuit predcta Isabella mater ipsius Margerie de cuius seisina aciis superstes et in plena vita ut hoc pati</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_40" custom="readingOrder {index:39;}">
+                <Coords points="128,1260 1172,1262 254,1261 1172,1262 258,1261 1172,1262 261,1261 1172,1262 287,1261 1172,1262 302,1261 1172,1262 367,1261 1172,1262 374,1261 1172,1262 392,1261 407,1226 365,1218 128,1217"/>
+                <Baseline points="136,1241 161,1241 186,1241 211,1241 236,1243 261,1243 286,1242 311,1241 336,1240 361,1239 386,1239 411,1239"/>
+                <TextEquiv>
+                    <Unicode>icare et petuit indin et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

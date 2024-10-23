@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:38.434+02:00</Created>
+        <LastChange>2024-10-23T20:07:46.192+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893419" pageNr="72" tsid="195651144" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=BHJROWCZMCPHOFZKJEEMAFOE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KHSEUCMBKXDEPADZVYMJMQDB" imageId="66319353"/>
+    </Metadata>
+    <Page imageFilename="0072_JUST1-734m17a.jpeg" imageWidth="953" imageHeight="869">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709214812" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="15,18 15,858 951,858 951,18"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="10,65 457,76 591,44 667,77 903,80 904,21 838,0 12,22"/>
+                <Baseline points="17,55 61,53 106,53 150,52 195,50 239,49 284,49 328,48 373,45 417,46 462,46 506,44 551,44 595,46 640,47 684,47 729,43 773,39 818,38 862,38 907,39"/>
+                <TextEquiv>
+                    <Unicode>Robertes de Nonte Fracto dec et ers puo lic concordi cum bado de Eunenebas et eungei de pl sariis Arte per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="17,119 63,121 87,101 108,116 129,108 152,121 205,102 268,111 285,94 314,91 315,61 294,57 237,71 221,59 151,73 126,58 111,72 87,62 19,64"/>
+                <Baseline points="25,92 51,93 77,93 104,93 130,93 157,93 183,91 210,89 236,88 263,87 289,87 316,85"/>
+                <TextEquiv>
+                    <Unicode>pl ipsius Raduli et homnc Ox etc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="10,177 918,152 919,121 848,109 12,129"/>
+                <Baseline points="17,152 62,155 107,155 152,154 197,154 243,154 288,151 333,149 378,150 423,150 469,150 514,149 559,149 604,151 649,152 695,153 740,154 785,151 830,150 875,149 921,149"/>
+                <TextEquiv>
+                    <Unicode>Nobuna que fuit ue Iodno le faret pro atrnatum suum petuit mero Bobertum Einelle et Ricardio uxor eiuas terciam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="24,220 928,199 929,145 26,176"/>
+                <Baseline points="31,192 76,195 121,195 166,193 211,192 256,191 301,190 346,192 391,190 436,189 481,187 526,187 571,187 616,188 661,187 706,188 751,189 796,187 841,185 886,187 932,187"/>
+                <TextEquiv>
+                    <Unicode>partem durum pertinent duarum uirgatis et uiginti dacram terre octo acra bosci uiginti et octo solidos redis et unam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="15,258 940,249 940,196 887,193 16,225"/>
+                <Baseline points="23,235 69,234 115,233 161,233 207,233 253,231 299,231 345,230 391,227 437,226 483,227 529,225 575,225 621,225 667,224 713,224 759,225 805,225 851,225 897,227 943,228"/>
+                <TextEquiv>
+                    <Unicode>gis cum pertinentiis in Pronestorpe et Hencthorpe et terciam partem duarum pertinenti quinque uiram terre et unum omna</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="15,292 417,277 401,243 365,257 346,242 313,257 276,246 250,262 200,240 168,260 129,244 111,258 16,258"/>
+                <Baseline points="23,276 49,276 75,277 102,277 128,276 155,276 181,276 208,276 234,274 261,274 287,274 314,273 340,272 367,271 393,270 420,270"/>
+                <TextEquiv>
+                    <Unicode>cum pertinentiis in Hoginihulle ut dicte suam etc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="8,319 180,347 944,313 938,268 9,287"/>
+                <Baseline points="15,314 61,317 108,320 154,320 201,320 247,319 294,319 340,318 387,316 433,316 480,314 526,312 573,312 619,310 666,309 712,311 759,309 805,311 852,309 898,309 945,309"/>
+                <TextEquiv>
+                    <Unicode>et Obertus et fiaicum pro atruntum suum venerint et dict quod buste defortat docem Suam quia dici qro predictus Hordas quandam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="14,360 932,360 932,329 822,315 180,347 14,320"/>
+                <Baseline points="20,347 65,354 111,357 157,360 202,359 248,359 294,357 339,355 385,355 431,355 477,354 522,352 568,352 614,351 659,347 705,347 751,347 796,347 842,347 888,348 934,349"/>
+                <TextEquiv>
+                    <Unicode>ur psus Iohanne de eis tenuit predicta tenemernta per seruicium Militare et dicite quod quam idem Iordemus obut habuit pe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="10,404 923,400 901,354 10,358"/>
+                <Baseline points="17,387 62,390 107,392 153,393 198,395 244,393 289,391 335,390 380,390 426,389 471,389 516,389 562,389 607,390 653,389 698,389 744,387 789,387 835,386 880,386 926,384"/>
+                <TextEquiv>
+                    <Unicode>quindam Rogerio filium suum qui est Iuntra etatem et cutus cartdia ad ipsum pertinet et dicit quod prater impertem ipsius Iodudni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="16,448 947,445 947,392 16,408"/>
+                <Baseline points="23,424 69,430 115,430 162,430 208,432 254,430 301,428 347,427 393,428 440,428 486,427 532,427 579,428 625,428 671,428 718,427 764,425 810,425 857,424 903,424 950,425"/>
+                <TextEquiv>
+                    <Unicode>remangit idem Rogisris in custodia ipsius Iobanne ion unqua prateas eis liberare uoluit predictum Rogerum et dic puo gemper</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="15,490 62,471 208,489 648,474 640,449 518,429 401,452 15,449"/>
+                <Baseline points="22,459 53,466 84,467 116,467 147,468 179,469 210,468 242,468 273,467 305,467 336,468 367,468 399,470 430,468 462,468 493,468 525,468 556,468 588,468 619,468 651,470"/>
+                <TextEquiv>
+                    <Unicode>Pacous fuit eirade predictam docem suam suei reddedisset predictum heredem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="13,527 937,514 937,470 790,491 711,460 13,490"/>
+                <Baseline points="19,506 65,505 111,505 157,506 203,508 249,506 295,506 341,506 387,509 433,510 479,510 525,509 571,509 617,509 663,509 709,508 755,508 801,506 847,503 893,503 940,503"/>
+                <TextEquiv>
+                    <Unicode>Et predicta Iohanne per ater natum sunum bene defandam quod predictus Rogerus filis et here predicti Ioranis qundam uiri sui prater mortem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="21,560 933,561 933,509 21,513"/>
+                <Baseline points="27,541 72,541 117,541 163,542 208,543 254,541 299,541 344,541 390,541 435,544 481,544 526,544 571,545 617,546 662,545 708,544 753,543 798,544 844,541 889,541 935,538"/>
+                <TextEquiv>
+                    <Unicode>ipsus Iordani non remaneit cin custodia sua necn ungua preterea in sua potestate fuit non modo est Iice quod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="24,588 825,589 936,557 24,564"/>
+                <Baseline points="31,576 76,576 121,576 166,576 212,575 257,575 302,575 348,575 393,575 438,575 484,576 529,575 574,575 619,575 665,575 710,576 755,573 801,571 846,571 891,571 937,571"/>
+                <TextEquiv>
+                    <Unicode>patei et redde potuit nec per ipsum clonglitus est quoninum crodiam de eodem Rogero bietere possit Et de¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="23,628 932,613 932,576 24,588"/>
+                <Baseline points="30,614 75,614 120,614 165,614 211,612 256,611 301,611 346,610 392,610 437,610 482,610 527,608 573,605 618,605 663,606 708,605 754,605 799,603 844,603 889,603 935,605"/>
+                <TextEquiv>
+                    <Unicode>oc ponit se super famtram Et Robertus et fili Smilit et hoeno precepter est dinct quod venirefucit ad die Patirli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="22,671 798,658 918,647 919,612 23,628"/>
+                <Baseline points="30,656 74,659 119,657 163,656 208,652 252,651 297,649 341,648 386,648 430,645 475,645 520,643 564,641 609,641 653,641 698,640 742,640 787,639 831,637 876,637 921,638"/>
+                <TextEquiv>
+                    <Unicode>in Cundencim dies aquar Nomum Castrum superyrnam uel coram s de Haucon sipius in partes illas et c</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="28,708 930,684 931,645 837,639 29,673"/>
+                <Baseline points="34,694 78,694 123,692 168,691 213,689 258,687 303,686 348,685 393,684 438,684 483,683 527,681 572,679 617,678 662,678 707,678 752,676 797,676 842,673 887,672 932,673"/>
+                <TextEquiv>
+                    <Unicode>ad fac etce si predicta Iobunnam semper prater mortem predicti Ioranis quendam uiri sui Clongauernt Rogeroum filio et heredem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="33,745 748,737 889,727 922,687 34,698"/>
+                <Baseline points="39,737 83,734 127,732 171,730 216,727 260,722 304,721 348,719 393,719 437,719 481,719 525,718 570,716 614,714 658,714 702,713 747,712 791,709 835,708 879,705 924,705"/>
+                <TextEquiv>
+                    <Unicode>poinus Iordani A custodie predictorum Roberti et Faic quominus ipsum Rogiesum In custodia sua labere poterint suic predicti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="28,796 472,754 928,766 950,698 888,727 29,756"/>
+                <Baseline points="34,775 79,774 125,771 171,766 217,765 263,764 309,760 354,757 400,756 446,754 492,753 538,751 584,749 630,749 675,749 721,749 767,747 813,745 859,741 905,740 951,738"/>
+                <TextEquiv>
+                    <Unicode>dedds et alite dict uell si eaodem Iolutems incuxtam puceo intem qpus vods clongeaunt ipsius Rium A custodi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="35,827 862,788 948,830 951,759 36,794"/>
+                <Baseline points="42,813 87,810 132,807 178,804 223,803 269,800 314,797 360,794 405,794 451,792 496,791 541,789 587,789 632,789 678,789 723,787 769,785 814,781 860,783 905,784 951,783"/>
+                <TextEquiv>
+                    <Unicode>psorum Bobati et dbcs nen per pstam teci qui quim Rogerum habent in custodia sua dict eodem Iohanna dicti Oida</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="31,851 868,868 85,868 868,868 283,868 868,868 287,868 400,840 385,798 33,834"/>
+                <Baseline points="38,846 64,848 90,846 116,845 142,845 168,843 194,844 220,841 246,840 272,838 298,838 324,837 350,835 376,835 403,832"/>
+                <TextEquiv>
+                    <Unicode>tam ete et concessum est Kinit dondi et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

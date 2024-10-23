@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:24.912+02:00</Created>
+        <LastChange>2024-10-23T20:07:44.751+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893417" pageNr="61" tsid="195651139" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=SUWNFVQHGZXFUHLPYTJXILLO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XVPJFQGTVQUWLVKZJGOFQSOO" imageId="66319346"/>
+    </Metadata>
+    <Page imageFilename="0061_JUST1-734m11d.jpeg" imageWidth="996" imageHeight="1138">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709214454" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="8,0 8,1131 993,1131 993,0"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="0,22 11,22 22,28 28,23 38,32 42,32 65,15 71,21 82,21 85,0 2,0"/>
+                <Baseline points="8,9 34,11 60,9 87,6"/>
+                <TextEquiv>
+                    <Unicode>o</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1,72 829,42 969,27 970,0 141,0 2,34"/>
+                <Baseline points="9,56 57,54 105,49 153,48 201,46 249,44 297,43 346,39 394,39 442,39 490,38 538,36 586,33 634,31 683,31 731,29 779,28 827,26 875,26 923,24 972,24"/>
+                <TextEquiv>
+                    <Unicode>Gillertus filius Henrico Maning peteru Williudel punt quartam partem unium viriam terre cumperpitenum In Nylehorth et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="12,98 934,74 983,31 12,63"/>
+                <Baseline points="19,81 67,84 115,82 163,79 212,77 260,76 308,74 357,74 405,72 453,72 502,71 550,68 598,65 646,64 695,63 743,61 791,59 840,59 888,58 936,56 985,54"/>
+                <TextEquiv>
+                    <Unicode>Iuo simm ca Et unde quindam Aylwynue ante sine fuit decis indominico suo ut defeode et iuraes tastre domini re quinc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="15,131 969,96 970,60 862,59 16,101"/>
+                <Baseline points="21,116 68,116 116,113 163,110 211,107 258,105 306,102 353,102 401,102 448,102 496,101 544,101 591,99 639,95 686,93 734,92 781,91 829,91 876,89 924,87 972,87"/>
+                <TextEquiv>
+                    <Unicode>est capu Iudeeple ad valencim etc Et deipo Hilwyno desteno snuo terre illu ciumnram Henricu ut fili heredus Et de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="11,155 968,130 937,91 12,131"/>
+                <Baseline points="19,147 66,146 114,144 161,142 209,140 257,136 304,134 352,134 400,134 447,134 495,132 543,132 590,130 638,128 686,126 733,126 781,124 829,122 876,122 924,119 972,119"/>
+                <TextEquiv>
+                    <Unicode>istri Henricui ist Galfridi qui nounic Petri ut filii thberes Et quod tale sit suo simm offertiali Et villus uene et dicit quodom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="13,180 974,153 840,124 15,155"/>
+                <Baseline points="21,175 68,177 116,175 164,173 212,170 260,169 308,167 355,164 403,164 451,162 499,160 547,159 595,157 643,155 690,155 738,155 786,151 834,150 882,149 930,149 978,149"/>
+                <TextEquiv>
+                    <Unicode>deketei inde respondem predict quod pedictus thylwynris de cuo scis narrat habuit duo filio Scilicet quandam Rablis ainteunatum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="13,224 893,185 988,218 981,152 15,181"/>
+                <Baseline points="21,207 69,206 118,207 166,205 215,203 264,202 312,201 361,199 409,197 458,197 507,195 555,194 604,191 652,189 701,189 750,187 798,184 847,182 895,182 944,182 993,177"/>
+                <TextEquiv>
+                    <Unicode>predictum Henricum partium ipsius Galfridi pro natunm et deficut illam fatarum mentionem in marratione sua de predicto Rabulpho peteriud</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="13,251 964,242 965,206 904,186 15,224"/>
+                <Baseline points="21,242 68,242 115,242 163,240 210,240 257,240 305,240 352,240 399,237 447,235 494,233 541,232 589,230 636,227 683,227 731,225 778,222 825,220 873,217 920,215 968,215"/>
+                <TextEquiv>
+                    <Unicode>Et Galfrido dicit quod pedictus Hyillynns muinquam habuit aliquem filius de ux legitime desponsata isi tamene predictum Henric¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="12,287 795,269 834,234 12,251"/>
+                <Baseline points="19,273 59,272 100,272 141,272 182,270 223,270 264,270 304,270 345,269 386,268 427,266 468,263 509,263 550,262 590,262 631,260 672,258 713,255 754,253 795,252 836,253"/>
+                <TextEquiv>
+                    <Unicode>vnde dicit quod fialiquem filium habet Robertui nostris hec contigt ex inprimonium fancta quod fistardus fuit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="16,314 979,297 980,254 923,250 17,289"/>
+                <Baseline points="24,305 71,305 119,305 167,303 215,301 263,300 310,300 358,298 406,298 454,298 502,296 549,295 597,293 645,292 693,290 741,287 788,285 836,285 884,285 932,283 980,283"/>
+                <TextEquiv>
+                    <Unicode>et Willelmus dicit quod pedictus Rillelmus fuit filio pedici Hilwyni de legitcimo iorimo natos et quod nonfuit bistardis Et de hoc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="12,349 969,319 949,286 13,310"/>
+                <Baseline points="19,330 66,332 114,331 161,330 209,330 257,329 304,328 352,328 400,326 447,326 495,326 543,325 590,322 638,320 686,319 733,316 781,315 829,315 876,315 924,315 972,315"/>
+                <TextEquiv>
+                    <Unicode>pont st super partram Et Gulfridus similli Et predictus Galfridi concedit quod fiacioninatur per pratriam quod predictus Mylkyn habuit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="17,374 838,372 968,357 969,318 17,352"/>
+                <Baseline points="24,363 71,361 118,361 165,359 213,358 260,357 307,356 355,356 402,356 449,355 497,355 544,355 591,353 638,351 686,350 733,347 780,347 828,348 875,350 922,348 970,346"/>
+                <TextEquiv>
+                    <Unicode>Alique filii de legitimo nostrimonio natum quod quittat clamaum sium de predecta terra imperpetuum Et predictos fillo concedit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="18,401 979,389 979,358 910,352 20,373"/>
+                <Baseline points="26,393 73,396 121,395 169,394 217,392 265,391 312,391 360,389 408,389 456,388 504,388 551,388 599,389 647,387 695,384 743,384 790,384 838,384 886,384 934,383 982,381"/>
+                <TextEquiv>
+                    <Unicode>quod si commucatur quod neo habuit quod predictus Galfridus rteroeis suam Et so preceptum est vic quod coram eo cera inpleno cominum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="16,432 974,417 955,386 16,403"/>
+                <Baseline points="23,426 70,426 118,426 166,426 213,425 261,426 309,424 356,424 404,423 452,421 500,419 547,419 595,419 643,418 690,418 738,416 786,416 833,414 881,414 929,414 977,416"/>
+                <TextEquiv>
+                    <Unicode>venire faroxii etc perqurect quinet et et perexci oligente inquirat inforua predicti tinquisitionem etc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="20,475 866,476 958,456 959,421 21,432"/>
+                <Baseline points="26,456 72,459 119,459 166,459 213,459 260,457 306,457 353,456 400,454 447,455 494,452 540,451 587,449 634,449 681,448 728,446 774,446 821,444 868,442 915,442 962,446"/>
+                <TextEquiv>
+                    <Unicode>scire fac a die fascha in treo septam apud Wenstimum per literas eteca produs etctra pranietr et concessum est huic inde etc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="10,514 979,499 969,456 10,464"/>
+                <Baseline points="16,509 64,507 112,505 160,505 209,504 257,504 305,502 354,502 402,502 450,502 499,502 547,501 595,500 643,499 692,497 740,497 788,496 837,496 885,496 933,496 982,496"/>
+                <TextEquiv>
+                    <Unicode>sassa Ueni reter si ad filiua Aluredi frater Walteri filii Alurede fuit des In dominico suo ut de feodo etca de unomei quarta parte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="12,540 983,540 974,499 12,516"/>
+                <Baseline points="19,539 67,537 115,539 164,537 212,537 261,535 309,535 357,534 406,534 454,534 503,532 551,532 599,530 648,530 696,531 745,531 793,532 841,530 890,530 938,530 987,529"/>
+                <TextEquiv>
+                    <Unicode>unium vuira terre tnaccriam prati cum pertinentiis In ytone die quoca t ic cudnes et quam terram et pratum Willelmus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="16,581 991,574 991,531 17,542"/>
+                <Baseline points="24,570 72,570 120,572 169,570 217,569 266,569 314,568 363,566 411,565 460,565 508,565 556,564 605,563 653,564 702,564 750,564 799,564 847,564 896,560 944,560 993,555"/>
+                <TextEquiv>
+                    <Unicode>boncitenet Oui veletdicit quod non delet ei fs respondem Quiddicit quod predictus Walterus uillaus est illum liberum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="15,613 845,628 988,609 990,574 16,581"/>
+                <Baseline points="23,602 71,602 120,602 168,600 217,600 265,600 314,599 362,599 411,598 459,599 508,600 556,600 605,602 653,600 702,600 750,600 799,600 847,600 896,598 944,598 993,593"/>
+                <TextEquiv>
+                    <Unicode>tenenum clamiui potet Et dicit quod predictus ad frater predicti Walteri non abut deis de predicto tenerto ut de feodo quoedicit quod nonte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="10,634 632,636 633,614 598,605 11,613"/>
+                <Baseline points="16,632 48,632 81,633 113,632 146,633 178,633 211,633 244,632 276,632 309,633 341,633 374,632 406,632 439,630 472,631 504,631 537,632 569,630 602,632 635,632"/>
+                <TextEquiv>
+                    <Unicode>nutit predictum tenementum infrad tinum vite sue Et de hec peuit se super assam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="10,683 990,674 933,628 888,656 660,623 552,651 10,634"/>
+                <Baseline points="16,668 64,668 113,668 162,666 211,666 260,666 308,665 357,663 406,661 455,661 504,661 552,661 601,663 650,663 699,666 748,668 796,670 845,670 894,670 943,670 992,663"/>
+                <TextEquiv>
+                    <Unicode>Iur dicunt quod pedictus ad frater predicti Walteriu non obt de predicto teneri t de ferdo quodicit quod per quatuor annos Donere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="7,703 990,728 990,687 934,673 7,684"/>
+                <Baseline points="14,700 65,701 117,703 168,703 220,703 271,703 323,701 374,699 426,699 477,699 529,698 580,701 632,703 683,705 735,706 786,708 838,706 889,708 941,708 993,705"/>
+                <TextEquiv>
+                    <Unicode>mortem suam dimisit se de predicto tenento Et uedo congest quod predictus Willelmus inde fueri die Et Walteri nchis apum per assanam istum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="2,750 81,743 126,768 156,744 217,748 216,710 197,721 179,709 159,719 141,710 119,721 90,711 72,723 33,708 1,715"/>
+                <Baseline points="9,733 35,734 61,736 88,736 114,738 140,738 167,738 193,740 220,741"/>
+                <TextEquiv>
+                    <Unicode>tisit in mna pro flo clamii</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="7,786 969,790 969,754 809,731 251,722 107,765 7,739"/>
+                <Baseline points="14,776 61,773 109,773 157,774 205,775 253,778 300,778 348,778 396,780 444,781 492,779 539,779 587,778 635,778 683,778 731,778 778,779 826,779 874,780 922,780 970,778"/>
+                <TextEquiv>
+                    <Unicode>Salsam veni ret si Rogerus de Teise sumiste eta disses Regnus de Eyton de communa pesture sue im Cxtumnia que partanei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="6,825 990,826 990,791 943,781 6,788"/>
+                <Baseline points="13,806 62,806 111,804 160,806 209,806 258,807 307,807 356,807 405,807 454,809 503,809 552,811 601,811 650,809 699,809 748,810 797,809 846,811 895,812 944,812 993,812"/>
+                <TextEquiv>
+                    <Unicode>ad liberum temum suum in eadem uilla p pam ceccta Et buende quad quod dissesem de commuia fua in tribus acris bosci in quibus can¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="10,836 991,865 990,826 939,815 10,812"/>
+                <Baseline points="16,832 64,834 113,836 162,836 211,836 260,837 309,836 357,836 406,837 455,839 504,840 553,843 602,844 651,844 699,846 748,845 797,846 846,846 895,846 944,846 993,841"/>
+                <TextEquiv>
+                    <Unicode>mnunitare silebit pertotum anium cumomimdis anrio suis quousque predicto Rogeri de Terse duas acra de predicto bosco afsar¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="18,882 965,889 932,849 17,844"/>
+                <Baseline points="24,862 71,864 118,864 165,865 212,867 260,867 307,869 354,869 401,870 448,870 496,872 543,874 590,874 637,874 684,875 732,875 779,875 826,877 873,879 920,879 968,877"/>
+                <TextEquiv>
+                    <Unicode>tanit t in culturam redegit dimidiam acra et amplius In oloco carta quartam partem uinius acr in alio loc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="15,901 584,927 672,920 672,898 575,876 13,869"/>
+                <Baseline points="21,890 53,893 86,894 119,894 151,894 184,894 217,895 249,897 282,898 315,899 348,900 380,902 413,902 446,904 478,904 511,905 544,907 576,906 609,905 642,905 675,907"/>
+                <TextEquiv>
+                    <Unicode>niclusit herea tfossato quo mines ibi communicare possit aliquo terpore anni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="18,943 974,958 911,910 16,901"/>
+                <Baseline points="24,925 71,927 119,927 166,927 214,928 262,929 309,931 357,933 405,934 452,938 500,938 548,940 595,942 643,942 691,943 738,946 786,946 834,948 881,950 929,952 977,953"/>
+                <TextEquiv>
+                    <Unicode>Et Ricardo de Fetton Ricardo de Endetlabe Rogero filio Bar decidem Rogero de Langedun' Martinio de Burchton' Ricaro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="20,958 933,1004 979,996 977,961 18,942"/>
+                <Baseline points="26,953 73,957 121,957 169,958 216,961 264,963 312,965 359,967 407,968 455,970 503,973 550,975 598,977 646,978 693,980 741,982 789,982 836,983 884,984 932,985 980,985"/>
+                <TextEquiv>
+                    <Unicode>Gurdin Rogero filiuo Willelmi de Sanwrchin Ricardo de Stokegintatton Willelmo de Sepeltone Roberto de Wytton Iohanne e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="26,997 954,1023 888,987 25,960"/>
+                <Baseline points="33,988 79,990 125,991 171,993 217,995 264,995 310,996 356,998 402,1000 448,1002 495,1003 541,1005 587,1007 633,1008 679,1011 726,1015 772,1013 818,1013 864,1015 910,1015 957,1018"/>
+                <TextEquiv>
+                    <Unicode>Bracy Rogers de Lexelton Ehrn Mankeysin Thoma Kalic reter eiusdem asse in vam quenoliant fadere visum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_32" custom="readingOrder {index:31;}">
+                <Coords points="26,1028 968,1057 948,1021 25,994"/>
+                <Baseline points="33,1020 79,1021 126,1025 173,1026 220,1027 267,1028 314,1030 360,1030 407,1030 454,1031 501,1031 548,1033 595,1035 642,1035 688,1037 735,1040 782,1043 829,1045 876,1048 923,1050 970,1051"/>
+                <TextEquiv>
+                    <Unicode>Iuri diunt quod predictus Rogeis LeMrise disses predictum Rogerus Iimiste de Cyton de predicti communa in duabus acrus sumist et ureric</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_33" custom="readingOrder {index:32;}">
+                <Coords points="26,1064 958,1084 723,1041 26,1028"/>
+                <Baseline points="33,1053 79,1053 125,1055 172,1057 218,1058 264,1060 311,1060 357,1061 403,1061 450,1060 496,1061 542,1064 589,1064 635,1066 681,1066 728,1068 774,1069 820,1070 867,1074 913,1076 960,1079"/>
+                <TextEquiv>
+                    <Unicode>beredict Etude cens est quod predictus Rogero de Eytona reteri seis suam per visum ret et Rogerio deMorse Iin uiam Dunt tam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_34" custom="readingOrder {index:33;}">
+                <Coords points="29,1106 952,1122 950,1082 909,1075 29,1063"/>
+                <Baseline points="36,1081 84,1086 132,1088 181,1089 229,1091 277,1091 326,1089 374,1089 422,1089 471,1090 519,1093 568,1095 616,1094 664,1094 713,1094 761,1096 809,1098 858,1099 906,1101 955,1108"/>
+                <TextEquiv>
+                    <Unicode>quod de resideno non assen enm Et fasto quo ad ho predictus Rogerio degerse inde sinedie et Rogero de Eytonsntchapo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_35" custom="readingOrder {index:34;}">
+                <Coords points="996,1137 281,1137 348,1132 348,1100 260,1097"/>
+                <Baseline points="267,1119 295,1120 323,1121 351,1118"/>
+                <TextEquiv>
+                    <Unicode>a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_36" custom="readingOrder {index:35;}">
+                <Coords points="16,1128 996,1137 98,1137 101,1095 17,1107"/>
+                <Baseline points="23,1121 55,1119 87,1120 119,1119"/>
+                <TextEquiv>
+                    <Unicode>ie assenam ista</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

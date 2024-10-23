@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:12.955+02:00</Created>
+        <LastChange>2024-10-23T20:07:42.595+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893691" pageNr="44" tsid="195651111" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=ZYJZJDOSHWOWBLJFAICFBQQP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FVXAWSEDRIZXBXNTBYDZFHBT" imageId="66319029"/>
+    </Metadata>
+    <Page imageFilename="0044_JUST1-734m4d.jpeg" imageWidth="1013" imageHeight="618">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709214200" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="25,12 25,598 984,598 984,12"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="18,69 977,49 979,1 459,28 138,0 18,29"/>
+                <Baseline points="25,54 72,54 120,54 168,54 216,50 264,48 311,47 359,45 407,43 455,43 503,43 550,40 598,40 646,40 694,40 742,39 789,38 837,37 885,37 933,35 981,32"/>
+                <TextEquiv>
+                    <Unicode>fasfi undum petegninirus si Iacobus de Fudelege Adam le Pronost de Bonindon Rcardos fio Willelmi Willelmo de Baun¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="24,111 909,87 965,79 967,45 25,68"/>
+                <Baseline points="30,96 77,94 124,95 171,94 218,92 265,87 312,86 359,84 406,82 453,81 500,79 547,78 594,77 641,75 688,75 735,74 782,71 829,70 876,69 923,69 970,67"/>
+                <TextEquiv>
+                    <Unicode>Robertus de Nokum Ricardus Sli arud Ricardus filius eius Adam le Falmer idem clurri Simon fate Ricarduc Rrei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="25,135 768,122 965,109 967,80 26,110"/>
+                <Baseline points="32,131 78,130 125,130 172,128 219,124 266,121 313,119 360,116 407,114 454,114 501,113 547,112 594,111 641,109 688,108 735,107 782,105 829,104 876,101 923,101 970,101"/>
+                <TextEquiv>
+                    <Unicode>Ricardo filio Radulphi Filleo de la Hile Walterus ipse Willelmus Kire Radulpho Kire Ricardo de Holewey Ricardo Babbeboci Radulpho</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="24,188 914,152 959,144 961,109 26,135"/>
+                <Baseline points="32,168 78,168 125,165 171,163 218,163 264,161 311,158 357,155 404,153 450,151 497,148 543,148 590,146 636,145 683,143 729,143 776,142 822,141 869,139 915,136 962,135"/>
+                <TextEquiv>
+                    <Unicode>li crant Willelmo Bern Rogero le Gris Robertis Fraaiteri Robertos filio Ricardi Ricardo filio Ricardi Willelmo Albuc Robertus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="25,214 921,193 965,185 968,142 26,187"/>
+                <Baseline points="32,211 78,209 125,208 172,204 219,203 266,202 313,200 359,195 406,194 453,189 500,186 547,185 594,185 641,184 687,182 734,182 781,180 828,178 875,178 922,177 969,173"/>
+                <TextEquiv>
+                    <Unicode>fio le Fordel Walero Berini Robannis Sarc Robertus filius Walterti de Flestok Febero de Fy kestoke Reobertus faio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="22,256 964,225 943,179 23,233"/>
+                <Baseline points="28,251 77,251 126,248 176,244 225,243 275,241 324,238 373,235 423,231 472,228 522,227 571,224 621,224 670,222 719,222 769,221 818,221 868,217 917,214 967,209"/>
+                <TextEquiv>
+                    <Unicode>Ade tegnirum Camburni Willelmo fratro eius Ricardo de Syhristone Predicti Orike Petrus Biri Rogerio le Fuarkker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="26,295 959,289 935,217 28,261"/>
+                <Baseline points="33,285 79,287 126,287 172,283 219,283 265,281 312,277 358,275 405,273 451,271 498,269 545,266 591,266 638,265 684,263 731,263 777,261 824,259 870,255 917,251 964,248"/>
+                <TextEquiv>
+                    <Unicode>Tehomaum de patur Iniste etca diecgeisuer Abome de Chodewunde de libero totua suo in Mhededunde par¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="30,347 573,307 662,323 662,270 218,306 32,293"/>
+                <Baseline points="38,325 69,325 100,325 132,325 163,325 194,324 226,324 257,322 288,319 320,318 351,316 382,314 414,314 445,312 476,312 508,310 539,309 570,307 602,306 633,305 665,302"/>
+                <TextEquiv>
+                    <Unicode>pimam et c Et unde quam quod dicetum eum de contra acr Druere cum pertin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="26,378 898,348 977,339 980,292 26,354"/>
+                <Baseline points="33,366 80,364 127,362 175,361 222,359 270,356 317,354 365,351 412,350 460,351 507,349 554,346 602,344 649,341 697,339 744,336 792,336 839,335 887,332 934,330 982,329"/>
+                <TextEquiv>
+                    <Unicode>et Iacobus unii et respondos pro se et omnibus aliis Et dicit quod predictus Iohannes uuniste tullit assisnatm istam quma¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="30,402 946,384 983,351 31,371"/>
+                <Baseline points="38,400 85,398 132,396 179,398 227,395 274,393 321,390 369,390 416,389 463,390 511,389 558,386 605,384 652,381 700,376 747,374 794,372 842,370 889,368 936,368 984,366"/>
+                <TextEquiv>
+                    <Unicode>dit quod predicta frmera de qua quem et quam posuit in uian suo ono est In Cledowinde Iommo in exe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="37,456 980,420 981,378 900,371 38,414"/>
+                <Baseline points="45,439 94,435 143,433 193,432 242,430 292,427 341,425 390,425 440,425 489,425 539,423 588,423 638,422 687,420 736,418 786,416 835,412 885,408 934,405 984,403"/>
+                <TextEquiv>
+                    <Unicode>mundone postea dicti quod lices foruera illa eet in chodewundo non disseta omniem de Fornera illa Rice n</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="38,486 973,445 946,408 39,453"/>
+                <Baseline points="45,472 91,472 138,469 184,469 231,466 278,464 324,462 371,459 417,460 464,459 511,459 557,459 604,458 650,459 697,455 744,455 790,453 837,451 883,445 930,442 977,437"/>
+                <TextEquiv>
+                    <Unicode>quod Henricum de Andelore que ipsius obi cuius bes ipse est coto tempore suo tenuit predictam farueram Hi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="43,522 921,501 968,492 970,447 44,488"/>
+                <Baseline points="50,513 96,511 142,509 188,508 234,506 280,503 326,500 372,498 418,498 464,498 511,496 557,495 603,494 649,494 695,491 741,489 787,487 833,485 879,480 925,477 972,474"/>
+                <TextEquiv>
+                    <Unicode>dominico suo diuais perinentit ad liberam teli omnium in eenerndum et sine obuiit seuonita iia quod puater morce</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="44,565 597,535 946,586 950,498 45,523"/>
+                <Baseline points="52,548 96,549 141,548 186,548 231,546 276,541 321,538 366,535 411,534 456,532 501,531 545,531 590,530 635,530 680,528 725,526 770,525 815,522 860,519 905,516 950,515"/>
+                <TextEquiv>
+                    <Unicode>fistnus Herico patrs si iernt ipsre in ferieram lam siuli cum omnibus aliis dri uate Benit quos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="54,589 87,612 248,615 313,581 496,577 499,540 257,545 157,572 118,554 55,566"/>
+                <Baseline points="60,582 85,583 111,585 137,586 163,588 189,586 214,583 240,582 266,580 292,578 318,574 344,572 369,570 395,570 421,570 447,569 473,569 499,569"/>
+                <TextEquiv>
+                    <Unicode>tenuit de Emnonibum dominos Ailio Mmnico et Hernio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

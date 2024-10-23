@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:03.760+02:00</Created>
+        <LastChange>2024-10-23T20:07:41.190+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893287" pageNr="33" tsid="195651084" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=ZEGFBWBGNOOHKOUZJQSTTYVG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BXWVLZKZEMJDTBLPFVJMZAXZ" imageId="66319179"/>
+    </Metadata>
+    <Page imageFilename="0033_JUST1-635m37.jpeg" imageWidth="1140" imageHeight="225">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709213128" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="295,65 295,164 943,164 943,65"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="753,107 768,107 789,90 805,96 816,91 825,97 835,95 850,99 850,72 843,73 822,64 815,67 803,60 798,65 767,57 753,62"/>
+                <Baseline points="758,87 789,85 820,85 852,87"/>
+                <TextEquiv>
+                    <Unicode>ilse ad ne¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="870,93 877,93 889,99 897,98 904,92 908,95 912,92 922,95 922,59 917,59 912,63 899,56 887,63 870,60"/>
+                <Baseline points="875,87 924,87"/>
+                <TextEquiv>
+                    <Unicode>tem de¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="290,127 842,124 888,146 941,127 941,94 626,90 593,112 531,87 438,106 379,63 289,83"/>
+                <Baseline points="295,112 327,114 359,112 392,115 424,115 457,115 489,116 521,116 554,116 586,118 619,118 651,119 683,120 716,120 748,120 781,120 813,120 845,120 878,122 910,122 943,122"/>
+                <TextEquiv>
+                    <Unicode>Aleby' filio et heredibus predicti Iohannis et postquam sit eiassit posint</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="681,156 701,161 717,156 755,168 774,158 788,165 852,158 852,129 842,125 823,139 803,133 777,136 760,127 745,133 724,125 710,127 699,139 681,133"/>
+                <Baseline points="686,154 714,152 742,154 770,154 798,154 826,154 854,154"/>
+                <TextEquiv>
+                    <Unicode>abiie regnit ln¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

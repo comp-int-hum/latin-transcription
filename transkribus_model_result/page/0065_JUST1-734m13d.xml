@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:31.090+02:00</Created>
+        <LastChange>2024-10-23T20:07:45.296+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893912" pageNr="65" tsid="195651141" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=DXUFWNIKQPLRCGJNAONKFVOX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WMWOGINTQWCEUGMSSUPHVKWT" imageId="66319476"/>
+    </Metadata>
+    <Page imageFilename="0065_JUST1-734m13d.jpeg" imageWidth="992" imageHeight="1005">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709214708" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="9,13 9,968 976,968 976,13"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="12,46 964,65 933,13 11,10"/>
+                <Baseline points="19,33 66,39 113,41 161,42 208,45 255,46 303,48 350,47 397,49 445,51 492,51 539,52 587,56 634,61 681,60 729,61 776,60 823,59 871,58 918,59 966,61"/>
+                <TextEquiv>
+                    <Unicode>Rabterus de Hotone simone fuit ad respondam Ricardo filio Henrici de lo quod permitat ipsum habe ronrabile estoream</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="13,81 960,103 941,63 12,43"/>
+                <Baseline points="19,72 66,77 113,80 160,81 207,80 255,81 302,82 349,82 396,82 443,84 491,87 538,87 585,90 632,93 679,94 727,95 774,96 821,95 868,94 915,94 963,95"/>
+                <TextEquiv>
+                    <Unicode>suum in bosc epsus Walteri de Tteldrtone quod in eodem Salect trdebet et Et u predictus Ricardus quam quod cum ostro habere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="17,119 960,139 929,96 17,87"/>
+                <Baseline points="23,114 72,119 121,120 171,119 220,120 270,119 319,117 368,117 418,117 467,119 517,120 566,122 616,123 665,125 714,128 764,130 813,128 863,127 912,125 962,125"/>
+                <TextEquiv>
+                    <Unicode>det et solet racionabila contoera sua in predicto bosco ipsius Walteri in predicta uilla canqua pertinentis ad lobertum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="10,168 857,181 960,171 960,140 8,122"/>
+                <Baseline points="16,155 63,160 110,158 157,157 205,157 252,156 299,155 347,153 394,152 441,153 489,155 536,158 583,158 630,161 678,162 725,165 772,166 820,166 867,166 914,165 962,165"/>
+                <TextEquiv>
+                    <Unicode>tenemenus suum in eadem uilla scilicet ad heureboce et uncebace etad ardendm et edficandua Ita quod ipse Ricacius fuit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="12,214 954,218 947,171 12,169"/>
+                <Baseline points="19,198 65,196 112,196 159,195 206,195 253,193 300,191 347,190 394,190 441,190 488,190 534,191 581,194 628,196 675,198 722,200 769,200 816,201 863,200 910,198 957,200"/>
+                <TextEquiv>
+                    <Unicode>In fiecis de predictis ostinoris suis in predicto bosco ipsius Halteri capiond canguam pertinenti ad liberum tenementum sunum in eadem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="17,247 944,247 879,204 17,208"/>
+                <Baseline points="23,233 69,233 115,233 161,233 207,230 253,229 299,229 345,228 391,228 437,228 484,226 530,228 576,230 622,233 668,236 714,238 760,238 806,239 852,239 898,238 945,239"/>
+                <TextEquiv>
+                    <Unicode>ville cerre domini Rei nunc compuendo Done explenit ad uolile tc predictus Waltertus Iam dinidere anno clarta e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="12,274 918,269 918,242 12,243"/>
+                <Baseline points="19,271 64,270 109,269 154,267 199,266 244,266 289,264 335,264 380,264 425,264 470,264 515,264 560,265 605,267 651,271 696,271 741,268 786,267 831,269 876,269 922,269"/>
+                <TextEquiv>
+                    <Unicode>deforidint et percipere non permieit predicta Otonera sua in predicto basco suo Domini dicti quod degrorat est</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="642,287 701,299 754,286 825,298 930,295 930,278 912,269 642,278"/>
+                <Baseline points="649,287 674,286 700,289 726,288 752,286 778,285 803,286 829,289 855,289 881,289 907,287 933,285"/>
+                <TextEquiv>
+                    <Unicode>Otoraorum ego buncilti diberto habe st</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="19,316 954,317 954,278 19,274"/>
+                <Baseline points="26,305 72,307 119,305 165,304 212,303 258,302 305,304 351,305 398,307 444,307 491,307 538,308 584,307 631,309 677,310 724,310 770,309 817,309 863,310 910,310 957,310"/>
+                <TextEquiv>
+                    <Unicode>dampnum habet ad ualent decem Malrite Parofot etiam cartam ipsius sulto um per quim idem Walterus concessit prose¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="14,351 927,354 927,326 860,313 14,326"/>
+                <Baseline points="21,343 66,345 111,347 157,346 202,344 248,343 293,345 339,343 384,343 430,343 475,344 520,345 566,343 611,343 657,343 702,344 748,343 793,343 839,343 884,345 930,348"/>
+                <TextEquiv>
+                    <Unicode>et beredibus suis predicto Ricardo et heredibes suis et suis assingnatis ad Kirebote et Horue boce in bolco opstus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="23,388 43,399 66,393 79,400 90,392 108,401 141,392 163,401 171,393 180,399 193,394 192,358 146,369 121,356 81,356 61,345 49,357 22,353"/>
+                <Baseline points="28,381 55,380 83,380 111,380 139,381 167,381 195,383"/>
+                <TextEquiv>
+                    <Unicode>Walerti de Contre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="12,433 968,445 966,398 683,383 12,405"/>
+                <Baseline points="19,421 66,419 114,423 161,424 209,426 257,426 304,427 352,425 399,424 447,424 495,428 542,431 590,429 637,431 685,433 733,434 780,434 828,434 875,435 923,437 971,438"/>
+                <TextEquiv>
+                    <Unicode>Et Walertus uen et defend dini et unirum guandi etc E bne cgnostit predictam cartam per quam predictus Walteris pri ipsius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="18,469 881,484 975,475 975,439 17,428"/>
+                <Baseline points="24,456 71,459 119,461 166,463 214,464 262,464 309,462 357,459 404,459 452,459 500,461 547,464 595,462 642,464 690,467 738,467 785,467 833,466 880,467 928,468 976,471"/>
+                <TextEquiv>
+                    <Unicode>Walteri e concessit Ruceboce et Harbote in predicto boscto de Montre set dicitut quod boscis ille de Pontre est quidam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="18,496 970,504 970,475 839,469 18,469"/>
+                <Baseline points="24,494 71,497 118,497 166,500 213,499 261,499 308,496 356,495 403,495 451,495 498,497 545,499 593,499 640,497 688,499 735,499 783,500 830,499 878,499 925,500 973,497"/>
+                <TextEquiv>
+                    <Unicode>boscis Magornio qui Ttinet Eros bocos scilicet unum boscum qui vocaturs Hares et Abutem Baltei qui uocatum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="23,541 962,552 944,502 22,499"/>
+                <Baseline points="28,528 74,532 121,533 168,534 215,535 261,534 308,533 355,533 402,535 448,537 495,537 542,537 589,536 635,537 682,537 729,538 776,537 822,537 869,538 916,538 963,540"/>
+                <TextEquiv>
+                    <Unicode>Kyingeswode et dertum boscum qui uocatur Herkewode Et bene Con quod predictus Ricardos et heredes sui brere deet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="467,562 483,563 485,565 491,560 498,568 501,568 503,565 516,566 515,544 509,544 505,540 499,544 492,540 487,542 466,542"/>
+                <Baseline points="474,560 519,562"/>
+                <TextEquiv>
+                    <Unicode>dicitus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="17,575 963,596 938,545 17,544"/>
+                <Baseline points="23,566 70,568 117,570 164,570 211,570 258,571 305,573 353,574 400,576 447,578 494,578 541,576 588,576 635,576 683,576 730,576 777,575 824,575 871,575 918,575 966,578"/>
+                <TextEquiv>
+                    <Unicode>predicta Ostynha hia in predicto bosc suo de Bertwode et in est In sdimia de predictis estoneris suis capiendis in¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="6,614 945,632 945,593 5,575"/>
+                <Baseline points="13,603 59,606 106,606 153,609 200,609 246,608 293,608 340,608 387,609 433,609 480,609 527,611 574,610 620,611 667,611 714,610 761,609 807,608 854,611 901,611 948,614"/>
+                <TextEquiv>
+                    <Unicode>bosco illo soc bene defendu quod ipse Dertus nen hordes si aliqam estoneria ua cape debent nicn salent in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="12,655 960,659 960,631 811,611 12,618"/>
+                <Baseline points="18,643 65,644 112,646 159,647 207,649 254,649 301,650 348,651 396,649 443,649 490,649 537,649 585,649 632,649 679,649 726,649 774,648 821,649 868,649 915,649 963,649"/>
+                <TextEquiv>
+                    <Unicode>aliis bastis suis in Hcike et Hingessal de s idem Ricardus sie aliquis ancieos suorum ane confeccionem predicte carte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="12,691 960,701 960,663 905,659 12,655"/>
+                <Baseline points="18,682 65,684 112,685 159,687 207,689 254,689 301,688 348,687 396,686 443,685 490,685 537,687 585,689 632,690 679,690 726,690 774,693 821,694 868,692 915,692 963,692"/>
+                <TextEquiv>
+                    <Unicode>sinc proter ungra fuict In sis de baendo aliquado estomeria sua in predicto bosteo de Haye et Rengetfolde itantum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="6,730 954,744 954,699 6,705"/>
+                <Baseline points="13,723 60,723 107,725 154,728 201,729 249,729 296,727 343,724 390,723 437,722 485,723 532,725 579,725 626,725 673,724 721,725 768,726 815,727 862,727 909,725 957,725"/>
+                <TextEquiv>
+                    <Unicode>in Rosco suo de Wrkewode ub in capi predicti estoveria sui et temper precer confecionem predicte carte cepit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="2,763 766,798 944,780 944,748 1,733"/>
+                <Baseline points="9,757 55,758 102,760 149,764 196,766 243,766 290,763 337,762 384,762 431,762 478,763 524,763 571,763 618,763 665,765 712,765 759,763 806,766 853,768 900,768 947,770"/>
+                <TextEquiv>
+                    <Unicode>Et dict quod boscius ille susficis ad estomera sua capuera imperpetuum quancum pertinet ad liberum tenementum suum in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="7,815 217,807 386,827 425,814 424,782 392,775 358,790 277,774 250,789 6,764"/>
+                <Baseline points="14,795 39,796 65,798 91,800 117,801 143,804 169,804 195,804 221,805 246,806 272,806 298,806 324,806 350,806 376,807 402,807 428,808"/>
+                <TextEquiv>
+                    <Unicode>eadem villa Et de hoc pouit se super praciam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="7,844 968,851 958,817 7,815"/>
+                <Baseline points="14,836 61,838 109,841 157,843 205,843 253,843 301,843 348,844 396,846 444,846 492,847 540,847 588,849 636,851 683,851 731,852 779,852 827,852 875,853 923,852 971,849"/>
+                <TextEquiv>
+                    <Unicode>Et Ricardus dictut quod habere debet et Colet predicta estomera sua in toto bosco ipsius Walteri de Montre cangue pertinencia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="12,881 856,905 970,895 969,853 11,848"/>
+                <Baseline points="19,876 66,877 114,877 162,877 209,877 257,876 305,877 352,877 400,879 448,880 496,881 543,882 591,884 639,885 686,887 734,890 782,887 829,887 877,884 925,883 973,884"/>
+                <TextEquiv>
+                    <Unicode>ad liberum tonentum suum in eadem uilla scilicet tam in predictis boscis de Hare et Kingersel de quam in predicto bosco</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="12,917 970,929 970,895 927,889 12,886"/>
+                <Baseline points="19,910 66,914 114,915 162,915 209,915 257,915 305,915 352,914 400,915 448,915 496,917 543,919 591,920 639,922 686,924 734,924 782,924 829,923 877,922 925,920 973,920"/>
+                <TextEquiv>
+                    <Unicode>de Norowoke Ricardo emte quod semper prod confectione predicte carte fuit ipso In sincta de dpiendo estonerio su¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="14,968 959,958 929,924 14,934"/>
+                <Baseline points="21,950 68,952 115,953 162,953 209,954 256,953 303,953 350,953 397,952 444,952 491,952 538,953 585,953 632,953 679,956 726,957 773,958 820,957 867,957 914,955 962,952"/>
+                <TextEquiv>
+                    <Unicode>et uoluntate sua tam In Hayert Hngeswode qua in Berikesode Et quod ia sic ponit st super factiant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

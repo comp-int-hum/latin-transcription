@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:08.111+02:00</Created>
+        <LastChange>2024-10-23T20:07:41.833+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893595" pageNr="38" tsid="195651068" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=REIXDWSRUMDHYJXRJVGIJDMB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BPPSCNNRPXRNPRPFWTGZQVJQ" imageId="66319221"/>
+    </Metadata>
+    <Page imageFilename="0038_JUST1-734m2d.jpeg" imageWidth="961" imageHeight="487">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709214143" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="14,5 14,460 959,460 959,5"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="14,58 914,46 914,6 847,0 15,0"/>
+                <Baseline points="22,40 66,37 111,37 156,36 201,38 245,38 290,36 335,36 380,37 424,38 469,37 514,35 559,33 603,32 648,32 693,31 738,29 782,28 827,28 872,25 917,27"/>
+                <TextEquiv>
+                    <Unicode>Rogerio Uca roter si stephani filiis warintiftratre filia stphni iniuste et eta isis stephalui de Asseford' de comma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="18,89 927,82 928,36 803,29 19,54"/>
+                <Baseline points="24,72 69,70 114,70 159,72 205,72 250,70 295,68 340,68 386,68 431,68 476,70 521,68 567,65 612,65 657,65 702,64 748,62 793,64 838,64 883,64 929,64"/>
+                <TextEquiv>
+                    <Unicode>pasture suce in Fenemere que pertinet ad liberum tenementum suum in eadem villua pret paam et de Et unde querin¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="15,121 921,122 921,85 844,65 15,88"/>
+                <Baseline points="22,105 67,104 112,104 157,104 202,103 247,104 292,104 337,104 382,102 427,100 473,100 518,100 563,100 608,99 653,99 698,99 743,100 788,100 833,104 878,106 924,108"/>
+                <TextEquiv>
+                    <Unicode>quod diss ecum de comma pasture sue in quodam boeco qui ttinet decem acre in quo solebat habere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="15,149 791,141 942,172 942,125 698,102 15,129"/>
+                <Baseline points="22,145 68,142 114,142 160,140 206,139 252,141 298,140 345,139 391,138 437,136 483,137 529,137 575,136 621,137 668,137 714,137 760,138 806,139 852,141 898,145 945,148"/>
+                <TextEquiv>
+                    <Unicode>commuam ad omnia auteres sua per totum annuo quousque predictum Rogetum assartauerint et in culturam redeginum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="18,199 223,176 271,200 384,199 404,179 545,199 546,146 365,140 316,164 213,142 19,149"/>
+                <Baseline points="24,181 50,180 76,179 102,178 129,176 155,176 181,176 207,176 234,176 260,176 286,176 312,176 339,176 365,175 391,174 417,174 444,174 470,174 496,176 522,174 549,173"/>
+                <TextEquiv>
+                    <Unicode>ia quod ibi communare nod porst nisi pret belada asporata</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="13,233 940,250 940,209 801,170 617,206 13,197"/>
+                <Baseline points="19,217 65,214 111,214 157,214 203,214 250,215 296,216 342,216 388,217 434,217 481,219 527,219 573,219 619,221 665,224 712,227 758,226 804,224 850,225 896,226 943,227"/>
+                <TextEquiv>
+                    <Unicode>Et Stephani et Ricaris uoeus et dicunt quod predicto stephanm de Aeford muinste culia afsistam istam quia dicenit quod idum scet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="13,254 726,289 928,277 928,242 12,233"/>
+                <Baseline points="19,246 64,248 110,246 155,246 201,246 246,247 292,248 337,248 383,251 428,251 474,253 520,253 565,254 611,255 656,257 702,259 747,260 793,259 838,261 884,265 930,265"/>
+                <TextEquiv>
+                    <Unicode>ninquam fuit in Seysina unt eium quod assarte et aprobamentum ilud factum fuit antegrae idem Stephani habuit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="14,297 524,296 508,260 462,276 161,251 14,266"/>
+                <Baseline points="20,288 45,285 70,283 96,283 121,281 146,280 172,280 197,280 222,280 248,281 273,280 298,281 324,281 349,282 374,283 400,285 425,285 450,286 476,286 501,286 527,289"/>
+                <TextEquiv>
+                    <Unicode>aliquod tenementum in predicta villt Et de hoc postr E uptia assisnam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="14,343 284,321 905,356 956,342 956,303 754,311 598,266 505,303 13,297"/>
+                <Baseline points="20,325 69,320 118,318 168,317 217,318 267,318 316,317 365,319 415,320 464,322 514,322 563,321 613,325 662,327 711,331 761,333 810,333 860,334 909,334 959,338"/>
+                <TextEquiv>
+                    <Unicode>niter dictm prod predicto sepitao filis Barini et Riciri ilii Pepa non dis predictm tephani de predici commida pro dmni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="14,380 953,376 953,338 14,345"/>
+                <Baseline points="20,358 66,355 113,355 160,355 207,355 254,355 300,354 347,355 394,357 441,357 488,360 534,360 581,360 628,363 675,365 722,368 768,371 815,370 862,370 909,373 956,373"/>
+                <TextEquiv>
+                    <Unicode>quod nunquam fuit in Seygina Dunt omnie quod Bogtum illum assartaerit et apobannt per assenam capitalis dominorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="7,405 942,422 942,375 640,391 266,356 7,388"/>
+                <Baseline points="14,397 60,394 107,394 153,394 200,392 246,392 293,391 339,392 386,394 432,397 479,398 526,400 572,398 619,398 665,400 712,402 758,403 805,406 851,406 898,408 945,408"/>
+                <TextEquiv>
+                    <Unicode>Manerii abbus per longum tera anquada predictos Stephani aliquod tenementum habunit in Manerio illo Et sco ditum est quod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="19,461 926,477 925,417 18,408"/>
+                <Baseline points="24,435 69,434 114,434 159,435 205,435 250,435 295,434 340,434 386,435 431,438 476,438 521,439 567,439 612,439 657,441 702,443 748,445 793,445 838,446 883,448 929,450"/>
+                <TextEquiv>
+                    <Unicode>precici Fepanis E ceris sun quiet et precto tepinans de Hferde in na perdenabus ad qustinicim Henrictfr¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

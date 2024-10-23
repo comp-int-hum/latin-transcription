@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.19.0:model_id=48734:lm=none:date=23_10_2024_20:07</Creator>
+        <Created>2024-10-22T17:17:02.148+02:00</Created>
+        <LastChange>2024-10-23T20:07:40.810+02:00</LastChange>
+        <TranskribusMetadata docId="4757273" pageId="80893284" pageNr="30" tsid="195651064" status="IN_PROGRESS" userId="299249" imgUrl="https://files.transkribus.eu/Get?id=NLWCAHHCFZXNXNSZJXLCGVLJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AIWIUMCGUGBJEGRSTABYKZMF" imageId="66319201"/>
+    </Metadata>
+    <Page imageFilename="0030_JUST1-635m13f.jpeg" imageWidth="1331" imageHeight="855">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729709213081" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="19,33 19,827 1268,827 1268,33"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="110,60 1264,71 1252,14 110,29"/>
+                <Baseline points="119,55 176,56 233,60 291,63 348,62 406,59 463,59 521,57 578,59 636,57 693,57 750,58 808,56 865,56 923,55 980,56 1038,55 1095,55 1153,55 1210,53 1268,53"/>
+                <TextEquiv>
+                    <Unicode>e Willelmus le Wyle garcio Peod de nono castro scarecari felonice interfecit enidem Radulpdhum in campis de Muliton'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="127,111 1240,99 1240,63 1165,59 127,68"/>
+                <Baseline points="135,89 190,95 245,98 301,102 356,101 412,99 467,97 523,97 578,97 634,97 689,97 744,95 800,97 855,95 911,95 966,95 1022,95 1077,92 1133,91 1188,89 1244,89"/>
+                <TextEquiv>
+                    <Unicode>die Lune proxima post festum sancti Mathie apostoli anno regni Regis Eani Regi nunc vxxo Et predictus Willelmus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="130,149 1253,138 1227,94 132,110"/>
+                <Baseline points="139,129 197,131 256,135 315,135 374,135 433,133 492,133 551,133 610,134 669,134 727,131 786,131 845,131 904,133 963,131 1022,129 1081,127 1140,127 1199,127 1258,125"/>
+                <TextEquiv>
+                    <Unicode>statim post fectum fugit so cala eius consistantur pro fuga alis emis 7 s 8 d o n vico re posted</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="136,192 1250,176 1230,130 136,149"/>
+                <Baseline points="145,167 200,169 255,169 311,171 366,171 422,169 477,171 533,171 588,169 644,169 699,168 754,167 810,165 865,167 921,167 976,168 1032,166 1087,163 1143,162 1198,161 1254,163"/>
+                <TextEquiv>
+                    <Unicode>sutr tostantur quod predictus Willelmus captus fuit et ducias corm Iostiaris ad Gaolam Castri Norli' deliberndo assiga¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="136,223 1226,204 1164,167 136,189"/>
+                <Baseline points="145,205 199,204 253,207 307,203 362,205 416,205 470,205 524,205 579,203 633,205 687,203 741,204 796,203 850,202 904,201 958,205 1013,203 1067,202 1121,200 1175,199 1230,201"/>
+                <TextEquiv>
+                    <Unicode>et ibidem pro feloma predicta suspensus primis inventor obut pestea comptum est per rocho I de Buchketon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="142,255 1249,252 1233,204 142,224"/>
+                <Baseline points="151,237 206,237 261,241 316,241 371,241 426,239 481,241 536,239 591,239 646,241 701,240 756,238 811,237 866,237 921,239 976,239 1031,239 1086,235 1141,233 1196,233 1252,233"/>
+                <TextEquiv>
+                    <Unicode>Coron quod predicta bona et catalla fuerunt predictorum Radulphi Iohannis Womber et Willelmi Wilte Et super hoc dimctnis E pe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="133,282 1236,280 1213,235 135,262"/>
+                <Baseline points="143,273 197,273 252,275 307,275 362,276 417,274 472,275 526,273 581,275 636,275 691,272 746,271 801,269 856,267 910,271 965,271 1020,270 1075,270 1130,266 1185,265 1240,269"/>
+                <TextEquiv>
+                    <Unicode>dmid ieri mendant brem suum vicardum et coronta in het vba Edwardus Dei grati Rex Linglie sunis hiberum et bur¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="135,322 1106,319 1236,279 136,277"/>
+                <Baseline points="143,309 197,309 252,311 307,309 362,308 417,308 472,308 526,307 581,307 636,307 691,305 746,302 801,299 856,299 910,301 965,301 1020,301 1075,300 1130,298 1185,297 1240,299"/>
+                <TextEquiv>
+                    <Unicode>liquint vicei soliti et cononm eiusdem actem salutem Suci ex relatu fdedignor accepimus quod eo quedam una et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="130,351 1252,339 1252,302 132,319"/>
+                <Baseline points="139,343 194,343 250,345 306,343 362,343 418,341 474,341 529,340 585,339 641,339 697,337 753,335 809,333 865,333 920,333 976,331 1032,331 1088,330 1144,330 1200,329 1256,329"/>
+                <TextEquiv>
+                    <Unicode>catalla que fuerunt Raduipi le caretor de novo castro subtris hyn iuper iuxta parcum Niohiecet per quosdam ma¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="133,388 1250,367 1218,331 135,350"/>
+                <Baseline points="143,379 198,379 254,380 309,379 365,378 420,375 476,373 531,373 587,372 642,371 698,371 754,368 809,365 865,367 920,367 976,365 1031,365 1087,364 1142,363 1198,361 1254,361"/>
+                <TextEquiv>
+                    <Unicode>efcore et pacis nostre perturbatores interfeci ut dictus cepistis in manum nostram ac si bona et cer predicti per fehomam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="128,430 1258,407 1241,364 130,384"/>
+                <Baseline points="137,421 193,415 249,414 305,413 361,411 417,411 473,409 530,408 586,407 642,405 698,405 754,403 810,401 866,399 923,397 979,399 1035,397 1091,394 1147,393 1203,391 1260,389"/>
+                <TextEquiv>
+                    <Unicode>per prefatum Radulpdum factam ossent forisfacta vobis precipimus 1gi ita est tuic accepta sufficienti securitate de milite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="127,450 1233,429 1162,399 128,429"/>
+                <Baseline points="135,449 190,449 245,447 300,447 355,446 410,444 465,444 520,443 575,443 630,441 685,440 740,437 795,434 850,431 905,429 960,429 1015,428 1070,427 1125,425 1180,423 1236,421"/>
+                <TextEquiv>
+                    <Unicode>ta que fuit uxor eiusdem Radulphi de Hinis et calra predictis vel pratici eousdem iuxta arpciaconem legalite per vos¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="128,497 1141,474 1250,464 1252,424 130,452"/>
+                <Baseline points="139,483 194,481 250,480 306,479 362,477 417,477 473,477 529,475 585,475 640,473 696,470 752,469 808,467 863,463 919,461 975,461 1031,459 1086,458 1142,456 1198,455 1254,455"/>
+                <TextEquiv>
+                    <Unicode>faciend nobis rospondendis in iteres iusticiarus nostrorum Christio itineraturorum in comitatu predicto s ad nos debeant pertule bona¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="127,531 1176,504 1235,500 1236,464 127,497"/>
+                <Baseline points="135,515 190,513 245,513 300,514 356,512 411,510 466,511 521,509 577,507 632,506 687,505 742,504 798,501 853,499 908,497 963,495 1019,494 1074,491 1129,490 1184,487 1240,485"/>
+                <TextEquiv>
+                    <Unicode>et catalla illa prefate miliconte sine dilacione deliberari facie per securtatem predictam Et haebeas ibi hec bere t¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="127,562 1252,526 1151,492 128,531"/>
+                <Baseline points="135,547 191,547 247,545 303,546 359,544 415,541 471,541 527,541 583,541 639,539 695,537 751,537 807,533 863,532 919,533 975,530 1031,526 1087,523 1143,521 1199,517 1256,515"/>
+                <TextEquiv>
+                    <Unicode>meipo apud Bratenton decimo die Martii anno sneni vicesimo precextu cuius beatis I ruvel tam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="128,588 1244,562 1218,517 130,563"/>
+                <Baseline points="137,581 192,581 248,579 303,578 359,577 414,577 470,573 525,573 581,574 636,573 692,570 748,568 803,568 859,567 914,565 970,564 1025,561 1081,556 1136,552 1192,549 1248,547"/>
+                <TextEquiv>
+                    <Unicode>vocianum et predictus corum ceperunt inquiu super premissis per quam coampatum fuit quod predicta bona et catalla fuerint predicto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="122,633 1244,590 1202,556 124,587"/>
+                <Baseline points="131,613 186,613 242,612 298,611 354,609 409,609 465,609 521,607 577,606 632,605 688,603 744,605 800,603 855,599 911,599 967,597 1023,596 1078,592 1134,588 1190,585 1246,585"/>
+                <TextEquiv>
+                    <Unicode>Radulphi interfeti et nullu aliij sue quidem catalla liberata fuerunt predicte milicente per manicapcionem lide¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="122,653 1249,622 1179,590 122,631"/>
+                <Baseline points="131,643 187,647 243,645 299,643 355,641 411,641 467,639 523,639 579,635 635,637 691,635 747,633 803,635 859,633 915,633 971,630 1027,628 1083,624 1139,621 1195,619 1252,615"/>
+                <TextEquiv>
+                    <Unicode>de Essely Noe ad crucem de Suketon' villelmi prest de Prtlesworth et Philipi le Clark' de Wlaston qauod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="721,673 978,684 1049,665 1077,684 1108,664 1240,664 1240,630 1207,622 1185,641 1088,628 1049,645 913,634 842,658 823,639 721,656"/>
+                <Baseline points="729,669 754,668 780,666 805,666 831,667 857,667 882,665 908,667 934,666 959,664 985,662 1011,661 1036,661 1062,659 1088,659 1113,658 1139,657 1165,655 1190,653 1216,653 1242,653"/>
+                <TextEquiv>
+                    <Unicode>Et modo nomi epetutores predicte malcente et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="124,689 325,679 356,695 478,675 574,692 681,672 681,645 596,642 124,656"/>
+                <Baseline points="133,679 160,677 188,677 215,677 243,677 271,677 298,675 326,675 353,675 381,675 409,673 436,673 464,672 491,671 519,670 547,669 574,669 602,669 629,669 657,669 685,667"/>
+                <TextEquiv>
+                    <Unicode>restin pexi coram iusticiariis stoinerantis in forma predicta i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="115,710 1232,696 1227,659 115,684"/>
+                <Baseline points="123,707 178,707 234,708 289,708 345,709 401,707 456,705 512,705 568,704 623,703 679,702 735,700 790,699 846,699 902,697 957,695 1013,694 1069,693 1124,691 1180,691 1236,691"/>
+                <TextEquiv>
+                    <Unicode>dicit quo predicta catalla fuerunt predicti Rriditi quondam viri preicte milicente a petuit quod predicta catalla possint</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="115,747 1240,734 1240,693 116,709"/>
+                <Baseline points="123,745 179,741 235,741 291,741 347,743 403,741 459,739 515,741 571,739 627,738 683,736 739,733 795,733 851,733 907,731 963,732 1019,732 1075,729 1131,729 1187,727 1244,725"/>
+                <TextEquiv>
+                    <Unicode>sibis remanerenis Et sine testantur quod predicta catalla fuerunt in communi predictorum Radulius Iohannis Vombe et Willelmi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="11,806 392,780 641,820 846,772 1158,803 1253,738 11,764"/>
+                <Baseline points="19,791 80,789 142,780 204,777 266,775 328,775 390,773 451,775 513,775 575,775 637,773 699,770 761,769 823,770 884,767 946,768 1008,767 1070,765 1132,763 1194,763 1256,763"/>
+                <TextEquiv>
+                    <Unicode>rxwolde prout superis compitumest pr rolos coronit Ido responda domino regi de trta parte a predictorum scilicet de Xvo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="99,825 141,842 173,826 241,837 257,822 296,829 330,814 350,816 378,845 416,839 418,792 393,780 367,791 297,781 283,794 243,783 207,802 175,783 101,806"/>
+                <Baseline points="109,817 135,815 161,812 187,811 213,813 239,811 265,809 291,810 317,810 343,809 369,809 395,810 421,815"/>
+                <TextEquiv>
+                    <Unicode>1 d et residium remani sc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

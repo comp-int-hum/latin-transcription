@@ -76,13 +76,14 @@ env = Environment(
     }
 )
 path = env["WORK_DIR"]
-updated_xmls = env.UpdateLinePolygons(
-    Dir(path + env['UPDATED_LINE_POLYGONS_DIR']),
-    Dir(env['SOURCE_DIR']),
-)
+
+#updated_xmls = env.UpdateLinePolygons(
+#    Dir(path + env['UPDATED_LINE_POLYGONS_DIR']),
+#    Dir(env['SOURCE_DIR']),
+#)
 lines_data = env.GetLines(
     Dir(path + env['PROCESSED_DIR']),
-    [Dir(env['SOURCE_DIR']), updated_xmls],
+    [Dir(env['SOURCE_DIR']), Dir(env['SOURCE_DIR'])],
 )
 for max_data in [500, 1000, 1500, -1]:
     path = f"{env['WORK_DIR']}/max_data_{max_data}"
@@ -114,13 +115,13 @@ for max_data in [500, 1000, 1500, -1]:
     )
 
     errors_val = env.ExtractErrors(
-        "${PATH}/{MODEL_ERRORS_DIR}/val",
+        "${PATH}/${MODEL_ERRORS_DIR}/val",
         val_results,
         PATH=path
     )
 
     errors_train = env.ExtractErrors(
-        "${PATH}/{MODEL_ERRORS_DIR}/train",
+        "${PATH}/${MODEL_ERRORS_DIR}/train",
         train_results,
         PATH=path
     )

@@ -168,8 +168,8 @@ class LatinTranscriber(L.LightningModule):
                 return param_group['lr']
         
         def on_train_epoch_end(self):
-            char_accuracy = 1 - self.train_cer_calc.compute()
-            word_accuracy = 1 - self.train_wer_calc.compute()
+            char_accuracy = max(1 - self.train_cer_calc.compute(), 0)
+            word_accuracy = max(1 - self.train_wer_calc.compute(), 0)
             lr = self._get_current_lr()
         
             self.log("train_char_acc", char_accuracy)
@@ -212,8 +212,8 @@ class LatinTranscriber(L.LightningModule):
             self.wer_calc.reset()
         
         def on_validation_epoch_end(self):
-            char_accuracy = 1 - self.cer_calc.compute()
-            word_accuracy = 1 - self.wer_calc.compute()
+            char_accuracy = max(1 - self.cer_calc.compute(), 0) 
+            word_accuracy = max(1 - self.wer_calc.compute(), 0)
             print("Epoch, char acc, word acc:", self.current_epoch, round(char_accuracy.item(), 4), round(word_accuracy.item(), 4))
             self.log("val_char_acc", char_accuracy)
             self.log("val_word_acc", word_accuracy)

@@ -3,22 +3,60 @@ import os.path
 from steamroller import Environment
 
 
+
 vars = Variables("custom.py")
 vars.AddVariables(
+    # Directories
     ("SOURCE_DIR", "", "source"),
     ("WORK_DIR", "", "work"),
     ("UPDATED_LINE_POLYGONS_DIR", "", "/updated_polygons"),
     ("PROCESSED_DIR", "", "/processed_data"),
     ("CHECKPOINT_DIR", "", "/checkpoints"),
     ("MODEL_RESULTS_DIR", "", "/results"),
-    ("MAX_EPOCHS", "", 100),
-    ("RANDOM_SEED", "", 40),
-    ("TRAIN_PROPORTION", "", 0.9),
-    ("GPU_DEVICES", "", [1]), # GPU device number
     ("MODEL_ERRORS_DIR", "", "/errors"),
+
+    # Data 
     ("DATA_CUTOFF", "", -1),
+    ("RANDOM_SEED", "", 40),
+
+    # Model 
+    ("MAX_EPOCHS", "", 250),
+    ("TRAIN_PROPORTION", "", 0.9),
+    ("GPU_DEVICES", "", [0, 1]), # GPU device number
+    
+    # Logging 
     ("WANDB", "", True),
+
+    # Steamroller 
+    ("STEAMROLLER_ENGINE", "", "slurm"),
+    ("CPU_QUEUE", "", "parallel"),
+    ("CPU_ACCOUNT", "", "tlippin1"),    
+    ("GPU_QUEUE", "", "a100"),
+    ("GPU_ACCOUNT", "", "tlippin1_gpu"),
+    ("GPU_COUNT", "", 1),
+    ("MEMORY", "", "64GB"),
 )
+
+def cpu_task_config(name, time_required, memory_required=env["MEMORY"]):
+    return {
+        "STEAMROLLER_ACCOUNT": env["CPU_ACCOUNT"],
+        "STEAMROLLER_QUEUE": env["CPU_QUEUE"],
+        "STEAMROLLER_TIME": time_required,
+        "STEAMROLLER_MEMORY": memory_required,
+        "STEAMROLLER_NAME_PREFIX": f"{name}",
+        "STEAMROLLER_ENGINE": env["STEAMROLLER_ENGINE"],
+    }
+
+def gpu_task_config(name, time_required, memory_required=env["MEMORY"]):
+    return {
+        "STEAMROLLER_ACCOUNT": env["GPU_ACCOUNT"],
+        "STEAMROLLER_QUEUE": env["GPU_QUEUE"],
+        "STEAMROLLER_TIME": time_required,
+        "STEAMROLLER_MEMORY": memory_required,
+        "STEAMROLLER_NAME_PREFIX": f"{name}",
+        "STEAMROLLER_ENGINE": env["STEAMROLLER_ENGINE"],
+        "STEAMROLLER_GPU_COUNT": env["GPU_COUNT"],
+    }
 
 env = Environment(
     variables=vars,
@@ -26,11 +64,7 @@ env = Environment(
     tools=[],
     
     BUILDERS={
-        "UpdateLinePolygons" : Builder(
-            action="python scripts/update_line_polygons.py "
-            "--input_dir ${SOURCE} "
-            "--output ${TARGET} "
-        ),
+
         "GetLines" : Builder(
             action="python scripts/get_lines.py "
             "--image_dir ${SOURCES[0]} "
@@ -49,6 +83,7 @@ env = Environment(
             "--gpu_devices ${GPU_DEVICES} "
             "--data_cutoff ${DATA_CUTOFF} "
             "--use_wandb ${WANDB} "
+            "--wandb_name ${WANDB_NAME} "
         ),
         "ApplyModel" : Builder(
             action="python scripts/apply_model.py "
@@ -77,53 +112,58 @@ env = Environment(
 )
 path = env["WORK_DIR"]
 
-#updated_xmls = env.UpdateLinePolygons(
-#    Dir(path + env['UPDATED_LINE_POLYGONS_DIR']),
-#    Dir(env['SOURCE_DIR']),
-#)
 lines_data = env.GetLines(
     Dir(path + env['PROCESSED_DIR']),
     [Dir(env['SOURCE_DIR']), Dir(env['SOURCE_DIR'])],
+    **cpu_task_config("get_lines", "1:00:00"),
 )
 for max_data in [500, 1000, 1500, -1]:
     path = f"{env['WORK_DIR']}/max_data_{max_data}"
     model = env.TrainModel(
         [f"{path}/model.pkl", Dir(path + '/' + env['CHECKPOINT_DIR'])],
         [Dir(env['SOURCE_DIR']), lines_data],
-        DATA_CUTOFF=max_data
+        DATA_CUTOFF=max_data,
+        WANDB_NAME=f"max_data_{max_data}",
+        **gpu_task_config(f"train_model_{max_data}", "12:00:00"),
     )
 
     # Note - steamroller does not yet support creating dir nodes automatically
     evaluation = env.ApplyModel(
         [Dir(path + '/'+ env['MODEL_RESULTS_DIR']+ "/val"), Dir(path + '/'+env['MODEL_RESULTS_DIR']+ "/train")],
         [Dir(env['SOURCE_DIR']), lines_data, model],
-        MODEL_RESULTS_DIR=Dir(path + '/'+ env['MODEL_RESULTS_DIR']), 
+        MODEL_RESULTS_DIR=Dir(path + '/'+ env['MODEL_RESULTS_DIR']),
+        **gpu_task_config(f"apply_model_{max_data}", "2:00:00"),
     )
 
     val_results, train_results = evaluation
 
     val_report = env.GenerateReport(
         "${PATH}/val_report.json",
-        val_results,
-        PATH = path
+        Dir(val_results),
+        PATH = path,
+        **cpu_task_config("generate_report_val", "1:00:00"),
     )
 
     train_report = env.GenerateReport(
         "${PATH}/train_report.json",
-        train_results,
-        PATH = path
+        Dir(train_results),
+        PATH = path,
+        **cpu_task_config("generate_report_train", "1:00:00"),
     )
 
     errors_val = env.ExtractErrors(
-        "${PATH}/${MODEL_ERRORS_DIR}/val",
-        val_results,
-        PATH=path
+        Dir(path + '/'+ env['MODEL_ERRORS_DIR'] +"/val"),
+        Dir(val_results),
+        PATH=path,
+        **cpu_task_config("extract_errors_val", "1:00:00"),
+
     )
 
     errors_train = env.ExtractErrors(
-        "${PATH}/${MODEL_ERRORS_DIR}/train",
-        train_results,
-        PATH=path
+        Dir(path + '/'+ env['MODEL_ERRORS_DIR'] +"/train"),
+        Dir(train_results),
+        PATH=path,
+        **cpu_task_config("extract_errors_train", "1:00:00"),
     )
 
 

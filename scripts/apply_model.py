@@ -45,30 +45,41 @@ if __name__ == "__main__":
     char_to_num = {char: idx + 1 for idx, char in enumerate(all_chars)}
     num_to_char = {idx + 1: char for idx, char in enumerate(all_chars)}
 
+    train_transform = transforms.Compose(
+        [
+            transforms.ColorJitter(0.5, 0.5, 0.5, 0.5),
+            transforms.RandomAffine(0.7, translate=(0.01, 0.02), scale=(0.98, 1.02)),
+            transforms.RandomChoice([
+            transforms.RandomAdjustSharpness(2, p=0.5),
+            transforms.GaussianBlur(21, (1,6))
+            ]),      
+            transforms.Normalize(0.15, 0.38)
+        ])
+    
     val_transform = transforms.Compose([
         transforms.Normalize(0.15, 0.38)
     ])
 
-    dataset = LineImageDataset(
-        dirname=args.input_dir,
-        lines_dir=args.lines_dir,
-        char_to_num=char_to_num,
-        num_to_char=num_to_char,
-        data_type="all",
-        transform=val_transform,
-        return_filenames=True
-    )
+    dataset = LineImageDataset(args.input_dir, args.lines_dir, char_to_num, num_to_char, data_type="all", transform=val_transform, return_filenames=True)
+    
+    train_size = int(0.9 * len(dataset))
+    val_size = len(dataset) - train_size    
+    train_indices, val_indices = torch.utils.data.random_split(range(len(dataset)), [train_size, val_size])
 
-    train_size = int(args.train_proportion * len(dataset))
-    val_size = len(dataset) - train_size
+    train_dataset = LineImageDataset(args.input_dir, args.lines_dir, char_to_num, num_to_char, data_type="all", transform=train_transform, return_filenames=True)
+    val_dataset = LineImageDataset(args.input_dir, args.lines_dir, char_to_num, num_to_char, data_type="all", transform=val_transform, return_filenames=True)
 
-    train_dataset, val_dataset = torch.utils.data.random_split(dataset, [train_size, val_size])
+    train_dataset = torch.utils.data.Subset(train_dataset, train_indices)
+    val_dataset = torch.utils.data.Subset(val_dataset, val_indices)
 
-    val_loader = DataLoader(val_dataset, shuffle=False, num_workers=4)
-    train_loader = DataLoader(train_dataset, shuffle=False, num_workers=4)
+    dataset = LineImageDataset(args.input_dir, args.lines_dir, char_to_num, num_to_char, data_type="all", transform=val_transform)
+    
+    train_loader = torch.utils.data.DataLoader(train_dataset, num_workers=4)
+    valid_loader = torch.utils.data.DataLoader(val_dataset, num_workers=4)
+
     splits = {
         "train": train_loader,
-        "val": val_loader
+        "val": valid_loader
     }
 
     model = MyNN()

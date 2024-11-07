@@ -172,9 +172,10 @@ class LatinTranscriber(L.LightningModule):
             word_accuracy = max(1 - self.train_wer_calc.compute(), 0)
             lr = self._get_current_lr()
         
-            self.log("train_char_acc", char_accuracy)
-            self.log("train_word_acc", word_accuracy)
-            self.log('lr-Adam', lr)
+            self.log("train_char_acc", char_accuracy, sync_dist=True)
+            self.log("train_word_acc", word_accuracy, sync_dist=True)
+            self.log('lr-Adam', lr, sync_dist=True)
+
  
         def training_step(self, batch, batch_idx):
             assert self.net.training
@@ -182,7 +183,7 @@ class LatinTranscriber(L.LightningModule):
             prediction, truth = self.get_prediction_and_truth(output, batch["target"])
             self.train_cer_calc.update(prediction, truth)
             self.train_wer_calc.update(prediction, truth)
-            self.log("train_loss", loss)
+            self.log("train_loss", loss, sync_dist=True)
             return loss
     
         def get_prediction_and_truth(self, output, target):
@@ -215,8 +216,8 @@ class LatinTranscriber(L.LightningModule):
             char_accuracy = max(1 - self.cer_calc.compute(), 0) 
             word_accuracy = max(1 - self.wer_calc.compute(), 0)
             print("Epoch, char acc, word acc:", self.current_epoch, round(char_accuracy.item(), 4), round(word_accuracy.item(), 4))
-            self.log("val_char_acc", char_accuracy)
-            self.log("val_word_acc", word_accuracy)
+            self.log("val_char_acc", char_accuracy, sync_dist=True)
+            self.log("val_word_acc", word_accuracy, sync_dist=True)
 
 
         def configure_optimizers(self):          

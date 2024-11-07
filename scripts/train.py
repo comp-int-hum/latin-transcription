@@ -22,6 +22,8 @@ if __name__ == '__main__':
     parser.add_argument("--gpu_devices", type=int, nargs="+", default=[0])
     parser.add_argument("--data_cutoff", type=int, default=-1)
     parser.add_argument("--use_wandb", type=bool, default=False)
+    parser.add_argument("--wandb_project", type=str, default="latin_transcription")
+    parser.add_argument("--wandb_name", type=str, default="")
     args = parser.parse_args()
 
     logging_file = args.output.split(".")[0] + ".log"
@@ -30,7 +32,7 @@ if __name__ == '__main__':
     logging.info(args)
 
     if args.use_wandb:
-        wandb_logger = WandbLogger(project="latin_transcription", name=f"data_cutoff_{args.data_cutoff}"),
+        wandb_logger = WandbLogger(project="latin_transcription", name=f"{args.wandb_name}"),
         #wandb_logger.log_hyperparams(vars(args))
 
 
@@ -77,20 +79,16 @@ if __name__ == '__main__':
         ])
 
     dataset = utils.LineImageDataset(args.input_dir, args.lines_dir, char_to_num, num_to_char, data_type="all", transform=val_transform)
- 
-    dataset = utils.LineImageDataset(
-        dirname=args.input_dir,
-        lines_dir=args.lines_dir,
-        char_to_num=char_to_num,
-        num_to_char=num_to_char,
-        data_type="all",
-        transform=val_transform
-    )
+    
+    train_size = int(0.9 * len(dataset))
+    val_size = len(dataset) - train_size    
+    train_indices, val_indices = torch.utils.data.random_split(range(len(dataset)), [train_size, val_size])
 
-    train_size = int(args.train_proportion * len(dataset))
-    val_size = len(dataset) - train_size
+    train_dataset = utils.LineImageDataset(args.input_dir, args.lines_dir, char_to_num, num_to_char, data_type="all", transform=train_transform)
+    val_dataset = utils.LineImageDataset(args.input_dir, args.lines_dir, char_to_num, num_to_char, data_type="all", transform=val_transform)
 
-    train_dataset, val_dataset = torch.utils.data.random_split(dataset, [train_size, val_size])
+    train_dataset = torch.utils.data.Subset(train_dataset, train_indices)
+    val_dataset = torch.utils.data.Subset(val_dataset, val_indices)
 
     net = utils.MyNN()
 

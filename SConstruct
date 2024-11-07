@@ -22,7 +22,7 @@ vars.AddVariables(
     # Model 
     ("MAX_EPOCHS", "", 250),
     ("TRAIN_PROPORTION", "", 0.9),
-    ("GPU_DEVICES", "", [0, 1]), # GPU device number
+    ("GPU_DEVICES", "", [0]), # GPU device number
     
     # Logging 
     ("WANDB", "", True),
@@ -36,27 +36,6 @@ vars.AddVariables(
     ("GPU_COUNT", "", 1),
     ("MEMORY", "", "64GB"),
 )
-
-def cpu_task_config(name, time_required, memory_required=env["MEMORY"]):
-    return {
-        "STEAMROLLER_ACCOUNT": env["CPU_ACCOUNT"],
-        "STEAMROLLER_QUEUE": env["CPU_QUEUE"],
-        "STEAMROLLER_TIME": time_required,
-        "STEAMROLLER_MEMORY": memory_required,
-        "STEAMROLLER_NAME_PREFIX": f"{name}",
-        "STEAMROLLER_ENGINE": env["STEAMROLLER_ENGINE"],
-    }
-
-def gpu_task_config(name, time_required, memory_required=env["MEMORY"]):
-    return {
-        "STEAMROLLER_ACCOUNT": env["GPU_ACCOUNT"],
-        "STEAMROLLER_QUEUE": env["GPU_QUEUE"],
-        "STEAMROLLER_TIME": time_required,
-        "STEAMROLLER_MEMORY": memory_required,
-        "STEAMROLLER_NAME_PREFIX": f"{name}",
-        "STEAMROLLER_ENGINE": env["STEAMROLLER_ENGINE"],
-        "STEAMROLLER_GPU_COUNT": env["GPU_COUNT"],
-    }
 
 env = Environment(
     variables=vars,
@@ -110,6 +89,28 @@ env = Environment(
 
     }
 )
+
+def cpu_task_config(name, time_required, memory_required=env["MEMORY"]):
+    return {
+        "STEAMROLLER_ACCOUNT": env["CPU_ACCOUNT"],
+        "STEAMROLLER_QUEUE": env["CPU_QUEUE"],
+        "STEAMROLLER_TIME": time_required,
+        "STEAMROLLER_MEMORY": memory_required,
+        "STEAMROLLER_NAME_PREFIX": f"{name}",
+        "STEAMROLLER_ENGINE": env["STEAMROLLER_ENGINE"],
+    }
+
+def gpu_task_config(name, time_required, memory_required=env["MEMORY"]):
+    return {
+        "STEAMROLLER_ACCOUNT": env["GPU_ACCOUNT"],
+        "STEAMROLLER_QUEUE": env["GPU_QUEUE"],
+        "STEAMROLLER_TIME": time_required,
+        "STEAMROLLER_MEMORY": memory_required,
+        "STEAMROLLER_NAME_PREFIX": f"{name}",
+        "STEAMROLLER_ENGINE": env["STEAMROLLER_ENGINE"],
+        "STEAMROLLER_GPU_COUNT": env["GPU_COUNT"],
+    }
+
 path = env["WORK_DIR"]
 
 lines_data = env.GetLines(
@@ -117,7 +118,7 @@ lines_data = env.GetLines(
     [Dir(env['SOURCE_DIR']), Dir(env['SOURCE_DIR'])],
     **cpu_task_config("get_lines", "1:00:00"),
 )
-for max_data in [500, 1000, 1500, -1]:
+for max_data in [-1]: #[500, 1000, 1500, -1]:
     path = f"{env['WORK_DIR']}/max_data_{max_data}"
     model = env.TrainModel(
         [f"{path}/model.pkl", Dir(path + '/' + env['CHECKPOINT_DIR'])],

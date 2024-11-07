@@ -65,8 +65,7 @@ def extract_line_image(image_filename, output_filename, baseline, spacing, dir, 
     result = cv2.resize(rectified, (scaled_width, scaled_height), cv2.INTER_CUBIC)
     result = (np.median(result) - result) / (np.percentile(result, 90) - np.percentile(result, 10))
     
-    #cv2.imwrite(output_filename, 255 * (result - result.min()) / (result.max() - result.min()))
-    cv2.imwrite(output_filename, 255 * (1 - (result - result.min()) / (result.max() - result.min())))
+    #cv2.imwrite(output_filename, 255 * (1 - (result - result.min()) / (result.max() - result.min())))
 
     np.save(output_filename.replace(".png", ".npy"), result)
 

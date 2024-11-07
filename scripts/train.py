@@ -33,7 +33,6 @@ if __name__ == '__main__':
 
     if args.use_wandb:
         wandb_logger = WandbLogger(project="latin_transcription", name=f"{args.wandb_name}"),
-        #wandb_logger.log_hyperparams(vars(args))
 
 
     if not os.path.exists(args.checkpoint_dir):
@@ -80,7 +79,7 @@ if __name__ == '__main__':
 
     dataset = utils.LineImageDataset(args.input_dir, args.lines_dir, char_to_num, num_to_char, data_type="all", transform=val_transform)
     
-    train_size = int(0.9 * len(dataset))
+    train_size = int(args.train_proportion * len(dataset))
     val_size = len(dataset) - train_size    
     train_indices, val_indices = torch.utils.data.random_split(range(len(dataset)), [train_size, val_size])
 

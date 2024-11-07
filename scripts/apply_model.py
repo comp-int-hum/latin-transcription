@@ -62,7 +62,7 @@ if __name__ == "__main__":
 
     dataset = LineImageDataset(args.input_dir, args.lines_dir, char_to_num, num_to_char, data_type="all", transform=val_transform, return_filenames=True)
     
-    train_size = int(0.9 * len(dataset))
+    train_size = int(args.train_proportion * len(dataset))
     val_size = len(dataset) - train_size    
     train_indices, val_indices = torch.utils.data.random_split(range(len(dataset)), [train_size, val_size])
 

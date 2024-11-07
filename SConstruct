@@ -20,7 +20,7 @@ vars.AddVariables(
     ("RANDOM_SEED", "", 40),
 
     # Model 
-    ("MAX_EPOCHS", "", 250),
+    ("MAX_EPOCHS", "", 20),
     ("TRAIN_PROPORTION", "", 0.9),
     ("GPU_DEVICES", "", [0]), # GPU device number
     

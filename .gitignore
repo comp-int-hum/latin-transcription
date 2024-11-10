@@ -3,6 +3,7 @@
 local
 work
 work*
+old_work*
 *pyc
 #*
 *#
@@ -12,3 +13,4 @@ lightning_logs
 __pycache__/
 transkribus
 wandb
+latin_documents-master*

@@ -84,7 +84,38 @@ if __name__ == "__main__":
         "val_not_in_train_accuracy": 1 - total_errors_val_not_in_train/val_not_in_train_df["total"].sum(),
         "percentage_of_errors_val_not_in_train": total_errors_val_not_in_train/total_errors_val,
     }
-    
+    path = "/".join(args.output.split("/")[:-1])
+    plt.scatter(val_df["accuracy"], val_df["total"])
+    plt.xlabel("accuracy")
+    plt.ylabel("total")
+    plt.savefig(path + "/val_accuracy_vs_total.png")
+    plt.close()
+
+    plt.scatter(train_df["accuracy"], train_df["total"])
+    plt.xlabel("accuracy")
+    plt.ylabel("total")
+    plt.savefig(path + "/train_accuracy_vs_total.png")
+    plt.close()
+
+    distance_mapping = {}
+    for word in val_not_in_train:
+        distances = {train_word: Levenshtein.distance(word, train_word) for train_word in train_words}
+        closest_word = min(distances, key=distances.get)
+        closest_distance = distances[closest_word]
+        if closest_distance not in distance_mapping:
+            distance_mapping[closest_distance] = {"total": 0, "correct": 0}
+        distance_mapping[closest_distance]["total"] += val_not_in_train_df.loc[word]["total"].item()
+        equal = val_not_in_train_df.loc[word]["equal"].item()
+        if not math.isnan(equal):
+            distance_mapping[closest_distance]["correct"] += equal
+
+    word_distances = list(distance_mapping.keys())
+    word_accuracies = [distance_mapping[distance]["correct"] / distance_mapping[distance]["total"] for distance in word_distances]
+    plt.scatter(word_distances, word_accuracies)
+    plt.xlabel("Levenstein distance")
+    plt.ylabel("accuracy")
+    plt.savefig(path + "/val_not_in_train_accuracy_vs_distance.png")
+    plt.close()
     with open(args.output, 'w') as f:
         json.dump(result_json, f)
 

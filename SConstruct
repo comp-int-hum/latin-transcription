@@ -43,7 +43,6 @@ env = Environment(
     tools=[],
     
     BUILDERS={
-
         "GetLines" : Builder(
             action="python scripts/get_lines.py "
             "--image_dir ${SOURCES[0]} "
@@ -86,7 +85,12 @@ env = Environment(
             "--input_dir ${SOURCE} "
             "--output_dir ${TARGET} "
         ),
-
+        "Evaluation" : Builder(
+            action="python scripts/evaluation.py "
+            "--train_results_dir ${SOURCES[0]} "
+            "--val_results_dir ${SOURCES[1]} "
+            "--output ${TARGET} "
+        ),
     }
 )
 
@@ -165,6 +169,13 @@ for max_data in [-1]: #[500, 1000, 1500, -1]:
         Dir(train_results),
         PATH=path,
         **cpu_task_config("extract_errors_train", "1:00:00"),
+    )
+
+    evaluation = env.Evaluation(
+        f"{path}/evaluation.json",
+        [Dir(train_results),
+        Dir(val_results)],
+        **cpu_task_config("evaluation", "1:00:00"),
     )
 
 

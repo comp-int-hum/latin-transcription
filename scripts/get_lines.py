@@ -85,6 +85,14 @@ if __name__ == "__main__":
 
 
     for filename in tqdm(glob.glob(XML_DIRNAME + "*.xml")):
+        base_filename = os.path.basename(filename)
+        base_filename = os.path.splitext(base_filename)[0]
+        image_files = glob.glob(IMAGE_DIRNAME + base_filename + ".*")
+        image_files = [f for f in image_files if not f.endswith(".xml")]
+        if len(image_files) != 1:
+            print("skipping", filename)
+            continue
+
         baselines = []
         tree = ET.parse(filename)
         root = tree.getroot()
